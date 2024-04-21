@@ -230,7 +230,7 @@ That is, I'm as far as possible from being any kind of genius.
 # Flower shop, grocery store
 
 I still remember my (late) math professor, the nonstandard analyst, talking about a computer science professor who was a
-classmate of him. Back then, the math major and the computer science major shared courses like real analysis.
+classmate of him. Back then, the math major and the computer science major shared courses, like real analysis.
 
 The parents of that computer science professor ran a flower shop. My math professor considered that the computer science
 professor should have continued with the flower business, instead of choosing an academic career path.
@@ -247,5 +247,5 @@ while taking up math as a hobby. However, he thought of me as a potential future
 industry, but never in academia.
 
 Given my poor academic profile, as a student and a possible researcher wannabe, he might have considered I should have
-taken over ownership of my parents' grocery store business (they are now in their 80s), instead of me trying to become a
-computer science researcher.
+taken over ownership of my parents' grocery store business (they are now around their 80s),
+instead of me trying to become a computer science researcher.
