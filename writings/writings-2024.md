@@ -226,3 +226,26 @@ early in their studies.
 I'm at the rock-bottom level of proficiency and capacity in computer science academia.
 I was expected to graduate over a decade ago and have a PhD by now.
 That is, I'm as far as possible from being any kind of genius.
+
+# Flower shop, grocery store
+
+I still remember my (late) math professor, the nonstandard analyst, talking about a computer science professor who was a
+classmate of him. Back then, the math major and the computer science major shared courses like real analysis.
+
+The parents of that computer science professor ran a flower shop. My math professor considered that the computer science
+professor should have continued with the flower business, instead of choosing an academic career path.
+
+My math professor had quite a low opinion of many people around him, either in terms of academic profundity or ethical
+qualities. He often mentioned some people in uni administration were sociopaths.
+
+Ideologically, my math professor was an atheist and anarchist. That influenced me considerably, but I think of myself as
+not a complete atheist (there might be some superior entity, but we might not be able to communicate with it) nor a
+complete anarchist (at scale and in the long term, humans form social hierarchies, which require competent leaders).
+
+He thought of me as someone who might be professionally better suited for computer science instead of mathematics,
+while taking up math as a hobby. However, he thought of me as a potential future professional in computer science
+industry, but never in academia.
+
+Given my poor academic profile, as a student and a possible researcher wannabe, he might have considered I should have
+taken over ownership of my parents' grocery store business (they are now in their 80s), instead of me trying to become a
+computer science researcher.
