@@ -1,0 +1,5 @@
+# Econometrics
+
+Dream (about 5 years ago): It was 10 a.m. (synesthetically relevant, as it's time for anxiety) on a warm day. She and I were in my parents' room, in the house as it was before a lot of changes. We sat there, side to side on the bed, distant from each other. I had a small notepad with a set of questions for Her. I asked Her name and I wrote it down (I can't recall it). Then, the scene changed to the fence, where silkworms were moving across the thin metal grid. Back in the bedroom, I asked Her what she studied. She said "econometrics", which I wrote down. More silkworms were appearing in the grid, beside the mailbox. She seemed annoyed and asked me to call a taxi (no Uber back then). My heart grew heavy. Below the mailbox, there was an egg-shaped eagle figure, which was smashed. Finally, she went away. My mind drifted away and I woke up.
+
+I did talk to Her in real life (we take the same bus), but She rejected me, as it was meant to be. Every now and then, I find Her in the bus, but we ignore each other's presence.

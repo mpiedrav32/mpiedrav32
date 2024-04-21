@@ -1,0 +1,18 @@
+the cryptopals crypto challenges
+Challenges  Set 4
+Crypto Challenge Set 4
+This is the last set of block cipher cryptography challenges, and also our coverage of message authentication.
+
+This set is much easier than the last set. We introduce some new concepts, but the attacks themselves involve less code than, say, the CBC padding oracle.
+
+Things get significantly trickier in the next two sets. A lot of people drop off after set 4.
+
+Break "random access read/write" AES CTR
+CTR bitflipping
+Recover the key from CBC with IV=Key
+Implement a SHA-1 keyed MAC
+Break a SHA-1 keyed MAC using length extension
+Break an MD4 keyed MAC using length extension
+Implement and break HMAC-SHA1 with an artificial timing leak
+Break HMAC-SHA1 with a slightly less artificial timing leak
+Cryptography Services | NCC Group

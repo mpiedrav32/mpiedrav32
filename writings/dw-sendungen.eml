@@ -1,0 +1,233 @@
+Return-Path: <info@dw.com>
+X-Original-To: mpiedrav@proton.me
+Delivered-To: mpiedrav@proton.me
+Authentication-Results: mailin034.protonmail.ch; dkim=pass (Good 1024
+    bit rsa-sha256 signature) header.d=dw.com header.a=rsa-sha256
+Authentication-Results: mailin034.protonmail.ch; dmarc=pass (p=reject dis=none)
+ header.from=dw.com
+Authentication-Results: mailin034.protonmail.ch; spf=pass smtp.mailfrom=dw.com
+Authentication-Results: mailin034.protonmail.ch; arc=fail smtp.remote-ip=40.107.241.49
+Authentication-Results: mailin034.protonmail.ch; dkim=pass (1024-bit key) header.d=dw.com
+ header.i=@dw.com header.b="kxC01/NO"
+Received: from EUR02-VI1-obe.outbound.protection.outlook.com
+ (mail-vi1eur02on2049.outbound.protection.outlook.com [40.107.241.49]) (using TLSv1.2
+ with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits)) (No client certificate
+ requested) by mailin034.protonmail.ch (Postfix) with ESMTPS id 4RFX0b2GqRz9vNPq for
+ <mpiedrav@proton.me>; Tue,
+  1 Aug 2023 10:49:03 +0000 (UTC)
+Received: from AS9PR05CA0249.eurprd05.prod.outlook.com (2603:10a6:20b:493::33) by
+ VI1PR01MB6560.eurprd01.prod.exchangelabs.com (2603:10a6:800:18e::19) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6631.43;
+ Tue, 1 Aug 2023 10:48:56 +0000
+Received: from AMS1EPF00000044.eurprd04.prod.outlook.com (2603:10a6:20b:493:cafe::2a) by
+ AS9PR05CA0249.outlook.office365.com (2603:10a6:20b:493::33) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6631.44 via
+ Frontend Transport; Tue, 1 Aug 2023 10:48:56 +0000
+Received: from mail.dw.com (194.55.30.156) by AMS1EPF00000044.mail.protection.outlook.com
+ (10.167.16.41) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6631.22 via Frontend Transport;
+ Tue, 1 Aug 2023 10:48:56 +0000
+Received: from mail01.dwelle.de (194.55.19.90) by mail.dw.com (172.16.246.9) with
+ Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2507.27; Tue, 1 Aug 2023 12:48:54 +0200
+Received: from mail01.dwelle.de (194.55.19.90) by mail01.dwelle.de (194.55.19.90) with
+ Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2507.23; Tue, 1 Aug 2023 12:48:55 +0200
+Received: from apps01.dwelle.de (192.168.202.135) by smtp-exchange.dwelle.de
+ (194.55.19.90) with Microsoft SMTP Server id 15.1.2507.23 via Frontend Transport; Tue, 1
+ Aug 2023 12:48:55 +0200
+Received: from hprod3015.h.soi.dwelle.de ([192.168.206.40])
+          by apps01.dwelle.de
+          with ESMTP id 2023080112485550-695569 ;
+          Tue, 1 Aug 2023 12:48:55 +0200
+Arc-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=Gh13Ot/J3ewEbTFeqbbejVLx1iDl4V6mSUXyRjTSQFo5Tmswumf0zp2dJ/Q3iSy7phYJbXNuGLEz7xmspQATzHf5F8B6vCCjJoGjGoMANL/1ihwwOs3Wnczlwl9RQ604f2Md8V5WGRipKuPsoUARot12MeaPwsIbB0af7sChm7jQq1sWg+mBLeryWheIs6C7icpqdSpCFehQa5o7ohHrFVr43Xf4gt48yxlzJYEe312vwRR4ZyLc2Iy0pk08wL/O3RrkEhiinlmfUdWm5MRruWDGXF3QnbEZHVzIMbCCTYjNgX2eRrPG1LGkh7npTCp9i1UG3wimiYbVWQlMFbPzgg==
+Arc-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=Ynm9YllR6AtaDEhfqDfc6lVbfmvjs9hxhSdr91+xlPk=;
+ b=oSo2TIRNzmegq3gYQUGiXiIL1s07tofAURpGkxBcgO5eIlpYl3ntOOuqKQevJGW5bad4bOZKFVhk1QcYT15dnMP/NzNQmILHGzS9meEKQVJClcIY3dzVKAGkkYJ7S1zu3VpBIxWpwlEjR9xrZa+b2rzmzswDL9CmXSh238aaPTKmPeYHagB05Dng3zE/SfTxS7hf7xHVicW1thHdZBrMzMsdNxzgCgzoNMkC1MLFE8l64pVzlxioOgn4drcHpeEZZ7oVQOIspALV8hsg+Ed+iiWUv7HwDbMfZvSH0k8G2130nt/2uH46IulVZH0fzL8FCFLe6lxD1KX4yGOkDozO6w==
+Arc-Authentication-Results: i=1; mx.microsoft.com 1; spf=fail (sender ip is
+ 194.55.30.156) smtp.rcpttodomain=proton.me smtp.mailfrom=dw.com; dmarc=fail (p=reject
+ sp=reject pct=100) action=oreject header.from=dw.com; dkim=none (message not signed);
+ arc=none
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dw.com; s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=Ynm9YllR6AtaDEhfqDfc6lVbfmvjs9hxhSdr91+xlPk=;
+ b=kxC01/NOtGLGJ1ya50NDZg2W473MBkJJBoNKyB9vj8rCDRWcztBR+WmGjvgvCtz2wljcMblaL2GdTbfdc1AIAdXrBvVg+3WOkZ57ne4hjwPQmoekUtuD0zJMoFZnQNB0Je3JOPTcAcxjnTmGrZi/M7Kka9qgDHHuR33pDChm76A=
+X-Ms-Exchange-Authentication-Results: spf=fail (sender IP is 194.55.30.156)
+ smtp.mailfrom=dw.com; dkim=none (message not signed) header.d=none;dmarc=fail
+ action=oreject header.from=dw.com;
+Received-Spf: Fail (protection.outlook.com: domain of dw.com does not designate
+ 194.55.30.156 as permitted sender) receiver=protection.outlook.com;
+ client-ip=194.55.30.156; helo=mail.dw.com;
+Date: Tue, 1 Aug 2023 10:48:55 +0000
+From: <info@dw.com>
+To: <mpiedrav@proton.me>
+Message-Id: <292899266.36920.1690886935582@outlook.office365.com>
+Subject: RE: Darstellung von Hacking in DW-Sendungen
+Mime-Version: 1.0
+X-Tnefevaluated: 1
+Content-Type: multipart/mixed;boundary=---------------------44f0e0ffca6f4508b043441077f65e81
+X-Dw-Senderlocationfromdw: Outside
+X-Eopattributedmessage: 0
+X-Ms-Publictraffictype: Email
+X-Ms-Traffictypediagnostic: AMS1EPF00000044:EE_|VI1PR01MB6560:EE_
+X-Ms-Office365-Filtering-Correlation-Id: 39021ba3-36bf-48e8-3fb2-08db927ce799
+X-Dw-Receipt: ReadRemoved
+X-Dw-Senderlocation: Inside
+X-Ms-Exchange-Senderadcheck: 1
+X-Ms-Exchange-Antispam-Relay: 0
+X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam-Message-Info: XiE76t8QLm1v/L/yaIuE5MQvbHnqoL4nn0DmxP7HvCZ8q0uwKrqSGixuuSZ0I0rI2xJSJbHu4fakgOuTcEIxez+SO8V4qnYzNRi9kPO7QuH9ldukOoOlfKX6IGdXecKJY0ztrH8Fu7nl1NxQAsDo1UtdufcQNf+zdk1I2ulr81yJNowSWF/7U++XZEGpbtXyN0T3sZA5+czf2dVAApTuNsmdGvdRmGFELIkGmVaYOvglXJ4bcCQr/XfEwh7iYcYvHRoCAg8iCpc4MAbFp4odFrZ3ZR1LFMpEDY3RabpMbsNfKIX/MnGOHpybwO1rJn2HcHTKsKJY1cuwcvhjYUgylMONz+e8ON/GnZnnd42faAhn6bcc2/aS/igsSebpN1rr5zk3Lm3ZhRf1tbxpQz9VdP1DOfqtkPXhyBdWr0+tMPrNJU4NZWYCcgyIuOPnBHnDVYhQDN8WfVvqOaDyrr4T32B2UkV/S8d9zL46pf1ABlQJHbc5drxfJZH2DXKiDxI57Wyn71Q/g3marYS2hfq8O7yV1rYRmEfsZ23+PN0APdB+ZTgUWOusUZPiO9zGskkdxAocQkBLYpFjlJ8PBZXSfFVXkZ4Ic6PhjZltFyHfhnlYZroWaT0cBeWERk4sFJ3Iosxyu7H/EG4CPxL7Y5W7+OFwPhQqwI/O0tcYjWxX+k/u86LVavUP3ASR1NBOtznxSl5UzlwoGW3dnXXqYG8xOgYDfy0PSh97hEStvzPVnokbJ5b4gNTJYHzFbFI2NaXi8CZmo7hTmjlpg/tU8KS52HhuPK//+FhzkJ0AccuERRU=
+X-Forefront-Antispam-Report: CIP:194.55.30.156;CTRY:DE;LANG:de;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mail.dw.com;PTR:InfoDomainNonexistent;CAT:NONE;SFS:(13230028)(396003)(39850400004)(376002)(136003)(346002)(451199021)(82310400008)(36840700001)(46966006)(86362001)(8936002)(6916009)(8676002)(316002)(5660300002)(41300700001)(356005)(81166007)(70206006)(70586007)(84970400001)(82740400003)(478600001)(66899021)(2876002)(2906002)(966005)(36860700001)(9686003)(44144004)(33964004)(47076005)(336012)(26005)(83380400001)(66574015)(186003)(40480700001)(17046004)(36900700001);DIR:OUT;SFP:1101;
+X-Originatororg: dw.com
+X-Ms-Exchange-Crosstenant-Originalarrivaltime: 01 Aug 2023 10:48:56.1456 (UTC)
+X-Ms-Exchange-Crosstenant-Network-Message-Id: 39021ba3-36bf-48e8-3fb2-08db927ce799
+X-Ms-Exchange-Crosstenant-Id: 2401f820-b2b4-4e78-9c4b-ca13a0d9c13d
+X-Ms-Exchange-Crosstenant-Originalattributedtenantconnectingip: TenantId=2401f820-b2b4-4e78-9c4b-ca13a0d9c13d;Ip=[194.55.30.156];Helo=[mail.dw.com]
+X-Ms-Exchange-Crosstenant-Authsource: AMS1EPF00000044.eurprd04.prod.outlook.com
+X-Ms-Exchange-Crosstenant-Authas: Anonymous
+X-Ms-Exchange-Crosstenant-Fromentityheader: HybridOnPrem
+X-Ms-Exchange-Transport-Crosstenantheadersstamped: VI1PR01MB6560
+X-Rspamd-Server: cp5-mailin-034.plabs.ch
+X-Rspamd-Queue-Id: 4RFX0b2GqRz9vNPq
+X-Rspamd-Action: no action
+X-Spamd-Result: default: False [-3.00 / 25.00]; BAYES_HAM(-3.00)[99.99%];
+ FAKE_REPLY(1.00)[]; CTYPE_MIXED_BOGUS(1.00)[];
+ ARC_ALLOW(-1.00)[microsoft.com:s=arcselector9901:i=1];
+ DMARC_POLICY_ALLOW(-0.50)[dw.com,reject]; R_SPF_ALLOW(-0.20)[+ip4:40.107.0.0/16];
+ R_DKIM_ALLOW(-0.20)[dw.com:s=selector1]; MIME_GOOD(-0.10)[multipart/mixed,text/plain];
+ TO_MATCH_ENVRCPT_ALL(0.00)[]; MIME_TRACE(0.00)[0:+,1:+]; ASN(0.00)[asn:8075,
+ ipnet:40.104.0.0/14, country:US]; RCVD_COUNT_SEVEN(0.00)[7]; DKIM_TRACE(0.00)[dw.com:+];
+ RCVD_TLS_LAST(0.00)[]; TO_DN_NONE(0.00)[]; FROM_EQ_ENVFROM(0.00)[];
+ RCPT_COUNT_ONE(0.00)[1]; NEURAL_HAM(-0.00)[-0.978]; FROM_NO_DN(0.00)[]
+X-Pm-Spam: 0yezJI6cihyJeYR3pi42biOpJJvbmsCIeI1msjN3X3blJp7IjBlNIIojty4CMCLSJ
+ I6UyuTMLMwCiPJFUCR6II4LTQCJLU9kESB1XURJRRJQ1i04TOAjsk9lIWZ1J9pZ1vmZbIpj7SBlI
+ 0TiQsiOnzF9ccFGtwojIjLwAAzMTxzgMNkj11IjMDO0MUsODtmlIYdWlh52XWbiUJoOih3RcYt2f
+ tV2cVav9NlYnlnZcZ8FyzIDMDMwcIsNC1nJIb9lul1WYjIioxsYWlWZLYRX1zVmciIiwFpbWjF9b
+ YRXly92ZVeu91lYWijoIVBVEFRVQyUsI1hImfWxaYF20vdWZncflJvcH6iIYM4C15kDNDM9d0sfX
+ ynNIaQWi2IiOGN4MMyZT1GYMMM2zwYWOWN5UBmMziTMMfwSiiE2cnOisNfaXh3BcbIS6iwCM2cvN
+ UicmsjAOINnjlJ3bCZ6IAuLTiiwMcVmw0J3bjI7pJDIlfkRVS5UfQNVTUSFtgyX0bjpILATuiwCM
+ DNuAA3MT0jILM4S0sBSOXa0NQgZWgW4adw2upFWbHbwNtlaWlm5LdJCdTJCLEUfZFTUE6yIUW0yw
+ dBjLCLTJZfUEMEVST91QTNVQjIbpAuLTsF0MIRkLf1USkVMFQiSUtlsOM4CxiwSXERJt9TTVOUdS
+ RQUiwslOjLdFJELCN0lSXZ1BElET0XGVpbIjuTALM0VsLRkIUSf1FMVkfURSQUVitslOCMx4wiXS
+ TF9VQN0fE9kQVWU9hURVJ0xXTUkitslOCMw419XXfQ==
+X-Pm-Origin: external
+X-Pm-Transfer-Encryption: TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits)
+X-Pm-Content-Encryption: on-delivery
+X-Pm-Spamscore: 0
+X-Pm-Spam-Action: inbox
+
+-----------------------44f0e0ffca6f4508b043441077f65e81
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;charset=utf-8
+
+Sehr geehrter Herr Piedra Venegas,
+
+vielen Dank f=C3=BCr Ihre Zuschrift und Ihr Interesse an der Deutschen Wel=
+le.
+
+Wir freuen uns, dass Ihnen die Inhalte der DW so gut gefallen und bedanken=
+ uns auch f=C3=BCr Ihre kritische Anmerkung.
+
+Neben den von Ihnen genannten symbolhaften Darstellungen von Hacking in en=
+tsprechenden Beitr=C3=A4gen, beleuchtet die DW daher im weiteren Inhalt au=
+ch weitere M=C3=B6glichkeiten und Arten von Angriffen in der Hackingwelt. =
+Je nach Beitrag wird hierf=C3=BCr eine Auswahl getroffen oder eine allgeme=
+inere =C3=9Cbersicht (zum Beispiel diese =C3=A4lteren Beispiele https://ww=
+w.dw.com/de/gefahren-durch-malware-und-hacking/a-45209269 und https://www.=
+dw.com/de/die-zehn-h%C3%A4ufigsten-fehler-die-es-hackern-leicht-machen/a-4=
+2786401).
+
+In eigenen Beitr=C3=A4gen werden auch die von Ihnen genannten Themen beleu=
+chtet wie etwa "gutes" Hacking im Auftrag f=C3=BCr Sicherheitspr=C3=BCfung=
+en oder auch zu Phishing, Social Engineering etc.
+
+Gerne leiten wir Ihre Nachricht zur Anregung eines erneuten Beitrags =C3=BC=
+ber neue Wege, Formen und Hintergr=C3=BCnde f=C3=BCr Hacking an die zust=C3=
+=A4ndige Redaktion weiter.
+
+Wir freuen uns, wenn Sie auch weiterhin die Angebote der DW nutzen.
+
+M=C3=B6chten Sie auch weiter aktuelle Programminhalte und Informationen de=
+r DW per E-Mail erhalten?
+Dann antworten Sie bitte auf diese Mail mit "Ja".
+Sie k=C3=B6nnen sich jederzeit wieder abmelden, indem Sie auf den entsprec=
+henden Link im Newsletter klicken.
+
+Mit freundlichen Gr=C3=BC=C3=9Fen
+
+Damian Gracht
+Deutsche Welle
+Customer Service/Kundenservice
+Kurt-Schumacher-Str. 3
+53113 Bonn
+Germany
+info@dw.com
+dw.com/service/english  =
+
+
+dw.com/service/german
+dw.com/servicio
+
+Keep in touch with us and stay up to date on everything DW can offer you! =
+If you haven=E2=80=99t updated your contact information in a while, please=
+ use this link: dw.com/your-info.
+
+=C3=9Cbrigens: Gerne informieren wir Sie weiterhin =C3=BCber aktuelle Ange=
+bote aus unserem Hause. Damit Sie diese zuverl=C3=A4ssig erhalten, aktuali=
+sieren Sie Ihre Kontaktdaten bitte hier: dw.com/ihre-daten.
+
+Importante: Para nosotros es un placer seguir inform=C3=A1ndole con nuestr=
+a oferta de actualidad. Para recibir nuestros contenidos de forma segura, =
+por favor, actualice sus datos de contacto aqu=C3=AD: dw.com/sus-datos.
+
+ ---------------------------------------------
+
+Von: mpiedrav@proton.me
+An: info@dw.com
+Datum: 30.07.2023 16:31
+Betreff: Darstellung von Hacking in DW-Sendungen
+
+0 Att(s)
+Postfach: info@dw.com
+Darstellung von Hacking in DW-Sendungen
+
+Sehr geehrte Producers,
+
+Sendungen auf DW finde ich ziemlich unterhaltsam und, gleichzeitig, in ges=
+ellschaftlichen Problemen tiefgreifend.
+
+Mir ist aber eingefallen, dass h=C3=A4ufig ihre graphische Darstellung von=
+ Hacking und Informationssicherheit leider eher weg von der Wirklichkeit i=
+st.
+
+Selbst wenn Jugendliche in Hoodies, die in der Dunkelheit am Laptop schnel=
+l reintippen, The-Matrix-=C3=A4hnliche Bildaufnahmen, und andere Clich=C3=A9=
+s weitverst=C3=A4ndlich mediatische Symbole der Informationssicherheit s=
+ind, braucht man aber realistische Darstellungen und Inszenierungen.
+
+Hacking wird heutzutage auch durch Smartphones (z.B., Kali NetHunter: http=
+s://www.kali.org/docs/nethunter/), eingebettete Ger=C3=A4te (z.B., Flipper=
+ Zero: https://flipperzero.one/), und Social Engineering (z.B., sich f=C3=BC=
+r einen Beauftragter einer Firma oder Beh=C3=B6rde ausgeben) drau=C3=9Fe=
+n in der Welt gef=C3=BChrt. Nicht nur aus einem Rechner im Zimmer.
+
+Au=C3=9Ferdem sollte man darauf achten, dass Fragen der Ethik auch in Hack=
+ing relevant sind. Einige machen Hacking nur zum Spa=C3=9F. Andere, b=C3=B6=
+sartig, um bestimmte Personen oder Gruppen zu verletzen. Andere blo=C3=9F=
+ f=C3=BCr Geld, ohne Achtung auf gesellschaftlichen Konsequenzen. Und auch=
+ andere, um Sicherheitsl=C3=BCcken in Systeme zu finden und die allgemeine=
+ Bev=C3=B6lkerung davor zur warnen (z.B., wenn Beh=C3=B6rden dadurch Perso=
+nen verfassungswidrig =C3=BCberwachen).
+
+Diese Variationen sollte man kreativ mediatisch darstellen, um zu helfen, =
+das allgemeine Verst=C3=A4ndnis =C3=BCber Hacking und Informationssicherhe=
+it in der modernen Welt zu verbessern.
+
+
+Marco Piedra
+Informatikstudent
+Universit=C3=A4t von Costa Rica, Zentralamerika
+-----------------------44f0e0ffca6f4508b043441077f65e81--

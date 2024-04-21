@@ -1,0 +1,1676 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0035)http://www.tecapro.com/godsave.html -->
+<!-- 29/03/00 --><HTML><HEAD><TITLE>THE "GODSAVE" ENCRYPTION ALGORITHM</TITLE>
+<META content="TEXT/HTML; CHARSET=WINDOWS-1252" http-equiv=CONTENT-TYPE>
+<META content="MSHTML 5.00.2614.3500" name=GENERATOR><!--10011440014-->
+<META content="Productos gratuitos, artículos, artes TecApro, fuentes" 
+name=description>
+<META 
+content="articulos, tecapro, documentos, informes, frog, godsave, encripcion, encripción, algoritmo, algorithm" 
+name=keywords></HEAD>
+<BODY bgColor=white vLink=blue>
+<TABLE border=0 cellPadding=0 cellSpacing=5 width=600>
+  <TBODY>
+  <TR>
+    <TD><!--IWPBEGIN BODY--><B><FONT face=Arial size=5>
+      <P align=center>THE "GodSave" ENCRYPTION ALGORITHM</P></B>
+      <P align=center>version 3</P></FONT><FONT face=Arial size=2>
+      <P align=center>December 28, 1998</P>
+      <P align=center>Author: Dianelos Georgoudis, TecApro International</P>
+      <DIR>
+      <DIR>
+      <DIR>
+      <DIR>
+      <DIR><B>
+      <P>Click here to download (international web site located in Costa Rica): 
+      </P></B></FONT>
+      <P><A href="http://196.40.15.121/Encryption/godsave3.pas"><FONT face=Arial 
+      size=2>Pascal source code</FONT></A><FONT face=Arial size=2> (ASCII file, 
+      75 kBytes) <BR></FONT><A 
+      href="http://196.40.15.121/Encryption/godsav3p.exe"><FONT face=Arial 
+      size=2>Pascal source code</FONT></A><FONT face=Arial size=2> 
+      (self-extracting .EXE file, 40 kBytes) <BR></FONT><A 
+      href="http://196.40.15.121/Encryption/godsav3p.zip"><FONT face=Arial 
+      size=2>Pascal source code</FONT></A><FONT face=Arial size=2> (.ZIP file, 
+      17 kBytes) <BR></FONT><A 
+      href="http://196.40.15.121/Encryption/GSDLL_PASCAL.zip"><FONT face=Arial 
+      size=2>32 bits DLL for Delphi 3</FONT></A><FONT face=Arial size=2>&nbsp; 
+      (.ZIP file, includes source code, 31 kBytes)<BR></FONT><A 
+      href="http://196.40.15.121/Encryption/GSDLL_C.zip"><FONT face=Arial 
+      size=2>32 bits DLL for Visual C++</FONT></A><FONT face=Arial size=2> 
+      &nbsp; (.ZIP File, includes source code, 37 kBytes)</P></FONT>
+      <P><A href="http://196.40.15.121/Encryption/godsavef.exe"><FONT face=Arial 
+      size=2>GodSaveF</FONT></A><FONT face=Arial size=2> (a free DOS disk file 
+      encryption utility, self-extracting EXE file, 105 kByte)</P></FONT>
+      <P>&nbsp;</P><B><FONT face=Arial size=2>
+      <P>Contents</B>:</P></DIR></DIR></DIR></DIR></DIR><B>
+      <P>PART 1: The Algorithm and the Source Code</P></B></FONT>
+      <P><A href="#1"><FONT face=Arial 
+      size=2>1</FONT></A><FONT face=Arial size=2>. Introduction</P></FONT>
+      <P><A href="#2"><FONT face=Arial 
+      size=2>2</FONT></A><FONT face=Arial size=2>. Description of the algorithm 
+      </P>
+      <DIR></FONT>
+      <P><A href="#2.1"><FONT face=Arial 
+      size=2>2.1</FONT></A><FONT face=Arial size=2>. The basic GodSave 
+      algorithm</P></FONT>
+      <P><A href="#2.2"><FONT face=Arial 
+      size=2>2.2</FONT></A><FONT face=Arial size=2>. Optional features of the 
+      GodSave algorithm </P></FONT>
+      <P><A href="#2.2.1"><FONT face=Arial 
+      size=2>2.2.1</FONT></A><FONT face=Arial size=2>. Multiple rounds 
+      <BR></FONT><A href="#2.2.2"><FONT 
+      face=Arial size=2>2.2.2</FONT></A><FONT face=Arial size=2>. Key and text 
+      randomization <BR></FONT><A 
+      href="#2.2.3"><FONT face=Arial 
+      size=2>2.2.3</FONT></A><FONT face=Arial size=2>. Lazy encryption 
+      </P></FONT>
+      <P><A href="#2.3"><FONT face=Arial 
+      size=2>2.3</FONT></A><FONT face=Arial size=2>. The Scrambler </P>
+      <DIR>
+      <DIR></FONT>
+      <P><A href="#2.3.1"><FONT face=Arial 
+      size=2>2.3.1</FONT></A><FONT face=Arial size=2>. Variability of code 
+      executed <BR></FONT><A 
+      href="#2.3.2"><FONT face=Arial 
+      size=2>2.3.2</FONT></A><FONT face=Arial size=2>. The hash functions 
+      <BR></FONT><A href="#2.3.3"><FONT 
+      face=Arial size=2>2.3.3</FONT></A><FONT face=Arial size=2>. The primitive 
+      scramblers </P></DIR></FONT>
+      <P><A href="#2.4"><FONT face=Arial 
+      size=2>2.4</FONT></A><FONT face=Arial size=2>. Encryption </P>
+      <DIR></FONT>
+      <P><A href="#2.4.1"><FONT face=Arial 
+      size=2>2.4.1</FONT></A><FONT face=Arial size=2>. The "style" parameter 
+      </P></DIR></FONT>
+      <P><A href="#2.5"><FONT face=Arial 
+      size=2>2.5</FONT></A><FONT face=Arial size=2>. Key processing </P></FONT>
+      <P><A href="#2.6"><FONT face=Arial 
+      size=2>2.6</FONT></A><FONT face=Arial size=2>. Security of GodSave 
+      </P></FONT>
+      <P><A href="#2.7"><FONT face=Arial 
+      size=2>2.7</FONT></A><FONT face=Arial size=2>. Performance of the 
+      algorithm </P></FONT>
+      <P><A href="#2.8"><FONT face=Arial 
+      size=2>2.8</FONT></A><FONT face=Arial size=2>. The pseudo-random number 
+      generator</P></DIR></DIR></FONT>
+      <P><A href="#3"><FONT face=Arial 
+      size=2>3</FONT></A><FONT face=Arial size=2>. The source code </P>
+      <DIR></FONT>
+      <P><A href="#3.1"><FONT face=Arial 
+      size=2>3.1</FONT></A><FONT face=Arial size=2>. Rights of use </P></FONT>
+      <P><A href="#3.2"><FONT face=Arial 
+      size=2>3.2</FONT></A><FONT face=Arial size=2>. Availability of the source 
+      code </P></FONT>
+      <P><A href="#3.3"><FONT face=Arial 
+      size=2>3.3</FONT></A><FONT face=Arial size=2>. Modifying the GodSave 
+      algorithm </P></FONT>
+      <P><A href="#3.4"><FONT face=Arial 
+      size=2>3.4</FONT></A><FONT face=Arial size=2>. Products that incorporate 
+      GodSave encryption </P></FONT>
+      <P><A href="#3.5"><FONT face=Arial 
+      size=2>3.5</FONT></A><FONT face=Arial size=2>. Future versions and 
+      communication</P></DIR><B>
+      <P>PART 2: Ideas, observations and open questions</P></B></FONT>
+      <P><A href="#4"><FONT face=Arial 
+      size=2>4</FONT></A><FONT face=Arial size=2>. The key distribution 
+      problem</P></FONT>
+      <P><A href="#5"><FONT face=Arial 
+      size=2>5</FONT></A><FONT face=Arial size=2>. Other ideas concerning 
+      GodSave </P>
+      <DIR></FONT>
+      <P><A href="#5.1"><FONT face=Arial 
+      size=2>5.1</FONT></A><FONT face=Arial size=2>. Recursive Karn </P></FONT>
+      <P><A href="#5.2"><FONT face=Arial 
+      size=2>5.2</FONT></A><FONT face=Arial size=2>. Variable random number 
+      generator </P></FONT>
+      <P><A href="#5.3"><FONT face=Arial 
+      size=2>5.3</FONT></A><FONT face=Arial size=2>. The affinity between 
+      ciphers, scramblers and RNGs</P></DIR></FONT>
+      <P><A href="#6"><FONT face=Arial 
+      size=2>6</FONT></A><FONT face=Arial size=2>. The ethics of data 
+      encryption</P>
+      <P><BR><BR><BR>GodSave is a new data encryption algorithm, designed by 
+      Dianelos Georgoudis of TecApro International Corp., and placed in the 
+      public domain.</P>
+      <P><BR><BR><B>PART 1: THE ALGORITHM AND THE SOURCE CODE</P>
+      <P><A name=BM1></A>1. INTRODUCTION</P></B>
+      <P>Normal encryption algorithms, such as the IDEA encryption algorithm 
+      that is used by PGP, apply a single complex function to the plaintext and 
+      the key in order to produce the ciphertext. Since the algorithm is public 
+      this means that even though the data flow in the algorithm is unknown, the 
+      operations applied to this data flow are known. Any such encryption 
+      algorithm can by cryptanalysed and maybe broken. For example, we can be 
+      sure that there are a lot of smart people with a lot of expensive 
+      equipment trying to break IDEA right now, in fact it may have been broken 
+      already. If a commonly used encryption algorithm has already been broken 
+      by some agency we can be sure that the same agency will do all that they 
+      can in order to get it trusted and used by many organizations.</P>
+      <P>The GodSave encryption algorithm which is described in this paper 
+      represents a departure from the normal approach. It does not employ a 
+      single encryption function, but rather it employs a very large family of 
+      different encryption functions and it chooses one of them every time it 
+      encrypts a new block of plaintext. The choice of which encryption function 
+      is applied depends both on the key and on the plaintext. With traditional 
+      encryption algorithms an attacker knows exactly what operations are 
+      applied to the plaintext and key. With GodSave what the algorithm does is 
+      variable so the attacker does not know what operations are applied to the 
+      plaintext and the key, even though the algorithm itself is public. By 
+      keeping secret not only the key but also what is done to the key and the 
+      plaintext the GodSave approach tries to maximize the security of the 
+      encryption algorithm, regardless of the current or future state of the art 
+      of cryptanalysis. Even more important, the GodSave algorithm can very 
+      easily be modified to produce non standard versions.</P>
+      <P>The principal design criteria of GodSave encryption algorithm are: </P>
+      <DIR></FONT><B><FONT color=#0000ff face=Arial size=2>
+      <P>A</B>.</FONT><FONT face=Arial size=2> What the algorithm does to the 
+      plaintext must be variable, depending on both the key and the plaintext. 
+      Version 3 has at least 2^1636 variations and when used at the level of 
+      security recommended it has at least 2^1836 variations, assuming a 
+      sufficiently large key is used. (By a "variation" I mean a different 
+      sequence of computer operations that is applied on the plaintext in order 
+      to encrypt it.)</P></FONT><B><FONT color=#0000ff face=Arial size=2>
+      <P>B</B>.</FONT><FONT face=Arial size=2> The security of the algorithm is 
+      much more important than its speed. Since the state of art of 
+      cryptanalysis is unknown, it is best to assume the worst and use overkill 
+      at all levels of the algorithm.</P>
+      <P>Many of the encryption algorithms used today are based on developments 
+      from a time when computers were expensive and slow. Many of these 
+      algorithms were relatively simple and designed to be implemented in 
+      hardware. The design of the GodSave algorithm takes full advantage of the 
+      power of modern technology and the flexibility that a pure software 
+      implementation offers. For example, the GodSave algorithm uses an 
+      encryption key of 256 bytes (2048 bits) which greatly enhances the 
+      security of the algorithm.</P></FONT><B><FONT color=#0000ff face=Arial 
+      size=2>
+      <P>C.</B></FONT><FONT face=Arial size=2> Render a broad range of attacks 
+      virtually impossible even if at the cost of increasing the size of the 
+      ciphertext. The GodSave algorithm can combine the user key with a good 
+      organization-wide master-key in order to defend against dictionary 
+      attacks, or careless safeguarding of personal passwords. GodSave can also 
+      randomize the key and/or the plaintext before encrypting. When used at 
+      this level of security, GodSave will virtually never apply the same 
+      encryption function twice or use the same plaintext or key twice. The 
+      penalty you pay is an increase of 32 bytes in the size of the ciphertext 
+      per block encrypted and an encryption/decryption rate of one kByte per 
+      second per MHz when using a Pentium processor. These are limitations which 
+      should be acceptable in most situations. Consult section </FONT><A 
+      href="#2.7"><FONT face=Arial size=2>2.7 
+      </FONT></A><FONT face=Arial size=2>for more information about the speed of 
+      GodSave.</P></DIR>
+      <P>The GodSave algorithm is implemented in Pascal and should be available 
+      in C by the time you read this. The source code contains some 8086 
+      assembly language routines for the definition of the 32 hash functions. 
+      These routines can easily be translated into other assembly languages. The 
+      GodSave interface is simple and flexible allowing the encryption of blocks 
+      of size between 16 bytes and 1024 bytes.</P>
+      <P>Currently, GodSave does not include key distribution and user 
+      authentication utilities that are important for the creation of a 
+      distributed secure system. The RSA public key cryptography is well known, 
+      but patented, and possibly insecure because it depends on an unproved 
+      mathematical premise. Also, in many cases, e.g. closed organizations, 
+      there are other possibilities for solving the key distribution problem. 
+      For more ideas on this matter see </FONT><A 
+      href="#4"><FONT face=Arial 
+      size=2>section 4</FONT></A><FONT face=Arial size=2>.</P>
+      <P>The remainder of this document is in two parts. The first part provides 
+      a complete description of the GodSave algorithm. The second part contains 
+      some general ideas about security.</P><B>
+      <P><A name=BM2></A>2. DESCRIPTION OF THE ALGORITHM</P></B>
+      <P>The GodSave algorithm is based on a very elegant idea of Phil Karn. 
+      Take a plaintext of 2N bytes and split it into two halves T1 and T2, each 
+      of N bytes. Also split the encryption key into two halves K1 and K2. Now 
+      find a very good one way hash function S and use it to scramble the 
+      "concatenation" of K1 and T1 in order to produce a block of N bytes which 
+      you then XOR (exclusive OR) with T2 to produce C2 a block of N bytes which 
+      is the second half of the ciphertext: </P>
+      <DIR></FONT><TT>
+      <P>S( K1, T1 ) xor T2 -&gt; C2</P></DIR></TT><FONT face=Arial size=2>
+      <P>In a similar manner, scramble the other half of the key K2 with C2 (the 
+      ciphertext already computed) and XOR it with the first half of the 
+      plaintext T1 to produce C1 the first half of the ciphertext: </P>
+      <DIR></FONT><TT>
+      <P>S( K2, C2 ) xor T1 -&gt; C1</P></DIR></TT><FONT face=Arial size=2>
+      <P>The complete ciphertext is the concatenation of blocks C1 and C2.</P>
+      <P>In order to decrypt the ciphertext, repeat the operation in reverse 
+      order. Split the ciphertext (C1,C2) in two halves C1 and C2. Now scramble 
+      C2 with K2 and XOR the result with C1 in order to produce the first half 
+      of the plaintext T1, a block of N bytes: </P>
+      <DIR></FONT><TT>
+      <P>S( K2, C2 ) xor C1 -&gt; T1</P></DIR></TT><FONT face=Arial size=2>
+      <P>Now that you know T1 you can compute T2 as follows: </P>
+      <DIR></FONT><TT>
+      <P>S( K1, T1 ) xor C2 -&gt; T2</P></DIR></TT><FONT face=Arial size=2>
+      <P>The beauty of Karn's idea is that its security is based on the quality 
+      of the scrambler S. If you can create a good scrambler then you can create 
+      a good encryption algorithm. By the way, Karn put his idea in the public 
+      domain, which is the main reason I did the same with GodSave.</P>
+      <P>Before I describe the GodSave algorithm I want to introduce my 
+      terminology. I use the term "scrambler" for a one-way hash function that 
+      produces a block of data of the same size as the original block, and "hash 
+      function" for a one-way hash function that reduces the size of the block 
+      that it processes. A byte is a 8 bit value.</P><B>
+      <P><A name=BM2_1></A>2.1. THE BASIC GODSAVE ALGORITHM</P></B>
+      <P>The GodSave algorithm is based upon Karn's method but it differs from 
+      it in three ways. The first change I made was to introduce a parametric 
+      scrambler. I start by dividing the key in four equal parts: K1s, K1t, K2s, 
+      K2t. The component K1t is used as the first half of the encryption key and 
+      the component K1s is used to select from the very large number of 
+      scramblers available the one to be used to encrypt the first half of the 
+      plaintext T1: </P>
+      <DIR></FONT><TT>
+      <P>S &nbsp;( K1t, T1 ) xor T2 -&gt; C2 <BR>&nbsp;K1s</P></DIR></TT><FONT 
+      face=Arial size=2>
+      <P>In a similar manner K2t and K2s are used to encrypt the second part of 
+      the ciphertext to produce the first half of the ciphertext: </P>
+      <DIR></FONT><TT>
+      <P>S &nbsp;( K2t, C2 ) xor T1 -&gt; C1 <BR>&nbsp;K2s</P></DIR></TT><FONT 
+      face=Arial size=2>
+      <P>To decrypt the ciphertext (C1,C2) the operations are applied in reverse 
+      order: </P>
+      <DIR></FONT><TT>
+      <P>S &nbsp;( K2t, C2 ) xor C1 -&gt; T1 <BR>&nbsp;K2s</P>
+      <P>S &nbsp;( K1t, T1 ) xor C2 -&gt; T2 <BR>&nbsp;K1s</P></DIR></TT><FONT 
+      face=Arial size=2>
+      <P>As you can see, the sub-keys K1t and K2t are used to modify the data to 
+      be scrambled, and the subkeys K1s and K2s are used to select a scrambler, 
+      that is they define how the data will be scrambled. Since GodSave uses a 
+      key of 256 bytes each sub-key is still a very large 64 bytes (512 bits) 
+      long.</P>
+      <P>The second change I made was designed to remove a weakness in Karn's 
+      algorithm which was detected by Luby-Rackoff. This can be illustrated as 
+      follows: suppose that we know the plaintext (A,B) and we know that it 
+      produces a ciphertext (X,Y), and that we also know that the plaintext 
+      (A,C) - in which we know that the first half of the message but we do not 
+      know the second half - produces a ciphertext (W,Z). Then we can compute 
+      the unknown plaintext C as follows:</P>
+      <P>The first stage in the encryption of first message gives us: </P>
+      <DIR></FONT><TT>
+      <P>S( K1, A ) xor B -&gt; Y; &nbsp;&nbsp;&nbsp;therefore S( K1, A ) = B 
+      xor Y</P></DIR></TT><FONT face=Arial size=2>
+      <P>The first stage in the encryption of second message gives us: </P>
+      <DIR></FONT><TT>
+      <P>S( K1, A ) xor C -&gt; W; &nbsp;&nbsp;&nbsp;therefore C = S( K1, A) xor 
+      W</P></DIR></TT><FONT face=Arial size=2>
+      <P>Combining these two results gives us the value of C in the form: </P>
+      <DIR></FONT><TT>
+      <P>C = ( B xor Y ) xor W</P></DIR></TT><FONT face=Arial size=2>
+      <P>GodSave avoids the weakness in Karn's algorithm by always modifying the 
+      first half of the plaintext before encrypting it. This can be achieved by 
+      replacing the first half of the plaintext T1 by the (T1 xor T2) before 
+      applying the original algorithm. Thus GodSave's version of the Karn 
+      algorithm (without parametrization) is :</P>
+      <P>To encrypt </P>
+      <DIR></FONT><TT>
+      <P>S( K1, T1 xor T2 ) xor T2 &nbsp;&nbsp;&nbsp;&nbsp;-&gt; C2 <BR>S( K2, 
+      C2 ) xor ( T1 xor T2 ) -&gt; C1</P></DIR></TT><FONT face=Arial size=2>
+      <P>To decrypt: </P>
+      <DIR></FONT><TT>
+      <P>S( K2, C2 ) xor C1 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      (T1 xor T2 ) <BR>S( K1, T1 xor T2 ) xor C2 &nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      T2 <BR>( T1 xor T2 ) xor T2 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt;&nbsp;T1</P></DIR></TT><FONT 
+      face=Arial size=2>
+      <P>There still remains a weakness in the much rarer case in which the XOR 
+      of the two halves of a plaintext is known (but not the plaintext itself). 
+      I cannot imagine any real world situation where such a case arises. 
+      Furthermore, GodSave does not actually split the plaintext in two, but 
+      rather distributes the bytes of the plaintext in two halves and modifies 
+      them in a complicated manner that depends on the key, eliminating this 
+      weakness. After encrypting, it re-unites the two halves in another 
+      complicated way that depends on the key. Additonaly, GodSave also allows 
+      for "multiple Luby-Rackoff rounds" which is the definite solution to this 
+      type of problem (</FONT><A 
+      href="#2.2.1"><FONT face=Arial 
+      size=2>see below</FONT></A><FONT face=Arial size=2>). </P>
+      <P>The third change I made is designed to defend against dictionary 
+      attacks, that is against the situation in which the attacker tries to 
+      determine the encryption key by testing in turn the values in a dictionary 
+      of potential keys. Dictionary attacks are based on the fact that people do 
+      not like to have to remember long or complicated keys or passwords and so 
+      very often use quite simple ones. No matter how good the encryption 
+      algorithm, if an attacker tries a few million possibilities and in this 
+      way is able to discover the encryption key of just a few users then the 
+      security of the entire organization could be compromised. In the GodSave 
+      algorithm I defend against this kind of attack by introducing the concept 
+      of a secure "master key".</P>
+      <P>The algorithm uses the master key to generate an encryption key. The 
+      procedure used is the following: before encrypting or decrypting a text, 
+      first GodSave XORs the master key with a real random sequence which is 
+      include in the code of GodSave, in order to erase any "statistical 
+      features" in the master key itself; next it combines the result with the 
+      user key; and finally, it scrambles the result to produce the "real" key 
+      that is subsequently used to encrypt or decrypt a block of data (for more 
+      information about this, see </FONT><A 
+      href="#2.5"><FONT face=Arial 
+      size=2>section 2.5 </FONT></A><FONT face=Arial size=2>about Key 
+      Processing).</P>
+      <P>As long as the organization creates a fairly good master key and keeps 
+      it secret (even from its own employees), it doesn't need to worry about 
+      its employees using simple personal keys. It does not even need to worry 
+      about employees selling their key to the competition! For added security 
+      the organization can periodically change the master key or maintain a 
+      hierarchy of master keys. See </FONT><A 
+      href="#4"><FONT face=Arial 
+      size=2>section 4</FONT></A><FONT face=Arial size=2> for more ideas on this 
+      matter.</P>
+      <P>A final note: For operational reasons GodSave does not concatenate the 
+      key and plaintext before applying the scrambler, but rather combines them 
+      in a different manner (through operations XOR).</P>
+      <P>Here is the detailed description of two rounds GodSave:</P>
+      <P>To encrypt: </P>
+      <DIR></FONT><TT>
+      <P>process( master-key, user-password ) -&gt; K1t, K1s, K2t, K2s, Ksep, 
+      Kuni</P>
+      <P>separate&nbsp;&nbsp;&nbsp;&nbsp;( T ) 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      T1, T2<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ksep</P>
+      <P>S&nbsp;&nbsp;( K1t, T1 xor T2 ) xor 
+      T2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; C2<BR>&nbsp;K1s</P>
+      <P>S&nbsp;&nbsp;( K2t, C2 ) xor ( T1 xor T2 ) -&gt; C1<BR>&nbsp;K2s</P>
+      <P>unite&nbsp;&nbsp;&nbsp;&nbsp;( C1, C2 ) 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      C<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuni</P></DIR></TT><FONT face=Arial 
+      size=2>
+      <P>To dencrypt: </P>
+      <DIR></FONT><TT>
+      <P>process( master-key, user-password ) -&gt; K1t, K1s, K2t, K2s, Ksep, 
+      Kuni</P>
+      <P>separate&nbsp;&nbsp;&nbsp;&nbsp;( C ) 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      C1, C2<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kuni</P>
+      <P>S&nbsp;&nbsp;( K2t, C2 ) xor C1 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; ( T1 xor 
+      T2 ) <BR>&nbsp;K2s</P>
+      <P>S&nbsp;&nbsp;( K1t, T1 xor T2 ) xor C2&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      T2<BR>&nbsp;K1s</P>
+      <P>( T1 xor T2 ) xor T2 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      T1</P>
+      <P>unite&nbsp;&nbsp;&nbsp;&nbsp;( T1, T2 ) 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      T<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ksep</P></DIR></TT><B><FONT face=Arial 
+      size=2>
+      <P><A name=BM2_2></A>2.2. OPTIONAL FEATURES OF THE GODSAVE 
+      ALGORITHM</P></B>
+      <P>GodSave includes several optional features designed to strengthen its 
+      security. All of these optional features can be used individually on in a 
+      combined manner.</P><B>
+      <P><A name=BM2_2_1></A>2.2.1. MULTIPLE ROUNDS</P></B>
+      <P>Luby-Rackoff, who detected the weakness in Karn's algorithm, proposed 
+      another way to avoid it. His idea was to use Karn's algorithm twice, i.e. 
+      Karn( Karn( T ) ) -&gt; C, that is to say the plaintext (T1-T2) is first 
+      encrypted into (X1,X2) which is then encrypted again to produce the 
+      ciphertext (C1,C2). To further increase security a different set of keys 
+      is used for the third and fourth round. Thus the double Karn algorithm (or 
+      four-round Luby-Rackoff) is:</P>
+      <P>to encrypt: </P>
+      <DIR></FONT><TT>
+      <P>S( K1, T1 ) xor T2 -&gt; X2 <BR>S( K2, X2 ) xor T1 -&gt; X1 <BR>S( K3, 
+      X1 ) xor X2 -&gt; C2 <BR>S( K4, C2 ) xor X1 -&gt; C1</P></DIR></TT><FONT 
+      face=Arial size=2>
+      <P>to decrypt: </P>
+      <DIR></FONT><TT>
+      <P>S( K4, C2 ) xor C1 -&gt; X1 <BR>S( K3, X1 ) xor C2 -&gt; X2 <BR>S( K2, 
+      X2 ) xor X1 -&gt; T1 <BR>S( K1, T1 ) xor X2 -&gt; T2</P></DIR></TT><FONT 
+      face=Arial size=2>
+      <P>The GodSave algorithm allows four, six and eight rounds of Luby-Rackoff 
+      encryption as an option. For example, the GodSave version of six rounds 
+      Luby-Rackoff encryption is as follows (observe that different keys are 
+      used in each round):</P>
+      <P>To encrypt: </P>
+      <DIR></FONT><TT>
+      <P>separate( T ) 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      T1,T2<BR>S( K1, T1 xor T2 ) xor T2 &nbsp;&nbsp;&nbsp;&nbsp;-&gt; X2 <BR>S( 
+      K2, X2 ) xor ( T1 xor T2 ) -&gt; X1 <BR>S( K3, X1 xor X2 ) xor X2 
+      &nbsp;&nbsp;&nbsp;&nbsp;-&gt; Y2 <BR>S( K4, Y2 ) xor ( X1 xor X2 ) -&gt; 
+      Y1 <BR>S( K5, Y1 xor Y2 ) xor Y2 &nbsp;&nbsp;&nbsp;&nbsp;-&gt; C2 <BR>S( 
+      K6, C2 ) xor ( Y1 xor Y2 ) -&gt; C1<BR>unite( C1, C2 ) 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      C</P></DIR></TT><FONT face=Arial size=2>
+      <P>To decrypt: </P>
+      <DIR></FONT><TT>
+      <P>separate( C 
+      )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      C1, C2<BR>S( K6, C2 ) xor C1 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; ( 
+      Y1 xor Y2 ) <BR>S( K5, Y1 xor Y2 ) xor C2 &nbsp;&nbsp;&nbsp;&nbsp;-&gt; Y2 
+      <BR>( Y1 xor Y2 ) xor Y2 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; Y1 <BR>S( K4, 
+      Y2 ) xor Y1 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; ( 
+      X1 xor X2 ) <BR>S( K3, X1 xor X2 ) xor Y2 &nbsp;&nbsp;&nbsp;&nbsp;-&gt; X2 
+      <BR>( X1 xor X2 ) xor X2 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; X1 <BR>S( K2, 
+      X2 ) xor X1 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; ( 
+      T1 xor T2 ) <BR>S( K1, T1 xor T2 ) xor X2 &nbsp;&nbsp;&nbsp;&nbsp;-&gt; T2 
+      <BR>( T1 xor T2 ) xor T2 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; T1<BR>unite( 
+      T1, T2 ) 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      T</P></DIR></TT><B><FONT face=Arial size=2>
+      <P><A name=BM2_2_2></A>2.2.2. KEY AND TEXT RANDOMIZATION</P></B>
+      <P>Apart from dictionary attacks which were treated in the previous 
+      section, most cryptanalytic attacks belong to one of two types: known 
+      plaintext attack or chosen plaintext attacks. Here the attacker studies a 
+      large number of plaintext-ciphertext pairs, and tries to deduce the key 
+      used to perform the encryption.</P>
+      <P>GodSave includes two optional features to defend against these types of 
+      attack: </P>
+      <DIR></FONT><FONT color=#0000ff face=Arial size=2>
+      <P>a)</FONT><FONT face=Arial size=2> The first of these options allows the 
+      user to randomize the key so that the algorithm virtually never uses the 
+      same key twice. The procedure is as follows: before encrypting a message 
+      GodSave substitutes 16 bytes of the user key with a value produced by a 
+      pseudo random number generator. It then uses the parametric scrambler, 
+      with a scrambler key unknown to the attacker, to scramble the entire key 
+      and thus distribute the change throughout the key. By applying this 
+      procedure you can generate 2^128 different "working" keys for each user 
+      key, which means that for all practical purposes the algorithm will never 
+      use the same key twice. The 16 random bytes used to generate the "working" 
+      key are appended to the end of the ciphertext after being encrypted by a 
+      simple method. However even if an attacker knew these 16 bytes, he 
+      wouldn't be able to compute the "working" key because he does not know the 
+      scrambler key that was used.</P>
+      <P>The pseudo random number generator used is not part of GodSave and must 
+      be provided by the user. (The source code includes a very simple generator 
+      that you can use if you like.)</P>
+      <P>When multiple rounds encryption is used (4, 6 or 8 rounds of 
+      Luby-Rackoff) then the corresponding keys are randomized 
+      too.</P></FONT><FONT color=#0000ff face=Arial size=2>
+      <P>b)</FONT><FONT face=Arial size=2> The second option allows the user to 
+      scramble the plaintext so that the algorithm virtually never encrypts the 
+      same plaintext twice. The procedure is as follows: before encrypting a 
+      message, GodSave combines 16 randomly generated bytes with the key 
+      (optionally already randomized), then it uses the parametric scrambler to 
+      scramble this, using another scrambler key unknown to the attacker, and 
+      then XORs the result with the plaintext. In this way each block of text is 
+      converted into one of 2^128 variants, which means that for all practical 
+      purposes the same plaintext will never be processed twice. Again the 16 
+      random bytes are encrypted and appended to the ciphertext.</P></DIR><B>
+      <P><A name=BM2_2_3></A>2.2.3. LAZY ENCRYPTION</P></B>
+      <P>I have provided one other option in GodSave for those who need maximum 
+      security. This GodSave optional feature offers what I call "lazy" 
+      encryption. The procedure applied is as follows: first a pseudo random 
+      sequence is generated of the same size as the plaintext. This sequence is 
+      then appended to the plaintext and the "extended" plaintext is then 
+      encrypted. Lazy encryption avoids the need to divide the plaintext in two, 
+      but produces a ciphertext that is twice as large. The algorithm is as 
+      follows:</P>
+      <P>To encrypt a plaintext T: </P>
+      <DIR></FONT><TT>
+      <P>Produce pseudo random sequence R <BR>S( K1, T xor R ) xor R 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; C2 <BR>S( K2, C2 ) xor ( T xor R ) 
+      -&gt; C1</P></DIR></TT><FONT face=Arial size=2>
+      <P>To decrypt: </P>
+      <DIR></FONT><TT>
+      <P>S( K2, C2 ) xor C1 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; ( T xor R ) 
+      <BR>S( K1, T xor R ) xor C2 &nbsp;&nbsp;&nbsp;&nbsp;-&gt; R <BR>( T xor R 
+      ) xor R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      T</P></DIR></TT><FONT face=Arial size=2>
+      <P>This variant of the GodSave algorithm has the interesting property that 
+      both C2 and C1 will be at least as good a random sequence as the original 
+      random sequence R, even if you use a mediocre scrambler S. I suspect that 
+      if you use a true random generator to produce R, then this cipher is 
+      absolutely unbreakable.</P>
+      <P>All GodSave's options are independent and can be combined one with 
+      another. For example, the user can ask for a four rounds and lazy 
+      encryption if he wishes. The resulting algorithm is quite complex:</P>
+      <P>To encrypt plaintext T: </P>
+      <DIR></FONT><TT>
+      <P>Produce pseudo random sequence R <BR>S( K1, T xor R ) xor R 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; X2<BR>S( K2, X2 )&nbsp;xor 
+      ( T xor R )&nbsp;&nbsp;&nbsp;-&gt; X1<BR>S( K3, X1 xor X2 ) xor X2 
+      &nbsp;&nbsp;&nbsp;&nbsp;-&gt; C2 <BR>S( K4, C2 ) xor ( X1 xor X2 ) -&gt; 
+      C1</P></DIR></TT><FONT face=Arial size=2>
+      <P>To decrypt: </P>
+      <DIR></FONT><TT>
+      <P>S( K4, C2 ) xor C1 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; ( 
+      X1 xor X2 ) <BR>S( K3, X1 xor X2 ) xor C2 &nbsp;&nbsp;&nbsp;&nbsp;-&gt; X2 
+      <BR>( X1 xor X2 ) xor X2 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; X1 <BR>S( K2, 
+      X2 ) xor X1 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; ( 
+      T xor R ) <BR>S( K1, T xor R ) xor 
+      X2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; R <BR>( T xor R ) xor R 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      T</P></DIR></TT><FONT face=Arial size=2>
+      <P>GodSave normally allows the encryption of blocks up to 1024 bytes. When 
+      using lazy encryption only blocks up to 512 bytes can be used.</P><B>
+      <P><A name=BM2_3></A>2.3. THE SCRAMBLER</P></B>
+      <P>The heart of the GodSave algorithm is its parametric scrambler 
+      (</FONT><TT>GSSCRAMBLE</TT><FONT face=Arial size=2>). The scrambler is 
+      based upon 7 primitive scramblers (</FONT><TT>SCRAMBLE0 .. 
+      SCRAMBLE6</TT><FONT face=Arial size=2>). It also uses 32 hash functions 
+      (</FONT><TT>HASH0 .. HASH31</TT><FONT face=Arial size=2>) that always 
+      produce a 32 bit value. Given as input a plaintext T and scrambler key K, 
+      the algorithm executes a series of iterations to obtain the scrambled 
+      text. At the n-th iteration the algorithm executes the following four 
+      steps:</P>
+      <P>1. Extract the next 5 bits of the key K to obtain an index "i" (value 
+      between 0 and 31) that indexes one of the 32 hash functions. On every 
+      other iteration, the five bits of the key are combined with the value of H 
+      computed in the previous iteration: </P>
+      <DIR></FONT><TT>
+      <P>K, H &nbsp;&nbsp;&nbsp;-&gt; i &nbsp;&nbsp;&nbsp;&nbsp;( 0..31&nbsp;) 
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;n-1 
+      &nbsp;&nbsp;&nbsp;&nbsp;n</P></DIR></TT><FONT face=Arial size=2>
+      <P>2. Use index i to select a hash function and apply it to the current 
+      value of text T to produce a 32 bit value H: </P>
+      <DIR></FONT><TT>
+      <P>HASH_i( T &nbsp;&nbsp; ) -&gt; H 
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;n-1 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;n</P></DIR></TT><FONT face=Arial 
+      size=2>
+      <P>3. Combine H with the key K to produce an index "j" (value between 0 
+      and 6) that indexes one of the 7 primitive scrambler functions. </P>
+      <DIR></FONT><TT>
+      <P>K, H &nbsp;-&gt; j <BR>&nbsp;&nbsp;&nbsp;&nbsp;n 
+      &nbsp;&nbsp;&nbsp;&nbsp;n</P></DIR></TT><FONT face=Arial size=2>
+      <P>4. Use the index j to select a primitive scrambler function and apply 
+      it to the current value of text T to produce an incrementally scrambled 
+      text to be used as input to the next iteration. </P>
+      <DIR></FONT><TT>
+      <P>SCRAMBLE_j( T , &nbsp;K, H &nbsp;) -&gt; T 
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;n-1 
+      &nbsp;&nbsp;&nbsp;&nbsp;n 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;n</P></DIR></TT><FONT face=Arial 
+      size=2>
+      <P>As you will see in section </FONT><A 
+      href="#2.3.3"><FONT face=Arial 
+      size=2>2.3.3 </FONT></A><FONT face=Arial size=2>some of the primitive 
+      scramblers use several bits of the scrambler key or the value H.</P>
+      <P>In short, in each iteration bits of the key are used to select a hash 
+      function which is then applied to the current state of the text to 
+      generate a value which is used to select a primitive scrambler function 
+      which in turn is then used to modify the text. Notice that both the key 
+      and the text are used to define the sequence in which the hash functions 
+      and primitive scramblers are applied.</P><B>
+      <P><A name=BM2_3_1></A>2.3.1. VARIABITY OF CODE EXECUTED</P></B>
+      <P>The precise number of iterations executed by the algorithm is not 
+      fixed. The user can control the number of iterations by means of the 
+      parameter "level" which instructs the algorithm to execute between 
+      </FONT><TT>level+5</TT><FONT face=Arial size=2> and 
+      </FONT><TT>2*(level+5)</TT><FONT face=Arial size=2> iterations. For 
+      example with level set to 10, the algorithm executes between 15 and 30 
+      iterations (the definite number is defined as a function of the current 
+      state of the encryption). Each iteration calls one out of 32 possible hash 
+      functions depending on the key. Therefore there are a total 
+      </FONT><TT>32^15 + 32^16 + 32^17 + ... + 32^30</TT><FONT face=Arial 
+      size=2> of combinations of hash functions used. This number approximately 
+      equals </FONT><TT>2^150</TT><FONT face=Arial size=2>. GodSave uses the 
+      scrambler at least twice (controlled by a different part of the encryption 
+      key) increasing the number of combinations to </FONT><TT>2^300</TT><FONT 
+      face=Arial size=2>. In version 3, the initialization values of the 32 hash 
+      functions depends on the key, increasing the variability of the code by a 
+      factor of </FONT><TT>2^1536</TT><FONT face=Arial size=2>, for a total of 
+      </FONT><TT>2^1836</TT><FONT face=Arial size=2>. When used at the minimum 
+      level of 0, the same analysis produces a still huge 
+      </FONT><TT>2^50*2^50*2^1536 = 2^1636</TT><FONT face=Arial size=2> 
+      variations.</P>
+      <P>The following sections provide some more detailed information about the 
+      components of the scrambler (</FONT><TT>GSSCRAMBLE</TT><FONT face=Arial 
+      size=2>).</P><B>
+      <P><A name=BM2_3_2></A>2.3.2. THE HASH FUNCTIONS</P></B>
+      <P>All 32 hash functions are implemented in 8086 assembler and all have a 
+      similar structure, but not an identical size. Each function, first 
+      traverses the complete text processing 8 bytes at a time, then it 
+      processes either the first or the last 32 bytes of the text again. (It 
+      follows that the permitted sizes of input text are multiples of 8 bytes 
+      and that the minimum size of the input text is 32 bytes.) All hash 
+      functions are built up from a variety of machine instructions including 
+      XORs, additions and subtractions (with or without carry), circular and 
+      linear shifts, and, less frequently, ANDs and ORs.</P>
+      <P>These hash functions were derived by a process of brute force 
+      searching. A generator was created which randomly produced over 100 
+      million potential hash functions, respecting a few basic design criteria 
+      (such as that all available registers should be used) and a test procedure 
+      then ran these hash functions on random data blocks with sizes between 32 
+      y 256 bytes, changing 1, 2, 3 or 4 bits and testing how often the 
+      resulting hash value was identical to the original, or differed only in 1 
+      bit, 2 bits, etc. In this way the best 32 hash functions were chosen.</P>
+      <P>The hash functions chosen are both fast and of good quality. By 
+      combining any two of these hash functions it is possible to produce a 
+      really excellent hash function. Note that the source code includes the 
+      function </FONT><TT>HASH</TT><FONT face=Arial size=2> defined as the XOR 
+      of the functions </FONT><TT>HASH21</TT><FONT face=Arial size=2> and 
+      </FONT><TT>HASH30</TT><FONT face=Arial size=2>, that you may find useful. 
+      A similar general purpose hash function </FONT><TT>HASHX</TT><FONT 
+      face=Arial size=2> is also included in the source code.</P><B>
+      <P><A name=BM2_3_3></A>2.3.3. THE PRIMITIVE SCRAMBLERS</P></B>
+      <P>All primitive scramblers are relatively simple functions and each one 
+      is implemented both in high level language and in 8086 assembler. Here 
+      follows a brief description of each of the primitive 
+      scramblers.</P></FONT><TT>
+      <P>SCRAMBLE6</TT><FONT face=Arial size=2> regards the text as a list of 32 
+      bit values. It traverses the text summing each successive value with the 
+      two next: ( </FONT><TT>li[i] + li[i+1] + li[i+2] -&gt; li[i]</TT><FONT 
+      face=Arial size=2>). The effect is to smear information throughout the 
+      text. It does not work in a circular manner so the last two values are 
+      left unchanged.</P></FONT><TT>
+      <P>SCRAMBLE5</TT><FONT face=Arial size=2> regards the text as a list of 16 
+      bit values and it smears the information through the text by combining 
+      each successive value with the next two values. The function used is: 
+      </FONT><TT>w[i] xor (w[i+1] or w[i+2]) -&gt; w[i]</TT><FONT face=Arial 
+      size=2>. It does not work in a circular manner, so the last two values are 
+      left unchanged.</P></FONT><TT>
+      <P>SCRAMBLE4</TT><FONT face=Arial size=2> uses 24 bits of the hash value H 
+      and parts of the text to compute a 32 bit value, which it then XORs with 
+      the entire text.</P></FONT><TT>
+      <P>SCRAMBLE3</TT><FONT face=Arial size=2> uses 3 bits of the hash value H 
+      to compute a value n (between 1 and 8), then regarding the text as a list 
+      of bits, it circularly rotates the entire text n bits to the 
+      right.</P></FONT><TT>
+      <P>SCRAMBLE2</TT><FONT face=Arial size=2> combines the values of H with 
+      the scrambler key and the text in order to compute the four constants of a 
+      linear congruential random number generator, i.e. the values "a", "b" and 
+      "m" as well as the initial value "n" of a function with the form: 
+      </FONT><TT>(a*n+b) mod m -&gt; n</TT><FONT face=Arial size=2>. Regarding 
+      the text as a list of 16 bit values it then uses this generator to define 
+      how many bits each value in the text gets circularly rotated to the 
+      right.</P></FONT><TT>
+      <P>SCRAMBLE1</TT><FONT face=Arial size=2> also uses the values of H, the 
+      key and the text to create a random number generator. It then uses the key 
+      and the text to define a number of iterations. Regarding the text as a 
+      list of 16 bit values, it uses the random number generator to select an 
+      initial position in the text, then for each iteration it uses the random 
+      number generator to select a position in the text and copy the value at 
+      this position into the previous position selected, ending in a circular 
+      fashion. Its effect is to jumble up the values in the text.</P></FONT><TT>
+      <P>SCRAMBLE0</TT><FONT face=Arial size=2> also uses the values of H, the 
+      key and the text to create a random number generator. Regarding the text 
+      as a list of 16 bit values, it scans through the whole list and XORs each 
+      value with a value generated by the random number generator.</P>
+      <P>It is not easy to justify this choice of primitive scramble functions. 
+      However the following arguments provide the rational for the functions 
+      which I chose.</P></FONT><TT>
+      <P>SCRAMBLE0</TT><FONT face=Arial size=2>, </FONT><TT>SCRAMBLE1</TT><FONT 
+      face=Arial size=2> and </FONT><TT>SCRAMBLE2</TT><FONT face=Arial size=2> 
+      define a primitive but highly variable pseudo random number generator, and 
+      use it to delete any statistical regularity in the text (by scrambling 
+      values, the relative position of values, and bit positions, 
+      respectively).</P></FONT><TT>
+      <P>SCRAMBLE3</TT><FONT face=Arial size=2> shifts the entire text some bits 
+      to the right in order to diminish the significance of the division of the 
+      text into 16 or 32 bit that is used by the rest of the 
+      scramblers.</P></FONT><TT>
+      <P>SCRAMBLE4</TT><FONT face=Arial size=2> is a simpler and much faster 
+      version of </FONT><TT>SCRAMBLE0</TT><FONT face=Arial 
+      size=2>.</P></FONT><TT>
+      <P>SCRAMBLE5</TT><FONT face=Arial size=2> and 
+      </FONT><TT>SCRAMBLE6</TT><FONT face=Arial size=2> serve to smear data 
+      locally without losing any information.</P>
+      <P>I believe that both </FONT><TT>SCRAMBLE6</TT><FONT face=Arial size=2> 
+      and </FONT><TT>SCRAMBLE5</TT><FONT face=Arial size=2> have the property 
+      that when applied to different texts they always produce a different 
+      result. I also believe that all the primitive scramble functions have the 
+      property that they do not reduce the information content (or entropy) of 
+      the original text.</P>
+      <P>There are a few other details of the scrambler that should be 
+      mentioned, namely:</P>
+      <P>At the start of the scrambling process, an initial scrambling is 
+      applied by executing </FONT><TT>SCRAMBLE0</TT><FONT face=Arial size=2> 
+      twice and then executing </FONT><TT>SCRAMBLEINIT</TT><FONT face=Arial 
+      size=2>. </FONT><TT>SCRAMBLEINIT</TT><FONT face=Arial size=2> is a 
+      primitive scrambler used only here. It scans the text working one byte at 
+      a time. It XORs each byte with the value of a table 
+      (</FONT><TT>B2BINIT</TT><FONT face=Arial size=2>) indexed by the previous 
+      byte in the text. It then modifies a byte in the table by XORing it with 
+      the byte in the text just calculated. The effect of executing 
+      </FONT><TT>SCRAMBLE0</TT><FONT face=Arial size=2> twice and then 
+      </FONT><TT>SCRAMBLEINIT</TT><FONT face=Arial size=2> is to produce a text 
+      that appears random to a wide range of statistical tests.</P>
+      <P>Half way through the scrambling process (after (</FONT><TT>level+5) div 
+      2 - 1</TT><FONT face=Arial size=2> iterations) the definitive number of 
+      iterations is computed.</P>
+      <P>After completing these iterations, a check is made to verify that each 
+      primitive scrambler function has been executed at least once, twice or 
+      three times (depending on the value of the level parameter). If not, the 
+      unused primitive scramblers are applied to the text up to the minimum 
+      number of times.</P>
+      <P>The scrambler uses a key of 64 bytes. The first 254 bits (almost 
+      exactly 32 bytes) are used as parameters for the primitive scrambler 
+      functions, while the last 32 bytes are used (5 bits at a time) to select 
+      the next hash function. With a level value of 10, which generates between 
+      15 and 30 iterations, 75 to 150 bits of the key are used for this purpose. 
+      This means that with a level value of 10 a total of 329 to 404 bits of the 
+      key affect the processing performed by the scrambler.</P>
+      <P>Note that even at the minimum value of level (0), which generates 
+      between 5 and 10 iterations, at least 279 bits of the key are used by the 
+      scrambler. Thus the performance of the scrambler is highly dependent on 
+      its key.</P>
+      <P>Finally some comments on the quality of the scrambler. I believe the 
+      GodSave scrambler to be of very good quality. At the minimum value of 
+      level (0) and with several of the primitive scramblers disabled the 
+      scrambler produces an excellent "avalanche" effect, that is to say that a 
+      1 bit change in the original text thoroughly scrambles the end-result.</P>
+      <P>I also applied the scrambler with a level value of 0 on a sequence of 
+      text blocks that were filled with consecutive integers (1, 2, 3, etc) 
+      followed by zeros to produce a sequence of blocks filled with 
+      pseudo-random values. This sequence of pseudo random values passed all 
+      tests for randomness I could find (including the </FONT><A 
+      href="http://stat.fsu.edu/~geo/diehard.html"><FONT face=Arial 
+      size=2>DIEHARD</FONT></A><FONT face=Arial size=2> group of tests).</P><B>
+      <P><A name=BM2_4></A>2.4. ENCRYPTION</P></B>
+      <P>The encryption process is implemented on two levels. On the inner level 
+      the basic encryption algorithm (</FONT><TT>ENCRYPT0 </TT><FONT face=Arial 
+      size=2>in the source code) implements the pure Karn algorithm. Since the 
+      GodSave scrambler cannot operate on blocks with less than 32 bytes, if the 
+      plaintext has a size of between 16 and 48 bytes zeros must be appended to 
+      the text (after it is split) to increase the size of the block to 32. 
+      Afterwards the scrambled text is reduced in length to the original number 
+      of bytes.</P>
+      <P>On the outer level, which implements the main encryption algorithm 
+      (</FONT><TT>GSENCRYPT</TT><FONT face=Arial size=2> in the source code), 
+      the input parameters are a block of plaintext and its size, and the output 
+      is a block of ciphertext. Note that the internal keys used have already 
+      been computed by </FONT><TT>DECLAREENCRYPTION</TT><FONT face=Arial size=2> 
+      and are available to </FONT><TT>GSENCRYPT</TT><FONT face=Arial size=2>. 
+      Also the "</FONT><TT>LEVEL</TT><FONT face=Arial size=2>" and 
+      "</FONT><TT>STYLE</TT><FONT face=Arial size=2>" parameters have already 
+      been declared. The level parameter specifies how many iteration the main 
+      scrambles will execute. The style parameter specifies which of the 
+      optional features of GodSave will be included. The next chapter explains 
+      the style parameter in detail.</P>
+      <P>Before applying the encryption algorithm the plaintext is divided into 
+      two halves in a way that depends on the variable 
+      </FONT><TT>HOWSEPARATE</TT><FONT face=Arial size=2> that is one of the 
+      internal keys already computed. Depending on the value of the next bit of 
+      this variable, the next byte of the text is assigned to one or the other 
+      half. After this division, the first half of the text is XORed with the 
+      second half (in order to avoid a weakness of the Karn algorithm described 
+      earlier - </FONT><A href="#2.1"><FONT 
+      face=Arial size=2>see section 2.1</FONT></A><FONT face=Arial size=2>). 
+      After completing the encryption the two halves of the ciphertext are 
+      combined in a similar way that depends on </FONT><TT>HOWUNITE</TT><FONT 
+      face=Arial size=2>, another internal key, to produce the definite block of 
+      ciphertext.</P>
+      <P>The 16 bytes that are appended to the ciphertext when the key 
+      randomization or text randomization procedures are applied are encrypted 
+      in a simple but highly variable manner (see procedure 
+      "</FONT><TT>ENCRYPT16</TT><FONT face=Arial size=2>" in the source code for 
+      details).</P><B>
+      <P><A name=BM2_4_1></A>2.4.1. THE STYLE PARAMETER</P></B>
+      <P>The style parameter has a five bit value which is interpreted as 
+      follows: </P>
+      <DIR>
+      <P>The least significant bit defines whether the key should be randomized 
+      or not.</P>
+      <P>The next bit defines whether the plaintext should be randomized or 
+      not.</P>
+      <P>The next two bits define whether two, four, six or eight rounds will be 
+      executed.</P>
+      <P>The most significant bit defines whether "lazy" encryption is to be 
+      applied or not.</P></DIR>
+      <P>All values of the style parameter, from 0 to 31, are legal, but the 
+      processing necessary for implementing each one varies a lot. The following 
+      table describes each encryption style and gives you an idea about the 
+      workload for each one, assuming encryption of blocks of 256 bytes and 
+      level parameter set to 10.</P></FONT><B><TT>
+      <P>&nbsp;&nbsp;&nbsp;&nbsp;style 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;effect 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;relative 
+      workload</B></TT><FONT face=Arial size=2> </P>
+      <DIR></FONT><TT>
+      <P>&nbsp;0: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-rounds 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 (arbitrary) <BR>&nbsp;1: 
+      &nbsp;key-Random. 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-rounds 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;154 <BR>&nbsp;2: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;text-Random. 
+      2-rounds &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;160 <BR>&nbsp;3: 
+      &nbsp;key-Random. text-Random. 2-rounds 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;217 <BR>&nbsp;4: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-rounds 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;183 <BR>&nbsp;5: 
+      &nbsp;key-Random. 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-rounds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;293 
+      <BR>&nbsp;6: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;text-Random. 
+      4-rounds &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;241 <BR>&nbsp;7: 
+      &nbsp;key-Random. text-Random. 4-rounds 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;355<BR>&nbsp;8: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-rounds 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;268 <BR>&nbsp;9: 
+      &nbsp;key-Random. 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-rounds 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;428 <BR>10: &nbsp; 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;text-Random.&nbsp;6-rounds 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;328 <BR>11: &nbsp;key-Random. 
+      text-Random. 6-rounds &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;487 
+      <BR>12: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-rounds 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;353 <BR>13: &nbsp;key-Random. 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-rounds 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;564 <BR>14: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;text-Random. 
+      8-rounds &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;416 <BR>15: 
+      &nbsp;key-Random. text-Random. 8-rounds 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;622 <BR>16: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-rounds 
+      lazy &nbsp;&nbsp;249 <BR>17: &nbsp;key-Random. 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-rounds 
+      lazy &nbsp;&nbsp;302 <BR>18: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;text-Random. 
+      2-rounds lazy &nbsp;&nbsp;351 <BR>19: &nbsp;key-Random. text-Random. 
+      2-rounds lazy &nbsp;&nbsp;406 <BR>20: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-rounds 
+      lazy &nbsp;&nbsp;389 <BR>21: &nbsp;key-Random. 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-rounds 
+      lazy &nbsp;&nbsp;494 <BR>22: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;text-Random. 
+      4-rounds lazy &nbsp;&nbsp;491 <BR>23: &nbsp;key-Random. text-Random. 
+      4-rounds lazy &nbsp;&nbsp;601 <BR>24: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-rounds 
+      lazy &nbsp;&nbsp;532 <BR>25: &nbsp;key-Random. 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-rounds 
+      lazy &nbsp;&nbsp;686 <BR>26: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;text-Random. 
+      6-rounds lazy &nbsp;&nbsp;632 <BR>27: &nbsp;key-Random. text-Random. 
+      6-rounds lazy &nbsp;&nbsp;789 <BR>28: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-rounds 
+      lazy &nbsp;&nbsp;679 <BR>29: &nbsp;key-Random. 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-rounds 
+      lazy &nbsp;&nbsp;889 <BR>30: 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;text-Random. 
+      8-rounds lazy &nbsp;&nbsp;780 <BR>31: &nbsp;key-Random. text-Random. 
+      8-rounds lazy &nbsp;&nbsp;978</P></DIR></TT><FONT face=Arial size=2>
+      <P>I recommend the use of the following style values: </P>
+      <UL><B>
+        <LI>style 0</B>: fastest encryption without changing the size of the 
+        block. <B>
+        <LI>style 3</B>: both the key and the text are randomized, thus 
+        increasing the size of the block by 32 bytes. I think that this style of 
+        encryption applied on blocks of 256 bytes strikes the best balance 
+        between security, speed of encryption and block size. <B>
+        <LI>style 7</B>: four rounds Luby-Rackoff, combined with key and text 
+        randomization. When used with a lower level parameter, its speed is 
+        comparable to style 3, and security may be stronger. </FONT><A 
+        href="http://196.40.15.121/Encryption/godsavef.exe"><FONT face=Arial 
+        size=2>GodSaveF</FONT></A><FONT face=Arial size=2>, the free disk 
+        encryption utility that showcases GodSave technology, uses by default 
+        level 10 and style 7 encryption, and works with blocks of about 1,000 
+        bytes. <B>
+        <LI>style 17</B>: the key is randomized and lazy encryption is applied. 
+        While this style of encryption more then doubles the size of the block 
+        being encrypted it offers a very high level of security. <B>
+        <LI>style 25</B>: six rounds Luby-Rackoff, lazy encryption with key 
+        randomization - for the truly paranoid.<BR></LI></UL><B>
+      <P><A name=BM2_5></A>2.5. KEY PROCESSING</P></B>
+      <P>Before using the encryption algorithm to encrypt or decrypt a text, it 
+      is necessary to declare the master key and the end-user's key (see 
+      procedure "</FONT><TT>DECLAREENCRYPTION</TT><FONT face=Arial size=2>" in 
+      the source code). These are combined to produce several internal keys that 
+      are to be used by the GodSave algorithm. The method used to compute these 
+      keys is described in this chapter. This method is not fundamental for 
+      GodSave and can be changed by any other method that computes the internal 
+      keys as a function of the master key and the user key. The internal keys 
+      are:</P>
+      <P>- The primary encryption key (256 bytes) used for rounds one and 
+      two.</P>
+      <P>- The secondary encryption key (256 bytes) used for rounds tree and 
+      four.</P>
+      <P>- The tertiary encryption key (256 bytes) used for rounds five and 
+      six.</P>
+      <P>- The quaternary encryption key (256 bytes) used for rounds seven and 
+      eight.</P>
+      <P>- The scrambler key (64 bytes) used with key randomization</P>
+      <P>- The scrambler key (64 bytes) used with text randomization</P>
+      <P>- 32 bytes needed to initialize the index for the 32 primitive hash 
+      functions.</P>
+      <P>- 192 bytes needed to initialize the 32 primitive hash functions.</P>
+      <P>- 128 bytes that specify how each block of text will be distributed in 
+      two halves.</P>
+      <P>- 128 bytes that specify how the two halves are united again in one 
+      block</P>
+      <P>In all, the user key and master key (up to 512 bytes) are used to 
+      produce a total of 1632 bytes for the internal keys. Not all keys are 
+      necessarily used. For example, when GodSave is called with four rounds, 
+      then the tertiary and quaternary encryption keys are not used. When the 
+      master key and user key are sufficiently long (more then 10 characters) 
+      then one fourth of them is reserved for the computation of the secondary 
+      encryption key. In this case the primary and secondary keys are 
+      functionally independent.</P>
+      <P>The GodSave algorithm itself includes two base keys initialized with 
+      true random sequences. One is a base scrambler key of 64 bytes (BSK) and 
+      the other is the base key of 448 bytes (BK). Half of the declared master 
+      key (MK1) is combined with the declared user key UK and XORed with the 
+      base key to obtain a new value for the base key: </P>
+      <DIR></FONT><TT>
+      <P>( MK1, UK ) xor BK -&gt; BK &nbsp;&nbsp;&nbsp;(448 
+      bytes)</P></DIR></TT><FONT face=Arial size=2>
+      <P>The other half of the declared master key (MK2) is combined with the 
+      base scrambler key (BSK) to produce a new value for the base scrambler 
+      key: </P>
+      <DIR></FONT><TT>
+      <P>( MK2, BSK ) -&gt; BSK &nbsp;&nbsp;&nbsp;(64 bytes)</P></DIR></TT><FONT 
+      face=Arial size=2>
+      <P>Using this base scrambler key, the entire 448 bytes of the new base key 
+      (BK) are scrambled to produce the definitive value of the base key: </P>
+      <DIR></FONT><TT>
+      <P>S &nbsp;&nbsp;( BK ) -&gt; BK &nbsp;&nbsp;&nbsp;(448 bytes) 
+      <BR>&nbsp;BSK</P></DIR></TT><FONT face=Arial size=2>
+      <P>The first 256 bytes of the base key are used to initialize the working 
+      encryption key. The next 128 bytes are used to initialize the two internal 
+      scrambler keys to be used in the optional procedures for the randomization 
+      of the key or the text. The following 32 bytes are used as the key of the 
+      simple encryption procedure (</FONT><TT>ENCRYPT16</TT><FONT face=Arial 
+      size=2> in the source code). The last 32 bytes are used to initialize the 
+      pointers in the table that addresses the 32 hash functions: </P>
+      <DIR></FONT><TT>
+      <P>BK -&gt; encryption key (256 bytes) 
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scrambler key for key 
+      randomization (64 bytes) 
+      &nbsp;&nbsp;&nbsp;<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scrambler key 
+      for text randomization (64 bytes) 
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;key for procedure "ENCRYPT16" (32 
+      bytes) <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;initialization index to the 
+      hash functions (32 bytes)</P></DIR></TT><FONT face=Arial size=2>
+      <P>The base scramble key is modified and the base key is scrambled again 
+      in three successive cycles. The resulting base keys are used to initialize 
+      the rest of the internal keys: </P>
+      <DIR>
+      <P>the base key computed in the second cycle initializes: 
+      the&nbsp;secondary encryption key (256 bytes), the initial values of the 
+      hash functions (192 bytes ) <BR><BR>the base key computed in the third 
+      cycle initializes: the tertiary encryption key (256 bytes), the 
+      "</FONT><TT>HOWSEPARATE</TT><FONT face=Arial size=2>" vector (128 bytes) 
+      that specifies how each block of text will be split in to 
+      halves<BR><BR>the base key computed in the fourth cycle initializes: the 
+      quaternary encryption key (256 bytes), the "</FONT><TT>HOWUNITE</TT><FONT 
+      face=Arial size=2>" vector (128 bytes) that specifies how each the two 
+      cipher halves should be joined.</P></DIR><B>
+      <P><A name=BM2_6></A>2.6. Security of GodSave</P></B>
+      <P>It is difficult to estimate the security of GodSave because the state 
+      of the art in cryptology is unknown. Nevertheless, the variable nature of 
+      the algorithm allows for some projections. Let us suppose that level 10, 
+      style 3 encryption is used.</P>
+      <P>Comparing a large number of known plaintext ciphertext pairs is not 
+      useful because each uses a different key. Choosing a plaintext is not 
+      useful, because it gets randomized before encryption. So an attacker is 
+      stuck with unknown keys and plaintexts.</P>
+      <P>GodSave's scrambler calls iteratively 7 primitive scramblers, several 
+      of which are highly depended on the key. Even so, let us suppose that if 
+      one knew the sequence of the scramblers used (for example, first S4, then 
+      S1, then S6, etc.) then using very powerful computers and very smart 
+      algorithms, GodSave could be broken in, say, one millionth of a second. 
+      When GodSave is used at level 10, then it iterates between 15 and 30 
+      times. The approximate total number of variations of sequences is a huge 
+      </FONT><TT>3 * 10^23</TT><FONT face=Arial size=2>. Even if each sequence 
+      could be broken in one millionth of a second, one would need more than 9 
+      billion years to search through all possible variations.</P>
+      <P>Even if an attacker is able to decrypt one particular block of 
+      ciphertext and discover the key used, this same working key will not be 
+      used again; the attacker would have to start anew with the next block of 
+      ciphertext. To recover the original user key and master key, the attacker 
+      would have to invert the scrambler functions used in the key processing 
+      parts of GodSave. Here, normally, a higher level of iterations is used, 
+      typically 20. In this case the same analysis would result in 
+      </FONT><TT>10^25</TT><FONT face=Arial size=2> years needed.</P><B>
+      <P><A name=BM2_7></A>2.7. PERFORMANCE OF THE ALGORITHM</P></B>
+      <P>Up to this point in the description of the GodSave algorithm I have 
+      focused attention on the structure of the algorithm and the level of 
+      security which it can provide. In this final section I want to comment on 
+      the performance of the algorithm.</P>
+      <P>The speed of GodSave (as implemented in the original Pascal source code 
+      made available in http://196.40.15.121/Encryption/index.html) is described 
+      in the following table where the number of bytes encrypted per second is 
+      given per 1 MHz of Pentium. This means that if you use a 166 MHz Pentium 
+      processor you should multiply these numbers by 166 to find the approximate 
+      speed for your computer.</P>
+      <P>Number of bytes encrypted per second per MHz on a 
+      Pentium</P></FONT><FONT color=#0000ff face=Arial><TT>
+      <P>block size.. &nbsp;-----16----- &nbsp;&nbsp;&nbsp;------64----- 
+      &nbsp;&nbsp;&nbsp;-----256----- &nbsp;&nbsp;-----1024----- 
+      <BR></FONT><FONT color=#008000 face=Arial>level....... &nbsp;&nbsp;0 
+      &nbsp;&nbsp;10 &nbsp;&nbsp;20 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0 
+      &nbsp;&nbsp;10 &nbsp;&nbsp;20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 
+      &nbsp;&nbsp;10 &nbsp;&nbsp;20 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp; 
+      10&nbsp;&nbsp; 20 <BR></FONT><FONT color=#ff0000 
+      face=Arial>style</FONT><FONT face=Arial> <BR>&nbsp;</FONT><FONT 
+      color=#ff0000 face=Arial>0</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;263&nbsp; 
+      167&nbsp; 124 &nbsp;&nbsp;&nbsp;959&nbsp; 635&nbsp; 479&nbsp;&nbsp; 1700 
+      1175 &nbsp;914&nbsp;&nbsp; 2097 1514 1181<BR>&nbsp;</FONT><FONT 
+      color=#ff0000 face=Arial>1</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;96&nbsp;&nbsp;&nbsp;80 
+      &nbsp;&nbsp;68&nbsp;&nbsp;&nbsp; 369&nbsp; 310&nbsp; 264 
+      &nbsp;&nbsp;&nbsp;999 &nbsp;801&nbsp; 653&nbsp;&nbsp; 1720 1306 1046 
+      <BR>&nbsp;</FONT><FONT color=#ff0000 face=Arial>2</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;151 &nbsp;114 
+      &nbsp;&nbsp;93 &nbsp;&nbsp;&nbsp;528 &nbsp;421 &nbsp;343 
+      &nbsp;&nbsp;&nbsp;976&nbsp; 787&nbsp; 661&nbsp;&nbsp; 1247 1016 
+      &nbsp;854<BR>&nbsp;</FONT><FONT color=#ff0000 face=Arial>3</FONT><FONT 
+      face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75 
+      &nbsp;&nbsp;66&nbsp;&nbsp; 57&nbsp;&nbsp;&nbsp; 285 &nbsp;247&nbsp; 
+      219&nbsp;&nbsp;&nbsp; 698 &nbsp;603 &nbsp;522&nbsp;&nbsp; 1119&nbsp; 
+      923&nbsp; 801<BR>&nbsp;</FONT><FONT color=#ff0000 face=Arial>4</FONT><FONT 
+      face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;138 
+      &nbsp;&nbsp;87&nbsp;&nbsp; 63&nbsp;&nbsp;&nbsp; 551&nbsp; 351&nbsp; 
+      259&nbsp;&nbsp; 1039&nbsp; 683 &nbsp;504&nbsp;&nbsp; 1324 &nbsp;897&nbsp; 
+      672<BR>&nbsp;</FONT><FONT color=#ff0000 face=Arial>5</FONT><FONT 
+      face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;51 
+      &nbsp;&nbsp;42&nbsp;&nbsp; 35&nbsp;&nbsp;&nbsp; 202&nbsp; 168&nbsp; 
+      141&nbsp;&nbsp;&nbsp; 571&nbsp; 444&nbsp; 364&nbsp;&nbsp; 1049 
+      &nbsp;761&nbsp; 593<BR>&nbsp;</FONT><FONT color=#ff0000 
+      face=Arial>6</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100 
+      &nbsp;&nbsp;70 &nbsp;&nbsp;55 &nbsp;&nbsp;&nbsp;379 &nbsp;272 
+      &nbsp;212&nbsp;&nbsp;&nbsp; 719 &nbsp;526&nbsp; 418 &nbsp;&nbsp;&nbsp;926 
+      &nbsp;691&nbsp; 556<BR>&nbsp;</FONT><FONT color=#ff0000 
+      face=Arial>7</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45 
+      &nbsp;&nbsp;38 &nbsp;&nbsp;32&nbsp;&nbsp;&nbsp; 173&nbsp; 147 
+      &nbsp;128&nbsp;&nbsp;&nbsp; 460 &nbsp;373 &nbsp;313&nbsp;&nbsp;&nbsp; 784 
+      &nbsp;613&nbsp; 498<BR>&nbsp;</FONT><FONT color=#ff0000 
+      face=Arial>8</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;94 
+      &nbsp;&nbsp;59 &nbsp;&nbsp;43 &nbsp;&nbsp;&nbsp;385 &nbsp;240&nbsp; 
+      174&nbsp;&nbsp;&nbsp; 743 &nbsp;473&nbsp; 352 &nbsp;&nbsp;&nbsp;964 
+      &nbsp;635 &nbsp;473<BR>&nbsp;</FONT><FONT color=#ff0000 
+      face=Arial>9</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;34 
+      &nbsp;&nbsp;28 &nbsp;&nbsp;24 &nbsp;&nbsp;&nbsp;140 &nbsp;115 
+      &nbsp;&nbsp;97 &nbsp;&nbsp;&nbsp;401 &nbsp;311 &nbsp;251 
+      &nbsp;&nbsp;&nbsp;758&nbsp; 536 &nbsp;412<BR></FONT><FONT color=#ff0000 
+      face=Arial>10</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75 
+      &nbsp;&nbsp;51&nbsp;&nbsp; 38&nbsp;&nbsp;&nbsp; 290 &nbsp;201 
+      &nbsp;152&nbsp;&nbsp;&nbsp; 564 &nbsp;397 &nbsp;305&nbsp;&nbsp;&nbsp; 
+      737&nbsp; 526&nbsp; 409 <BR></FONT><FONT color=#ff0000 
+      face=Arial>11</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;31 
+      &nbsp;&nbsp;26&nbsp;&nbsp; 22&nbsp;&nbsp;&nbsp; 125&nbsp; 105&nbsp;&nbsp; 
+      90 &nbsp;&nbsp;&nbsp;342 &nbsp;272 &nbsp;226 &nbsp;&nbsp;&nbsp;609 
+      &nbsp;461 &nbsp;366<BR></FONT><FONT color=#ff0000 
+      face=Arial>12</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;71 
+      &nbsp;&nbsp;45 &nbsp;&nbsp;32 &nbsp;&nbsp;&nbsp;295 &nbsp;183&nbsp; 134 
+      &nbsp;&nbsp;&nbsp;580 &nbsp;366&nbsp; 268&nbsp;&nbsp;&nbsp; 766&nbsp; 488 
+      &nbsp;361<BR></FONT><FONT color=#ff0000 face=Arial>13</FONT><FONT 
+      face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;26 
+      &nbsp;&nbsp;22 &nbsp;&nbsp;18 &nbsp;&nbsp;&nbsp;106 &nbsp;&nbsp;87 
+      &nbsp;&nbsp;73&nbsp;&nbsp;&nbsp; 309 &nbsp;236 &nbsp;192 
+      &nbsp;&nbsp;&nbsp;593 &nbsp;413 &nbsp;315 <BR></FONT><FONT color=#ff0000 
+      face=Arial>14</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;59 
+      &nbsp;&nbsp;40 &nbsp;&nbsp;30&nbsp;&nbsp;&nbsp; 237&nbsp; 159&nbsp; 
+      119&nbsp;&nbsp;&nbsp; 465&nbsp; 317&nbsp; 239&nbsp; &nbsp;&nbsp;613&nbsp; 
+      424 &nbsp;324<BR></FONT><FONT color=#ff0000 face=Arial>15</FONT><FONT 
+      face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24 
+      &nbsp;&nbsp;20 &nbsp;&nbsp;17 &nbsp;&nbsp;&nbsp;&nbsp;98 
+      &nbsp;&nbsp;82&nbsp;&nbsp; 69&nbsp;&nbsp;&nbsp; 274 &nbsp;215&nbsp; 
+      175&nbsp;&nbsp;&nbsp; 499 &nbsp;368&nbsp; 287<BR></FONT><FONT 
+      color=#ff0000 face=Arial>16</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;246 
+      &nbsp;159&nbsp; 122 &nbsp;&nbsp;&nbsp;588&nbsp; 409&nbsp; 
+      323&nbsp;&nbsp;&nbsp; 771&nbsp; 595&nbsp; 471<BR></FONT><FONT 
+      color=#ff0000 face=Arial>17</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;93 
+      &nbsp;&nbsp;79&nbsp;&nbsp; 68&nbsp;&nbsp;&nbsp; 295 &nbsp;246 
+      &nbsp;211&nbsp;&nbsp;&nbsp; 587 &nbsp;478 &nbsp;393 <BR></FONT><FONT 
+      color=#ff0000 face=Arial>18</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;146 &nbsp;110 
+      &nbsp;&nbsp;90 &nbsp;&nbsp;&nbsp;355 &nbsp;283&nbsp; 237&nbsp;&nbsp;&nbsp; 
+      502 &nbsp;412&nbsp; 354<BR></FONT><FONT color=#ff0000 
+      face=Arial>19</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;74 
+      &nbsp;&nbsp;64 &nbsp;&nbsp;56&nbsp;&nbsp;&nbsp; 222 &nbsp;193 
+      &nbsp;168&nbsp;&nbsp;&nbsp; 417&nbsp; 355 &nbsp;307<BR></FONT><FONT 
+      color=#ff0000 face=Arial>20</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;135 
+      &nbsp;&nbsp;85&nbsp;&nbsp; 63&nbsp;&nbsp;&nbsp; 363&nbsp; 244&nbsp; 180 
+      &nbsp;&nbsp;&nbsp;523 &nbsp;367&nbsp; 280 <BR></FONT><FONT color=#ff0000 
+      face=Arial>21</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50 
+      &nbsp;&nbsp;42 &nbsp;&nbsp;35 &nbsp;&nbsp;&nbsp;171 &nbsp;139 
+      &nbsp;116&nbsp;&nbsp; &nbsp;377 &nbsp;285&nbsp; 228 <BR></FONT><FONT 
+      color=#ff0000 face=Arial>22</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;98 
+      &nbsp;&nbsp;69 &nbsp;&nbsp;53 &nbsp;&nbsp;&nbsp;256 &nbsp;192&nbsp; 151 
+      &nbsp;&nbsp;&nbsp;381&nbsp; 288&nbsp; 235 <BR></FONT><FONT color=#ff0000 
+      face=Arial>23 </FONT><FONT 
+      face=Arial>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;44 
+      &nbsp;&nbsp;37 &nbsp;&nbsp;32 &nbsp;&nbsp;&nbsp;143 &nbsp;120 &nbsp;103 
+      &nbsp;&nbsp;&nbsp;295 &nbsp;237&nbsp; 197 <BR></FONT><FONT color=#ff0000 
+      face=Arial>24</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;92 
+      &nbsp;&nbsp;58 &nbsp;&nbsp;43 &nbsp;&nbsp;&nbsp;264 &nbsp;172 &nbsp;127 
+      &nbsp;&nbsp;&nbsp;397&nbsp; 264&nbsp; 199 <BR></FONT><FONT color=#ff0000 
+      face=Arial>25</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;34 
+      &nbsp;&nbsp;28 &nbsp;&nbsp;24 &nbsp;&nbsp;&nbsp;120 &nbsp;&nbsp;96 
+      &nbsp;&nbsp;81 &nbsp;&nbsp;&nbsp;271&nbsp; 204&nbsp; 163 <BR></FONT><FONT 
+      color=#ff0000 face=Arial>26</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;73 
+      &nbsp;&nbsp;50 &nbsp;&nbsp;38 &nbsp;&nbsp;&nbsp;204 &nbsp;144 &nbsp;110 
+      &nbsp;&nbsp;&nbsp;308&nbsp; 224&nbsp; 175 <BR></FONT><FONT color=#ff0000 
+      face=Arial>27</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;31 
+      &nbsp;&nbsp;26 &nbsp;&nbsp;22 &nbsp;&nbsp;&nbsp;106 
+      &nbsp;&nbsp;86&nbsp;&nbsp; 74&nbsp;&nbsp;&nbsp; 228 &nbsp;178 &nbsp;146 
+      <BR></FONT><FONT color=#ff0000 face=Arial>28 </FONT><FONT 
+      face=Arial>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;70 
+      &nbsp;&nbsp;44 &nbsp;&nbsp;32 &nbsp;&nbsp;&nbsp;207 &nbsp;133 
+      &nbsp;&nbsp;97 &nbsp;&nbsp;&nbsp;319 &nbsp;210 &nbsp;154<BR></FONT><FONT 
+      color=#ff0000 face=Arial>29</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;26 
+      &nbsp;&nbsp;21 &nbsp;&nbsp;18 &nbsp;&nbsp;&nbsp;&nbsp;93 &nbsp;&nbsp;73 
+      &nbsp;&nbsp;62 &nbsp;&nbsp;&nbsp;215&nbsp; 159 &nbsp;126 <BR></FONT><FONT 
+      color=#ff0000 face=Arial>30</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;59 
+      &nbsp;&nbsp;40 &nbsp;&nbsp;30 &nbsp;&nbsp;&nbsp;167 &nbsp;115 
+      &nbsp;&nbsp;87 &nbsp;&nbsp;&nbsp;257 &nbsp;182&nbsp; 139<BR></FONT><FONT 
+      color=#ff0000 face=Arial>31</FONT><FONT face=Arial> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24 
+      &nbsp;&nbsp;20 &nbsp;&nbsp;17 &nbsp;&nbsp;&nbsp;&nbsp;84&nbsp; 
+      &nbsp;68&nbsp;&nbsp; 57 &nbsp;&nbsp;&nbsp;185&nbsp; 143&nbsp; 116 
+      &nbsp;</FONT></TT><FONT face=Arial size=2> </P>
+      <DIR>
+      <P>Observe that encrypting blocks of less then 64 bytes (512 bits) is 
+      especially cumbersome because their halves are expanded to 32 bytes before 
+      scrambling and then reduced again to their original size.</P>
+      <P>In these measurements the levels defined in 
+      "</FONT><TT>DECLAREENCRYPTION</TT><FONT face=Arial size=2>" for the 
+      scrambler that is used in key randomization and text randomization were 
+      set to five.</P></DIR>
+      <P>An encryption/decryption speed of 50 Kbytes per second on a mid-range 
+      PC is adequate for many popular applications, such as communications 
+      (including phone conversations) and the storage of sensitive documents. 
+      However this level of performance may be a limiting factor in the 
+      implementation of other applications such as secure data bases.</P><B>
+      <P><A name=BM2_8></A>2.8. THE PSEUDO-RANDOM NUMBER GENERATOR</P></B>
+      <P>Version 3 of GodSave includes a pseudo-random number generator, 
+      </FONT><TT>GSRANDOM</TT><FONT face=Arial size=2>, based on the same 
+      variable technology. Here is how it works: The key processing 
+      </FONT><TT>DECLAREENCRYPTION</TT><FONT face=Arial size=2> initializes a 
+      256 bytes large buffer as a function of both the user key and the master 
+      key. The first 192 bytes of this buffer are the random values that 
+      </FONT><TT>GSRANDOM</TT><FONT face=Arial size=2> returns. When these are 
+      used up the last 64 bytes are used as the scramble key to scramble the 
+      entire buffer. In this way an indefinite number of random values can be 
+      generated. This generator can be used in an application where a stream 
+      cipher is needed.</P>
+      <P>GSrandom is a deterministic: when </FONT><TT>DECLAREENCRYPTION 
+      </TT><FONT face=Arial size=2>is called with the same master and user keys 
+      and the same level parameter then the same sequence of numbers will be 
+      generated (the </FONT><TT>STYLE</TT><FONT face=Arial size=2> parameter 
+      does not affect this operation). </P>
+      <P>When used at level 0, then 1000 bytes per second per 1 MHz of Pentium 
+      processor will be generated. At level 10, 650 bytes will be generated per 
+      second.</P><B>
+      <P><A name=BM3></A>3. THE SOURCE CODE</P>
+      <P><A name=BM3_1></A>3.1. RIGHTS OF USE</P></B>
+      <P>GodSave technology and the source code included here are copyrighted by 
+      TecApro International but they are placed in the public domain so that 
+      they can be used freely. TecApro makes no claims is not liable for any 
+      consequences deriving from the use of this technology or source code. Any 
+      product that uses this technology must display the notice "<B>Encryption 
+      using TecApro's GodSave technology, version 3</B>". Users may also freely 
+      modify the GodSave source code or technology. If you choose to do so, your 
+      product must display the notice "<B>Encryption derived from TecApro's 
+      GodSave technology, version 3</B>".</P><B>
+      <P><A name=BM3_2></A>3.2. AVAILABILITY OF THE SOURCE CODE</P></B>
+      <P>The source code developed by TecApro to implement the GodSave 
+      technology can be downloaded from several Internet Web sites. For an up to 
+      date list of these Web sites, please visit "http://www.tecapro.com/". 
+      Currently only the Pascal source code is available; by the time you read 
+      this the C implementation should be available. In the same site you will 
+      find a Windows DLL file, which you can use from&nbsp;C and Pascal 
+      applications.</P>
+      <P><BR><A name=BM3_3></A><B>3.3. MODIFYING THE GODSAVE ALGORITHM</P></B>
+      <P>There are many simple and straightforward changes a user can make to 
+      the source code, to produce a non standard version of the GodSave 
+      technology, without compromising the quality of the algorithm. The 
+      strength of the GodSave algorithm resides in its variability which is 
+      increased by the creation of non standard versions. Security is increased 
+      by the use of a non standard version because in that case an attacker 
+      needs to have physical access to the source code or the executable code 
+      and in the later case the attacker also has to disassemble the code before 
+      being able to mount an effective attack on the algorithm.</P>
+      <P>Any non standard version of GodSave that is produced will of course not 
+      work with the standard version, nor with other non standard versions. 
+      However the use of a non standard version may be the best choice in some 
+      situations, such as security for a closed organization, or the development 
+      of a vertical application.</P>
+      <P>Here are some examples of the sort of simple changes that can be made 
+      to the GodSave algorithm: </P>
+      <UL>
+        <LI>Replace the base keys of GodSave with any other high quality random 
+        sequences (variables "</FONT><TT>baseKey</TT><FONT face=Arial size=2>" 
+        of 448 bytes, "</FONT><TT>baseScrambleKey</TT><FONT face=Arial size=2>" 
+        of 64 bytes, "</FONT><TT>b2bInit</TT><FONT face=Arial size=2>" of 256 
+        bytes and "</FONT><TT>scrSep</TT><FONT face=Arial size=2>" of 64 
+        bytes).</FONT> <FONT face=Arial size=2>
+        <LI>Change the order of the 7 primitive scrambler functions.</FONT> 
+        <FONT face=Arial size=2>
+        <LI>Change the order of the 32 hash functions.</FONT> <FONT face=Arial 
+        size=2>
+        <LI>Change the initialization of the auxiliary hash functions 
+        hashA..hashJ (see source code for their definition).</FONT> <FONT 
+        face=Arial size=2>
+        <LI>Include an additional internal key that is XORed to the hash value 
+        "H" after its initialization in the main scrambler. 
+        <LI>Change the way the internal keys are computed in 
+        "</FONT><TT>DECLAREENCRYPTION</TT><FONT face=Arial size=2>". 
+        <LI>Change the initialization of the constants in the main scrambler by 
+        using different bit sequences of the key (procedure 
+        "</FONT><TT>initConstants</TT><FONT face=Arial size=2>"). 
+        <LI>Change the way the text is distributed in two halves (procedure 
+        "</FONT><TT>separateHalves</TT><FONT face=Arial size=2>") 
+        <LI>Insert in the main scrambler code that modifies the block of data 
+        being processed. For example insert code that is executed after the 
+        third iteration and that XORs the entire block with some particular 
+        value. After the fourth iteration insert code that inverts the order of 
+        the bytes in the block. Or insert code that swaps the first and second 
+        halves of the block. Or that XORs the first half with the second half. 
+        Or that XORs each second byte with the previous byte. Etc. The 
+        possibilities are limitless. 
+        <LI>Modify one or more of the primitive scramblers in a trivial way. For 
+        example, in </FONT><TT>SCRAMBLE3</TT><FONT face=Arial size=2> three 16 
+        bit values from the text are used to define the value to be XORed. 
+        Substitute one of these 16 bit values with a 16 bit value taken from the 
+        key. Or again in </FONT><TT>SCRAMBLE2, SCRAMBLE1 AND SCRAMBLE0</TT><FONT 
+        face=Arial size=2> a constant (30000) is added to the variable "m" in 
+        order to avoid division overflows. Change the value of these 
+        constants.</FONT> </LI></UL><FONT face=Arial size=2>
+      <P>If you want to be more ambitious you could add a new primitive 
+      scrambler (but I recommend you do not remove one of the existing 
+      scramblers). Be careful that the new primitive scrambler does not diminish 
+      in a significant way the information content of the text which it 
+      processes, that is to say the new scrambler when applied to two different 
+      texts should generate with high probability two different results.</P><B>
+      <P><A name=BM3_4></A>3.4. PRODUCTS THAT INCORPORATE GODSAVE 
+      TECHNOLOGY</P></B>
+      <P>Currently only TecApro is developing products that incorporate GodSave 
+      technology. The products currently available, or soon to be available 
+      which incorporate this technology are:</P>
+      <P>"<B>TecApro GodSaveF</B>" is a free utility that encrypts or decrypts 
+      disk files using GodSave. It uses by default level 10, style 7 encryption 
+      on blocks of aprox. 1000 bytes. Before encryption, it compresses the file 
+      using a propriety algorithm with an efficiency comparable to PKZIP. 
+      GodSaveF is specially well suited for creating back-ups on a random access 
+      medium (such as a recordable CD), while maintaining the directory 
+      structure and file names you are using on your hard disk. As an 
+      alternative it can also merge several files in one encrypted file. Also it 
+      can create executable (self-extracting) encrypted files. It is fairly 
+      fast; on a 75 MHz Pentium notebook and its slowish hard disk, it encrypts 
+      some 4 Mbytes of files per minute. Click here to download </FONT><A 
+      href="http://196.40.15.121/Encryption/godsavef.exe"><U><FONT color=#0000ff 
+      face=Arial size=2>GodSaveF.EXE</U></FONT></A><FONT face=Arial size=2>.</P>
+      <P>"<B>TecApro TecaMail</B>" is a secure E-mail client for Internet. 
+      Besides message encryption, the product includes many interesting features 
+      such as: multi-language user interface and spell-checkers; validation of 
+      the reception and reading of messages; filters; inclusion of spoken 
+      messages in an E-mail; internal compression of messages; etc.</P>
+      <P>"<B>TecApro TecaCom</B>" is a secure, real-time communications program 
+      for Internet. It allows two users to concurrently perform activities such 
+      as: chat using the keyboard; talk to each other; send or receive files; 
+      and remotely control each others DOS applications. The price of this 
+      product is USD 24.</P>
+      <P>"<B>TecApro Eureka</B>" is a plug-in for Eudora Pro 3.0 that offers 
+      GodSave encryption for the users of this popular E-mail program. This 
+      product is under development and will cost USD 9 when available (aprox. 
+      date August 1997).</P>
+      <P>"<B>TecApro TecaCrypt</B>" is a general purpose encryption utility. The 
+      aim is to provide a utility which the user can use to maintain specific 
+      files or directories in disk encrypted at all times, while allowing all 
+      Windows applications to access them in a transparent way. This product is 
+      under development and will cost USD 24 when available (aprox. date July 
+      1997).</P>
+      <P>For an up to date list of other products that incorporate GodSave 
+      technology please visit "</FONT><A href="http://www.tecapro.com/"><FONT 
+      face=Arial size=2>http://www.tecapro.com</FONT></A><FONT face=Arial 
+      size=2>".<BR></P><B>
+      <P><A name=BM3_5></A>3.5. FUTURE VERSIONS AND COMMUNICATION</P></B>
+      <P>Information about future versions and developments of the GodSave 
+      Technology can be found at TecApro's Internet Web site "</FONT><A 
+      href="http://www.tecapro.com/"><FONT face=Arial 
+      size=2>http://www.tecapro.com</FONT></A><FONT face=Arial size=2>" . Also 
+      if you decide to work with the GodSave technology please keep me informed 
+      about what you are doing and send me also any observations and ideas you 
+      many have for improvements to the GodSave's technology. My E-mail address 
+      is: </FONT><A href="mailto:dianelos@tecapro.com"><FONT face=Arial 
+      size=2>dianelos@tecapro.com</FONT></A></P><FONT face=Arial size=2>
+      <P><BR><BR><B>PART 2: IDEAS, OBSERVATIONS AND OPEN QUESTIONS</P>
+      <P><A name=BM4></A>4. THE KEY DISTRIBUTION PROBLEM</P></B>
+      <P>The current version of the GodSave technology is a block 
+      encryption/decryption algorithm, and does not include algorithms for key 
+      management. In this section I want to describe the way in which one could 
+      construct a key management algorithm for the GodSave Technology.</P>
+      <P>The GodSave algorithm is a member of a class of algorithms known as 
+      "symmetric". This means that the key used to decrypt a ciphertext must be 
+      the same as the key used to encrypt the plaintext. In a networked 
+      environment with many individual users, it soon becomes impractical to 
+      create and distribute different keys for all the possible pairs of users 
+      who need to communicate. What's more the keys have to be distributed over 
+      a secure channel and protected and stored with great care by each user. 
+      One way to solve this problem is to use an asymmetric encryption algorithm 
+      known as "public key cryptography". In these systems the key needed to 
+      decrypt a message is different from the key need to encrypt it. The use of 
+      public key encryption greatly simplifies the key management problem 
+      because each user can "publish" the key to be used to encrypt messages 
+      sent to him. In addition a user has a private key which he uses to decrypt 
+      the messages sent to him. The problem with public key encryption is that 
+      the two keys are related and the security of the system depends on the 
+      analytic impossibility or the computational unfeasibility of deducing one 
+      key from the other. However the security of the most widely used 
+      implementation of public key cryptography, RSA, depends on the assumption 
+      that it is extremely difficult to factor very large numbers. Even though 
+      the currently known (published) mathematical methods of factoring are 
+      slow, there is no proof that much more efficient methods cannot exist. 
+      Therefore it is prudent to suppose that more efficient algorithms do 
+      indeed exist and that they may have already been discovered but not 
+      published because the discover wants to benefit from keeping the procedure 
+      secret.</P>
+      <P>Key management lies at the very heart of a secure communication system. 
+      If everybody uses a particular method (say RSA public keys) to create, 
+      communicate and store keys, and if this system can be broken then the 
+      security of the whole system is compromised, because all the keys will be 
+      discovered. It is an important feature of a good security system that if a 
+      breach occurs it should be possible to contain it locally and not let it 
+      compromise the overall security of the system. Fortunately, In many 
+      situations the use of public key cryptography as a means of solving the 
+      key management problem is not essential.</P>
+      <P>As an example of how the GodSave technology can help an organization 
+      solve its key management problem consider the following situation:</P>
+      <P>An organization which has offices in several different locations, each 
+      with its own local area network, wants all its staff to be able to 
+      communicate by means of a secure E-mail system. If the organization uses 
+      GodSave technology as the basis for implementing its secure communication 
+      system then it could use the following protocol to solve the key 
+      management problem:</P></FONT><FONT color=#0000ff face=Arial size=2>
+      <P>1.</FONT><FONT face=Arial size=2> In each local area network designate 
+      one of the stations as a "security server". This computer must be 
+      physically secure and totally inaccessible to all, except in extraordinary 
+      circumstances, and then only by the most dependable personnel.</P>
+      <P>On the security server (one per network) and only on the security 
+      server resides a level-0 master key, which is unique for the whole 
+      organization. This master key could for example de stored in a physical 
+      device that is tamper proof. In principle nobody needs actually know and 
+      have to remember this level-0 master key.</P>
+      <P>Once per day, the level-0 master key is only used to produce a level-1 
+      master key. This can be achieved in many ways, for example by scrambling 
+      the current date.</P>
+      <P>When Alice wants to send a secure message to Bob she must first 
+      identify herself. This is a local problem, which depending on the level of 
+      security required can be solved in many ways. For example Alice could be 
+      identified by: her personal password; her physical location; her signature 
+      on a digitizing tablet; correct answers to a personal quiz; a voice timbre 
+      test; an image of her retina; her fingerprints; the heat distribution on 
+      her face, or whatever.</P>
+      <P>Alice constructs a block of data (the message "ticket") that contains 
+      the following information: </P>
+      <UL>
+        <LI>Her name</FONT> <FONT face=Arial size=2>
+        <LI>The identification of the person or group who should receive the 
+        message (Bob or the Network Sales Group etc.)</FONT> <FONT face=Arial 
+        size=2>
+        <LI>A hash (or digital signature) of the message to be sent</FONT> 
+      </LI></UL><FONT face=Arial size=2>
+      <P>She then encrypts this message ticket using her personal password and 
+      an empty (null) master key and mails the resulting ciphertext to the local 
+      security server.</P></FONT><FONT color=#0000ff face=Arial size=2>
+      <P>3.</FONT><FONT face=Arial size=2> The security server receives this, 
+      decrypts it using Alice's password, and validates her personal 
+      identification. Then it produces two pseudo random sequences to be used as 
+      the level-2 master key and level-3A master key, and adds to the ticket the 
+      following information: </P>
+      <UL>
+        <LI>The identification of the security server (a long string)</FONT> 
+        <FONT face=Arial size=2>
+        <LI>A time stamp (exact time of day)</FONT> <FONT face=Arial size=2>
+        <LI>The level-2 master key</FONT> </LI></UL><FONT face=Arial size=2>
+      <P>The security server then encrypts the message ticket using an empty 
+      password and the level-1 master key, and it then encrypts the level-2 
+      master key using Alice's password and the level-3A master key. It sends 
+      Alice's computer both ciphertexts and the level-3A master key 
+      unencrypted.</P></FONT><FONT color=#0000ff face=Arial size=2>
+      <P>4.</FONT><FONT face=Arial size=2> Alice's system now recovers the 
+      level-2 master key using Alice's password and the level-3A master key. 
+      Using an empty password and the level-2 master key it then encrypts her 
+      message and sends both the encrypted message ticket and the encrypted 
+      message to Bob's local network, using any unsecured 
+      medium.</P></FONT><FONT color=#0000ff face=Arial size=2>
+      <P>5.</FONT><FONT face=Arial size=2> At the destination, the local 
+      security server decrypts the ticket using an empty password and the 
+      level-1 master key, making sure that all is in order. It then informs Bob 
+      that he has a message.</P></FONT><FONT color=#0000ff face=Arial size=2>
+      <P>6.</FONT><FONT face=Arial size=2> Once Bob has properly identified 
+      himself, the system creates a level-3B master key, and uses Bob's password 
+      and the level-3B master key to encrypt the message ticket. It then sends 
+      Bob's computer the encrypted message, the encrypted message ticket, and 
+      the level-3B master key unencrypted.</P></FONT><FONT color=#0000ff 
+      face=Arial size=2>
+      <P>7.</FONT><FONT face=Arial size=2> Bob's computer decrypts the message 
+      ticket using Bob's password and the level-3b master key and recovers the 
+      level-2 master key. It then decrypts the message using an empty password 
+      and the level-2 master key, and validates its hash value.</P>
+      <P>Here are some of the important characteristics of this protocol: </P>
+      <UL>
+        <LI>The level-0 master key is only used once a day by each security 
+        server to produce the daily organization wide level-1 master key. The 
+        level-0 master key never leaves the security servers.</FONT> <FONT 
+        face=Arial size=2>
+        <LI>The level-1 master key is also used only by the security servers to 
+        encrypt and decrypt message tickets. It never leaves the security 
+        servers either.</FONT> <FONT face=Arial size=2>
+        <LI>The randomly generated level-2 master key, which is used to encrypt 
+        the message on the user's computer, will never be used again.</FONT> 
+        <FONT face=Arial size=2>
+        <LI>The level-2 master key is sent to Alice's computer in encrypted 
+        form. In order to recover the level-2 master key, an attacker must be 
+        able to intercept this local communication and know or be able to guess 
+        Alice's password.</FONT> <FONT face=Arial size=2>
+        <LI>The security computers only encrypt or decrypt the short message 
+        ticket blocks.</FONT> <FONT face=Arial size=2>
+        <LI>The message plaintext never leaves Alice's or Bob's local 
+        computer.</FONT> </LI></UL><FONT face=Arial size=2>
+      <P>Personal keys are known only by the local security server; there is no 
+      organization wide list personal keys and no need to communicate these keys 
+      to remote networks.</P>
+      <P>This key protocol can be extended to cover individual remote users. For 
+      example, if Alice travels all around the country and needs to communicate 
+      using her notebook, then the following modification to step 3 in the key 
+      protocol already described can be used.</P>
+      <P>Periodically load, by some means or other, Alice's computer with a 
+      level-3 master key that is known only to Alice's computer and the security 
+      server to which she is assigned.</P>
+      <P>This way it is not necessary to transmit an unencrypted level-3 master 
+      key. In order to read Alice's mail, an attacker must now have physical 
+      access to her computer in order to steal the level-3 master key, be able 
+      intercept her communications, and know or be able to guess her password. 
+      If an attacker is able to achieve such a broad range of security breaches 
+      then the organization will not do any better using public key 
+      cryptography.</P><B>
+      <P><A name=BM5></A>5. OTHER IDEAS CONCERNING GODSAVE</P></B>
+      <P>In this section I want to share with you some of my ideas for 
+      developing and extending the GodSave technology. This way I hope to 
+      encourage you to explore and exploit some of these ideas.</P><B>
+      <P><A name=BM5_1></A>5.1. RECURSIVE KARN</P></B>
+      <P>A good encryption algorithm makes a good one-way hash function because, 
+      by definition, it is very difficult to deduce the plaintext from the 
+      ciphertext. The idea here then is to use the Karn encryption algorithm as 
+      the scrambler for a "higher order Karn".</P>
+      <P>Start by dividing the key in 4 subkeys K1..K4, and the text in 4 
+      subtexts T1..T4, and then apply the basic Karn algorithm to obtain: </P>
+      <DIR></FONT><TT>
+      <P>SS &nbsp;&nbsp;&nbsp;&nbsp;( T1.T2 ) xor T3.T4 -&gt; C3.C4 
+      <BR>&nbsp;&nbsp;K1.K2</P>
+      <P>SS &nbsp;&nbsp;&nbsp;&nbsp;( C3.C4 ) xor T1.T2 -&gt; C1.C2 
+      <BR>&nbsp;&nbsp;K3.K4</P></DIR></TT><FONT face=Arial size=2>
+      <P>where the symbol "." means "concatenated with", E denotes the GodSave 
+      encryption algorithm and C1.C2.C3.C4 is the ciphertext.</P>
+      <P>Substituting the Karn algorithm for the scrambler function SS we 
+      get:</P>
+      <P>To encrypt: </P>
+      <DIR></FONT><TT>
+      <P>S( K1,T1 ) xor T2 -&gt; X2 <BR>S( K2,X2 ) xor T1 -&gt; X1 <BR>X1 xor T3 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; C3 <BR>X2 xor T4 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; C4 <BR>S( K3,C3 ) 
+      xor C4 -&gt; X4 <BR>S( K4,X4 ) xor C3 -&gt; X3 <BR>X3 xor T1 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; C1 <BR>X4 xor T2 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&gt; 
+      C2</P></DIR></TT><FONT face=Arial size=2>
+      <P>To decrypt: </P>
+      <DIR></FONT><TT>
+      <P>S( K3,C3 ) xor C4 -&gt; X4 <BR>X4 xor C2 -&gt; T2 <BR>S( K4,X4 ) xor C3 
+      -&gt; X3 <BR>X3 xor C1 -&gt; T1 <BR>S( K1,T1 ) xor T2 -&gt; X2 <BR>X2 xor 
+      C4 -&gt; T4 <BR>S( K2,X2 ) xor T1 -&gt; X1 <BR>X1 xor C3 -&gt; 
+      T3</P></DIR></TT><FONT face=Arial size=2>
+      <P>where S denotes the Scrambler used.</P>
+      <P>It is an open question whether this approach produces a stronger 
+      cipher.</P><B>
+      <P><A name=BM5_2></A>5.2. VARIABLE RANDOM NUMBER GENERATOR</P></B>
+      <P>With all algorithmic (pseudo) random generators some regularity can be 
+      found by studying a sequence that is long enough. I believe it is possible 
+      to build a "cryptographically secure generator", by randomly selecting a 
+      group of independent generators out of a large pool of generators, XORing 
+      their output, and using this particular generator only to generate a small 
+      random sequence.</P>
+      <P>For example, suppose we can find 24 fairly good and independent random 
+      number generators, and we pick 12 out of this pool, and XOR their output 
+      in order to build a random sequence that on average is 100 bytes long. 
+      After that we pick another group of 12 and build another random sequence. 
+      There are </FONT><TT>24!/( 12! * (24-12)! )</TT><FONT face=Arial size=2> 
+      different groups of 12 we can pick (in this case there are 2.7 million 
+      alternatives). Therefore the same generator would be used on average only 
+      once every 270 Megabytes of the sequence.</P>
+      <P>We would achieve comparable security (quality of randomness) but better 
+      performance if we chose 5 generators out of a pool of 50.</P>
+      <P>How easy is it to find dozens of independent algorithmic random number 
+      generators? Every known cipher algorithm can be used as a random number 
+      generator and they are all, presumably, independent. GodSave's "variable" 
+      nature provides a simpler solution. Just use the GodSave's scrambler with 
+      some particular key to produce the first one hundred, or so, bytes of the 
+      random sequence. Then generate some more bytes to serve as the next key to 
+      be used to generate the next one hundred bytes of the random sequence and 
+      so on. Since each new key effectively changes GodSave's code this is 
+      equivalent to using a set of independent scramblers. GodSave 3 source code 
+      includes the function </FONT><A 
+      href="#2.8"><FONT face=Arial 
+      size=2>GSrandom</FONT></A><FONT face=Arial size=2> that does just that. 
+      GSrandom changes the internal scrambler after every 192 pseudo random 
+      bytes produced.<BR><BR><BR><A name=BM5_3></A><B>5.3. THE AFFINITY BETWEEN 
+      CIPHERS, SCRAMBLERS AND RNGS</P></B>
+      <P>An interesting consequence of Karn's algorithm is the affinity between 
+      ciphers and scramblers: if you have a good scrambler you can produce a 
+      good cipher. The contrary is also true: if you have a good cipher you can 
+      produce a good one-way function, i.e. a good scrambler.</P>
+      <P>Interestingly there is also an affinity between Random Number 
+      Generators and scramblers. Obviously you can use a scrambler as a RNG (as 
+      I suggested in </FONT><A 
+      href="#5.2"><FONT face=Arial 
+      size=2>section 5.2</FONT></A><FONT face=Arial size=2>). But the contrary 
+      is also true. Suppose you have a good RNG with an internal state of 256 
+      bytes. You can use this RNG to produce a good scrambler of blocks of 256 
+      bytes: all you have to do is use this block as the RNG's state and use the 
+      RNG to produce the scrambled block.</P><B>
+      <P><A name=BM6></A>6. THE ETHICS OF DATA ENCRYPTION</P></B>
+      <P>To round out this paper I would like to present some personal 
+      observations on the ethics of trying to develop a secure encryption 
+      algorithm. Without doubt, encryption is a tool that can be used by 
+      criminals and other "enemies of society" to do harm. However, the same 
+      applies to almost any other tool, such as cars, cellular phones or 
+      binoculars. I can understand the preoccupation of governments that the 
+      existence of a secure encryption algorithm would make it impossible to 
+      intercept the communications of criminals and other enemies of society. 
+      However, I firmly believe that our personal information is our private 
+      property and that we have the right to safeguard it as well as we can. 
+      Personally I am not paranoid about governments. I believe that modern 
+      democratic governments are basically good and accurately reflect the 
+      attitudes and culture of the people they govern. But Internet is becoming 
+      the nervous system of our world, and if any entity were permitted the 
+      right to read or disrupt the flow of information on the Internet, it would 
+      amount to an unacceptable and dangerous concentration of power.</P>
+      <P>With the advances of the information technologies, governments already 
+      have at their disposal many powerful tools to aid them in their fight 
+      against crime (both violent and white-collar). Take the international 
+      financial system as an example. This system has been created as a public 
+      service and is regulated by governments. I feel such systems should be 
+      designed in a way that they take full advantage of modern technology, and 
+      that they should be open to inspection. Thus, for example, all large or 
+      repetitive financial transactions, without even the need for any warrants, 
+      should be routinely and automatically examined to detect criminal 
+      activity. My point is that even though personal information is private, 
+      nobody should have the right to use the international financial system 
+      created by society, in a way contrary to the public interest. Personally I 
+      don't want anybody to be able to read my work or my letters, but I don't 
+      care if there are automatic systems in place that detect whether I am 
+      using the financial system in order to sell drugs or arms or to avoid 
+      paying taxes.</P>
+      <P>One last personal note on ethics and public policy. I believe that 
+      ethics in politics should not be an abstract concept, and that the impact 
+      of a law or regulation on the public interest should be quantified so as 
+      to keep it in perspective. For example, organizations that produce or sell 
+      tobacco or handguns contribute directly to the killing of orders of 
+      magnitude more people than criminal organizations which produce or sell 
+      illegal drugs, but governments invest much more in combating and 
+      controlling the latter than the former. Then again people who cheat on 
+      their taxes do orders of magnitude more harm to society than criminals who 
+      rob banks or gas stations. Ask yourself, how probable it is that you will 
+      die in a war or a terrorist attack compared with the probability that you 
+      will die from cancer? Clearly the second threat is hundreds of times more 
+      serious for the average individual, yet governments invest much more in 
+      combating the former risk. If public investment in defending against these 
+      threats is inversely proportional to the threats themselves, then there is 
+      something very wrong with our democracy. It seems to me that law makers 
+      who pressure for spending public funds on defense instead of on cancer 
+      research, are orders of magnitude more dangerous to the average citizen 
+      then an international terrorist. Every political decision and its impact 
+      on the public interest should not be discussed in isolation and out of 
+      context, nor should they be discussed in an emotional manner, rather it 
+      should be weighed (for both cost and benefit) and put into perspective 
+      with the whole of public interest. <BR></P></FONT>
+      <TABLE border=1 cellSpacing=1 width=624>
+        <TBODY>
+        <TR>
+          <TD bgColor=#0000ff vAlign=center>
+            <P><B><FONT color=#ffffff face=Arial size=5><TT>Other 
+            links</B></FONT></TT></P></TD></TR></TBODY></TABLE>
+      <P><A href="http://www.austinlinks.com/Crypto/"><FONT face=Arial 
+      size=2>Quadralay Cryptography Archive</FONT></A><FONT face=Arial size=2>: 
+      has quite a lot of good links to encryption-related pages, mainly to 
+      technologies and articles.</P></FONT>
+      <P>
+      <HR>
+
+      <P></P>
+      <P align=center><A href="http://www.tecapro.com/index.html"><FONT 
+      face="Courier New" size=2>TecApro's Home Page</FONT></A> </P>
+      <P>
+      <HR>
+
+      <P></P><I><FONT face=Arial size=2>
+      <P align=right>Modified on July 15, 1997.</I> (</FONT><A 
+      href="mailto:webmaster@tecapro.com"><FONT face=Arial 
+      size=2>webmaster@tecapro.com</FONT></A><FONT face=Arial size=2>)<BR>Every 
+      trademark mentioned is the property of their respective owners.</P></FONT><!--IWPEND--></TD></TR></TBODY></TABLE><!--- fin main ---><!--- menu tercer nivel --->
+<TABLE border=0 cellPadding=0 cellSpacing=0 width=600>
+  <TBODY>
+  <TR>
+    <TD bgColor=#000000 height=2><IMG alt="" border=0 height=5 
+      src="images/blackline.jpg" 
+  width=600></TD></TR></TBODY></TABLE><!--- fin menu tercer nivel ---></DIV><!--- inicio abajo --->
+<DIV align=center>
+<TABLE border=0 cellPadding=0 cellSpacing=0 width=600>
+  <TBODY>
+  <TR>
+    <TD><IMG alt="" border=0 height=35 
+      src="images/realizado2.gif" width=68> <A 
+      href="http://www.tecapro.com/sinter-hermes.html"><IMG alt="" border=0 
+      height=35 src="images/ani-hermes.gif" 
+      width=68></A></TD>
+    <TD><FONT face=Arial size=2>Para más información: <A 
+      href="mailto:tecapro@tecapro.com">tecapro@tecapro.com</A></FONT></TD></TR></TBODY></TABLE></DIV><!--- fin abajo ---></BODY></HTML>

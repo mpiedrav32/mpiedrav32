@@ -1,0 +1,180 @@
+Last metadata expiration check: 0:16:04 ago on Wed 06 Sep 2023 01:52:29 PM CST.
+Available Environment Groups:
+   Fedora Custom Operating System
+   Minimal Install
+   Fedora Server Edition
+   Fedora Cloud Server
+   KDE Plasma Workspaces
+   Xfce Desktop
+   Phosh Desktop
+   LXDE Desktop
+   LXQt Desktop
+   Cinnamon Desktop
+   MATE Desktop
+   Sugar Desktop Environment
+   Deepin Desktop
+   Budgie Desktop
+   Infrastructure Server
+   Basic Desktop
+   i3 desktop
+   Sway Desktop
+Installed Environment Groups:
+   Fedora Workstation
+   Development and Creative Workstation
+   Web Server
+Installed Groups:
+   Anaconda tools
+   base-x
+   C Development Tools and Libraries
+   Container Management
+   Development Libraries
+   Development Tools
+   Dial-up Networking Support
+   Engineering and Scientific
+   Fedora Packager
+   Firefox Web Browser
+   GNOME Software Development
+   Guest Desktop Agents
+   Input Methods
+   KDE Software Development
+   KDE Frameworks 5 Software Development
+   LibreOffice
+   Common NetworkManager Submodules
+   Printing Support
+   Python Science
+   RPM Development Tools
+   Standard
+   Virtualization
+   Basic Web Server
+   Fedora Workstation product core
+   X Software Development
+   GNOME Desktop Environment
+   Multimedia
+   Core
+   Fonts
+   Hardware Support
+Available Groups:
+   3D Printing
+   Administration Tools
+   Audio Production
+   Authoring and Publishing
+   Basic Desktop
+   Budgie
+   Budgie Desktop Applications
+   Buildsystem building group
+   Cinnamon
+   Bootloader tools for Cloud images
+   Cloud Infrastructure
+   Cloud Management Tools
+   Cloud Server Tools
+   Compiz
+   Critical Path (anaconda)
+   Critical Path (Applications)
+   Critical Path (Base)
+   Critical Path (Build)
+   Critical Path (Compose)
+   Critical Path (Deepin desktop)
+   Critical Path (GNOME)
+   Critical Path (KDE)
+   Critical Path (LXDE)
+   Critical Path (LXQt)
+   Critical Path (Server)
+   Critical Path (standard)
+   Critical Path (Xfce)
+   D Development Tools and Libraries
+   Deepin Desktop Applications
+   Media packages for Deepin Desktop
+   Deepin Desktop Office
+   Design Suite
+   Directory Server
+   DNS Name Server
+   Dogtag Certificate System
+   Domain Membership
+   Editors
+   Educational Software
+   Electronic Lab
+   Enlightenment
+   Font design and packaging
+   FreeIPA Server
+   FTP Server
+   Extra games for the GNOME Desktop
+   Graphics
+   Guest Agents
+   High Availability
+   HAProxy
+   Haskell
+   Headless Management
+   i3 window manager
+   i3 window manager (supplemental packages)
+   Java
+   Java Development
+   Java Application Server
+   KDE Applications
+   KDE Educational applications
+   KDE Multimedia support
+   KDE Office
+   KDE Telepathy
+   Legacy Fonts
+   Legacy Network Server
+   LibreOffice Development
+   Load Balancer
+   Applications for the LXDE Desktop
+   LXDE
+   Multimedia support for LXDE
+   LXDE Office
+   Applications for the LXQt Desktop
+   LXQt
+   Translations of LXQt
+   Multimedia support for LXQt
+   LXQt Office
+   Mail Server
+   MATE Applications
+   MATE
+   Milkymist
+   MinGW cross-compiler
+   MongoDB
+   MariaDB (MySQL) Database
+   Network Servers
+   Neuron Modelling Simulators
+   News Server
+   OCaml
+   Office/Productivity
+   Perl Development
+   Perl for Web
+   A phone/tablet UX environment
+   PHP
+   VMware Platform Support
+   Python Classroom
+   Robotics
+   Ruby
+   Ruby on Rails
+   Security Lab
+   Server Configuration Tools
+   Hardware Support for Server Systems
+   Fedora Server product core
+   Windows File Server
+   PostgreSQL Database
+   Additional Sugar Activities
+   Sugar Desktop Environment
+   Sway Window Manager
+   Sway Window Manager (supplemental packages)
+   Text-based Internet
+   Tomcat
+   Vagrant with libvirt support
+   Headless Virtualization
+   Window Managers
+   Fedora Workstation ostree support
+   Applications for the Xfce Desktop
+   Xfce
+   Extra plugins for the Xfce panel
+   Multimedia support for Xfce
+   Xfce Office
+   Xfce Software Development
+   XMonad
+   XMonad for MATE
+   Deepin Desktop Environment
+   Graphical Internet
+   KDE (K Desktop Environment)
+   Games and Entertainment
+   Sound and Video
+   System Tools

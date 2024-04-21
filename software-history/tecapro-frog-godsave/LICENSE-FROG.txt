@@ -1,0 +1,29 @@
+(*
+Pascal reference implementation for the FROG symmetric block cipher
+submitted by TecApro to NIST as an AES candidate algorithm. This
+implementation of FROG is more flexible than the C and Java reference
+implementations submitted, because it permits the use of any block size
+between 8 bytes and 128 bytes.
+
+The full FROG documentation can be found in www.tecapro.com
+
+This code was written by Dianelos Georgoudis (email: dianelos@tecapro.com)
+in June 1998.
+
+This source code has three parts:
+
+A. Definition of the pure FROG algorithm.
+
+B. Implementation of the NIST specified API, including ECB, CBC,
+   and CFB 1-bit modes.
+
+C. Examples of use in ECB, CBC and CFB mode as well as code for the creation
+   of the Known Answer Tests and the Monte Carlo Tests, as specified by NIST.
+
+This algorithm is put in the public domain.
+
+Disclaimer:
+TecApro is not responsible for any damage, direct or indirect,
+resulting from the use of this source code, and makes no claims about
+its fitness for any particular purpose. By using this software you are
+solely responsible for all consequences. *)

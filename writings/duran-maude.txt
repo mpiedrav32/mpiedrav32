@@ -1,0 +1,57 @@
+Sobre Maude en relación con otros sistemas
+Paco Durán <duran@lcc.uma.es>	Mon, Mar 15, 2021 at 2:50 PM
+To: Marco Piedra Venegas <marco.piedra@ucr.ac.cr>
+Cc: Francisco Durán <duran@lcc.uma.es>
+
+Hola Marco:
+
+Intento contestar a tus preguntas.
+
+> On 11 Mar 2021, at 22:11, Marco Piedra Venegas <marco.piedra@ucr.ac.cr> wrote:
+>
+> Saludos,
+>
+> con respecto a la lógica de reescritura y lógica ecuacional de Maude, ¿cómo se comparan en expresividad con otros sistemas lógicos, como el cálculo de construcciones de Coq? ¿Qué limitaciones inherentes se han identificado en Maude como metalenguaje?
+
+Es complicado comparar la expresivildad de formalismos, pero se ha propuesto representaciones de gran variedad de formalismos en lógica de reescritura. La lógica de reescritura ha sido utilizada durante muchos años como marco lógico en el que representar distintas lógicas, formalismos y sistemas. Meseguer y Matí-Oliet tienen varios trabajos cobre el tema.
+
+Quizás puedes consultar los trabajos de Verdejo sobre ejecutabilidad de estas representaciones: http://maude.sip.ucm.es/alberto-verdejo/tesis/index.html
+
+Sobre el cálculo de construcciones, puede mirar los trabajos de Mark-Oliver Stehr:
+
+The Open Calculus of Constructions (Part I): An Equational Type Theory with Dependent Types for Programming, Specification, and Interactive Theorem Proving. Fundam. Informaticae 68(1-2): 131-174 (2005)
+The Open Calculus of Constructions (Part II): An Equational Type Theory with Dependent Types for Programming, Specification, and Interactive Theorem Proving. Fundam. Informaticae 68(3): 249-288 (2005)
+
+> He estado estudiando, por mi cuenta, sobre automatización de demostraciones y teoría de lenguajes de programación.
+>
+> Aunque todavía me resulta difuso el panorama de cómo se relacionan o compiten los varios sistemas existentes (en teoría y en implementaciones), así como qué líneas de investigación pueden ser suficientemente relevantes a futuro.
+
+Conozco varios intentos de interconectar Maude con Isabelle (http://maude.sip.ucm.es/~adrian/files/hetsAMAST.pdf), pero que yo sepa nada relacionado con Coq. Sería un tema interesante, de hecho, los demostradores de teoremas siempre han sido uno de los puntos débiles de Maude. Aunque está el ITP y otros demostradores de teoremas, tienen mucho que mejorar con respecto de otros como Isabelle, Coq, PVS, etc. La idea de tender puentes entre unos y otros siempre fue un tema interesante de explorar
+
+Maura Cerioli, José Meseguer: May I Borrow Your Logic? (Transporting Logical Structures Along Maps). Theor. Comput. Sci. 173(2): 311-347 (1997)
+
+> Por ejemplo, ¿se considera importante facilitar la creación de metalenguajes a la medida (i.e., específicos de dominio), a como hay lenguajes de programación para ciertos nichos específicos?
+
+El tema de los DSLs y DSMLs está bastante de moda, y creo que sería interesante explorar la posibilidad de desarrollar herramientas formales para ellos. Creo que el tema está bastante inmaduro todavía, y no está claro por dónde continuaría.
+
+Quizás te puede interesar echarle un ojo a alguno de estos trabajos:
+
+José Eduardo Rivera, Francisco Durán, Antonio Vallecillo: Formal Specification and Analysis of Domain Specific Models Using Maude. Simul. 85(11-12): 778-792 (2009)
+
+José Raúl Romero, José Eduardo Rivera, Francisco Durán, Antonio Vallecillo: Formal and Tool Support for Model Driven Engineering with Maude. J. Object Technol. 6(9): 187-207 (2007)
+
+Fernando Macías, Uwe Wolter, Adrian Rutle, Francisco Durán, Roberto Rodríguez-Echeverría: Multilevel coupled model transformations for precise and reusable definition of model behaviour. J. Log. Algebraic Methods Program. 106: 167-195 (2019)
+
+> Aparentemente, un metalenguaje general sería suficientemente expresivo para esencialmente cualquier dominio y sólo sería necesario crear módulos para los varios dominios. Aunque posiblemente en ciertas áreas de academia o industriales (e.g., verificación de configuraciones de redes y servicios en la nube) serían útiles metalenguajes reducidos.
+
+Esta es un poco la idea tras e-Motions and MultEcore en los trabajos anteriores, aunque en lugar de inventar tu propio lenguaje intentan utilizar notaciones más o menos establecidas para la definición de sistemas. La parte de comportamiento es lo menos claro, y es ahí precisamente donde intentan hacer alguna contribución. Pero hay mucho trabajo por delante en esta línea.
+
+> Por cierto, en la información de la imagen promocional de Maude (http://maude.cs.illinois.edu/w/index.php/File:Streets-cross.png) se puede inclulir la curiosidad de que el cruce se encuentra en Sunnyvale, California:
+>
+> https://www.google.com/maps/@37.3927155,-122.0392225,92m/data=!3m1!1e3
+
+La foto de la página web es de Steven Eker, conocemos perfectamente el sitio. Pero me ha parecido buena idea añadir un enlace en la página web. Gracias.
+
+Saludos,
+
+Francisco Durán

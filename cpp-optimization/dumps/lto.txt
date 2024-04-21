@@ -1,0 +1,25 @@
+; link-time optimization on quartic_double (calls to cubic_double, etc.)
+
+    13fe:	f2 0f 10 84 c4 00 01 	movsd  xmm0,QWORD PTR [rsp+rax*8+0x100]
+    1405:	00 00 
+    1407:	66 44 0f 28 c8       	movapd xmm9,xmm0
+    140c:	f2 44 0f 59 c8       	mulsd  xmm9,xmm0
+    1411:	66 0f 28 c8          	movapd xmm1,xmm0
+    1415:	f2 41 0f 5c c8       	subsd  xmm1,xmm8
+    141a:	f2 0f 58 cf          	addsd  xmm1,xmm7
+    141e:	66 0f 28 d0          	movapd xmm2,xmm0
+    1422:	f2 0f 58 d6          	addsd  xmm2,xmm6
+    1426:	f2 0f 59 d1          	mulsd  xmm2,xmm1
+    142a:	66 0f 28 c8          	movapd xmm1,xmm0
+    142e:	f2 41 0f 59 c9       	mulsd  xmm1,xmm9
+    1433:	f2 41 0f 5e c9       	divsd  xmm1,xmm9
+    1438:	f2 0f 5c cd          	subsd  xmm1,xmm5
+    143c:	f2 0f 59 ca          	mulsd  xmm1,xmm2
+    1440:	f2 0f 5c c4          	subsd  xmm0,xmm4
+    1444:	f2 0f 58 c3          	addsd  xmm0,xmm3
+    1448:	f2 0f 59 c1          	mulsd  xmm0,xmm1
+    144c:	f2 0f 11 84 c4 80 00 	movsd  QWORD PTR [rsp+rax*8+0x80],xmm0
+    1453:	00 00 
+    1455:	48 83 c0 01          	add    rax,0x1
+    1459:	48 83 f8 0a          	cmp    rax,0xa
+    145d:	75 9f                	jne    13fe <main+0x229>

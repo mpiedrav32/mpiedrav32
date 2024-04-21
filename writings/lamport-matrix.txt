@@ -1,0 +1,56 @@
+RE: Representation of algorithms as matrix operations
+Subject: RE: Representation of algorithms as matrix operations
+From: Leslie Lamport <lamport@microsoft.com>
+Date: 10/20/20, 5:30 PM
+To: Marco Piedra Venegas <marco.piedra@ucr.ac.cr>
+Dear Mr. Piedra,
+The question of whether Dijkstra’s algorithm can be represented in terms of matrix operations is an
+interesting one. The way to answer it is by trying. Take a small instance of the problem, record the steps
+Dijkstra’s algorithm goes through to compute shortest paths and see if they can be described by matrix
+operations. If they can, and if that is in some way better than the usual description of the algorithm,
+then you will have discovered something interesting. I doubt if you will succeed, but even if you don’t
+you should learn something in the process. Don’t try to think about grand theories. If you have an idea,
+try it on examples.
+I expect that one can represent a Turing machine in some way with matrices. It’s not hard to encode the
+state of a Turing machine as two numbers (one to describe the tape and its position, the other to
+describe the finite “memory”). But that representation is of no use. I expect that will be true of any way
+of encoding general computations in terms of matrices. There’s a very tiny chance that I’m wrong. But
+the only way you will know if I’m wrong is by actually finding a coding that works on a number of
+different examples.
+And talk to your professors about what you’re doing. They don’t have to know anything about the theory
+of algorithms to understand what you are doing with examples and whether it makes sense. There are
+crazy people who believe they have discovered amazing things and write a lot of nonsense. They dismiss
+others who tell them that it’s nonsense, believing that they are geniuses and those others just can’t
+understand what they are doing. Don’t become one of those crazy people. If you can’t explain what
+you’re doing to your professors, then it means that you don’t understand what you are doing. If you
+have a wild idea like representing computation by matrices, unless you’re a genius (and the odds are
+strongly against that), it won’t work. But understanding why it doesn’t work will teach you something.
+Your professors should be able to help you do that. Eventually, you may learn to have more modest
+goals and will find something that does work.
+Good luck,
+Leslie Lamport
+
+From: Marco Piedra Venegas <marco.piedra@ucr.ac.cr>
+Sent: Tuesday, October 20, 2020 2:31 AM
+To: Leslie Lamport <lamport@microsoft.com>
+Subject: Representation of algorithms as matrix operations
+Dear Mr. Lamport,
+regarding the representation of algorithms beyond using Turing-complete programming languages, I have long
+been wondering whether the approach of a sequence of matrix operations as a model of computation has
+been explored.
+For instance, given an input encoded as a square matrix (e.g., an distance matrix from a graph), is it possible
+to obtain a matrix that represents the shortest paths, by performing only matrix multiplications that represent
+the computation of Dijkstra's algorithm?
+Several questions arise from that problem. First, can a sequence of matrix functions or operations (sum,
+multiplication, determinant, etc.) be proven to be a model of computation?
+If true, what operations are allowed? What kind of programs can be represented, i.e., what are the limits of
+that model?
+Given an algorithm, what procedures can be used to encode its operations as matrix operations, and its inputs
+and outputs as matrices?
+I'm aware the description of this problem lacks proper scientific formality. Yet, I'm not aware of any way of
+representing an algorithm by matrix operations, considering my limited knowledge this far in my studies.
+My professors can't guide me any further. Theory of algorithms isn't really a strong topic at my computer
+science department.
+Marco Piedra
+Computer science student (undergraduate)
+University of Costa Rica

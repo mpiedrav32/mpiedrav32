@@ -1,0 +1,17 @@
+{
+   This is the source code for the full GodSave encryption algorithm,
+   version 3, under Borland Pascal 7
+
+   Copyright 1996-1997 by TecApro International
+
+   Unlimited permission to copy, use or adapt is hereby granted
+   subject to inclusion of one of the following notices:
+      "Encryption using TecApro's GodSave technology, version 3"
+      "Encryption derived from TecApro's GodSave technology, version 3"
+
+   Complete documentation can be found at different sites of Internet.
+   For a list of these sites, as well for news about GodSave,
+   please visit: http://www.tecapro.com/
+
+   version 3 (july 22, 1997)
+}

@@ -1,0 +1,8 @@
+2021-11-07  Marco Piedra Venegas <marco.piedra@ucr.ac.cr>
+
+  Example of concurrent counter update using:
+  - atomic operations
+  - C11 threads and mutex
+  - POSIX threads and mutex
+
+  License and changelog

@@ -1,0 +1,25 @@
+; quartic_double_expanded
+
+    1727:	f2 0f 10 94 c4 00 01 	movsd  xmm2,QWORD PTR [rsp+rax*8+0x100]
+    172e:	00 00 
+    1730:	66 0f 28 c2          	movapd xmm0,xmm2
+    1734:	f2 0f 59 c2          	mulsd  xmm0,xmm2
+    1738:	f2 0f 59 c2          	mulsd  xmm0,xmm2
+    173c:	f2 0f 59 c2          	mulsd  xmm0,xmm2
+    1740:	66 0f 28 da          	movapd xmm3,xmm2
+    1744:	f2 0f 59 df          	mulsd  xmm3,xmm7
+    1748:	f2 0f 59 da          	mulsd  xmm3,xmm2
+    174c:	f2 0f 59 da          	mulsd  xmm3,xmm2
+    1750:	66 0f 28 c8          	movapd xmm1,xmm0
+    1754:	f2 0f 5c cb          	subsd  xmm1,xmm3
+    1758:	66 0f 28 c2          	movapd xmm0,xmm2
+    175c:	f2 0f 59 c6          	mulsd  xmm0,xmm6
+    1760:	f2 0f 59 c2          	mulsd  xmm0,xmm2
+    1764:	f2 0f 58 c1          	addsd  xmm0,xmm1
+    1768:	f2 0f 59 d5          	mulsd  xmm2,xmm5
+    176c:	f2 0f 58 c2          	addsd  xmm0,xmm2
+    1770:	f2 0f 5c c4          	subsd  xmm0,xmm4
+    1774:	f2 0f 11 04 c4       	movsd  QWORD PTR [rsp+rax*8],xmm0
+    1779:	48 83 c0 01          	add    rax,0x1
+    177d:	48 83 f8 0a          	cmp    rax,0xa
+    1781:	75 a4                	jne    1727 <main+0x552>

@@ -1,0 +1,16 @@
+PROJECT_NAME           = "Mapping simulation"
+PROJECT_NUMBER         = 1.0.0
+PROJECT_BRIEF          = "Simulate workload mapping"
+OUTPUT_DIRECTORY       = doc
+CREATE_SUBDIRS         = YES
+OPTIMIZE_OUTPUT_FOR_C  = YES
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_PRIV_VIRTUAL   = YES
+EXTRACT_PACKAGE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_METHODS  = YES
+QUIET                  = YES
+INPUT                  = src
+RECURSIVE              = YES
+HAVE_DOT               = YES
