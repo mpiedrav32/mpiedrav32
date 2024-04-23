@@ -2767,6 +2767,7 @@ https://dblp.org/pid/h/GerardJHolzmann.html
 https://dblp.org/pid/k/JonathanKatz.html
 https://dblp.org/pid/l/YehudaLindell.html
 https://dblp.org/pid/p/LCPaulson.html
+https://dblp.org/pid/t/JFTraub.html
 https://dblp.org/pid/w/GlynnWinskel.html
 https://dblp.org/pid/z/LAZadeh.html
 https://dblp.uni-trier.de/pid/58/3050.html
@@ -4653,6 +4654,7 @@ https://en.wikipedia.org/wiki/Abyssal_plain
 https://en.wikipedia.org/wiki/Academic_Free_License
 https://en.wikipedia.org/wiki/Academic_freedom
 https://en.wikipedia.org/wiki/Academic_journal
+https://en.wikipedia.org/wiki/Academic_journal_publishing_reform
 https://en.wikipedia.org/wiki/Academic_publishing
 https://en.wikipedia.org/wiki/Academic_Ranking_of_World_Universities
 https://en.wikipedia.org/wiki/Academic_study_of_Western_esotericism
@@ -5341,6 +5343,7 @@ https://en.wikipedia.org/wiki/Arthur_Schopenhauer
 https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington
 https://en.wikipedia.org/wiki/Arthur%E2%80%93Merlin_protocol
 https://en.wikipedia.org/wiki/Article_element
+https://en.wikipedia.org/wiki/Article_processing_charge
 https://en.wikipedia.org/wiki/Article-level_metrics
 https://en.wikipedia.org/wiki/Artificial_brain
 https://en.wikipedia.org/wiki/Artificial_consciousness
@@ -11829,6 +11832,7 @@ https://en.wikipedia.org/wiki/Joseon
 https://en.wikipedia.org/wiki/Joseph_ben_Abraham_Gikatilla
 https://en.wikipedia.org/wiki/Joseph_Bertrand
 https://en.wikipedia.org/wiki/Joseph_Conrad
+https://en.wikipedia.org/wiki/Joseph_F._Traub
 https://en.wikipedia.org/wiki/Joseph_Fourier
 https://en.wikipedia.org/wiki/Joseph_Haydn
 https://en.wikipedia.org/wiki/Joseph_Henry_Wegstein
@@ -15169,6 +15173,7 @@ https://en.wikipedia.org/wiki/Pausanias_(geographer)
 https://en.wikipedia.org/wiki/Paxos_(computer_science)
 https://en.wikipedia.org/wiki/Payment_card
 https://en.wikipedia.org/wiki/PayPal
+https://en.wikipedia.org/wiki/Paywall
 https://en.wikipedia.org/wiki/PBKDF2
 https://en.wikipedia.org/wiki/PC_Bruno
 https://en.wikipedia.org/wiki/PC_Card
@@ -15638,6 +15643,7 @@ https://en.wikipedia.org/wiki/Prebisch%E2%80%93Singer_hypothesis
 https://en.wikipedia.org/wiki/Precedence_graph
 https://en.wikipedia.org/wiki/Precision_and_recall
 https://en.wikipedia.org/wiki/Precision_Time_Protocol
+https://en.wikipedia.org/wiki/Predatory_publishing
 https://en.wikipedia.org/wiki/Predicate_transformer_semantics
 https://en.wikipedia.org/wiki/Predication_(computer_architecture)
 https://en.wikipedia.org/wiki/Predictability
@@ -24400,6 +24406,7 @@ https://link.springer.com/article/10.1007/BF02234758
 https://link.springer.com/article/10.1007/BF02252870
 https://link.springer.com/article/10.1007/BF03023053
 https://link.springer.com/article/10.1007/BF03024068
+https://link.springer.com/article/10.1007/BF03024085
 https://link.springer.com/article/10.1007/BF03024340
 https://link.springer.com/article/10.1007/BF03025304
 https://link.springer.com/article/10.1007/s00024-022-03137-2
@@ -24431,6 +24438,7 @@ https://link.springer.com/article/10.1007/s41324-019-00269-x
 https://link.springer.com/article/10.1007/s41870-017-0067-y
 https://link.springer.com/article/10.1023/A:1009726021843
 https://link.springer.com/article/10.1023/A:1022607331053
+https://link.springer.com/article/10.1038/328029a0
 https://link.springer.com/article/10.1038/s42256-021-00318-x
 https://link.springer.com/article/10.1057/jors.1988.160
 https://link.springer.com/article/10.1140/epjb/e2019-100097-4
@@ -24596,6 +24604,7 @@ https://link.springer.com/book/10.1007/978-1-4612-0149-6
 https://link.springer.com/book/10.1007/978-1-4612-0577-7
 https://link.springer.com/book/10.1007/978-1-4612-0629-3
 https://link.springer.com/book/10.1007/978-1-4612-0665-1
+https://link.springer.com/book/10.1007/978-1-4612-0701-6
 https://link.springer.com/book/10.1007/978-1-4612-0737-5
 https://link.springer.com/book/10.1007/978-1-4612-0777-1
 https://link.springer.com/book/10.1007/978-1-4612-0793-1
@@ -25276,6 +25285,7 @@ https://link.springer.com/chapter/10.1007/BFb0055716
 https://link.springer.com/conference/cade
 https://link.springer.com/conference/crypto
 https://link.springer.com/conference/spw
+https://link.springer.com/conference/uc
 https://link.springer.com/content/pdf/10.1007/BF02252870.pdf
 https://link.springer.com/journal/10115
 https://link.springer.com/journal/10472
@@ -27530,6 +27540,7 @@ https://pubs.aip.org/
 https://pubs.aip.org/aip/cha/article/32/6/063109/2835788/Information-thermodynamics-of-encoding-and
 https://pubs.aip.org/aip/jcp/article-abstract/21/6/1087/202680/Equation-of-State-Calculations-by-Fast-Computing
 https://pubs.aip.org/physicstoday
+https://pubs.aip.org/physicstoday/article-abstract/52/5/39/410896/A-Continuous-Model-of-ComputationPhysicists-should
 https://pubs.aip.org/physicstoday/article-abstract/64/9/42/413713/Dynamic-similarity-the-dimensionless
 https://pubs.aip.org/physicstoday/article/72/5/36/926174/Tracking-the-journey-of-a-uranium-cubeA-mysterious
 https://pubs.opengroup.org/onlinepubs/9699919799/
@@ -29371,6 +29382,7 @@ https://valgrind.org/
 https://valos.gitlab.io/Komikku/
 https://vanderbei.princeton.edu/
 https://vanderbei.princeton.edu/LPbook/index.html
+https://vanderbei.princeton.edu/planets_webgl/GottPlanets.html
 https://vanemden.wordpress.com/
 https://vanemden.wordpress.com/2012/04/08/flowcharts-the-once-and-future-programming-language/
 https://vanemden.wordpress.com/2018/07/21/dijkstra-and-logic/
@@ -30486,6 +30498,7 @@ https://www.chebfun.org/
 https://www.checklist.design/flows/password
 https://www.checkpoint.com/
 https://www.chemistryworld.com/
+https://www.chemistryworld.com/news/75-of-european-spending-on-scientific-journals-goes-to-big-five-publishers/4010616.article
 https://www.chemistryworld.com/opinion/frances-arnolds-retraction-and-the-case-for-slow-science/4010994.article
 https://www.cherry-world.com/
 https://www.chessprogramming.org/6502
@@ -33010,6 +33023,7 @@ https://www.mathworks.com/videos/series/solving-odes-in-matlab-117658.html
 https://www.matroska.org/index.html
 https://www.mattblaze.org/photos/locks.html
 https://www.maxar.com/open-data
+https://www.mayerowitz.io/blog/mario-meets-pareto
 https://www.mccormick.northwestern.edu/applied-math/
 https://www.mccormick.northwestern.edu/research/optimization-machine-learning-center/
 https://www.mcmchandbook.net/
@@ -34962,6 +34976,7 @@ https://www.statdns.com/
 https://www.state.gov/
 https://www.state.gov/countries-areas/costa-rica/
 https://www.state.gov/foreign-language-training/
+https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/costa-rica/
 https://www.state.gov/the-u-s-department-of-state-international-technology-security-and-innovation-fund/
 https://www.staticfreesoft.com/
 https://www.statista.com/
@@ -35406,6 +35421,7 @@ https://www.top500.org/site/47871/
 https://www.top500.org/site/48248/
 https://www.top500.org/site/50908/
 https://www.topuniversities.com/
+https://www.topuniversities.com/universities/universidad-de-costa-rica
 https://www.toronto.ca/
 https://www.torproject.org/
 https://www.tortoisemedia.com/
