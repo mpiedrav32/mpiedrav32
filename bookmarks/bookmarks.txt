@@ -1634,6 +1634,9 @@ https://calgo.acm.org/
 https://calibre-ebook.com/
 https://call-cc.org/
 https://calligra.org/
+https://calteches.library.caltech.edu/1976/
+https://calteches.library.caltech.edu/47/
+https://calteches.library.caltech.edu/47/2/1960Bottom.pdf
 https://calyxir.org/
 https://calyxos.org/
 https://cam.uchicago.edu/
@@ -3170,6 +3173,7 @@ https://digitalcommons.dartmouth.edu/dissertations/80/
 https://digitalprivacy.ieee.org/
 https://dillo.org/
 https://direct.mit.edu/books/book/3058/Single-Neuron-Studies-of-the-Human-BrainProbing
+https://direct.mit.edu/books/edited-volume/2882/chapter-abstract/78185/There-s-Plenty-of-Room-at-the-Bottom-An-Invitation?redirectedFrom=fulltext
 https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory
 https://direct.mit.edu/qss/article/2/4/1144/107356/Continued-use-of-retracted-papers-Temporal-trends
 https://directory.fsf.org/wiki/Category/Mathematics
@@ -6987,6 +6991,7 @@ https://en.wikipedia.org/wiki/Causal_reasoning
 https://en.wikipedia.org/wiki/Causality
 https://en.wikipedia.org/wiki/Cavendish_Laboratory
 https://en.wikipedia.org/wiki/Cavity_magnetron
+https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem
 https://en.wikipedia.org/wiki/CBC_News
 https://en.wikipedia.org/wiki/CBC-MAC
 https://en.wikipedia.org/wiki/CBOR
@@ -7451,6 +7456,7 @@ https://en.wikipedia.org/wiki/Cognitive_computer
 https://en.wikipedia.org/wiki/Cognitive_computing
 https://en.wikipedia.org/wiki/Cognitive_revolution
 https://en.wikipedia.org/wiki/Cohen%27s_kappa
+https://en.wikipedia.org/wiki/Coherence_(film)
 https://en.wikipedia.org/wiki/Coherence_(physics)
 https://en.wikipedia.org/wiki/Cohort_(statistics)
 https://en.wikipedia.org/wiki/Cohort_study
@@ -7764,6 +7770,7 @@ https://en.wikipedia.org/wiki/Configuration_space_(physics)
 https://en.wikipedia.org/wiki/Confirmatory_factor_analysis
 https://en.wikipedia.org/wiki/Conflict_of_interest
 https://en.wikipedia.org/wiki/Conflicts_of_interest_in_academic_publishing
+https://en.wikipedia.org/wiki/Confluent_hypergeometric_function
 https://en.wikipedia.org/wiki/Conformal_map
 https://en.wikipedia.org/wiki/Confounding
 https://en.wikipedia.org/wiki/Confraternity_Bible
@@ -7874,6 +7881,7 @@ https://en.wikipedia.org/wiki/Controlling_for_a_variable
 https://en.wikipedia.org/wiki/Convection
 https://en.wikipedia.org/wiki/Convection_cell
 https://en.wikipedia.org/wiki/Convergent_matrix
+https://en.wikipedia.org/wiki/Convergent_series
 https://en.wikipedia.org/wiki/Convex_analysis
 https://en.wikipedia.org/wiki/Convex_body
 https://en.wikipedia.org/wiki/Convex_combination
@@ -9355,6 +9363,7 @@ https://en.wikipedia.org/wiki/Event-driven_programming
 https://en.wikipedia.org/wiki/Eventual_consistency
 https://en.wikipedia.org/wiki/Every_Nation_for_Itself
 https://en.wikipedia.org/wiki/Everyman%27s_Library
+https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once
 https://en.wikipedia.org/wiki/Evgeny_Morozov
 https://en.wikipedia.org/wiki/Evgeny_Yakovlevich_Remez
 https://en.wikipedia.org/wiki/Evidence_lower_bound
@@ -9556,6 +9565,7 @@ https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off
 https://en.wikipedia.org/wiki/Fertile_Crescent
 https://en.wikipedia.org/wiki/Fetch-and-add
 https://en.wikipedia.org/wiki/Few-body_systems
+https://en.wikipedia.org/wiki/Feynman_Prize_in_Nanotechnology
 https://en.wikipedia.org/wiki/Feynman%E2%80%93Kac_formula
 https://en.wikipedia.org/wiki/FF_Meta
 https://en.wikipedia.org/wiki/FFmpeg
@@ -9857,8 +9867,12 @@ https://en.wikipedia.org/wiki/FRISK_Software_International
 https://en.wikipedia.org/wiki/Fritz_(chess)
 https://en.wikipedia.org/wiki/Fritz_Haber
 https://en.wikipedia.org/wiki/Fritz_John_conditions
+https://en.wikipedia.org/wiki/Frobenius_inner_product
+https://en.wikipedia.org/wiki/Frobenius_manifold
+https://en.wikipedia.org/wiki/Frobenius_matrix
 https://en.wikipedia.org/wiki/Frobenius_method
 https://en.wikipedia.org/wiki/Frobenius_normal_form
+https://en.wikipedia.org/wiki/Frobenius_solution_to_the_hypergeometric_equation
 https://en.wikipedia.org/wiki/FROG
 https://en.wikipedia.org/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs
 https://en.wikipedia.org/wiki/Front_organization
@@ -9866,6 +9880,7 @@ https://en.wikipedia.org/wiki/Front_panel
 https://en.wikipedia.org/wiki/FROSTBURG
 https://en.wikipedia.org/wiki/Fruitarianism
 https://en.wikipedia.org/wiki/FTDI
+https://en.wikipedia.org/wiki/Fuchs%27_theorem
 https://en.wikipedia.org/wiki/Fuchsia_(operating_system)
 https://en.wikipedia.org/wiki/Fuchsian_theory
 https://en.wikipedia.org/wiki/Fujitsu
@@ -10043,6 +10058,7 @@ https://en.wikipedia.org/wiki/Generalized_eigenvector
 https://en.wikipedia.org/wiki/Generalized_estimating_equation
 https://en.wikipedia.org/wiki/Generalized_Fourier_series
 https://en.wikipedia.org/wiki/Generalized_function
+https://en.wikipedia.org/wiki/Generalized_hypergeometric_function
 https://en.wikipedia.org/wiki/Generalized_inverse
 https://en.wikipedia.org/wiki/Generalized_linear_array_model
 https://en.wikipedia.org/wiki/Generalized_linear_mixed_model
@@ -10462,6 +10478,7 @@ https://en.wikipedia.org/wiki/Grothendieck%27s_T%C3%B4hoku_paper
 https://en.wikipedia.org/wiki/Ground_expression
 https://en.wikipedia.org/wiki/Group_action
 https://en.wikipedia.org/wiki/Group_method_of_data_handling
+https://en.wikipedia.org/wiki/Group_theory
 https://en.wikipedia.org/wiki/Grouped_data
 https://en.wikipedia.org/wiki/GroupLens_Research
 https://en.wikipedia.org/wiki/Grover%27s_algorithm
@@ -12481,6 +12498,7 @@ https://en.wikipedia.org/wiki/Limited_hangout
 https://en.wikipedia.org/wiki/Limited_liability_company
 https://en.wikipedia.org/wiki/Limited_series_(comics)
 https://en.wikipedia.org/wiki/Limited-memory_BFGS
+https://en.wikipedia.org/wiki/Limiting_case_(mathematics)
 https://en.wikipedia.org/wiki/Limiting_density_of_discrete_points
 https://en.wikipedia.org/wiki/Limits_of_computation
 https://en.wikipedia.org/wiki/Lin%E2%80%93Kernighan_heuristic
@@ -13330,6 +13348,8 @@ https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test
 https://en.wikipedia.org/wiki/Mantra
 https://en.wikipedia.org/wiki/Manual_memory_management
 https://en.wikipedia.org/wiki/Manuel_Blum
+https://en.wikipedia.org/wiki/Many-minds_interpretation
+https://en.wikipedia.org/wiki/Many-worlds_interpretation
 https://en.wikipedia.org/wiki/Manycore_processor
 https://en.wikipedia.org/wiki/Mao_Zedong
 https://en.wikipedia.org/wiki/Map_(higher-order_function)
@@ -14031,6 +14051,7 @@ https://en.wikipedia.org/wiki/Multivariate_normal_distribution
 https://en.wikipedia.org/wiki/Multivariate_probit_model
 https://en.wikipedia.org/wiki/Multivariate_random_variable
 https://en.wikipedia.org/wiki/Multivariate_statistics
+https://en.wikipedia.org/wiki/Multiverse
 https://en.wikipedia.org/wiki/Multiversion_concurrency_control
 https://en.wikipedia.org/wiki/Multivibrator
 https://en.wikipedia.org/wiki/MuMATH
@@ -15012,6 +15033,7 @@ https://en.wikipedia.org/wiki/Packet_processing
 https://en.wikipedia.org/wiki/Packet_Storm
 https://en.wikipedia.org/wiki/Packet_switching
 https://en.wikipedia.org/wiki/Packing_problems
+https://en.wikipedia.org/wiki/Pad%C3%A9_approximant
 https://en.wikipedia.org/wiki/Padding_(cryptography)
 https://en.wikipedia.org/wiki/Padding_oracle_attack
 https://en.wikipedia.org/wiki/PAdES
@@ -16993,6 +17015,7 @@ https://en.wikipedia.org/wiki/Serial_port
 https://en.wikipedia.org/wiki/Serializability
 https://en.wikipedia.org/wiki/Serialization
 https://en.wikipedia.org/wiki/Serials_crisis
+https://en.wikipedia.org/wiki/Series_(mathematics)
 https://en.wikipedia.org/wiki/Series_acceleration
 https://en.wikipedia.org/wiki/Serious_Tubes_Networks
 https://en.wikipedia.org/wiki/Serpent_(cipher)
@@ -17191,6 +17214,7 @@ https://en.wikipedia.org/wiki/Singular_integral
 https://en.wikipedia.org/wiki/Singular_solution
 https://en.wikipedia.org/wiki/Singular_spectrum_analysis
 https://en.wikipedia.org/wiki/Singular_value_decomposition
+https://en.wikipedia.org/wiki/Singularity_(mathematics)
 https://en.wikipedia.org/wiki/Singularity_theory
 https://en.wikipedia.org/wiki/SINPO_code
 https://en.wikipedia.org/wiki/SipHash
@@ -18210,6 +18234,7 @@ https://en.wikipedia.org/wiki/The_Fletcher_Forum_of_World_Affairs
 https://en.wikipedia.org/wiki/The_Fletcher_School_at_Tufts_University
 https://en.wikipedia.org/wiki/The_Fog_of_War
 https://en.wikipedia.org/wiki/The_Future_Sound_of_London
+https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths
 https://en.wikipedia.org/wiki/The_Ghost_in_the_Machine
 https://en.wikipedia.org/wiki/The_Globalization_of_World_Politics
 https://en.wikipedia.org/wiki/The_God_Delusion
@@ -18343,6 +18368,7 @@ https://en.wikipedia.org/wiki/Theosophy
 https://en.wikipedia.org/wiki/Theravada
 https://en.wikipedia.org/wiki/There_are_unknown_unknowns
 https://en.wikipedia.org/wiki/There's_Plenty_of_Room_at_the_Bottom
+https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom
 https://en.wikipedia.org/wiki/Therion_(band)
 https://en.wikipedia.org/wiki/Therion_(Thelema)
 https://en.wikipedia.org/wiki/Therion_discography
@@ -20123,6 +20149,7 @@ https://foreignpolicy.com/2020/07/13/modi-india-hindutva-hindu-nationalism-autoc
 https://foreignpolicy.com/2022/10/30/russia-democracy-putin-soviet-union-cold-war/
 https://foreignpolicy.com/2023/07/16/reading-list-book-recommendations-international-relations-history-novels/
 https://foreignpolicy.com/channel/analysis/
+https://foresight.org/prizewinner-foresees-complex-nanotechnology-based-machines/
 https://forgefed.org/
 https://forgejo.org/
 https://forgejo.org/docs/latest/user/
@@ -21359,6 +21386,7 @@ https://github.com/mthom/scryer-prolog
 https://github.com/mullvad
 https://github.com/mullvad/mullvadvpn-app
 https://github.com/munificent/craftinginterpreters
+https://github.com/MuonRay/PythonNDVI
 https://github.com/muricoca/crab
 https://github.com/mustache/mustache
 https://github.com/mvo5/synaptic
@@ -22995,6 +23023,7 @@ https://ieeexplore.ieee.org/document/1176287
 https://ieeexplore.ieee.org/document/1180543
 https://ieeexplore.ieee.org/document/1212712
 https://ieeexplore.ieee.org/document/1265128
+https://ieeexplore.ieee.org/document/128057
 https://ieeexplore.ieee.org/document/1311138
 https://ieeexplore.ieee.org/document/1455525
 https://ieeexplore.ieee.org/document/1564344
@@ -23007,6 +23036,7 @@ https://ieeexplore.ieee.org/document/1695817
 https://ieeexplore.ieee.org/document/1702802
 https://ieeexplore.ieee.org/document/1870
 https://ieeexplore.ieee.org/document/2021
+https://ieeexplore.ieee.org/document/232589
 https://ieeexplore.ieee.org/document/256541
 https://ieeexplore.ieee.org/document/387136
 https://ieeexplore.ieee.org/document/4038032
@@ -23090,6 +23120,7 @@ https://ieeexplore.ieee.org/document/7945175
 https://ieeexplore.ieee.org/document/7948662
 https://ieeexplore.ieee.org/document/7958581
 https://ieeexplore.ieee.org/document/7974879
+https://ieeexplore.ieee.org/document/7999386
 https://ieeexplore.ieee.org/document/8015405
 https://ieeexplore.ieee.org/document/809023
 https://ieeexplore.ieee.org/document/814659
@@ -23251,6 +23282,7 @@ https://iohprofiler.github.io/
 https://iop.harvard.edu/
 https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008
 https://iopscience.iop.org/article/10.1088/1361-6404/ac563a
+https://iopscience.iop.org/article/10.1088/1367-2630/9/7/241
 https://iopscience.iop.org/article/10.1088/1742-6596/1015/4/042001
 https://iopscience.iop.org/article/10.1088/2399-6528/aaedd2
 https://iotdb.apache.org/
@@ -26809,12 +26841,15 @@ https://otexts.com/fpp3/
 https://otl.sourceforge.net/
 https://ottertune.com/
 https://ourworldindata.org/
+https://ourworldindata.org/age-structure
+https://ourworldindata.org/child-mortality
 https://ourworldindata.org/electricity-mix
 https://ourworldindata.org/energy-mix
 https://ourworldindata.org/energy-production-consumption
 https://ourworldindata.org/global-education
 https://ourworldindata.org/global-population-pyramid
 https://ourworldindata.org/grapher/electoral-pluralism-index-eiu
+https://ourworldindata.org/life-expectancy
 https://ourworldindata.org/population-growth
 https://ourworldindata.org/population-growth-over-time
 https://ourworldindata.org/tertiary-education
@@ -31519,6 +31554,7 @@ https://www.frontiersin.org/
 https://www.frontiersin.org/articles/10.3389/fgene.2021.651812/full
 https://www.frontiersin.org/articles/10.3389/fgene.2021.690049/full
 https://www.frontiersin.org/articles/10.3389/fphar.2020.565644/full
+https://www.frontiersin.org/articles/10.3389/frobt.2014.00010/full
 https://www.fsf.org/
 https://www.fstar-lang.org/
 https://www.ft.com/
@@ -32292,6 +32328,7 @@ https://www.imdb.com/title/tt1139328/
 https://www.imdb.com/title/tt1305806/
 https://www.imdb.com/title/tt1375666/
 https://www.imdb.com/title/tt15398776/
+https://www.imdb.com/title/tt2866360/
 https://www.imdb.com/title/tt3011894/
 https://www.imdb.com/title/tt4158110/trivia
 https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity
@@ -33051,6 +33088,7 @@ https://www.mcs.anl.gov/research/projects/otc/InteriorPoint/
 https://www.mdanalysis.org/
 https://www.mdpi.com/1099-4300/13/3/612
 https://www.mdpi.com/1099-4300/22/10/1100
+https://www.mdpi.com/2075-1680/12/1/32
 https://www.mdpi.com/2076-3417/13/17/9780
 https://www.mdpi.com/2504-3900/47/1/23
 https://www.mdpi.com/journal/entropy
@@ -33284,6 +33322,7 @@ https://www.nature.com/articles/nbt.2954
 https://www.nature.com/articles/news060227-11
 https://www.nature.com/articles/ng.2472
 https://www.nature.com/articles/nmeth.4642
+https://www.nature.com/articles/nnano.2009.356
 https://www.nature.com/articles/nphoton.2015.208
 https://www.nature.com/articles/s41467-021-23719-3
 https://www.nature.com/articles/s41467-023-40593-3
@@ -34119,6 +34158,7 @@ https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/Uniform
 https://www.rdworldonline.com/
 https://www.realclearpolitics.com/
 https://www.red-bean.com/~jimb/
+https://www.red-gate.com/simple-talk/sysadmin/powershell/building-an-etl-with-powershell/
 https://www.red-lang.org/
 https://www.reddit.com/r/compsci/comments/2q3rhg/good_introductory_books_for_programming_language/
 https://www.reddit.com/r/cpp/
@@ -34677,6 +34717,7 @@ https://www.scimagojr.com/
 https://www.scimagojr.com/countryrank.php
 https://www.scintilla.org/
 https://www.scipopt.org/
+https://www.scirp.org/
 https://www.scmagazine.com/
 https://www.scmp.com/
 https://www.scribus.net/
@@ -35985,6 +36026,7 @@ https://www.youtube.com/playlist?list=PLqYmG7hTraZBy7J_4ynYPc0Ml1RUGcLmD
 https://www.youtube.com/playlist?list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc
 https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
 https://www.youtube.com/playlist?list=PLUMWjy5jgHK3j74Z5Tq6Tso1fSfVWZC8L
+https://www.youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2
 https://www.youtube.com/playlist?list=PLZ4JlAKnv386SGkj6eco_GqCmVn-v1Hb5
 https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 https://www.youtube.com/watch?v=_DTpQ4Kk2wA
@@ -36003,6 +36045,7 @@ https://www.youtube.com/watch?v=1y17ebSSNwY
 https://www.youtube.com/watch?v=1ZKBaRsP1gY
 https://www.youtube.com/watch?v=2_q9b9YqGRY
 https://www.youtube.com/watch?v=3LVeEjsn8Ts
+https://www.youtube.com/watch?v=4eRCygdW--c
 https://www.youtube.com/watch?v=4xDzrJKXOOY
 https://www.youtube.com/watch?v=5Kvs8SxN8mc
 https://www.youtube.com/watch?v=74Ig_QKndvE
@@ -36124,6 +36167,8 @@ https://www.zodiackiller.com/Letters.html
 https://www.zora.uzh.ch/id/eprint/232071/
 https://www.zsh.org/
 https://www.zx2c4.com/
+https://www.zyvex.com/nanotech/feynman.html
+https://www.zyvexlabs.com/
 https://www1.semi.org/en/semiconductor-industry-2015-2025
 https://www1.wdr.de/
 https://www2.deloitte.com/ca/en/pages/deloitte-analytics/articles/ai-institute.html
