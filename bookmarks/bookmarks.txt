@@ -6599,6 +6599,9 @@ https://en.wikipedia.org/wiki/Category:Hidden_variables
 https://en.wikipedia.org/wiki/Category:Hilbert_spaces
 https://en.wikipedia.org/wiki/Category:Historical_novels
 https://en.wikipedia.org/wiki/Category:History_of_artificial_intelligence
+https://en.wikipedia.org/wiki/Category:History_of_electronic_engineering
+https://en.wikipedia.org/wiki/Category:History_of_science
+https://en.wikipedia.org/wiki/Category:History_of_technology
 https://en.wikipedia.org/wiki/Category:Household_chemicals
 https://en.wikipedia.org/wiki/Category:Hypergeometric_functions
 https://en.wikipedia.org/wiki/Category:IBM_cryptographic_coprocessors
@@ -10840,6 +10843,7 @@ https://en.wikipedia.org/wiki/History_of_machine_translation
 https://en.wikipedia.org/wiki/History_of_mathematics
 https://en.wikipedia.org/wiki/History_of_molecular_biology
 https://en.wikipedia.org/wiki/History_of_natural_language_processing
+https://en.wikipedia.org/wiki/History_of_penicillin
 https://en.wikipedia.org/wiki/History_of_personal_computers
 https://en.wikipedia.org/wiki/History_of_Poland
 https://en.wikipedia.org/wiki/History_of_political_thought
@@ -10863,6 +10867,7 @@ https://en.wikipedia.org/wiki/History_of_the_Russian_Revolution
 https://en.wikipedia.org/wiki/History_of_the_Scheme_programming_language
 https://en.wikipedia.org/wiki/History_of_the_Standard_Template_Library
 https://en.wikipedia.org/wiki/History_of_the_Teller%E2%80%93Ulam_design
+https://en.wikipedia.org/wiki/History_of_the_transistor
 https://en.wikipedia.org/wiki/History_of_trigonometry
 https://en.wikipedia.org/wiki/History_of_variational_principles_in_physics
 https://en.wikipedia.org/wiki/History_of_Western_civilization
@@ -24817,6 +24822,7 @@ https://link.springer.com/book/10.1007/978-3-030-34372-9
 https://link.springer.com/book/10.1007/978-3-030-35844-0
 https://link.springer.com/book/10.1007/978-3-030-36468-7
 https://link.springer.com/book/10.1007/978-3-030-36848-7
+https://link.springer.com/book/10.1007/978-3-030-38148-6
 https://link.springer.com/book/10.1007/978-3-030-38585-9
 https://link.springer.com/book/10.1007/978-3-030-38596-5
 https://link.springer.com/book/10.1007/978-3-030-39415-8
@@ -24825,6 +24831,9 @@ https://link.springer.com/book/10.1007/978-3-030-40183-2
 https://link.springer.com/book/10.1007/978-3-030-40344-7
 https://link.springer.com/book/10.1007/978-3-030-41705-5
 https://link.springer.com/book/10.1007/978-3-030-42227-1
+https://link.springer.com/book/10.1007/978-3-030-42374-2
+https://link.springer.com/book/10.1007/978-3-030-42378-0
+https://link.springer.com/book/10.1007/978-3-030-44613-0
 https://link.springer.com/book/10.1007/978-3-030-44778-6
 https://link.springer.com/book/10.1007/978-3-030-45982-6
 https://link.springer.com/book/10.1007/978-3-030-47845-2
@@ -25201,6 +25210,7 @@ https://link.springer.com/book/10.1007/978-94-015-9333-5
 https://link.springer.com/book/10.1007/978-94-017-0383-3
 https://link.springer.com/book/10.1007/978-94-017-1586-7
 https://link.springer.com/book/10.1007/978-94-017-3398-4
+https://link.springer.com/book/10.1007/978-981-10-6113-4
 https://link.springer.com/book/10.1007/978-981-13-0659-4
 https://link.springer.com/book/10.1007/978-981-13-2971-5
 https://link.springer.com/book/10.1007/978-981-15-1967-3
@@ -25220,6 +25230,7 @@ https://link.springer.com/book/10.1007/978-981-19-9382-4
 https://link.springer.com/book/10.1007/978-981-4451-51-2
 https://link.springer.com/book/10.1007/978-981-99-1600-9
 https://link.springer.com/book/10.1007/979-8-8688-0137-2
+https://link.springer.com/book/10.1007/b101857
 https://link.springer.com/book/10.1007/b102438
 https://link.springer.com/book/10.1007/b11856
 https://link.springer.com/book/10.1007/b13279
@@ -28312,6 +28323,7 @@ https://shop.elsevier.com/books/machine-learning/theodoridis/978-0-12-818803-3
 https://shop.elsevier.com/books/pattern-recognition/koutroumbas/978-1-59749-272-0
 https://shop.elsevier.com/books/programming-language-pragmatics/scott/978-0-12-410409-9
 https://shop.elsevier.com/books/scientific-computing-and-differential-equations/golub/978-0-08-051669-1
+https://shop.elsevier.com/books/see-mips-run/sweetman/978-0-12-088421-6
 https://shop.elsevier.com/books/simulation/ross/978-0-323-85738-3
 https://shop.elsevier.com/books/software-defined-networks/goransson/978-0-12-804555-8
 https://shop.elsevier.com/books/subjects/physical-sciences-and-engineering/computer-science
@@ -29466,6 +29478,7 @@ https://viacache.net/
 https://vice-emu.sourceforge.io/
 https://victoriametrics.com/
 https://video.cr.yp.to/
+https://videogigagan.github.io/
 https://viennacl.sourceforge.net/
 https://viennamath.sourceforge.net/
 https://vim.rtorr.com/
@@ -31843,6 +31856,7 @@ https://www.goodreads.com/book/show/1602667.BigNum_Math
 https://www.goodreads.com/book/show/16087552-real-world-ocaml
 https://www.goodreads.com/book/show/16236145-secret-history
 https://www.goodreads.com/book/show/163724.An_Introduction_to_Information_Theory
+https://www.goodreads.com/book/show/16382288-see-mips-run
 https://www.goodreads.com/book/show/1691400.A_History_of_Greek_Mathematics_Vol_1
 https://www.goodreads.com/book/show/1714297.The_Thirteen_Books_of_the_Elements_Books_3_9
 https://www.goodreads.com/book/show/1715489.The_Thirteen_Books_of_Elements_Books_10_13
@@ -33817,6 +33831,7 @@ https://www.pearson.com/en-us/subject-catalog/p/cmos-vlsi-design-a-circuits-and-
 https://www.pearson.com/en-us/subject-catalog/p/computer-networks/P200000003188/9780137523214
 https://www.pearson.com/en-us/subject-catalog/p/data-abstraction--problem-solving-with-c-walls-and-mirrors/P200000003514/9780137516759
 https://www.pearson.com/en-us/subject-catalog/p/digital-design-principles-and-practices/P200000003417/9780137518791
+https://www.pearson.com/en-us/subject-catalog/p/digital-image-processing/P200000003224
 https://www.pearson.com/en-us/subject-catalog/p/digital-image-processing/P200000003224/9780137848560
 https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-statistical-processing-estimation-theory-volume-1/P200000009271/9780133457117
 https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-statistical-signal-processing-detection-theory-volume-2/P200000009354/9780135041352
@@ -34565,6 +34580,7 @@ https://www.sciencedirect.com/book/9780080503509/statistical-physics
 https://www.sciencedirect.com/book/9780080516691/scientific-computing-and-differential-equations
 https://www.sciencedirect.com/book/9780080570464/statistical-physics
 https://www.sciencedirect.com/book/9780080570693/theory-of-elasticity
+https://www.sciencedirect.com/book/9780120884216/see-mips-run
 https://www.sciencedirect.com/book/9780122063602/methods-of-numerical-integration
 https://www.sciencedirect.com/book/9780122265518/principles-of-mathematical-modeling
 https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques
