@@ -419,6 +419,7 @@ https://agupubs.onlinelibrary.wiley.com/journal/19448007
 https://agupubs.onlinelibrary.wiley.com/journal/23284277
 https://ahf.nuclearmuseum.org/
 https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/
+https://ahtt.mit.edu/
 https://ai-jobs.net/salaries/
 https://ai-watch.ec.europa.eu/countries/germany/germany-ai-strategy-report_en
 https://ai.google/
@@ -4222,6 +4223,7 @@ https://drill.apache.org/
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2016.109
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SNAPL.2019.4
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2020.3
+https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2024.20
 https://drops.dagstuhl.de/storage/00lipics/lipics-vol154-stacs2020/LIPIcs.STACS.2020.3/LIPIcs.STACS.2020.3.pdf
 https://dropshare.cloud/
 https://drpress.org/ojs/index.php/HSET/article/view/14620
@@ -5907,6 +5909,7 @@ https://en.wikipedia.org/wiki/Blondie_(band)
 https://en.wikipedia.org/wiki/BLOOM_(language_model)
 https://en.wikipedia.org/wiki/Bloom_filter
 https://en.wikipedia.org/wiki/Bloom's_taxonomy
+https://en.wikipedia.org/wiki/Bloom%27s_taxonomy
 https://en.wikipedia.org/wiki/Bloomberg_Businessweek
 https://en.wikipedia.org/wiki/Bloomberg_News
 https://en.wikipedia.org/wiki/Bloomberg_Television
@@ -6678,6 +6681,7 @@ https://en.wikipedia.org/wiki/Category:Medical_physics
 https://en.wikipedia.org/wiki/Category:Memory_management
 https://en.wikipedia.org/wiki/Category:Mesoamerican_mythology_and_religion
 https://en.wikipedia.org/wiki/Category:Message-oriented_middleware
+https://en.wikipedia.org/wiki/Category:Metafictional_novels
 https://en.wikipedia.org/wiki/Category:Microprocessors_made_in_China
 https://en.wikipedia.org/wiki/Category:Military_counterterrorist_organizations
 https://en.wikipedia.org/wiki/Category:Minimal_surfaces
@@ -11477,6 +11481,7 @@ https://en.wikipedia.org/wiki/Inverse_transform_sampling
 https://en.wikipedia.org/wiki/Inverse-square_law
 https://en.wikipedia.org/wiki/Inversion_(discrete_mathematics)
 https://en.wikipedia.org/wiki/Inverted_index
+https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism)
 https://en.wikipedia.org/wiki/InVesalius
 https://en.wikipedia.org/wiki/Io_(programming_language)
 https://en.wikipedia.org/wiki/IOActive
@@ -13406,6 +13411,7 @@ https://en.wikipedia.org/wiki/Mary_Tsingou
 https://en.wikipedia.org/wiki/Maryland
 https://en.wikipedia.org/wiki/Masamune
 https://en.wikipedia.org/wiki/Masamune_Shirow
+https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
 https://en.wikipedia.org/wiki/Mason_%26_Dixon
 https://en.wikipedia.org/wiki/Masoretic_Text
 https://en.wikipedia.org/wiki/Mass_balance
@@ -13649,6 +13655,7 @@ https://en.wikipedia.org/wiki/Metalinguistics
 https://en.wikipedia.org/wiki/Metamaterial
 https://en.wikipedia.org/wiki/Metamodeling
 https://en.wikipedia.org/wiki/Metamorphoses
+https://en.wikipedia.org/wiki/Metaphysical_detective_story
 https://en.wikipedia.org/wiki/Metaprogramming
 https://en.wikipedia.org/wiki/METEOR
 https://en.wikipedia.org/wiki/Meteor_(web_framework)
@@ -18214,6 +18221,7 @@ https://en.wikipedia.org/wiki/The_Gulf_War_Did_Not_Take_Place
 https://en.wikipedia.org/wiki/The_Guns_of_August
 https://en.wikipedia.org/wiki/The_Hacker_Crackdown
 https://en.wikipedia.org/wiki/The_Heike_Story
+https://en.wikipedia.org/wiki/The_Hidden_Ivies
 https://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
 https://en.wikipedia.org/wiki/The_House_of_the_Rising_Sun
 https://en.wikipedia.org/wiki/The_Hunters_in_the_Snow
@@ -22762,6 +22770,7 @@ https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorp
 https://homepages.math.uic.edu/~marker/
 https://homepages.rpi.edu/~holmes/
 https://homes.cs.washington.edu/~djg/papers/cyclone.pdf
+https://homes.cs.washington.edu/~lazowska/cra/
 https://homes.cs.washington.edu/~tessaro/
 https://homomorphicencryption.org/
 https://homomorphicencryption.org/introduction/
@@ -24174,6 +24183,7 @@ https://library.lol/main/680A08FE3A43250BF4683E477AB1997A
 https://library.lol/main/6AEB8896359F4EF338DF6D1BE995132B
 https://library.lol/main/6B8F1E751C6D6B82A49CC155099F9949
 https://library.lol/main/6CBC5B5AF610CA7C18303B1C793D4533
+https://library.lol/main/6F39FE0CF5EF3CE09D3D5097FA219652
 https://library.lol/main/7025129FE0A6D18C89CF0C4740B32052
 https://library.lol/main/702A7E2AF384C3FC4B236BE799E3176D
 https://library.lol/main/709946D915CF3C0571FF750A5BDF467D
@@ -24499,6 +24509,7 @@ https://link.springer.com/book/10.1007/978-0-387-54109-9
 https://link.springer.com/book/10.1007/978-0-387-68436-9
 https://link.springer.com/book/10.1007/978-0-387-68441-3
 https://link.springer.com/book/10.1007/978-0-387-68445-1
+https://link.springer.com/book/10.1007/978-0-387-68546-5
 https://link.springer.com/book/10.1007/978-0-387-68577-9
 https://link.springer.com/book/10.1007/978-0-387-69033-9
 https://link.springer.com/book/10.1007/978-0-387-69216-6
@@ -25064,6 +25075,7 @@ https://link.springer.com/book/10.1007/978-3-642-55481-0
 https://link.springer.com/book/10.1007/978-3-642-55826-9
 https://link.springer.com/book/10.1007/978-3-642-56735-3
 https://link.springer.com/book/10.1007/978-3-642-56927-2
+https://link.springer.com/book/10.1007/978-3-642-56999-9
 https://link.springer.com/book/10.1007/978-3-642-57149-7
 https://link.springer.com/book/10.1007/978-3-642-58038-3
 https://link.springer.com/book/10.1007/978-3-642-58223-3
@@ -25253,6 +25265,7 @@ https://link.springer.com/chapter/10.1007/978-3-030-29414-4_9
 https://link.springer.com/chapter/10.1007/978-3-030-30484-3_13
 https://link.springer.com/chapter/10.1007/978-3-030-57043-9_11
 https://link.springer.com/chapter/10.1007/978-3-030-59234-9_3
+https://link.springer.com/chapter/10.1007/978-3-030-59234-9_6
 https://link.springer.com/chapter/10.1007/978-3-030-83899-7_12
 https://link.springer.com/chapter/10.1007/978-3-031-12244-6_38
 https://link.springer.com/chapter/10.1007/978-3-031-18050-7_10
@@ -25413,6 +25426,7 @@ https://lotz84.github.io/haskellbyexample/
 https://loup-vaillant.fr/articles/hsm-done-right
 https://lovespellsmusic.bandcamp.com/music
 https://lowrisc.org/
+https://lpeproject.org/blog/the-role-of-law-in-capitalism/
 https://lpsolve.sourceforge.net/5.5/
 https://luarocks.org/
 https://lubridate.tidyverse.org/
@@ -26157,6 +26171,7 @@ https://multilevelmod.tidymodels.org/
 https://multiquad.cr.yp.to/
 https://mumps-solver.org/index.php
 https://munkschool.utoronto.ca/
+https://muse.jhu.edu/article/433828
 https://museumcrush.org/
 https://music.youtube.com/
 https://musicbrainz.org/
@@ -26558,6 +26573,8 @@ https://onlinelibrary.wiley.com/
 https://onlinelibrary.wiley.com/doi/10.1002/0471028959.sof040
 https://onlinelibrary.wiley.com/doi/10.1002/0471671746.ch2
 https://onlinelibrary.wiley.com/doi/10.1002/0471671746.ch3
+https://onlinelibrary.wiley.com/doi/10.1002/9783527623051.ch33
+https://onlinelibrary.wiley.com/doi/10.1002/9783527697052.ch19
 https://onlinelibrary.wiley.com/doi/10.1002/aur.3012
 https://onlinelibrary.wiley.com/doi/10.1002/cpa.21423
 https://onlinelibrary.wiley.com/doi/10.1002/j.1538-7305.1949.tb00928.x
@@ -26990,6 +27007,7 @@ https://passkey.org/
 https://passkeys.dev/
 https://passkeys.guru/
 https://pastel.hal.science/
+https://pastel.hal.science/tel-01223284
 https://pastel.hal.science/tel-01223284/file/thesis.pdf
 https://pastel.hal.science/tel-01223284v2
 https://pastel.hal.science/tel-01223284v2/document
@@ -27364,6 +27382,7 @@ https://press.princeton.edu/books/hardcover/9780691151878/calculus-of-variations
 https://press.princeton.edu/books/hardcover/9780691152721/invisible-in-the-storm
 https://press.princeton.edu/books/hardcover/9780691159027/modern-classical-physics
 https://press.princeton.edu/books/hardcover/9780691178561/mathematical-foundations-of-quantum-mechanics
+https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital
 https://press.princeton.edu/books/hardcover/9780691179414/the-doctrine-of-triangles
 https://press.princeton.edu/books/paperback/9780691005478/mathematical-methods-of-statistics-pms-9-volume-9
 https://press.princeton.edu/books/paperback/9780691011462/general-theory-of-relativity
@@ -28290,6 +28309,7 @@ https://sigrok.org/wiki/Supported_hardware
 https://sigsim.acm.org/mskr/
 https://siliconangle.com/
 https://siliconangle.com/2019/05/26/no-cloud-required-ais-future-edge/
+https://siliconangle.com/2020/01/30/amazon-solving-big-data-challenges-data-lakes/
 https://simdjson.org/
 https://simon.peytonjones.org/
 https://simonpcouch.github.io/anyflights/
@@ -33367,6 +33387,7 @@ https://www.newscientist.com/
 https://www.newstatesman.com/
 https://www.newsweek.com/
 https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai
+https://www.newyorker.com/cartoon/a16995
 https://www.newyorker.com/culture/annals-of-inquiry/the-personal-political-art-of-board-game-design
 https://www.newyorker.com/magazine/2005/02/28/time-bandits-2
 https://www.newyorker.com/magazine/2013/12/23/the-intelligent-plant
@@ -33416,6 +33437,7 @@ https://www.nobelprize.org/prizes/physics/2021/manabe/lecture/
 https://www.noelwhittaker.com.au/essential_grid/the-curse-of-liquidity/
 https://www.noemamag.com/
 https://www.noemamag.com/article-topic/future-of-capitalism/
+https://www.noemamag.com/we-need-to-rewild-the-internet/
 https://www.noemamag.com/what-if-money-expired/
 https://www.nongnu.org/lzip/
 https://www.nongnu.org/oath-toolkit/
@@ -34658,6 +34680,7 @@ https://www.scipopt.org/
 https://www.scmagazine.com/
 https://www.scmp.com/
 https://www.scribus.net/
+https://www.scrivenerpublishing.com/subject_area.php?id=Mathematics
 https://www.scryer.pl/
 https://www.scs.fraunhofer.de/de/referenzen/ada-center/mathematische-optimierung.html
 https://www.scs.stanford.edu/~dm/blog/decltype.html
@@ -35734,6 +35757,7 @@ https://www.wiley.com/en-us/General+%26+Introductory+Statistics-c-ST00
 https://www.wiley.com/en-us/General+%26+Introductory+Statistics/Computational+%26+Graphical+Statistics-c-ST70
 https://www.wiley.com/en-us/Improving+Almost+Anything%3A+Ideas+and+Essays%2C+Revised+Edition-p-9780471727552
 https://www.wiley.com/en-us/Integral+Equations-p-9781118165935
+https://www.wiley.com/en-us/Introduction+to+Differential+Geometry+with+Tensor+Applications-p-9781119795674
 https://www.wiley.com/en-us/Introduction+to+Geometry%2C+2nd+Edition-p-9780471504580
 https://www.wiley.com/en-us/Introduction+to+Solid+State+Physics%2C+8th+Edition-p-9780471415268
 https://www.wiley.com/en-us/Introduction+to+Statistical+Quality+Control%2C+8th+Edition-p-9781119399308
