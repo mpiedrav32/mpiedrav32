@@ -1235,6 +1235,8 @@ https://bhavana.org.in/c-r-rao-a-life-in-statistics/
 https://bhavana.org.in/mathematics-in-india-3/
 https://bhavana.org.in/the-bhavana-in-mathematics/
 https://bhi.co.uk/
+https://biblatex.org/
+https://bibtex.eu/
 https://bikeshed.com/
 https://bikesuite.org/
 https://bin.re/
@@ -1601,7 +1603,7 @@ https://cacm.acm.org/
 https://cacm.acm.org/blogs/blog-cacm/270721-twiddler-configurability-for-me-but-not-for-thee/fulltext
 https://cacm.acm.org/category/architecture-and-hardware/
 https://cacm.acm.org/magazines/2010/8/96632-an-interview-with-edsger-w-dijkstra/fulltext
-https://cacm.acm.org/magazines/2015/9/191169-commonsense-reasoning-and-commonsense-knowledge-in-artificial-intelligence/abstract
+https://cacm.acm.org/magazines/2015/9/191169-commonsense-reasoning-and-commonsense-knowledge-in-artificial-intelligence/fulltext
 https://cacm.acm.org/magazines/2018/7/229036-c-is-not-a-low-level-language/fulltext
 https://cacm.acm.org/magazines/2022/1/257448-fifty-years-of-p-vs-np-and-the-possibility-of-the-impossible/fulltext
 https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext
@@ -2570,6 +2572,8 @@ https://csvbase.com/
 https://csvbase.com/blog/5
 https://csvbase.com/calpaterson/eurofxref-hist
 https://ctan.org/
+https://ctan.org/pkg/biber
+https://ctan.org/pkg/biblatex
 https://ctan.org/pkg/ieeetran
 https://ctan.org/pkg/mactex
 https://ctan.org/pkg/pgfplots?lang=en
@@ -3173,7 +3177,7 @@ https://digitalcommons.dartmouth.edu/dissertations/80/
 https://digitalprivacy.ieee.org/
 https://dillo.org/
 https://direct.mit.edu/books/book/3058/Single-Neuron-Studies-of-the-Human-BrainProbing
-https://direct.mit.edu/books/edited-volume/2882/chapter-abstract/78185/There-s-Plenty-of-Room-at-the-Bottom-An-Invitation?redirectedFrom=fulltext
+https://direct.mit.edu/books/edited-volume/2882/chapter-abstract/78185/There-s-Plenty-of-Room-at-the-Bottom-An-Invitation
 https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory
 https://direct.mit.edu/qss/article/2/4/1144/107356/Continued-use-of-retracted-papers-Temporal-trends
 https://directory.fsf.org/wiki/Category/Mathematics
@@ -21172,6 +21176,7 @@ https://github.com/laravel/framework
 https://github.com/larsbrinkhoff/httptunnel/
 https://github.com/larsenwork/Gidole
 https://github.com/latex3/latex2e
+https://github.com/latextemplates/IEEE
 https://github.com/ldc-developers/ldc
 https://github.com/Leaflet/Leaflet
 https://github.com/leanprover/lean4
@@ -22995,7 +23000,6 @@ https://ideas.repec.org/top/top.ttanks.html
 https://idsc.ethz.ch/education/lectures/optimal-control.html
 https://ieeeaccess.ieee.org/
 https://ieeetcca.org/
-https://ieeexplore.ieee.org/abstract/document/8490883
 https://ieeexplore.ieee.org/author/37085719525
 https://ieeexplore.ieee.org/author/37266257500
 https://ieeexplore.ieee.org/author/37282338400
@@ -23056,6 +23060,7 @@ https://ieeexplore.ieee.org/document/4700287
 https://ieeexplore.ieee.org/document/4712496
 https://ieeexplore.ieee.org/document/4767851
 https://ieeexplore.ieee.org/document/4773279
+https://ieeexplore.ieee.org/document/47829
 https://ieeexplore.ieee.org/document/4907383
 https://ieeexplore.ieee.org/document/492099
 https://ieeexplore.ieee.org/document/493904
@@ -23140,6 +23145,7 @@ https://ieeexplore.ieee.org/document/8280025
 https://ieeexplore.ieee.org/document/832648
 https://ieeexplore.ieee.org/document/8347162
 https://ieeexplore.ieee.org/document/8429400
+https://ieeexplore.ieee.org/document/8490883
 https://ieeexplore.ieee.org/document/8533506
 https://ieeexplore.ieee.org/document/8585501
 https://ieeexplore.ieee.org/document/8605929
@@ -23465,7 +23471,7 @@ https://journals.openedition.org/rfcb/1662
 https://journals.plos.org/plosone/
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140
 https://journals.sagepub.com/
-https://journals.sagepub.com/doi/10.1177/001316447903900237?icid=int.sj-abstract.similar-articles.7
+https://journals.sagepub.com/doi/10.1177/001316447903900237
 https://journals.sagepub.com/doi/10.1177/0306312710378448
 https://journals.sagepub.com/doi/full/10.1177/26339137221114874
 https://journals.sagepub.com/home/ire
@@ -23628,6 +23634,7 @@ https://last9.io/levitate-tsdb/
 https://latex.org/forum/
 https://latexbase.com/
 https://latexref.xyz/
+https://latextemplates.github.io/IEEE/
 https://latticehacks.cr.yp.to/
 https://lcamtuf.coredump.cx/
 https://lcamtuf.coredump.cx/afl/
@@ -27620,6 +27627,7 @@ https://pubsonline.informs.org/doi/10.1287/ited.3.1.45
 https://pubsonline.informs.org/doi/10.1287/mnsc.36.5.519
 https://pubsonline.informs.org/doi/10.1287/mnsc.6.4.366
 https://pubsonline.informs.org/doi/10.1287/opre.11.6.972
+https://pubsonline.informs.org/doi/10.1287/opre.20.5.993
 https://pubsonline.informs.org/doi/10.1287/opre.50.1.42.17798
 https://pubsonline.informs.org/doi/10.1287/opre.9.3.383
 https://pubsonline.informs.org/doi/abs/10.1287/ijoc.1080.0264
@@ -29084,6 +29092,7 @@ https://testdriven.io/guides/django-celery/
 https://testdriven.io/guides/flask-deep-dive/
 https://testthat.r-lib.org/
 https://texample.net/tikz/examples/
+https://texdoc.org/index.html
 https://texfaq.org/
 https://text.npr.org/
 https://text2vec.org/
@@ -30616,6 +30625,7 @@ https://www.cis.upenn.edu/~mkearns/papers/thesis.pdf
 https://www.cisa.gov/news-events
 https://www.cisco.com/
 https://www.cisco.com/c/en/us/support/docs/ip/access-lists/13608-21.html
+https://www.citedrive.com/en/
 https://www.citigroup.com/global/insights/global-insights/the-u-s-china-chip-war-who-dares-to-win
 https://www.cits.ruhr-uni-bochum.de/
 https://www.citusdata.com/
@@ -33767,6 +33777,7 @@ https://www.overleaf.com/gallery/tagged/acm-official
 https://www.overleaf.com/gallery/tagged/ieee-official
 https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn
 https://www.overleaf.com/learn
+https://www.overleaf.com/learn/latex/Articles/Getting_started_with_BibLaTeX
 https://www.overleaf.com/learn/latex/Bibtex_bibliography_styles
 https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols
 https://www.overleaf.com/learn/latex/MLTeX_EncTeX_and_SyncTeX_TeX_extensions
