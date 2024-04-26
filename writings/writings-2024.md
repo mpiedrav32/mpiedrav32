@@ -249,3 +249,51 @@ industry, but never in academia.
 Given my poor academic profile, as a student and a possible researcher wannabe, he might have considered I should have
 taken over ownership of my parents' grocery store business (they are now around their 80s),
 instead of me trying to become a computer science researcher.
+
+# Mathematical structures as models of computation
+
+After all these years, I still wonder about the general theory of mathematical structures as models of computation.
+Not only polynomial differential equations, but also nonsingular square matrices, topological vector spaces,
+algebraic plane curves, etc.
+
+It is especially important to understand how these mathematical objects can be used to represent programs.
+For instance, it's not about implementing algorithms in C++ or Rust or Julia for calculating multivariable systems of
+polynomials. Instead, it's about representing those algorithms in multivariable systems of polynomials themselves.
+
+That is, to what extent can a given mathematical structure act or operate or execute over other mathematical structures
+to produce computations? How can we move from the merely descriptive to the computational without leaving the realm of
+mathematics?
+
+Writing system software or user applications only using structures from abstract algebra or real analysis or
+differential geometry isn't why most students currently enroll in computer science. But it might well be in the future.
+
+Perhaps having computer science as a discipline outside mathematics is merely a temporal and convenient measure,
+while we sort out how to embed computing back into math. It'll probably take centuries, though.
+
+# Attractor
+For some reason, I feel abandoned if I move away from math, even when I'm considerably sloppy at doing math.
+
+To me, mathematics is a source of deep joy when everything works, and deep mental pain when nothing works.
+
+Mathematics is the ultimate realm where thought develops, where phenomena are abstracted to their utmost and their
+underlying fundamental relations can be finally understood.
+
+A part of me wants to reenroll in the math major. But I know I just don't have what it takes to become a mathematician.
+From the outside, a major in math seems achievable. Once inside, everything becomes an insurmountable challenge to me.
+
+# Computational mathematics
+
+If I'm this interested in computational mathematics, where's my own computer algebra system with my own implementation
+of Gröbner basis, Wu's method, and Risch algorithm?
+
+I long to have the stamina, resilience, and focus to work on that implementation. Perhaps in OCaml. I barely know it,
+but I'm aware it's sound enough for mathematical software. Coq is implemented in that language.
+
+But I feel embarrassed when I write code. My logic blunders and blemishes leak through. My design flaws appear to any
+experienced developer as plain as day.
+
+Not only Dijkstra would be looking over my shoulder and disapproving my design and implementation decisions,
+but all of ACM Turing Award recipients: Lamport, Knuth, Hoare, Hopcroft, Floyd, etc.
+
+It's painful to create something that nobody will use, that is plain ugly, and that has no real value.
+I fear writing wasteful software, even when code is cheap (vs. using physical media in material objects).

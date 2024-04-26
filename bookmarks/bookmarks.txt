@@ -11509,6 +11509,7 @@ https://en.wikipedia.org/wiki/Inverse_problem
 https://en.wikipedia.org/wiki/Inverse_Symbolic_Calculator
 https://en.wikipedia.org/wiki/Inverse_tangent_integral
 https://en.wikipedia.org/wiki/Inverse_transform_sampling
+https://en.wikipedia.org/wiki/Inverse_trigonometric_functions
 https://en.wikipedia.org/wiki/Inverse-square_law
 https://en.wikipedia.org/wiki/Inversion_(discrete_mathematics)
 https://en.wikipedia.org/wiki/Inverted_index
@@ -14064,6 +14065,7 @@ https://en.wikipedia.org/wiki/Multivariable_calculus
 https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline
 https://en.wikipedia.org/wiki/Multivariate_analysis_of_covariance
 https://en.wikipedia.org/wiki/Multivariate_analysis_of_variance
+https://en.wikipedia.org/wiki/Multivariate_gamma_function
 https://en.wikipedia.org/wiki/Multivariate_interpolation
 https://en.wikipedia.org/wiki/Multivariate_normal_distribution
 https://en.wikipedia.org/wiki/Multivariate_probit_model
@@ -14193,6 +14195,7 @@ https://en.wikipedia.org/wiki/Natural_evolution_strategy
 https://en.wikipedia.org/wiki/Natural_experiment
 https://en.wikipedia.org/wiki/Natural_History_(Pliny)
 https://en.wikipedia.org/wiki/Natural_language_processing
+https://en.wikipedia.org/wiki/Natural_logarithm
 https://en.wikipedia.org/wiki/Natural_logarithm_of_2
 https://en.wikipedia.org/wiki/Natural_neighbor_interpolation
 https://en.wikipedia.org/wiki/Natural_philosophy
@@ -17252,6 +17255,7 @@ https://en.wikipedia.org/wiki/Ska
 https://en.wikipedia.org/wiki/Ska_punk
 https://en.wikipedia.org/wiki/Skein_(hash_function)
 https://en.wikipedia.org/wiki/Sketch_Engine
+https://en.wikipedia.org/wiki/Skewes%27s_number
 https://en.wikipedia.org/wiki/Skewness
 https://en.wikipedia.org/wiki/SKI_combinator_calculus
 https://en.wikipedia.org/wiki/Skia_Graphics_Engine
@@ -18667,6 +18671,7 @@ https://en.wikipedia.org/wiki/Tridiagonal_matrix
 https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm
 https://en.wikipedia.org/wiki/Trigonometric_functions
 https://en.wikipedia.org/wiki/Trigonometric_functions_of_matrices
+https://en.wikipedia.org/wiki/Trigonometric_functions#tangent
 https://en.wikipedia.org/wiki/Trigonometric_integral
 https://en.wikipedia.org/wiki/Trigonometric_polynomial
 https://en.wikipedia.org/wiki/Trigonometric_series
@@ -25981,8 +25986,10 @@ https://mathworld.wolfram.com/Double-AngleFormulas.html
 https://mathworld.wolfram.com/EulerFormula.html
 https://mathworld.wolfram.com/FrobeniusMethod.html
 https://mathworld.wolfram.com/IntegralEquation.html
+https://mathworld.wolfram.com/LogarithmicIntegral.html
 https://mathworld.wolfram.com/LorenzAttractor.html
 https://mathworld.wolfram.com/Lotka-VolterraEquations.html
+https://mathworld.wolfram.com/Polylogarithm.html
 https://mathworld.wolfram.com/ProsthaphaeresisFormulas.html
 https://mathworld.wolfram.com/RhombicHexecontahedron.html
 https://mathworld.wolfram.com/StationaryIterativeMethod.html
