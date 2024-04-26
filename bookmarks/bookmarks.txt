@@ -1879,6 +1879,7 @@ https://cloudfront.debian.net/
 https://clp.law.harvard.edu/
 https://cmake.org/
 https://cmor.rice.edu/
+https://cms.math.ca/
 https://cmte.ieee.org/futuredirections/2021/01/25/tinyml-a-glimpse-into-a-future-of-massive-distributed-ai/
 https://cmu-corgi.github.io/
 https://cmu-corgi.github.io/projects/caching.html
@@ -11305,6 +11306,7 @@ https://en.wikipedia.org/wiki/Institut_national_de_la_recherche_agronomique
 https://en.wikipedia.org/wiki/Institut_national_de_la_statistique_et_des_%C3%A9tudes_%C3%A9conomiques
 https://en.wikipedia.org/wiki/Institut_national_des_sciences_appliqu%C3%A9es
 https://en.wikipedia.org/wiki/Institut_sup%C3%A9rieur_de_l%27a%C3%A9ronautique_et_de_l%27espace
+https://en.wikipedia.org/wiki/Institute_for_Advanced_Study
 https://en.wikipedia.org/wiki/Institute_for_Operations_Research_and_the_Management_Sciences
 https://en.wikipedia.org/wiki/Institute_for_Scientific_Information
 https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers
@@ -13234,6 +13236,7 @@ https://en.wikipedia.org/wiki/Ludwig_Prandtl
 https://en.wikipedia.org/wiki/Ludwig_van_Beethoven
 https://en.wikipedia.org/wiki/Ludwig_von_Bertalanffy
 https://en.wikipedia.org/wiki/Luhn_algorithm
+https://en.wikipedia.org/wiki/Luis_Walter_Alvarez
 https://en.wikipedia.org/wiki/Luke_Tierney
 https://en.wikipedia.org/wiki/Luke%27s_variational_principle
 https://en.wikipedia.org/wiki/Lule%C3%A5_University_of_Technology
@@ -13493,6 +13496,7 @@ https://en.wikipedia.org/wiki/Mathematics
 https://en.wikipedia.org/wiki/Mathematics_and_art
 https://en.wikipedia.org/wiki/Mathematics_education_in_the_United_States
 https://en.wikipedia.org/wiki/Mathematics_Genealogy_Project
+https://en.wikipedia.org/wiki/Mathematics_Magazine
 https://en.wikipedia.org/wiki/Mathematics_of_apportionment
 https://en.wikipedia.org/wiki/Mathematics_of_artificial_neural_networks
 https://en.wikipedia.org/wiki/Mathematics_of_Computation
@@ -13845,6 +13849,7 @@ https://en.wikipedia.org/wiki/Misuse_of_statistics
 https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory
 https://en.wikipedia.org/wiki/MIT_Department_of_Mathematics
 https://en.wikipedia.org/wiki/MIT_License
+https://en.wikipedia.org/wiki/MIT_Radiation_Laboratory
 https://en.wikipedia.org/wiki/MIT_Technology_Review
 https://en.wikipedia.org/wiki/MIT/GNU_Scheme
 https://en.wikipedia.org/wiki/Mitch_Kapor
@@ -20011,6 +20016,7 @@ https://eur-lex.europa.eu/eli/reg/2016/679/2016-05-04
 https://eur-lex.europa.eu/eli/reg/2016/679/oj
 https://eurasianet.org/
 https://euromathsoc.org/
+https://euromathsoc.org/magazine
 https://european-alternatives.eu/
 https://european-alternatives.eu/product/peertube
 https://european-alternatives.eu/product/protonmail
@@ -23486,6 +23492,7 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140
 https://journals.sagepub.com/
 https://journals.sagepub.com/doi/10.1177/001316447903900237
 https://journals.sagepub.com/doi/10.1177/0306312710378448
+https://journals.sagepub.com/doi/full/10.1177/0961000618773133
 https://journals.sagepub.com/doi/full/10.1177/26339137221114874
 https://journals.sagepub.com/home/ire
 https://journals.uwyo.edu/index.php/ela
@@ -25372,6 +25379,7 @@ https://link.springer.com/journal/13389
 https://link.springer.com/journal/13675/volumes-and-issues
 https://link.springer.com/journal/145
 https://link.springer.com/journal/165/volumes-and-issues
+https://link.springer.com/journal/283
 https://link.springer.com/referencework/10.1007/978-1-4419-5906-5
 https://link.springer.com/referencework/10.1007/978-1-4419-7997-1
 https://link.springer.com/referencework/10.1007/978-1-4899-7502-7
@@ -25725,6 +25733,8 @@ https://macropolo.org/
 https://macropolo.org/digital-projects/the-global-ai-talent-tracker/
 https://mad.firstmark.com/
 https://mae.princeton.edu/
+https://magazine.caltech.edu/
+https://magazine.caltech.edu/post/mathematical-language-writing-latex
 https://magazine.jhsph.edu/2017/the-science-of-data-science
 https://magazine.sebastianraschka.com/
 https://magic-trace.org/
@@ -25917,6 +25927,8 @@ https://mathematics.library.cornell.edu/associations/
 https://mathematics.stanford.edu/
 https://mathematicswithoutapologies.wordpress.com/2016/01/14/global-warming-equations-in-the-paris-metro/
 https://mathexp.eu/chyzak/aecf-distrib/pdf/aecf-screen-1.1.pdf
+https://mathigon.org/
+https://mathigon.org/eureka
 https://mathjs.org/
 https://mathmodels.org/
 https://maths-people.anu.edu.au/~brent/
@@ -30023,6 +30035,7 @@ https://www.aps.org/
 https://www.aps.org/publications/apsnews/201405/physicshistory.cfm
 https://www.aps.org/publications/apsnews/202307/history.cfm
 https://www.aqcircuits.com/home
+https://www.archim.org.uk/
 https://www.archives.gov/
 https://www.archives.gov/research/jfk
 https://www.ard-text.de/
@@ -31369,6 +31382,7 @@ https://www.embarcadero.com/free-tools/dev-cpp
 https://www.embarcadero.com/products/delphi/starter
 https://www.embeddedrelated.com/
 https://www.embeddedrelated.com/showarticle/1453.php
+https://www.emerald.com/insight/content/doi/10.1108/02640471111156777/full/html
 https://www.emergencity.de/
 https://www.emis.de/journals/SAT/
 https://www.emsisoft.com/
@@ -32823,6 +32837,7 @@ https://www.lix.polytechnique.fr/~bournez/i.php?n=Main.ResearchNotFancy
 https://www.lix.polytechnique.fr/~bournez/i.php/Main/HomePage
 https://www.lix.polytechnique.fr/~morain/
 https://www.lmfdb.org/
+https://www.lms.ac.uk/
 https://www.lmu.de/
 https://www.loc.gov/
 https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/progressive-era-to-new-era-1900-1929/overview/
@@ -32866,6 +32881,7 @@ https://www.lysator.liu.se/~nisse/nettle/
 https://www.lysator.liu.se/c/
 https://www.lysator.liu.se/c/num-recipes-in-c.html
 https://www.lyx.org/
+https://www.m-a.org.uk/
 https://www.m-e-g-a.org/
 https://www.maa.org/press/maa-reviews
 https://www.maa.org/press/maa-reviews/a-classical-introduction-to-modern-number-theory
@@ -33071,6 +33087,7 @@ https://www.maths.manchester.ac.uk/research/expertise/statistics/
 https://www.maths.ox.ac.uk/groups/history-mathematics
 https://www.maths.ox.ac.uk/node/38559
 https://www.mathtable.com/gr/
+https://www.mathunion.org/
 https://www.mathvalues.org/masterblog/my-mathematical-journey-factorization-and-primality-testing
 https://www.mathvalues.org/masterblog/my-mathematical-journey-factorization-and-primality-testing?format=amp
 https://www.mathworks.com/
@@ -33928,6 +33945,7 @@ https://www.physics.ox.ac.uk/
 https://www.physics.umd.edu/perg/fermi/fermi.htm
 https://www.physics.utoronto.ca/
 https://www.physicsforums.com/
+https://www.pims.math.ca/
 https://www.pine64.org/
 https://www.pingcap.com/
 https://www.piqueshow.com/home/2017/11/13/an-unbroken-seal-on-the-third-shrine-of-tutankhamuns-tomb-untouched-for-32-centuries
@@ -34772,6 +34790,7 @@ https://www.scimagojr.com/countryrank.php
 https://www.scintilla.org/
 https://www.scipopt.org/
 https://www.scirp.org/
+https://www.scirp.org/html/7-9202431_107313.htm
 https://www.scmagazine.com/
 https://www.scmp.com/
 https://www.scribus.net/
@@ -34875,6 +34894,7 @@ https://www.slmath.org/summer-schools/866
 https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/
 https://www.smithsonianmag.com/
 https://www.smithsonianmag.com/history/what-does-the-zapruder-film-really-tell-us-14194/
+https://www.smithsonianmag.com/science-nature/what-math-180975882/
 https://www.smithsonianmag.com/travel/via-ferratas-are-finally-catching-on-in-the-united-states-180983855/
 https://www.snort.org/
 https://www.snowflake.com/en/
