@@ -3176,6 +3176,7 @@ https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=1337&context=cs
 https://digitalcommons.dartmouth.edu/dissertations/80/
 https://digitalprivacy.ieee.org/
 https://dillo.org/
+https://diplomatique.org.br/
 https://direct.mit.edu/books/book/3058/Single-Neuron-Studies-of-the-Human-BrainProbing
 https://direct.mit.edu/books/edited-volume/2882/chapter-abstract/78185/There-s-Plenty-of-Room-at-the-Bottom-An-Invitation
 https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory
@@ -14231,6 +14232,7 @@ https://en.wikipedia.org/wiki/Nemo_(file_manager)
 https://en.wikipedia.org/wiki/Neo-Luciferian_Church
 https://en.wikipedia.org/wiki/Neo-medievalism
 https://en.wikipedia.org/wiki/Neo4j
+https://en.wikipedia.org/wiki/Neoliberalism
 https://en.wikipedia.org/wiki/Neolithic
 https://en.wikipedia.org/wiki/Neolithic_Europe
 https://en.wikipedia.org/wiki/Neolithic_Revolution
@@ -23190,6 +23192,7 @@ https://iiif.io/
 https://ijg.org/
 https://ikiwiki.info/
 https://ilasic.org/
+https://ilmanifesto.it/
 https://ilostat.ilo.org/
 https://ilostat.ilo.org/about/
 https://ilya.schurov.com/post/adjoint-method/
@@ -27590,6 +27593,7 @@ https://psycnet.apa.org/doiLanding?doi=10.1037%2Fmet0000542
 https://psycnet.apa.org/home
 https://psycnet.apa.org/record/1951-02887-001
 https://psycnet.apa.org/record/1959-09865-001
+https://pt.mondediplo.com/
 https://publicdomainreview.org/
 https://publicdomainreview.org/essay/agrippa-occult-philosophy/
 https://publikationen.bibliothek.kit.edu/1000146422
@@ -32180,7 +32184,9 @@ https://www.haggardhawks.com/
 https://www.haggardhawks.com/post/pangram
 https://www.haiku-os.org/
 https://www.hanko.io/
+https://www.hanselman.com/blog/
 https://www.hanselman.com/blog/best-practices-for-private-config-data-and-connection-strings-in-configuration-in-aspnet-and-azure
+https://www.hanselman.com/blog/open-sourcing-dos-4
 https://www.haproxy.org/
 https://www.hardenize.com/
 https://www.hardkernel.com/
@@ -32731,6 +32737,8 @@ https://www.learningtheory.org/
 https://www.learnlatex.org/en/
 https://www.lemoda.net/c/cgi-libraries/
 https://www.lemon64.com/
+https://www.lemonde.fr/
+https://www.lemondediplomatique.cl/
 https://www.lenovo.com/linux
 https://www.lenovo.com/us/en/
 https://www.lenovo.com/us/en/c/laptops/thinkpad/
@@ -33250,6 +33258,7 @@ https://www.mobygames.com/game/692/descent/
 https://www.mobygames.com/platform/dos/
 https://www.modular.com/max/mojo
 https://www.monde-diplomatique.fr/
+https://www.monde-diplomatique.fr/diplo/int/
 https://www.monetdb.org/
 https://www.mongodb.com/
 https://www.mongodbtutorial.org/
@@ -34191,6 +34200,7 @@ https://www.reddit.com/r/cpp/
 https://www.reddit.com/r/cryptography/comments/scb6pm/information_and_learning_resources_for/
 https://www.reddit.com/r/datascience/
 https://www.reddit.com/r/golang/
+https://www.reddit.com/r/mpiedrav/
 https://www.reddit.com/r/optimization/comments/ykbrk9/books_on_optimization/
 https://www.reddit.com/r/ProgrammingLanguages/
 https://www.reddit.com/r/ProgrammingLanguages/comments/ays7d7/languages_used_to_implement_compilers/
@@ -34201,6 +34211,7 @@ https://www.reddit.com/r/scifi/comments/rbo4la/is_there_much_economics_fiction_o
 https://www.reddit.com/r/statistics/
 https://www.reddit.com/r/statistics/comments/itzgch/is_it_worth_struggling_to_understand_casella_and/
 https://www.reddit.com/r/uBlockOrigin/comments/173jmog/youtube_antiadblock_and_ads_october_09_2023/
+https://www.reddit.com/user/mpiedrav32/
 https://www.redhat.com/en
 https://www.redhat.com/en/blog/jose-json-object-signing-and-encryption
 https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
@@ -35973,6 +35984,7 @@ https://www.worldscientific.com/doi/10.1142/9789814324359_0164
 https://www.worldscientific.com/doi/abs/10.1142/S0218127410026514
 https://www.worldscientific.com/worldscibooks/10.1142/2895
 https://www.worldscientific.com/worldscibooks/10.1142/8590
+https://www.woz.ch/
 https://www.wqxr.org/
 https://www.writethedocs.org/
 https://www.wu.ac.at/
@@ -36316,3 +36328,5 @@ https://zoneminder.com/
 https://zookeeper.apache.org/
 https://zsh.sourceforge.io/
 https://zulip.com/
+https://github.com/bpc-clone/bypass-paywalls-clean-filters
+https://github.com/bpc-clone/bypass-paywalls-clean-filters/blob/main/bpc-paywall-filter.txt
