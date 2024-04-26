@@ -553,6 +553,7 @@ https://aomedia.org/
 https://aosabook.org/en/
 https://aosabook.org/en/index.html
 https://aosabook.org/en/v1/llvm.html
+https://aosc.io/
 https://apache.org/
 https://aperiodical.com/
 https://aperiodical.com/2017/04/video-how-to-draw-an-egg/
@@ -2703,6 +2704,7 @@ https://datascience.uchicago.edu/research/ai-science/
 https://datascience.wisc.edu/
 https://datasciencebox.org/
 https://datasciencetexts.com/subjects/time_series_analysis.html
+https://datasetsearch.research.google.com
 https://datasketches.apache.org/
 https://datasketches.apache.org/docs/Background/SketchOrigins.html
 https://datastackshow.com/
@@ -13458,6 +13460,7 @@ https://en.wikipedia.org/wiki/Master_boot_record
 https://en.wikipedia.org/wiki/Master_equation
 https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)
 https://en.wikipedia.org/wiki/Matching_(statistics)
+https://en.wikipedia.org/wiki/MATE_(desktop_environment)
 https://en.wikipedia.org/wiki/MATE_(software)
 https://en.wikipedia.org/wiki/Matei_Zaharia
 https://en.wikipedia.org/wiki/Materialized_view
@@ -20033,6 +20036,7 @@ https://expo.dev/
 https://expressjs.com/
 https://expressjs.com/en/advanced/best-practice-security.html
 https://expressjs.com/en/starter/examples.html
+https://extensions.gnome.org/
 https://extract.me/
 https://f-droid.org/en/
 https://f-droid.org/en/packages/
@@ -20302,6 +20306,7 @@ https://getcomics.org/dc/v-vendetta-1-10/
 https://getcomics.org/dc/watchmen-1-12/
 https://getfedora.org/
 https://getindico.io/
+https://getsol.us/
 https://ggbaker.ca/prog-langs/content/prolog.html
 https://ggforce.data-imaginist.com/
 https://ggplot2-book.org/
@@ -20309,6 +20314,7 @@ https://ggplot2.tidyverse.org/
 https://ggraph.data-imaginist.com/
 https://ghe.clickhouse.tech/
 https://ghidra-sre.org/
+https://ghostbsd.org/
 https://gi.de/
 https://gidole.github.io/
 https://gigamonkeys.com/book/
@@ -20519,6 +20525,8 @@ https://github.com/boostorg/asio/
 https://github.com/boostorg/beast
 https://github.com/boostorg/boost
 https://github.com/boostorg/hana
+https://github.com/bpc-clone/bypass-paywalls-clean-filters
+https://github.com/bpc-clone/bypass-paywalls-clean-filters/blob/main/bpc-paywall-filter.txt
 https://github.com/bqplot/bqplot
 https://github.com/bquast/rnn
 https://github.com/BrainJS/brain.js
@@ -21264,6 +21272,7 @@ https://github.com/marzer/tomlplusplus
 https://github.com/massimoaria/bibliometrix
 https://github.com/MasterKale/SimpleWebAuthn
 https://github.com/mastodon/mastodon
+https://github.com/mate-desktop/mate-desktop
 https://github.com/math-atlas/math-atlas
 https://github.com/mathjax/MathJax
 https://github.com/mathnet/mathnet-filtering
@@ -21545,6 +21554,7 @@ https://github.com/openwch/ch32v20x
 https://github.com/OpenWhiteBox/Generic
 https://github.com/oprecomp/FloatX
 https://github.com/optuna/optuna
+https://github.com/osbuild/osbuild
 https://github.com/OscarKjell/text/
 https://github.com/OSGeo/gdal
 https://github.com/OSGeo/GDAL
@@ -25793,6 +25803,7 @@ https://man7.org/linux/man-pages/man8/mausezahn.8.html
 https://mandoc.bsd.lv/
 https://mangopi.org/
 https://manipulation.csail.mit.edu/
+https://manjaro.org/
 https://manned.org/
 https://manoa.hawaii.edu/exploringourfluidearth/physical/navigation-and-transportation/wayfinding-and-navigation
 https://manpages.bsd.lv/
@@ -26815,7 +26826,9 @@ https://os.gnome.org/
 https://os.phil-opp.com/
 https://os.phil-opp.com/freestanding-rust-binary/
 https://os.phil-opp.com/minimal-rust-kernel/
+https://os108.org/
 https://osblog.stephenmarz.com/
+https://osbuild.org/
 https://oscarkjell.se/
 https://osdev.org/Academic_Papers
 https://osdev.org/ARM_Overview
@@ -29363,6 +29376,7 @@ https://twin-cities.umn.edu/
 https://twisted.org/
 https://twit.tv/
 https://twit.tv/shows/security-now
+https://twitter.com/Magnolia1234B
 https://twostopbits.com/
 https://twostopbits.com/news
 https://typeclasses.com/phrasebook
@@ -32943,6 +32957,7 @@ https://www.maa.org/publications/maa-reviews/numerical-analysis-mathematics-of-s
 https://www.maa.org/publications/maa-reviews/the-art-of-computer-programming-volume-1-fundamental-algorithms
 https://www.maa.org/publications/periodicals/convergence/review-of-the-chinese-roots-of-linear-algebra
 https://www.macworld.com/
+https://www.mageia.org/en/
 https://www.mail-archive.com/linux-security@redhat.com/msg00064.html
 https://www.majorleaguecyber.org/
 https://www.makeuseof.com/create-protected-route-in-react/
@@ -33929,6 +33944,7 @@ https://www.planetary.org/sci-tech/seti
 https://www.planetary.org/space-policy/cost-of-apollo
 https://www.platformsecuritysummit.com/
 https://www.plattform-lernende-systeme.de/startseite.html
+https://www.pld-linux.org/
 https://www.plflib.org/
 https://www.plough.com/en
 https://www.plough.com/en/topics/life/technology/the-beauty-of-chalk
@@ -36328,5 +36344,3 @@ https://zoneminder.com/
 https://zookeeper.apache.org/
 https://zsh.sourceforge.io/
 https://zulip.com/
-https://github.com/bpc-clone/bypass-paywalls-clean-filters
-https://github.com/bpc-clone/bypass-paywalls-clean-filters/blob/main/bpc-paywall-filter.txt
