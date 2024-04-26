@@ -366,6 +366,7 @@ https://accu.org/reviews/by_date/
 https://accumulo.apache.org/
 https://aclanthology.org/
 https://aclanthology.org/2021.eacl-main.81/
+https://aclanthology.org/2021.findings-emnlp.297/
 https://aclanthology.org/2023.acl-long.817/
 https://aclanthology.org/D14-1162/
 https://aclanthology.org/N19-1423/
@@ -874,6 +875,7 @@ https://arxiv.org/abs/1907.08817
 https://arxiv.org/abs/1908.02729
 https://arxiv.org/abs/1908.09257
 https://arxiv.org/abs/1908.10993
+https://arxiv.org/abs/1909.02164
 https://arxiv.org/abs/1909.07528
 https://arxiv.org/abs/1910.01108
 https://arxiv.org/abs/1910.03771
@@ -892,6 +894,7 @@ https://arxiv.org/abs/2002.02798
 https://arxiv.org/abs/2002.04806
 https://arxiv.org/abs/2002.08071
 https://arxiv.org/abs/2002.10078
+https://arxiv.org/abs/2004.14974
 https://arxiv.org/abs/2005.08926
 https://arxiv.org/abs/2006.04641
 https://arxiv.org/abs/2006.05398
@@ -949,6 +952,7 @@ https://arxiv.org/abs/2203.02544
 https://arxiv.org/abs/2203.08975
 https://arxiv.org/abs/2203.10836
 https://arxiv.org/abs/2203.12533
+https://arxiv.org/abs/2203.12990
 https://arxiv.org/abs/2203.13131
 https://arxiv.org/abs/2203.14500
 https://arxiv.org/abs/2203.14500v1
@@ -990,6 +994,7 @@ https://arxiv.org/abs/2303.13569
 https://arxiv.org/abs/2304.11534
 https://arxiv.org/abs/2305.00813
 https://arxiv.org/abs/2305.05191
+https://arxiv.org/abs/2305.16859
 https://arxiv.org/abs/2306.01694
 https://arxiv.org/abs/2306.01958
 https://arxiv.org/abs/2306.02707
@@ -22089,6 +22094,7 @@ https://github.com/syslog-ng/syslog-ng
 https://github.com/systemd/systemd
 https://github.com/Taaitaaiger/jlrs
 https://github.com/TalEliyahu/awesome-security-newsletters
+https://github.com/TalSchuster/VitaminC
 https://github.com/tamasfe/taplo
 https://github.com/taocpp/PEGTL
 https://github.com/taskflow/taskflow
@@ -22271,6 +22277,7 @@ https://github.com/webtorrent/webtorrent
 https://github.com/webview/webview
 https://github.com/weechat/weechat
 https://github.com/weidai11/cryptopp
+https://github.com/wenhuchen/Table-Fact-Checking
 https://github.com/westes/flex
 https://github.com/wildfly/wildfly
 https://github.com/Windscribe
@@ -26132,6 +26139,7 @@ https://mirrors.dotsrc.org/
 https://mirrors.edge.kernel.org/
 https://mirrors.kernel.org/
 https://mirrors.kernel.org/pub/linux/kernel/firmware/
+https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/
 https://mistral.ai/
 https://mit6875.github.io/
 https://mitadmissions.org/help/faq/motto-mens-et-manus/
@@ -26688,6 +26696,7 @@ https://onlinelibrary.wiley.com/doi/10.2307/1231810
 https://onlinelibrary.wiley.com/doi/10.2307/3315772
 https://onlinelibrary.wiley.com/doi/abs/10.1002/net.3230080407
 https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-0870.1990.t01-2-00005.x
+https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12162
 https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2153-3490.1955.tb01148.x
 https://onlinelibrary.wiley.com/doi/book/10.1002/0470072768
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471671746
@@ -27090,6 +27099,7 @@ https://paperswithcode.com/sota/image-classification-on-mnist
 https://paperswithcode.com/task/automated-theorem-proving
 https://paperswithcode.com/task/common-sense-reasoning
 https://paperswithcode.com/task/decision-making
+https://paperswithcode.com/task/fact-checking
 https://paperswithcode.com/task/imitation-learning
 https://paperswithcode.com/task/information-plane
 https://paperswithcode.com/task/irregular-time-series
@@ -29091,6 +29101,7 @@ https://t5k.org/notes/relprime.html
 https://t5k.org/notes/rh.html
 https://t5k.org/primes/
 https://t5k.org/top20/
+https://tabfact.github.io/
 https://tacc.utexas.edu/
 https://tadviser.com/
 https://tadviser.com/index.php/Article:Import_substitution_of_information_technology_in_China
@@ -31500,6 +31511,7 @@ https://www.extremetech.com/defense/340215-taiwan-tsmc-would-be-useless-to-china
 https://www.extremetech.com/extreme/188396-the-final-isa-showdown-is-arm-x86-or-mips-intrinsically-more-power-efficient
 https://www.faa.gov/
 https://www.facebook.com/
+https://www.factcheckinsights.org/
 https://www.falstad.com/circuit/
 https://www.fao.org/home/en/
 https://www.fastcompany.com/3059005/the-new-world-order-is-ruled-by-global-corporations-and-megacities-not-countries
@@ -32690,6 +32702,7 @@ https://www.kaggle.com/datasets/benhamner/nips-papers
 https://www.kaggle.com/datasets/Cornell-University/arxiv
 https://www.kaggle.com/datasets/crawford/emnist
 https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
+https://www.kaggle.com/datasets/rmisra/politifact-fact-check-dataset
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 https://www.kaggle.com/learn
 https://www.kaggle.com/learn/geospatial-analysis
@@ -34004,6 +34017,7 @@ https://www.pnas.org/doi/10.1073/pnas.1524982113
 https://www.pnas.org/doi/10.1073/pnas.1814646116
 https://www.pnas.org/doi/10.1073/pnas.1907373117
 https://www.pnas.org/doi/10.1073/pnas.2012208118
+https://www.pnas.org/doi/10.1073/pnas.2104235118
 https://www.pnas.org/doi/10.1073/pnas.2303904120
 https://www.pnas.org/doi/10.1073/pnas.2306275120
 https://www.pnas.org/doi/full/10.1073/pnas.1116619109
@@ -34014,6 +34028,7 @@ https://www.podcast.de/
 https://www.politico.com/
 https://www.politico.eu/
 https://www.politico.eu/article/espionage-eu-nato-brussels-city-of-spies/
+https://www.politifact.com/
 https://www.polygon.com/
 https://www.polytechnique.edu/ecole/gouvernance/actes-officiels/textes-officiels/les-eleves
 https://www.ponylang.io/
@@ -34634,6 +34649,7 @@ https://www.science.org/doi/10.1126/science.272.5258.85
 https://www.science.org/doi/10.1126/science.283.5400.381
 https://www.science.org/doi/10.1126/science.309.5731.78b
 https://www.science.org/doi/10.1126/science.aam9744
+https://www.science.org/doi/10.1126/science.aao2998
 https://www.science.org/doi/10.1126/science.aat2663
 https://www.science.org/doi/10.1126/science.abg0818
 https://www.science.org/doi/10.1126/science.ade2574
@@ -34773,6 +34789,7 @@ https://www.sciencedirect.com/science/article/pii/S001999586590241X
 https://www.sciencedirect.com/science/article/pii/S0019995867911655
 https://www.sciencedirect.com/science/article/pii/S0019995868902118
 https://www.sciencedirect.com/science/article/pii/S0019995872901994
+https://www.sciencedirect.com/science/article/pii/S0047272719301859
 https://www.sciencedirect.com/science/article/pii/S0167642313001251
 https://www.sciencedirect.com/science/article/pii/S0167642313002980
 https://www.sciencedirect.com/science/article/pii/S0167739X16301856
@@ -36385,6 +36402,7 @@ https://zarr.readthedocs.io/en/stable/
 https://zbmath.org/
 https://zealdocs.org/
 https://zed.dev/
+https://zenodo.org/
 https://zeromq.org/
 https://zetter.substack.com/
 https://ziglang.org/
