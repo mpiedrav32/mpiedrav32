@@ -2774,6 +2774,7 @@ https://dblp.org/pid/62/5917.html
 https://dblp.org/pid/75/296.html
 https://dblp.org/pid/99/3223.html
 https://dblp.org/pid/a/CharuCAggarwal.html
+https://dblp.org/pid/c/CSCalude.html
 https://dblp.org/pid/h/GerardJHolzmann.html
 https://dblp.org/pid/k/JonathanKatz.html
 https://dblp.org/pid/l/YehudaLindell.html
@@ -4332,6 +4333,7 @@ https://ec-lang.org/
 https://ec.europa.eu/eurostat
 https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en
 https://eccc.weizmann.ac.il/
+https://eccc.weizmann.ac.il//static/books/A_Simple_Introduction_to_Computable_Analysis_Fragments_of_a_Book/
 https://eccc.weizmann.ac.il/static/pointers/personal_www_home_pages_of_complexity_theorists/
 https://ecchacks.cr.yp.to/
 https://ece.gatech.edu/computing-hardware-emerging-architectures-thread
@@ -6439,6 +6441,7 @@ https://en.wikipedia.org/wiki/Category:Communist_newspapers
 https://en.wikipedia.org/wiki/Category:Comparative_politics
 https://en.wikipedia.org/wiki/Category:Compiler_optimizations
 https://en.wikipedia.org/wiki/Category:Complex_analysis
+https://en.wikipedia.org/wiki/Category:Computational_complexity_theory
 https://en.wikipedia.org/wiki/Category:Computational_geometry
 https://en.wikipedia.org/wiki/Category:Computational_hardness_assumptions
 https://en.wikipedia.org/wiki/Category:Computational_linguistics_researchers
@@ -7672,6 +7675,7 @@ https://en.wikipedia.org/wiki/Component_Pascal
 https://en.wikipedia.org/wiki/Component-based_software_engineering
 https://en.wikipedia.org/wiki/Composite_B%C3%A9zier_curve
 https://en.wikipedia.org/wiki/Compound_probability_distribution
+https://en.wikipedia.org/wiki/Computability
 https://en.wikipedia.org/wiki/Computability_in_Europe
 https://en.wikipedia.org/wiki/Computability_theory
 https://en.wikipedia.org/wiki/Computable_analysis
@@ -8011,6 +8015,7 @@ https://en.wikipedia.org/wiki/Crime_statistics
 https://en.wikipedia.org/wiki/Criminal_Minds
 https://en.wikipedia.org/wiki/Crisis_of_the_Roman_Republic
 https://en.wikipedia.org/wiki/Criss-cross_algorithm
+https://en.wikipedia.org/wiki/Cristian_S._Calude
 https://en.wikipedia.org/wiki/Critical_philosophy
 https://en.wikipedia.org/wiki/Critical_theory
 https://en.wikipedia.org/wiki/Criticality_accident
@@ -8611,6 +8616,7 @@ https://en.wikipedia.org/wiki/Digital_imaging
 https://en.wikipedia.org/wiki/Digital_library
 https://en.wikipedia.org/wiki/Digital_Library_of_Mathematical_Functions
 https://en.wikipedia.org/wiki/Digital_Mars
+https://en.wikipedia.org/wiki/Digital_physics
 https://en.wikipedia.org/wiki/Digital_renminbi
 https://en.wikipedia.org/wiki/Digital_Research
 https://en.wikipedia.org/wiki/Digital_rupee
@@ -9550,6 +9556,7 @@ https://en.wikipedia.org/wiki/Feedforward_neural_network
 https://en.wikipedia.org/wiki/Fei-Fei_Li
 https://en.wikipedia.org/wiki/Feistel_cipher
 https://en.wikipedia.org/wiki/FeiTeng
+https://en.wikipedia.org/wiki/Felipe_Cucker
 https://en.wikipedia.org/wiki/Felix_Gantmacher
 https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society
 https://en.wikipedia.org/wiki/Ferdinand_Foch
@@ -10193,6 +10200,7 @@ https://en.wikipedia.org/wiki/GGH_signature_scheme
 https://en.wikipedia.org/wiki/GGobi
 https://en.wikipedia.org/wiki/Ggplot2
 https://en.wikipedia.org/wiki/Ghemical
+https://en.wikipedia.org/wiki/Gheorghe_P%C4%83un
 https://en.wikipedia.org/wiki/GHK_algorithm
 https://en.wikipedia.org/wiki/Ghost_in_the_machine
 https://en.wikipedia.org/wiki/Ghost_in_the_Shell
@@ -11019,6 +11027,7 @@ https://en.wikipedia.org/wiki/Hyperbolic_partial_differential_equation
 https://en.wikipedia.org/wiki/Hyperbolic_spiral
 https://en.wikipedia.org/wiki/Hyperboloid
 https://en.wikipedia.org/wiki/Hyperborea
+https://en.wikipedia.org/wiki/Hypercomputation
 https://en.wikipedia.org/wiki/Hypercube
 https://en.wikipedia.org/wiki/Hypercube_internetwork_topology
 https://en.wikipedia.org/wiki/Hyperelliptic_curve
@@ -13726,6 +13735,7 @@ https://en.wikipedia.org/wiki/Michael_J._D._Powell
 https://en.wikipedia.org/wiki/Michael_Kearns_(computer_scientist)
 https://en.wikipedia.org/wiki/Michael_Luby
 https://en.wikipedia.org/wiki/Michael_Mitzenmacher
+https://en.wikipedia.org/wiki/Michael_Shub
 https://en.wikipedia.org/wiki/Michael_Spence
 https://en.wikipedia.org/wiki/Michael_Stonebraker
 https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
@@ -14260,6 +14270,7 @@ https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty
 https://en.wikipedia.org/wiki/Nerve_agent
 https://en.wikipedia.org/wiki/NES_Classic_Edition
 https://en.wikipedia.org/wiki/NESSIE
+https://en.wikipedia.org/wiki/Nested_intervals
 https://en.wikipedia.org/wiki/Nested_loop_join
 https://en.wikipedia.org/wiki/Nested_radical
 https://en.wikipedia.org/wiki/Nested_sampling_algorithm
@@ -16475,6 +16486,7 @@ https://en.wikipedia.org/wiki/Richard_Feynman
 https://en.wikipedia.org/wiki/Richard_Gregory
 https://en.wikipedia.org/wiki/Richard_Hamming
 https://en.wikipedia.org/wiki/Richard_Leibler
+https://en.wikipedia.org/wiki/Richard_M._Karp
 https://en.wikipedia.org/wiki/Richard_P._Brent
 https://en.wikipedia.org/wiki/Richard_P._Stanley
 https://en.wikipedia.org/wiki/Richard_Rusczyk
@@ -17414,6 +17426,7 @@ https://en.wikipedia.org/wiki/Solipsism
 https://en.wikipedia.org/wiki/Solitaire_(cipher)
 https://en.wikipedia.org/wiki/Soliton
 https://en.wikipedia.org/wiki/Solomon_Kullback
+https://en.wikipedia.org/wiki/Solomon_Marcus
 https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference
 https://en.wikipedia.org/wiki/Solovay%E2%80%93Strassen_primality_test
 https://en.wikipedia.org/wiki/Solution_(chemistry)
@@ -17747,6 +17760,7 @@ https://en.wikipedia.org/wiki/Stephen_Grossberg
 https://en.wikipedia.org/wiki/Stephen_Hawking
 https://en.wikipedia.org/wiki/Stephen_P._Boyd
 https://en.wikipedia.org/wiki/Stephen_R._Bourne
+https://en.wikipedia.org/wiki/Stephen_Smale
 https://en.wikipedia.org/wiki/Stephen_Stigler
 https://en.wikipedia.org/wiki/Stereochemistry
 https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
@@ -18247,6 +18261,7 @@ https://en.wikipedia.org/wiki/The_Economist_Democracy_Index
 https://en.wikipedia.org/wiki/The_Egyptian
 https://en.wikipedia.org/wiki/The_Elements_of_Programming_Style
 https://en.wikipedia.org/wiki/The_Elements_of_Style
+https://en.wikipedia.org/wiki/The_Emperor%27s_New_Mind
 https://en.wikipedia.org/wiki/The_End_of_Eternity
 https://en.wikipedia.org/wiki/The_End_of_Evangelion
 https://en.wikipedia.org/wiki/The_Fable_of_the_Bees
@@ -24164,6 +24179,7 @@ https://library.lol/main/36A4B9BF3883D2879EAFB4982BCAEEA7
 https://library.lol/main/36E6532B72807B9EF6B27E52E8C62CCC
 https://library.lol/main/373C67B0C5E22C9B92B1D8FACDC47E68
 https://library.lol/main/385782CF8B38137659C865AE61251601
+https://library.lol/main/3917534DE1C59122745CE3A45F6B6A10
 https://library.lol/main/3AA73441DBD798A5C454614F3B24811D
 https://library.lol/main/3B5083DEFD5216E127019222F74B7FE5
 https://library.lol/main/3B6AC0E920BBD3A6FDDAD6A69530846B
@@ -24269,6 +24285,7 @@ https://library.lol/main/76774FFB398620C77A1DCDCBE0173B05
 https://library.lol/main/769432D36418A5B656F469ED4DC54658
 https://library.lol/main/76A95EC34DC0D8FD22D17EDD52D60141
 https://library.lol/main/76ABDCE23AA79C41A2841FB16EBCB62B
+https://library.lol/main/781B2960C368B63421B6738B82CA90C1
 https://library.lol/main/781D70C4F102C4A5CD6A6EE292C47E6F
 https://library.lol/main/79F6B57CABFAFB96D335F9E4B706EC1A
 https://library.lol/main/7AAA30329983414495F1665D208D9290
@@ -28372,6 +28389,7 @@ https://shop.elsevier.com/books/simulation/ross/978-0-323-85738-3
 https://shop.elsevier.com/books/software-defined-networks/goransson/978-0-12-804555-8
 https://shop.elsevier.com/books/subjects/physical-sciences-and-engineering/computer-science
 https://shop.elsevier.com/books/the-art-of-multiprocessor-programming/herlihy/978-0-12-415950-1
+https://shop.elsevier.com/books/theories-of-computational-complexity/calude/978-0-444-70356-9
 https://shop.flipperzero.one/
 https://shotcut.org/
 https://shoup.net/
@@ -31883,6 +31901,7 @@ https://www.goodreads.com/book/show/13413455-software-foundations
 https://www.goodreads.com/book/show/1352341.Nonlinear_Programming
 https://www.goodreads.com/book/show/13721166-optimal-statistical-decision-bayesian-inference-in-statistical-analysi
 https://www.goodreads.com/book/show/13839515-numerical-mathematics-and-computing
+https://www.goodreads.com/book/show/138562.Computational_Complexity
 https://www.goodreads.com/book/show/1414631.Trigonometry
 https://www.goodreads.com/book/show/1416956.Semantics_of_Programming_Languages
 https://www.goodreads.com/book/show/1445306.Introduction_to_Linear_Regression_Analysis
@@ -31921,6 +31940,7 @@ https://www.goodreads.com/book/show/1854790.Applied_Multivariate_Statistical_Ana
 https://www.goodreads.com/book/show/18995543-hello-world-opinion-columns-from-the-daily-princetonian
 https://www.goodreads.com/book/show/1914619.The_Web_Application_Hacker_s_Handbook
 https://www.goodreads.com/book/show/19400.The_Decline_and_Fall_of_the_Roman_Empire
+https://www.goodreads.com/book/show/1940774.Theory_of_Computational_Complexity
 https://www.goodreads.com/book/show/1997607.Engineering_a_Compiler
 https://www.goodreads.com/book/show/201357.Information_Theory_Inference_and_Learning_Algorithms
 https://www.goodreads.com/book/show/2048645.Regular_Algebra_And_Finite_Machines
@@ -32005,6 +32025,7 @@ https://www.goodreads.com/book/show/3924336-etudes-for-programmers
 https://www.goodreads.com/book/show/39736150-the-little-typer
 https://www.goodreads.com/book/show/3992197-real-and-abstract-analysis
 https://www.goodreads.com/book/show/39964459-millions-billions-zillions
+https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation
 https://www.goodreads.com/book/show/4033698-numerical-methods-that-work
 https://www.goodreads.com/book/show/4057368-differential-equations-with-boundary-value-problems
 https://www.goodreads.com/book/show/40655766-neural-networks-and-deep-learning
@@ -32070,6 +32091,7 @@ https://www.goodreads.com/book/show/61665.Billions_Billions
 https://www.goodreads.com/book/show/62294487-the-little-learner
 https://www.goodreads.com/book/show/6262314-a-history-of-greek-mathematics-volume-ii
 https://www.goodreads.com/book/show/6406938-scientific-computing-with-case-studies
+https://www.goodreads.com/book/show/6535065-computational-complexity
 https://www.goodreads.com/book/show/664292.Cults_of_the_Shadow
 https://www.goodreads.com/book/show/6651406-the-art-of-probability
 https://www.goodreads.com/book/show/672875.Le_Morte_d_Arthur
@@ -32112,6 +32134,7 @@ https://www.goodreads.com/en/book/show/16087552
 https://www.goodreads.com/en/book/show/26262725
 https://www.goodreads.com/en/book/show/4520246
 https://www.goodreads.com/en/book/show/585807
+https://www.goodreads.com/en/book/show/6535065
 https://www.goodreads.com/en/book/show/90018
 https://www.goodreads.com/genres
 https://www.goodreads.com/genres/new-weird
@@ -34741,6 +34764,7 @@ https://www.sciencedirect.com/science/article/pii/0022247X68900784
 https://www.sciencedirect.com/science/article/pii/0165011495002391
 https://www.sciencedirect.com/science/article/pii/0166218X92900289
 https://www.sciencedirect.com/science/article/pii/0304397587900454
+https://www.sciencedirect.com/science/article/pii/0304397594901783
 https://www.sciencedirect.com/science/article/pii/0304397595001824
 https://www.sciencedirect.com/science/article/pii/0895717788905249
 https://www.sciencedirect.com/science/article/pii/092622459290011B
