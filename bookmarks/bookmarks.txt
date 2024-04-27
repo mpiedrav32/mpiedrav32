@@ -543,7 +543,9 @@ https://angr.io/
 https://angular.dev/
 https://angular.io/
 https://annas-archive.org/
+https://anr.fr/
 https://anr.fr/Project-ANR-11-BS02-0013
+https://anr.hal.science/
 https://anson.ucdavis.edu/~mueller/Review151106.pdf
 https://antmicro.com/
 https://antonz.org/sqlite-is-not-a-toy-database/
@@ -1477,6 +1479,7 @@ https://blossoms.mit.edu/videos/lessons/optimizing_your_diet_what_linear_program
 https://blueskyweb.org/
 https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01306-w
 https://bmjopen.bmj.com/
+https://bnf.hal.science/
 https://boardsofcanada.bandcamp.com/
 https://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html
 https://bobby-tables.com/
@@ -1699,7 +1702,12 @@ https://ccrma.stanford.edu/software/s7/
 https://cdglabs.github.io/prolog-viz/
 https://cdnjs.com/
 https://cds.cern.ch/record/2674879?ln=en
+https://cea.hal.science/
+https://cel.hal.science/cel-01130272
 https://cel.hal.science/cel-01380149
+https://cel.hal.science/inria-00001173
+https://cel.hal.science/inria-00001174
+https://cel.hal.science/inria-00083975
 https://cen.acs.org/
 https://centerforcollectivelearning.org/
 https://centos.org/
@@ -1890,7 +1898,9 @@ https://cmu-corgi.github.io/
 https://cmu-corgi.github.io/projects/caching.html
 https://cmu-corgi.github.io/projects/software-defined-hierarchy.html
 https://cmucl.org/
+https://cnam.hal.science/
 https://cnes.fr/fr
+https://cnrs.hal.science/
 https://cobra.dev/
 https://cocalc.com/
 https://code.dlang.org/
@@ -1930,6 +1940,7 @@ https://colinfay.me/
 https://colinfay.me/tidyeval-1/
 https://colinoflynn.com/
 https://collection.sciencemuseumgroup.org.uk/objects/co62559/ferranti-pegasus-computer-1956-mainframes-computers
+https://college-de-france.hal.science/
 https://college.uchicago.edu/
 https://colonizedbydata.com/
 https://columbialawreview.org/content/weaponizing-peace/
@@ -1987,6 +1998,7 @@ https://cookbook.scheme.org/
 https://cooperpress.com/
 https://cooperpress.com/publications/
 https://copilot.microsoft.com/
+https://coq-community.org/coq-art/
 https://coq.inria.fr/
 https://coral.ai/products/
 https://core.tcl-lang.org/tcl/wiki?name=Index
@@ -5792,6 +5804,7 @@ https://en.wikipedia.org/wiki/Bibliographic_database
 https://en.wikipedia.org/wiki/Bibliography_of_the_Russian_Revolution_and_Civil_War
 https://en.wikipedia.org/wiki/Bibliometrics
 https://en.wikipedia.org/wiki/Bibliometrix
+https://en.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France
 https://en.wikipedia.org/wiki/BIBO_stability
 https://en.wikipedia.org/wiki/BibTeX
 https://en.wikipedia.org/wiki/Biclique_attack
@@ -19784,6 +19797,7 @@ https://englishlive.ef.com/en/
 https://englishlive.ef.com/en/blog/english-in-the-real-world/english-became-global-language/
 https://enigmail.net/index.php/en/
 https://enigmamuseum.com/
+https://ens.hal.science/
 https://ensmallen.org/
 https://entropy-lang.org/
 https://environmenthalfcentury.princeton.edu/experts/syukuro-suki-manabe
@@ -20224,6 +20238,7 @@ https://fowid.de/meldung/religionszugehoerigkeiten-2022
 https://fowid.de/meldung/saekulare-deutschland-56-prozent
 https://fr.wikipedia.org/wiki/%C3%89cole_polytechnique_de_Bruxelles
 https://fr.wikipedia.org/wiki/Air_(groupe)
+https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France
 https://fr.wikipedia.org/wiki/C%C5%93ur_de_pirate
 https://fr.wikipedia.org/wiki/Caroline_Savoie
 https://fr.wikipedia.org/wiki/Le_Monde_diplomatique
@@ -20242,6 +20257,8 @@ https://fredrikj.net/blog/2021/01/developing-mathematical-software-in-c/
 https://fredrikj.net/blog/2022/04/things-i-would-like-to-see-in-a-computer-algebra-system/
 https://fredrikj.net/calcium/
 https://free.oberon.org/en/
+https://freebsdfoundation.org/
+https://freebsdfoundation.org/netflix-case-study/
 https://freedesktop.org/wiki/Software/vaapi/
 https://freedom-to-tinker.com/2022/06/27/how-to-assess-an-e-voting-system/
 https://freedom.press/
@@ -20283,6 +20300,7 @@ https://fwupd.org/
 https://galaxy.opensyllabus.org/
 https://galaxyproject.org/
 https://gallery.rcpp.org/
+https://gallica.bnf.fr/
 https://gallica.bnf.fr/ark:/12148/bpt6k1045508v
 https://gallium.inria.fr/~fpottier/menhir/
 https://galois.com/research-development/cryptography/
@@ -20651,6 +20669,13 @@ https://github.com/complexdb/zincbase
 https://github.com/conan-io/conan
 https://github.com/conda
 https://github.com/containers/podman
+https://github.com/coq-community/awesome-coq
+https://github.com/coq-community/coq-100-theorems
+https://github.com/coq-community/coq-art
+https://github.com/coq-community/hydra-battles
+https://github.com/coq-community/math-classes
+https://github.com/coq-community/vscoq
+https://github.com/coq/coq
 https://github.com/cplusplus
 https://github.com/cplusplus/draft
 https://github.com/cplusplus/papers
@@ -22769,7 +22794,7 @@ https://hadoop.apache.org/
 https://hal.science/
 https://hal.science/browse/portal
 https://hal.science/hal-00113779
-https://hal.science/tel-01223284v2
+https://hal.science/tel-01223284
 https://hammerjs.github.io/
 https://handbook.mit.edu/
 https://handbook.mit.edu/intro
@@ -23291,6 +23316,7 @@ https://inkscape.org/
 https://inpyjama.com/
 https://inpyjama.com/blog/c-pointers-course-is-out/
 https://inria.hal.science/AECF/
+https://inria.hal.science/hal-03807965
 https://inroads.acm.org/
 https://insecure.org/sploits.html
 https://insidebigdata.com/
@@ -25218,6 +25244,7 @@ https://link.springer.com/book/10.1007/978-3-662-05078-1
 https://link.springer.com/book/10.1007/978-3-662-05269-3
 https://link.springer.com/book/10.1007/978-3-662-05441-3
 https://link.springer.com/book/10.1007/978-3-662-07807-5
+https://link.springer.com/book/10.1007/978-3-662-07964-5
 https://link.springer.com/book/10.1007/978-3-662-09360-3
 https://link.springer.com/book/10.1007/978-3-662-11657-9
 https://link.springer.com/book/10.1007/978-3-662-12521-2
@@ -25761,6 +25788,7 @@ https://macpassapp.org/
 https://macropolo.org/
 https://macropolo.org/digital-projects/the-global-ai-talent-tracker/
 https://mad.firstmark.com/
+https://madiot.fr/coq100/
 https://mae.princeton.edu/
 https://magazine.caltech.edu/
 https://magazine.caltech.edu/post/mathematical-language-writing-latex
@@ -26069,6 +26097,7 @@ https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms
 https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology
 https://media.ccc.de/v/gpn18-129-practical-cryptography-patterns
 https://media.ed.ac.uk/media/Ross+AndersonA+Security+Engineering+and+Machine+Learning+%28ICSA+Colloquium+++SPT+Seminar+17+06+21%29/1_0nx38fyk
+https://media.hal.science/
 https://medium.com/@acidflask/this-guys-arrogance-takes-your-breath-away-5b903624ca5f
 https://medium.com/@jkriss/anti-capitalist-human-scale-software-and-why-it-matters-5936a372b9d
 https://medium.com/@kaggleteam/leveraging-ml-to-fuel-new-discoveries-with-the-arxiv-dataset-981a95bfe365
@@ -27123,9 +27152,6 @@ https://passkeys.dev/
 https://passkeys.guru/
 https://pastel.hal.science/
 https://pastel.hal.science/tel-01223284
-https://pastel.hal.science/tel-01223284/file/thesis.pdf
-https://pastel.hal.science/tel-01223284v2
-https://pastel.hal.science/tel-01223284v2/document
 https://pastglobalchanges.org/
 https://pastglobalchanges.org/science/wg/2k-network/intro
 https://patchwork.kernel.org/
@@ -27424,6 +27450,7 @@ https://pola.rs/
 https://polis.stanford.edu/
 https://politiqueinternationale.com/
 https://polymake.org/doku.php/start
+https://polytechnique.hal.science/
 https://polytechnique.hal.science/hal-00760976
 https://pop.system76.com/
 https://popcon.devuan.org/
@@ -28404,6 +28431,7 @@ https://shop.flipperzero.one/
 https://shotcut.org/
 https://shoup.net/
 https://shoup.net/ntb/
+https://shs.hal.science/
 https://siam.org/
 https://siam.org/publications/books/book-series
 https://siam.org/publications/siuro
@@ -28527,6 +28555,7 @@ https://software.es.net/iperf/
 https://software.es.net/pond/
 https://software.es.net/react-network-diagrams/
 https://software.es.net/react-timeseries-charts/
+https://softwarefoundations.cis.upenn.edu/
 https://sokoban.info/
 https://solarsystem.nasa.gov/
 https://solarsystem.nasa.gov/missions/DSCOVR/in-depth/
@@ -30268,6 +30297,7 @@ https://www.bls.gov/data/inflation_calculator.htm
 https://www.bma.org.uk/
 https://www.bmbf.de/bmbf/de/home/home_node.html
 https://www.bmj.com/
+https://www.bnf.fr/fr
 https://www.bodleian.ox.ac.uk/csb
 https://www.bookbrowse.com/
 https://www.bookbub.com/
@@ -30553,6 +30583,7 @@ https://www.cbr.com/manga-best-artwork/
 https://www.cbr.com/manga-never-get-anime-reasons/
 https://www.cbyexample.com/
 https://www.cc.gatech.edu/threads-better-way-learn-computing
+https://www.ccsd.cnrs.fr/
 https://www.cctv.com/
 https://www.cdc.gov/
 https://www.cdc.gov/nchs/nhanes/
@@ -30750,6 +30781,7 @@ https://www.cnbc.com/world/
 https://www.cncf.io/
 https://www.cncf.io/blog/
 https://www.cnet.com/
+https://www.cnrs.fr/fr
 https://www.cnx-software.com/
 https://www.cnx-software.com/2021/04/17/loongson-loongarch-cpu-instruction-set-architecture/
 https://www.cnx-software.com/2022/08/29/starfive-jh7110-risc-v-processor-specifications/
@@ -30765,6 +30797,7 @@ https://www.coin-or.org/
 https://www.coin-or.org/Clp/userguide/index.html
 https://www.coin-or.org/OS/os_neos.html
 https://www.collabora.com/
+https://www.college-de-france.fr/fr
 https://www.colorado.edu/amath/
 https://www.comap.com/
 https://www.comap.com/contests
@@ -30976,6 +31009,7 @@ https://www.cs.purdue.edu/homes/spa/book.html
 https://www.cs.rochester.edu/~scott/pragmatics/
 https://www.cs.ru.nl/~erikpoll/
 https://www.cs.ru.nl/~freek/
+https://www.cs.ru.nl/~freek/100/
 https://www.cs.ru.nl/~henk/
 https://www.cs.ru.nl/~herman/
 https://www.cs.ru.nl/~joan/
@@ -31035,6 +31069,7 @@ https://www.ctan.org/pkg/lshort
 https://www.ctan.org/pkg/lshort-english
 https://www.ctcms.nist.gov/fipy/
 https://www.ctvnews.ca/
+https://www.culture.gouv.fr/fr
 https://www.curvecp.org/
 https://www.cut-the-knot.org/blue/LamesTheorem.shtml
 https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html
@@ -32780,6 +32815,7 @@ https://www.kuka.com/
 https://www.kuka.com/de-de
 https://www.kuka.com/en-us
 https://www.kurtosis.com/
+https://www.labri.fr/perso/casteran/CoqArt/
 https://www.laceweb.org.au/whi.htm
 https://www.lambdatest.com/blog/nunit-vs-xunit-vs-mstest/
 https://www.lambdatest.com/selenium-automation
@@ -34815,6 +34851,7 @@ https://www.sciencedirect.com/science/article/pii/S2666379122003494
 https://www.sciencedirect.com/science/article/pii/S2666764923000103
 https://www.sciencefocus.com/
 https://www.sciencenews.org/
+https://www.sciencesconf.org/
 https://www.sciengines.com/
 https://www.sciengines.com/copacobana/index.html
 https://www.scientific-computing.com/
