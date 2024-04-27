@@ -167,6 +167,9 @@ http://www.bayesianscientific.org/resource/bugs-openbugs-winbugs/
 http://www.cburch.com/books/arm/
 http://www.cburch.com/cso/
 http://www.cburch.com/logisim/
+http://www.cca-net.de/
+http://www.cca-net.de/publications/books.html
+http://www.cca-net.de/vasco/cca/tutorial.pdf
 http://www.ccl.net/
 http://www.cgip.org/
 http://www.cis.hut.fi/somtoolbox/
@@ -780,6 +783,7 @@ https://arxiv.org/abs/1111.1567
 https://arxiv.org/abs/1201.0490
 https://arxiv.org/abs/1202.2638
 https://arxiv.org/abs/1207.5649
+https://arxiv.org/abs/1207.6622
 https://arxiv.org/abs/1211.0053
 https://arxiv.org/abs/1301.2270
 https://arxiv.org/abs/1301.3781
@@ -2793,8 +2797,10 @@ https://dblp.org/pid/99/3223.html
 https://dblp.org/pid/a/CharuCAggarwal.html
 https://dblp.org/pid/c/CSCalude.html
 https://dblp.org/pid/h/GerardJHolzmann.html
+https://dblp.org/pid/h/JohnLHennessy.html
 https://dblp.org/pid/k/JonathanKatz.html
 https://dblp.org/pid/l/YehudaLindell.html
+https://dblp.org/pid/p/DAPatterson.html
 https://dblp.org/pid/p/LCPaulson.html
 https://dblp.org/pid/t/JFTraub.html
 https://dblp.org/pid/w/GlynnWinskel.html
@@ -3440,6 +3446,7 @@ https://dl.acm.org/doi/10.5555/2933923.2933973
 https://dl.acm.org/doi/10.5555/3295222.3295371
 https://dl.acm.org/doi/10.5555/3586210.3586448
 https://dl.acm.org/doi/10.5555/505763.505774
+https://dl.acm.org/doi/10.5555/800052.801895
 https://dl.acm.org/doi/abs/10.1145/1217196.1217197
 https://dl.acm.org/doi/abs/10.1145/128765.128770
 https://dl.acm.org/doi/abs/10.1145/1566445.1566537
@@ -3557,6 +3564,7 @@ https://dl.acm.org/magazines
 https://dl.acm.org/newsletter/sigarch
 https://dl.acm.org/profile/81100271851
 https://dl.acm.org/profile/81100303820
+https://dl.acm.org/profile/81100565162
 https://dl.acm.org/profile/81324488757
 https://dl.acm.org/profile/81452616305
 https://dl.acm.org/sig/sigact
@@ -4891,6 +4899,7 @@ https://en.wikipedia.org/wiki/Alberta
 https://en.wikipedia.org/wiki/Alberto_Calder%C3%B3n
 https://en.wikipedia.org/wiki/Albrecht_von_Wallenstein
 https://en.wikipedia.org/wiki/Alchemy
+https://en.wikipedia.org/wiki/Alchemy_(processor)
 https://en.wikipedia.org/wiki/Aldine_Press
 https://en.wikipedia.org/wiki/Aldor
 https://en.wikipedia.org/wiki/Aldus_Manutius
@@ -5016,6 +5025,7 @@ https://en.wikipedia.org/wiki/Amazon_Redshift
 https://en.wikipedia.org/wiki/Amazon_SageMaker
 https://en.wikipedia.org/wiki/Amazon_SimpleDB
 https://en.wikipedia.org/wiki/AMD
+https://en.wikipedia.org/wiki/AMD_Am29000
 https://en.wikipedia.org/wiki/AMD%E2%80%93Chinese_joint_venture
 https://en.wikipedia.org/wiki/Amdahl%27s_law
 https://en.wikipedia.org/wiki/Amdocs
@@ -5046,6 +5056,7 @@ https://en.wikipedia.org/wiki/Amiga_500
 https://en.wikipedia.org/wiki/Amiga_software
 https://en.wikipedia.org/wiki/AmigaDOS
 https://en.wikipedia.org/wiki/AmigaOS
+https://en.wikipedia.org/wiki/AmigaOS_4
 https://en.wikipedia.org/wiki/Amino_acid
 https://en.wikipedia.org/wiki/Ammonia_solution
 https://en.wikipedia.org/wiki/Amorphous_computing
@@ -5250,6 +5261,9 @@ https://en.wikipedia.org/wiki/APL_syntax_and_symbols
 https://en.wikipedia.org/wiki/APLX
 https://en.wikipedia.org/wiki/APMonitor
 https://en.wikipedia.org/wiki/Apocryphon_of_John
+https://en.wikipedia.org/wiki/Apollo_Computer
+https://en.wikipedia.org/wiki/Apollo_PRISM
+https://en.wikipedia.org/wiki/Apollo/Domain
 https://en.wikipedia.org/wiki/APOPT
 https://en.wikipedia.org/wiki/Apotheosis
 https://en.wikipedia.org/wiki/Apparent_retrograde_motion
@@ -5442,12 +5456,15 @@ https://en.wikipedia.org/wiki/Asymptotic_equipartition_property
 https://en.wikipedia.org/wiki/Asymptotic_theory_(statistics)
 https://en.wikipedia.org/wiki/Async/await
 https://en.wikipedia.org/wiki/Asynchronous_serial_communication
+https://en.wikipedia.org/wiki/AT%26T_Hobbit
 https://en.wikipedia.org/wiki/Atari_2600
 https://en.wikipedia.org/wiki/Atari_5200
 https://en.wikipedia.org/wiki/Atari_7800
+https://en.wikipedia.org/wiki/Atari_8-bit_computers
 https://en.wikipedia.org/wiki/Atari_8-bit_family
 https://en.wikipedia.org/wiki/Atari_8-bit_family_software
 https://en.wikipedia.org/wiki/Atari_BASIC
+https://en.wikipedia.org/wiki/Atari_CoJag
 https://en.wikipedia.org/wiki/Atari_DOS
 https://en.wikipedia.org/wiki/Atari_Lynx
 https://en.wikipedia.org/wiki/Atari_Microsoft_BASIC
@@ -5601,6 +5618,7 @@ https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision
 https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith
 https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_literature
 https://en.wikipedia.org/wiki/Baidu
+https://en.wikipedia.org/wiki/Baikal_CPU
 https://en.wikipedia.org/wiki/Bailey%E2%80%93Borwein%E2%80%93Plouffe_formula
 https://en.wikipedia.org/wiki/Baillie%E2%80%93PSW_primality_test
 https://en.wikipedia.org/wiki/Bakelite
@@ -5731,6 +5749,7 @@ https://en.wikipedia.org/wiki/Bellman_pseudospectral_method
 https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
 https://en.wikipedia.org/wiki/Bells_of_Doom_(album)
 https://en.wikipedia.org/wiki/Beltrami_identity
+https://en.wikipedia.org/wiki/Ben_NanoNote
 https://en.wikipedia.org/wiki/Ben_Shneiderman
 https://en.wikipedia.org/wiki/Benaloh_cryptosystem
 https://en.wikipedia.org/wiki/Benchmark_(computing)
@@ -6053,6 +6072,7 @@ https://en.wikipedia.org/wiki/Brainstorm_machine
 https://en.wikipedia.org/wiki/Branch_and_bound
 https://en.wikipedia.org/wiki/Branch_and_cut
 https://en.wikipedia.org/wiki/Branch_and_price
+https://en.wikipedia.org/wiki/Branch_predictor
 https://en.wikipedia.org/wiki/Branch_target_predictor
 https://en.wikipedia.org/wiki/Branching_(version_control)
 https://en.wikipedia.org/wiki/Brand_Indicators_for_Message_Identification
@@ -6093,6 +6113,7 @@ https://en.wikipedia.org/wiki/BRL-CAD
 https://en.wikipedia.org/wiki/Broadcast_(band)
 https://en.wikipedia.org/wiki/Broadcast_encryption
 https://en.wikipedia.org/wiki/Broadcom
+https://en.wikipedia.org/wiki/Broadcom_Corporation
 https://en.wikipedia.org/wiki/Bronis%C5%82aw_Knaster
 https://en.wikipedia.org/wiki/Bronze_Age
 https://en.wikipedia.org/wiki/Brookhaven_National_Laboratory
@@ -6357,6 +6378,7 @@ https://en.wikipedia.org/wiki/Category:24-hour_television_news_channels_by_count
 https://en.wikipedia.org/wiki/Category:24-hour_television_news_channels_in_India
 https://en.wikipedia.org/wiki/Category:24-hour_television_news_channels_in_the_United_Kingdom
 https://en.wikipedia.org/wiki/Category:24-hour_television_news_channels_in_the_United_States
+https://en.wikipedia.org/wiki/Category:32-bit_microprocessors
 https://en.wikipedia.org/wiki/Category:3D_graphics_software
 https://en.wikipedia.org/wiki/Category:6502-based_home_computers
 https://en.wikipedia.org/wiki/Category:8-bit_computers
@@ -6456,6 +6478,7 @@ https://en.wikipedia.org/wiki/Category:Commodore_8-bit_computers
 https://en.wikipedia.org/wiki/Category:Common_Lisp
 https://en.wikipedia.org/wiki/Category:Communist_magazines
 https://en.wikipedia.org/wiki/Category:Communist_newspapers
+https://en.wikipedia.org/wiki/Category:Companies_based_in_Silicon_Valley
 https://en.wikipedia.org/wiki/Category:Comparative_politics
 https://en.wikipedia.org/wiki/Category:Compiler_optimizations
 https://en.wikipedia.org/wiki/Category:Complex_analysis
@@ -6487,6 +6510,7 @@ https://en.wikipedia.org/wiki/Category:Computer_security_models
 https://en.wikipedia.org/wiki/Category:Computer_security_organizations
 https://en.wikipedia.org/wiki/Category:Computer_vision
 https://en.wikipedia.org/wiki/Category:Computer_vision_software
+https://en.wikipedia.org/wiki/Category:Computers_by_instruction_set_architecture
 https://en.wikipedia.org/wiki/Category:Concatenative_programming_languages
 https://en.wikipedia.org/wiki/Category:Concepts_in_astronomy
 https://en.wikipedia.org/wiki/Category:Concurrency_control_algorithms
@@ -6648,6 +6672,7 @@ https://en.wikipedia.org/wiki/Category:Information_theorists
 https://en.wikipedia.org/wiki/Category:Information_theory
 https://en.wikipedia.org/wiki/Category:Information-theoretically_secure_algorithms
 https://en.wikipedia.org/wiki/Category:Input/output_integrated_circuits
+https://en.wikipedia.org/wiki/Category:Instruction_set_architectures
 https://en.wikipedia.org/wiki/Category:Integer_factorization_algorithms
 https://en.wikipedia.org/wiki/Category:Integer_sequences
 https://en.wikipedia.org/wiki/Category:Integral_transforms
@@ -6718,9 +6743,14 @@ https://en.wikipedia.org/wiki/Category:Memory_management
 https://en.wikipedia.org/wiki/Category:Mesoamerican_mythology_and_religion
 https://en.wikipedia.org/wiki/Category:Message-oriented_middleware
 https://en.wikipedia.org/wiki/Category:Metafictional_novels
+https://en.wikipedia.org/wiki/Category:Microprocessors_by_instruction_set_architecture
 https://en.wikipedia.org/wiki/Category:Microprocessors_made_in_China
 https://en.wikipedia.org/wiki/Category:Military_counterterrorist_organizations
 https://en.wikipedia.org/wiki/Category:Minimal_surfaces
+https://en.wikipedia.org/wiki/Category:MIPS_architecture
+https://en.wikipedia.org/wiki/Category:MIPS_implementations
+https://en.wikipedia.org/wiki/Category:MIPS_microprocessors
+https://en.wikipedia.org/wiki/Category:MIPS-based_video_game_consoles
 https://en.wikipedia.org/wiki/Category:Model_checkers
 https://en.wikipedia.org/wiki/Category:Model_selection
 https://en.wikipedia.org/wiki/Category:Models_of_computation
@@ -6746,6 +6776,7 @@ https://en.wikipedia.org/wiki/Category:Neuroimaging_software
 https://en.wikipedia.org/wiki/Category:News_aggregator_software
 https://en.wikipedia.org/wiki/Category:News_aggregators
 https://en.wikipedia.org/wiki/Category:Newsreels
+https://en.wikipedia.org/wiki/Category:Nintendo_64
 https://en.wikipedia.org/wiki/Category:Non-equilibrium_thermodynamics
 https://en.wikipedia.org/wiki/Category:Non-military_counterterrorist_organizations
 https://en.wikipedia.org/wiki/Category:Nonlinear_systems
@@ -6791,6 +6822,9 @@ https://en.wikipedia.org/wiki/Category:Pi_algorithms
 https://en.wikipedia.org/wiki/Category:Pierre-Simon_Laplace
 https://en.wikipedia.org/wiki/Category:Pirate_parties
 https://en.wikipedia.org/wiki/Category:Plane_curves
+https://en.wikipedia.org/wiki/Category:PlayStation_(console)
+https://en.wikipedia.org/wiki/Category:PlayStation_2
+https://en.wikipedia.org/wiki/Category:PlayStation_Portable
 https://en.wikipedia.org/wiki/Category:Polish_mathematicians
 https://en.wikipedia.org/wiki/Category:Political_books
 https://en.wikipedia.org/wiki/Category:Political_fiction
@@ -7023,6 +7057,7 @@ https://en.wikipedia.org/wiki/Causal_reasoning
 https://en.wikipedia.org/wiki/Causality
 https://en.wikipedia.org/wiki/Cavendish_Laboratory
 https://en.wikipedia.org/wiki/Cavity_magnetron
+https://en.wikipedia.org/wiki/Cavium
 https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem
 https://en.wikipedia.org/wiki/CBC_News
 https://en.wikipedia.org/wiki/CBC-MAC
@@ -7048,6 +7083,7 @@ https://en.wikipedia.org/wiki/Celestial_navigation
 https://en.wikipedia.org/wiki/Celestial_pole
 https://en.wikipedia.org/wiki/Celestial_sphere
 https://en.wikipedia.org/wiki/Celestial_spheres
+https://en.wikipedia.org/wiki/Cell_(processor)
 https://en.wikipedia.org/wiki/Cell_lists
 https://en.wikipedia.org/wiki/Cell-probe_model
 https://en.wikipedia.org/wiki/CellCognition
@@ -7060,6 +7096,7 @@ https://en.wikipedia.org/wiki/Censoring_(statistics)
 https://en.wikipedia.org/wiki/Censorship_by_country
 https://en.wikipedia.org/wiki/Censorship_of_Winnie-the-Pooh_in_China
 https://en.wikipedia.org/wiki/Census
+https://en.wikipedia.org/wiki/Centaur_Technology
 https://en.wikipedia.org/wiki/Center_for_Security_and_Emerging_Technology
 https://en.wikipedia.org/wiki/Center_of_population
 https://en.wikipedia.org/wiki/Centericq
@@ -7077,6 +7114,7 @@ https://en.wikipedia.org/wiki/Central_Europe
 https://en.wikipedia.org/wiki/Central_Intelligence_Agency
 https://en.wikipedia.org/wiki/Central_limit_theorem
 https://en.wikipedia.org/wiki/Central_moment
+https://en.wikipedia.org/wiki/Central_processing_unit
 https://en.wikipedia.org/wiki/Central_tendency
 https://en.wikipedia.org/wiki/Centrale_Graduate_School
 https://en.wikipedia.org/wiki/Centre_de_formation_des_journalistes
@@ -7341,6 +7379,7 @@ https://en.wikipedia.org/wiki/Clarivate
 https://en.wikipedia.org/wiki/Clarkson_University
 https://en.wikipedia.org/wiki/Class_Library_for_Numbers
 https://en.wikipedia.org/wiki/Classic_Chinese_Novels
+https://en.wikipedia.org/wiki/Classic_RISC_pipeline
 https://en.wikipedia.org/wiki/Classic_rock
 https://en.wikipedia.org/wiki/Classical_antiquity
 https://en.wikipedia.org/wiki/Classical_architecture
@@ -7407,6 +7446,7 @@ https://en.wikipedia.org/wiki/Clinical_study_design
 https://en.wikipedia.org/wiki/Clinical_trial
 https://en.wikipedia.org/wiki/Cliodynamics
 https://en.wikipedia.org/wiki/Cliometrics
+https://en.wikipedia.org/wiki/Clipper_architecture
 https://en.wikipedia.org/wiki/Clipper_chip
 https://en.wikipedia.org/wiki/CLIPS
 https://en.wikipedia.org/wiki/Clique_problem
@@ -7596,6 +7636,7 @@ https://en.wikipedia.org/wiki/Compact_operator
 https://en.wikipedia.org/wiki/Compact_operator_on_Hilbert_space
 https://en.wikipedia.org/wiki/Compact_space
 https://en.wikipedia.org/wiki/Compactness_theorem
+https://en.wikipedia.org/wiki/CompactRISC
 https://en.wikipedia.org/wiki/Company_rule_in_India
 https://en.wikipedia.org/wiki/Comparative_politics
 https://en.wikipedia.org/wiki/Compare-and-swap
@@ -8020,6 +8061,7 @@ https://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound
 https://en.wikipedia.org/wiki/Cramer%E2%80%93Shoup_cryptosystem
 https://en.wikipedia.org/wiki/Cranelift
 https://en.wikipedia.org/wiki/Crank%E2%80%93Nicolson_method
+https://en.wikipedia.org/wiki/Cray-1
 https://en.wikipedia.org/wiki/Creation_myth
 https://en.wikipedia.org/wiki/Creative_Commons
 https://en.wikipedia.org/wiki/Creative_Commons_license
@@ -8263,6 +8305,7 @@ https://en.wikipedia.org/wiki/Data_cube
 https://en.wikipedia.org/wiki/Data_curation
 https://en.wikipedia.org/wiki/Data_definition_language
 https://en.wikipedia.org/wiki/Data_degradation
+https://en.wikipedia.org/wiki/Data_dependency
 https://en.wikipedia.org/wiki/Data_differencing
 https://en.wikipedia.org/wiki/Data_dredging
 https://en.wikipedia.org/wiki/Data_editing
@@ -8415,6 +8458,7 @@ https://en.wikipedia.org/wiki/Debian_version_history
 https://en.wikipedia.org/wiki/Debugging
 https://en.wikipedia.org/wiki/Debugging_data_format
 https://en.wikipedia.org/wiki/DEC_Alpha
+https://en.wikipedia.org/wiki/DEC_PRISM
 https://en.wikipedia.org/wiki/December_solstice
 https://en.wikipedia.org/wiki/Decentralization
 https://en.wikipedia.org/wiki/Decider_(Turing_machine)
@@ -8480,6 +8524,7 @@ https://en.wikipedia.org/wiki/Del
 https://en.wikipedia.org/wiki/Delaunay_triangulation
 https://en.wikipedia.org/wiki/Delaware_Valley
 https://en.wikipedia.org/wiki/Delay_differential_equation
+https://en.wikipedia.org/wiki/Delay_slot
 https://en.wikipedia.org/wiki/Delay-line_memory
 https://en.wikipedia.org/wiki/Delegate_(CLI)
 https://en.wikipedia.org/wiki/Delegation_(computing)
@@ -8656,6 +8701,7 @@ https://en.wikipedia.org/wiki/Dimensionality_reduction
 https://en.wikipedia.org/wiki/Dimensionless_numbers_in_fluid_mechanics
 https://en.wikipedia.org/wiki/Dimitri_Bertsekas
 https://en.wikipedia.org/wiki/Dimitris_Bertsimas
+https://en.wikipedia.org/wiki/Dingoo
 https://en.wikipedia.org/wiki/Dining_cryptographers_problem
 https://en.wikipedia.org/wiki/Diode_logic
 https://en.wikipedia.org/wiki/Diode%E2%80%93transistor_logic
@@ -8751,6 +8797,7 @@ https://en.wikipedia.org/wiki/Divisor_(algebraic_geometry)
 https://en.wikipedia.org/wiki/Django_(web_framework)
 https://en.wikipedia.org/wiki/Django_Software_Foundation
 https://en.wikipedia.org/wiki/Dlib
+https://en.wikipedia.org/wiki/DLX
 https://en.wikipedia.org/wiki/Dm-crypt
 https://en.wikipedia.org/wiki/Dmalloc
 https://en.wikipedia.org/wiki/DMARC
@@ -9050,6 +9097,7 @@ https://en.wikipedia.org/wiki/Eisenbud%E2%80%93Levine%E2%80%93Khimshiashvili_sig
 https://en.wikipedia.org/wiki/EISPACK
 https://en.wikipedia.org/wiki/El_Escorial
 https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation
+https://en.wikipedia.org/wiki/Elan_Graphics
 https://en.wikipedia.org/wiki/Elastic_map
 https://en.wikipedia.org/wiki/Elasticsearch
 https://en.wikipedia.org/wiki/Elder_Futhark
@@ -9131,6 +9179,7 @@ https://en.wikipedia.org/wiki/Elm_(programming_language)
 https://en.wikipedia.org/wiki/Elonka_Dunin
 https://en.wikipedia.org/wiki/Elsa-Karin_Boestad-Nilsson
 https://en.wikipedia.org/wiki/Elsevier
+https://en.wikipedia.org/wiki/ELVEES_Multicore
 https://en.wikipedia.org/wiki/Emacs
 https://en.wikipedia.org/wiki/Emacs_Lisp
 https://en.wikipedia.org/wiki/Emacs_Speaks_Statistics
@@ -9152,6 +9201,7 @@ https://en.wikipedia.org/wiki/Emitter-coupled_logic
 https://en.wikipedia.org/wiki/Emma_Goldman
 https://en.wikipedia.org/wiki/Emmanuelle_Seigner
 https://en.wikipedia.org/wiki/Emmy_Noether
+https://en.wikipedia.org/wiki/Emotion_Engine
 https://en.wikipedia.org/wiki/Emotional_isolation
 https://en.wikipedia.org/wiki/Empire_State_Building
 https://en.wikipedia.org/wiki/Empirical_distribution_function
@@ -9243,6 +9293,7 @@ https://en.wikipedia.org/wiki/Epigenetics
 https://en.wikipedia.org/wiki/Eprint
 https://en.wikipedia.org/wiki/EPrints
 https://en.wikipedia.org/wiki/Epsilon_number
+https://en.wikipedia.org/wiki/Epson
 https://en.wikipedia.org/wiki/Epyc
 https://en.wikipedia.org/wiki/Eqn_(software)
 https://en.wikipedia.org/wiki/Equation
@@ -9297,6 +9348,7 @@ https://en.wikipedia.org/wiki/Escape_analysis
 https://en.wikipedia.org/wiki/Escape_velocity
 https://en.wikipedia.org/wiki/Escola_Polit%C3%A9cnica_da_UFRJ
 https://en.wikipedia.org/wiki/ESCP_Business_School
+https://en.wikipedia.org/wiki/ESi-RISC
 https://en.wikipedia.org/wiki/Esoteric_programming_language
 https://en.wikipedia.org/wiki/ESP32
 https://en.wikipedia.org/wiki/ESP8266
@@ -9390,6 +9442,7 @@ https://en.wikipedia.org/wiki/Evangelion:_1.0_You_Are_(Not)_Alone
 https://en.wikipedia.org/wiki/Evangelion:_2.0_You_Can_(Not)_Advance
 https://en.wikipedia.org/wiki/Evangelion:_3.0_You_Can_(Not)_Redo
 https://en.wikipedia.org/wiki/Evangelion:_3.0%2B1.0_Thrice_Upon_a_Time
+https://en.wikipedia.org/wiki/Evans_%26_Sutherland
 https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall
 https://en.wikipedia.org/wiki/Evelyn_Waugh
 https://en.wikipedia.org/wiki/Event_(computing)
@@ -9512,6 +9565,7 @@ https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire
 https://en.wikipedia.org/wiki/Fallen_angel
 https://en.wikipedia.org/wiki/Falling_and_rising_factorials
 https://en.wikipedia.org/wiki/False_positive_rate
+https://en.wikipedia.org/wiki/False_sharing
 https://en.wikipedia.org/wiki/Faltings%27s_theorem
 https://en.wikipedia.org/wiki/Family_of_curves
 https://en.wikipedia.org/wiki/Fan_chart_(statistics)
@@ -9569,6 +9623,7 @@ https://en.wikipedia.org/wiki/Federico_Faggin
 https://en.wikipedia.org/wiki/Fedora_Linux
 https://en.wikipedia.org/wiki/Fedora_Linux_release_history
 https://en.wikipedia.org/wiki/Fedora_Project
+https://en.wikipedia.org/wiki/Feed_forward_(control)
 https://en.wikipedia.org/wiki/Feedback_arc_set
 https://en.wikipedia.org/wiki/Feedforward_neural_network
 https://en.wikipedia.org/wiki/Fei-Fei_Li
@@ -10006,10 +10061,13 @@ https://en.wikipedia.org/wiki/Galois_theory
 https://en.wikipedia.org/wiki/Galois/Counter_Mode
 https://en.wikipedia.org/wiki/Galvanic_isolation
 https://en.wikipedia.org/wiki/Gambit_(Scheme_implementation)
+https://en.wikipedia.org/wiki/Game_Boy
 https://en.wikipedia.org/wiki/Game_complexity
+https://en.wikipedia.org/wiki/Game_Gadget
 https://en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp
 https://en.wikipedia.org/wiki/Game_semantics
 https://en.wikipedia.org/wiki/Game_theory
+https://en.wikipedia.org/wiki/GameCube
 https://en.wikipedia.org/wiki/Games_played_with_Go_equipment
 https://en.wikipedia.org/wiki/Gamma_distribution
 https://en.wikipedia.org/wiki/Gamma_function
@@ -10046,6 +10104,7 @@ https://en.wikipedia.org/wiki/Gaussian_units
 https://en.wikipedia.org/wiki/Gay-Lussac%27s_law
 https://en.wikipedia.org/wiki/GCHQ
 https://en.wikipedia.org/wiki/Gcov
+https://en.wikipedia.org/wiki/GCW_Zero
 https://en.wikipedia.org/wiki/GD_Graphics_Library
 https://en.wikipedia.org/wiki/GDAL
 https://en.wikipedia.org/wiki/Gecko_(software)
@@ -10254,6 +10313,7 @@ https://en.wikipedia.org/wiki/Glenda_Schroeder
 https://en.wikipedia.org/wiki/Glenn_T._Seaborg
 https://en.wikipedia.org/wiki/Glibc
 https://en.wikipedia.org/wiki/Glob_(programming)
+https://en.wikipedia.org/wiki/Global_analysis
 https://en.wikipedia.org/wiki/Global_Arrays
 https://en.wikipedia.org/wiki/Global_catastrophic_risk
 https://en.wikipedia.org/wiki/Global_city
@@ -10689,6 +10749,7 @@ https://en.wikipedia.org/wiki/Hausdorff_space
 https://en.wikipedia.org/wiki/Havannah_(board_game)
 https://en.wikipedia.org/wiki/Haxe
 https://en.wikipedia.org/wiki/Hayao_Miyazaki
+https://en.wikipedia.org/wiki/Hazard_(computer_architecture)
 https://en.wikipedia.org/wiki/HD_Tach
 https://en.wikipedia.org/wiki/HEAAN
 https://en.wikipedia.org/wiki/Head-of-line_blocking
@@ -11104,6 +11165,7 @@ https://en.wikipedia.org/wiki/IBM_Portable_Personal_Computer
 https://en.wikipedia.org/wiki/IBM_POWER_architecture
 https://en.wikipedia.org/wiki/IBM_Power_microprocessors
 https://en.wikipedia.org/wiki/IBM_PS/2
+https://en.wikipedia.org/wiki/IBM_ROMP
 https://en.wikipedia.org/wiki/IBM_RPG
 https://en.wikipedia.org/wiki/IBM_RS/6000
 https://en.wikipedia.org/wiki/IBM_Selectric
@@ -11151,6 +11213,7 @@ https://en.wikipedia.org/wiki/Ihab_Ilyas
 https://en.wikipedia.org/wiki/IIT_Bombay
 https://en.wikipedia.org/wiki/IIT_Delhi
 https://en.wikipedia.org/wiki/IIT_Kanpur
+https://en.wikipedia.org/wiki/Ikanos_Communications
 https://en.wikipedia.org/wiki/Ikiwiki
 https://en.wikipedia.org/wiki/Ilastik
 https://en.wikipedia.org/wiki/Iliad
@@ -11177,6 +11240,7 @@ https://en.wikipedia.org/wiki/ImageJ
 https://en.wikipedia.org/wiki/ImageMagick
 https://en.wikipedia.org/wiki/ImageNet
 https://en.wikipedia.org/wiki/Imaginary_hyperelliptic_curve
+https://en.wikipedia.org/wiki/Imagination_META
 https://en.wikipedia.org/wiki/Imagination_Technologies
 https://en.wikipedia.org/wiki/IMAX
 https://en.wikipedia.org/wiki/IML%2B%2B
@@ -11344,9 +11408,12 @@ https://en.wikipedia.org/wiki/Institute_of_technology_(United_States)
 https://en.wikipedia.org/wiki/Institution_of_Engineering_and_Technology
 https://en.wikipedia.org/wiki/Institutional_repository
 https://en.wikipedia.org/wiki/Instituto_Polit%C3%A9cnico_Nacional
+https://en.wikipedia.org/wiki/Instruction_cycle
+https://en.wikipedia.org/wiki/Instruction_pipelining
 https://en.wikipedia.org/wiki/Instruction_scheduling
 https://en.wikipedia.org/wiki/Instruction_set_architecture
 https://en.wikipedia.org/wiki/Instruction_set_simulator
+https://en.wikipedia.org/wiki/Instructions_per_cycle
 https://en.wikipedia.org/wiki/Instructions_per_second
 https://en.wikipedia.org/wiki/Instrumental_convergence
 https://en.wikipedia.org/wiki/Instrumental_variables_estimation
@@ -11374,6 +11441,7 @@ https://en.wikipedia.org/wiki/Integral_transform
 https://en.wikipedia.org/wiki/Integrated_circuit
 https://en.wikipedia.org/wiki/Integrated_circuit_design
 https://en.wikipedia.org/wiki/Integrated_circuit_packaging
+https://en.wikipedia.org/wiki/Integrated_Device_Technology
 https://en.wikipedia.org/wiki/Integrated_injection_logic
 https://en.wikipedia.org/wiki/Integrated_Performance_Primitives
 https://en.wikipedia.org/wiki/Integrating_factor
@@ -11395,6 +11463,8 @@ https://en.wikipedia.org/wiki/Intel_8085
 https://en.wikipedia.org/wiki/Intel_8086
 https://en.wikipedia.org/wiki/Intel_8088
 https://en.wikipedia.org/wiki/Intel_HEX
+https://en.wikipedia.org/wiki/Intel_i860
+https://en.wikipedia.org/wiki/Intel_i960
 https://en.wikipedia.org/wiki/Intel_Management_Engine
 https://en.wikipedia.org/wiki/Intel_MCS-48
 https://en.wikipedia.org/wiki/Intel_MCS-96
@@ -11568,8 +11638,10 @@ https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair
 https://en.wikipedia.org/wiki/IRC
 https://en.wikipedia.org/wiki/Iris_flower_data_set
 https://en.wikipedia.org/wiki/Irish_logarithm
+https://en.wikipedia.org/wiki/IRIX
 https://en.wikipedia.org/wiki/Iroha
 https://en.wikipedia.org/wiki/Iron_Age
+https://en.wikipedia.org/wiki/Iron_law_of_processor_performance
 https://en.wikipedia.org/wiki/Irrational_number
 https://en.wikipedia.org/wiki/Irregular_matrix
 https://en.wikipedia.org/wiki/Irresistible_force_paradox
@@ -12172,6 +12244,8 @@ https://en.wikipedia.org/wiki/Kolmogorov_equations_(continuous-time_Markov_chain
 https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold%E2%80%93Moser_theorem
 https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test
 https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Zurbenko_filter
+https://en.wikipedia.org/wiki/KOMDIV-32
+https://en.wikipedia.org/wiki/KOMDIV-64
 https://en.wikipedia.org/wiki/Konrad_Lorenz
 https://en.wikipedia.org/wiki/Konstantin_Chernenko
 https://en.wikipedia.org/wiki/Koomey%27s_law
@@ -12305,6 +12379,7 @@ https://en.wikipedia.org/wiki/Languages_of_the_Ottoman_Empire
 https://en.wikipedia.org/wiki/Languages_with_official_status_in_India
 https://en.wikipedia.org/wiki/Laning_and_Zierler_system
 https://en.wikipedia.org/wiki/Lanthanide
+https://en.wikipedia.org/wiki/Lantiq
 https://en.wikipedia.org/wiki/Laotian_Civil_War
 https://en.wikipedia.org/wiki/LAPACK
 https://en.wikipedia.org/wiki/LAPACK%2B%2B
@@ -12359,8 +12434,11 @@ https://en.wikipedia.org/wiki/Lattice_gas_automaton
 https://en.wikipedia.org/wiki/Lattice_graph
 https://en.wikipedia.org/wiki/Lattice_problem
 https://en.wikipedia.org/wiki/Lattice_reduction
+https://en.wikipedia.org/wiki/Lattice_Semiconductor
 https://en.wikipedia.org/wiki/Lattice-based_access_control
 https://en.wikipedia.org/wiki/Lattice-based_cryptography
+https://en.wikipedia.org/wiki/LatticeMico32
+https://en.wikipedia.org/wiki/LatticeMico8
 https://en.wikipedia.org/wiki/Laue_equations
 https://en.wikipedia.org/wiki/Launchpad_(website)
 https://en.wikipedia.org/wiki/Laurance_Labadie
@@ -13243,6 +13321,7 @@ https://en.wikipedia.org/wiki/Lp_space
 https://en.wikipedia.org/wiki/LP-type_problem
 https://en.wikipedia.org/wiki/LR_parser
 https://en.wikipedia.org/wiki/Lsh
+https://en.wikipedia.org/wiki/LSI_Corporation
 https://en.wikipedia.org/wiki/Ltrace
 https://en.wikipedia.org/wiki/LTspice
 https://en.wikipedia.org/wiki/LU_decomposition
@@ -13302,9 +13381,11 @@ https://en.wikipedia.org/wiki/M/G/1_queue
 https://en.wikipedia.org/wiki/M/G/k_queue
 https://en.wikipedia.org/wiki/M/M/1_queue
 https://en.wikipedia.org/wiki/M/M/c_queue
+https://en.wikipedia.org/wiki/M%C2%B7CORE
 https://en.wikipedia.org/wiki/M%C4%81ori_culture
 https://en.wikipedia.org/wiki/M%C4%81ori_people
 https://en.wikipedia.org/wiki/M0n0wall
+https://en.wikipedia.org/wiki/M32R
 https://en.wikipedia.org/wiki/M4_(computer_language)
 https://en.wikipedia.org/wiki/Maarten_van_Emden
 https://en.wikipedia.org/wiki/Maat
@@ -13463,6 +13544,7 @@ https://en.wikipedia.org/wiki/Martin_Heidegger_and_Nazism
 https://en.wikipedia.org/wiki/Martin_Hellman
 https://en.wikipedia.org/wiki/Martin_Kutta
 https://en.wikipedia.org/wiki/Martingale_(probability_theory)
+https://en.wikipedia.org/wiki/Marvell_Technology
 https://en.wikipedia.org/wiki/Marvin_Minsky
 https://en.wikipedia.org/wiki/Marx%27s_theory_of_human_nature
 https://en.wikipedia.org/wiki/Marxism
@@ -13489,6 +13571,7 @@ https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology
 https://en.wikipedia.org/wiki/Massively_parallel
 https://en.wikipedia.org/wiki/Master_boot_record
 https://en.wikipedia.org/wiki/Master_equation
+https://en.wikipedia.org/wiki/Master_System
 https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)
 https://en.wikipedia.org/wiki/Matching_(statistics)
 https://en.wikipedia.org/wiki/MATE_(desktop_environment)
@@ -13604,6 +13687,7 @@ https://en.wikipedia.org/wiki/MCS-51
 https://en.wikipedia.org/wiki/MCSim
 https://en.wikipedia.org/wiki/MD5
 https://en.wikipedia.org/wiki/MDL_(programming_language)
+https://en.wikipedia.org/wiki/MDMX
 https://en.wikipedia.org/wiki/Mead%E2%80%93Conway_VLSI_chip_design_revolution
 https://en.wikipedia.org/wiki/Mealy_machine
 https://en.wikipedia.org/wiki/Mean
@@ -13653,8 +13737,10 @@ https://en.wikipedia.org/wiki/Memory_address
 https://en.wikipedia.org/wiki/Memory_bank
 https://en.wikipedia.org/wiki/Memory_barrier
 https://en.wikipedia.org/wiki/Memory_debugger
+https://en.wikipedia.org/wiki/Memory_dependence_prediction
 https://en.wikipedia.org/wiki/Memory_leak
 https://en.wikipedia.org/wiki/Memory_management
+https://en.wikipedia.org/wiki/Memory_management_unit
 https://en.wikipedia.org/wiki/Memory_ordering
 https://en.wikipedia.org/wiki/Memory_pool
 https://en.wikipedia.org/wiki/Memory_protection
@@ -13862,7 +13948,10 @@ https://en.wikipedia.org/wiki/MINTO
 https://en.wikipedia.org/wiki/MIPI_Alliance
 https://en.wikipedia.org/wiki/Mipmap
 https://en.wikipedia.org/wiki/MIPS_architecture
+https://en.wikipedia.org/wiki/MIPS_architecture_processors
 https://en.wikipedia.org/wiki/MIPS_Technologies
+https://en.wikipedia.org/wiki/MIPS-3D
+https://en.wikipedia.org/wiki/MIPS-X
 https://en.wikipedia.org/wiki/Mir_Publishers
 https://en.wikipedia.org/wiki/Mira_Aroyo
 https://en.wikipedia.org/wiki/Mirai_(malware)
@@ -13976,6 +14065,7 @@ https://en.wikipedia.org/wiki/Mondrian_OLAP_server
 https://en.wikipedia.org/wiki/Monetary_policy
 https://en.wikipedia.org/wiki/MonetDB
 https://en.wikipedia.org/wiki/MongoDB
+https://en.wikipedia.org/wiki/Mongoose-V
 https://en.wikipedia.org/wiki/Monitor_(synchronization)
 https://en.wikipedia.org/wiki/Monotone_likelihood_ratio
 https://en.wikipedia.org/wiki/Monotonicity_of_entailment
@@ -14024,6 +14114,7 @@ https://en.wikipedia.org/wiki/Motorola_68000_series
 https://en.wikipedia.org/wiki/Motorola_68020
 https://en.wikipedia.org/wiki/Motorola_68HC05
 https://en.wikipedia.org/wiki/Motorola_68HC12
+https://en.wikipedia.org/wiki/Motorola_88000
 https://en.wikipedia.org/wiki/Motorola_S08
 https://en.wikipedia.org/wiki/MovieCode
 https://en.wikipedia.org/wiki/MovieLens
@@ -14257,6 +14348,7 @@ https://en.wikipedia.org/wiki/Nearest_neighbor_graph
 https://en.wikipedia.org/wiki/Nearest_neighbor_search
 https://en.wikipedia.org/wiki/Nearest-neighbor_interpolation
 https://en.wikipedia.org/wiki/Nearly_free_electron_model
+https://en.wikipedia.org/wiki/NEC
 https://en.wikipedia.org/wiki/Needham%E2%80%93Schroeder_protocol
 https://en.wikipedia.org/wiki/Negative_feedback
 https://en.wikipedia.org/wiki/Neil_Gaiman
@@ -14360,6 +14452,7 @@ https://en.wikipedia.org/wiki/New_American_Standard_Bible
 https://en.wikipedia.org/wiki/New_Brunswick
 https://en.wikipedia.org/wiki/New_Development_Bank
 https://en.wikipedia.org/wiki/New_England
+https://en.wikipedia.org/wiki/New_Horizons
 https://en.wikipedia.org/wiki/New_International_Reader%27s_Version
 https://en.wikipedia.org/wiki/New_International_Version
 https://en.wikipedia.org/wiki/New_Jersey_Institute_of_Technology
@@ -14443,6 +14536,7 @@ https://en.wikipedia.org/wiki/Nine-point_circle
 https://en.wikipedia.org/wiki/Nine-point_conic
 https://en.wikipedia.org/wiki/Nine-point_hyperbola
 https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
+https://en.wikipedia.org/wiki/Nintendo_64
 https://en.wikipedia.org/wiki/Nintendo_Entertainment_System
 https://en.wikipedia.org/wiki/Nios_II
 https://en.wikipedia.org/wiki/NIST_(metric)
@@ -14550,6 +14644,7 @@ https://en.wikipedia.org/wiki/Notpron
 https://en.wikipedia.org/wiki/Nova_Methodus_pro_Maximis_et_Minimis
 https://en.wikipedia.org/wiki/Nova_Scotia
 https://en.wikipedia.org/wiki/Novabench
+https://en.wikipedia.org/wiki/NOVO7
 https://en.wikipedia.org/wiki/Nox_(platform)
 https://en.wikipedia.org/wiki/NP-completeness
 https://en.wikipedia.org/wiki/NP-hardness
@@ -14867,6 +14962,7 @@ https://en.wikipedia.org/wiki/OpenWeatherMap
 https://en.wikipedia.org/wiki/OpenWrt
 https://en.wikipedia.org/wiki/OpenXR
 https://en.wikipedia.org/wiki/Opera_IX
+https://en.wikipedia.org/wiki/Operand_forwarding
 https://en.wikipedia.org/wiki/Operation_Condor
 https://en.wikipedia.org/wiki/Operation_Cyclone
 https://en.wikipedia.org/wiki/Operation_Gladio
@@ -15449,6 +15545,7 @@ https://en.wikipedia.org/wiki/Picard%E2%80%93Lindel%C3%B6f_theorem
 https://en.wikipedia.org/wiki/Picard%E2%80%93Vessiot_theory
 https://en.wikipedia.org/wiki/Pico_(programming_language)
 https://en.wikipedia.org/wiki/PICO-8
+https://en.wikipedia.org/wiki/PicoBlaze
 https://en.wikipedia.org/wiki/PicoLisp
 https://en.wikipedia.org/wiki/Pie_chart
 https://en.wikipedia.org/wiki/Piecewise
@@ -15466,7 +15563,9 @@ https://en.wikipedia.org/wiki/Pinduoduo
 https://en.wikipedia.org/wiki/Ping_Zhang_(graph_theorist)
 https://en.wikipedia.org/wiki/Pingala
 https://en.wikipedia.org/wiki/Pip_(package_manager)
+https://en.wikipedia.org/wiki/Pipeline_(computing)
 https://en.wikipedia.org/wiki/Pipeline_(software)
+https://en.wikipedia.org/wiki/Pipeline_stall
 https://en.wikipedia.org/wiki/PipeWire
 https://en.wikipedia.org/wiki/Piratbyr%C3%A5n
 https://en.wikipedia.org/wiki/Pirate_Parties_International
@@ -15511,6 +15610,10 @@ https://en.wikipedia.org/wiki/Plate_notation
 https://en.wikipedia.org/wiki/Plateau%27s_problem
 https://en.wikipedia.org/wiki/Plato
 https://en.wikipedia.org/wiki/Playfair_cipher
+https://en.wikipedia.org/wiki/PlayStation_(console)
+https://en.wikipedia.org/wiki/PlayStation_2
+https://en.wikipedia.org/wiki/PlayStation_3
+https://en.wikipedia.org/wiki/PlayStation_Portable
 https://en.wikipedia.org/wiki/Plebeians
 https://en.wikipedia.org/wiki/Plessey_System_250
 https://en.wikipedia.org/wiki/Plimpton_322
@@ -15762,6 +15865,7 @@ https://en.wikipedia.org/wiki/Primality_test
 https://en.wikipedia.org/wiki/Primary_source
 https://en.wikipedia.org/wiki/Primary_texts_of_Kabbalah
 https://en.wikipedia.org/wiki/Primate_city
+https://en.wikipedia.org/wiki/Prime_Computer
 https://en.wikipedia.org/wiki/Prime_constant
 https://en.wikipedia.org/wiki/Prime_geodesic
 https://en.wikipedia.org/wiki/Prime_Minister_of_Canada
@@ -15852,6 +15956,7 @@ https://en.wikipedia.org/wiki/Profanity_(instant_messaging_client)
 https://en.wikipedia.org/wiki/Profit_maximization
 https://en.wikipedia.org/wiki/Prognostic_chart
 https://en.wikipedia.org/wiki/Program_analysis
+https://en.wikipedia.org/wiki/Program_counter
 https://en.wikipedia.org/wiki/Program_optimization
 https://en.wikipedia.org/wiki/Program_synthesis
 https://en.wikipedia.org/wiki/Programmable_calculator
@@ -16006,6 +16111,7 @@ https://en.wikipedia.org/wiki/Pyomo
 https://en.wikipedia.org/wiki/PyPy
 https://en.wikipedia.org/wiki/Pyramid_(image_processing)
 https://en.wikipedia.org/wiki/Pyramid_of_Capitalist_System
+https://en.wikipedia.org/wiki/Pyramid_Technology
 https://en.wikipedia.org/wiki/Pytest
 https://en.wikipedia.org/wiki/Pythagoreanism
 https://en.wikipedia.org/wiki/Pythia
@@ -16064,6 +16170,7 @@ https://en.wikipedia.org/wiki/Quantum_chaos
 https://en.wikipedia.org/wiki/Quantum_chemistry
 https://en.wikipedia.org/wiki/Quantum_Computation_and_Quantum_Information
 https://en.wikipedia.org/wiki/Quantum_critical_point
+https://en.wikipedia.org/wiki/Quantum_Effect_Devices
 https://en.wikipedia.org/wiki/Quantum_electrodynamics
 https://en.wikipedia.org/wiki/Quantum_error_correction
 https://en.wikipedia.org/wiki/Quantum_field_theory
@@ -16130,6 +16237,15 @@ https://en.wikipedia.org/wiki/R%C3%B3is%C3%ADn_Murphy
 https://en.wikipedia.org/wiki/R%C3%B6k_runestone
 https://en.wikipedia.org/wiki/R%C3%B6ssler_attractor
 https://en.wikipedia.org/wiki/R%C3%B6yksopp
+https://en.wikipedia.org/wiki/R10000
+https://en.wikipedia.org/wiki/R2000_microprocessor
+https://en.wikipedia.org/wiki/R3000
+https://en.wikipedia.org/wiki/R4000
+https://en.wikipedia.org/wiki/R4200
+https://en.wikipedia.org/wiki/R4600
+https://en.wikipedia.org/wiki/R5000
+https://en.wikipedia.org/wiki/R6000
+https://en.wikipedia.org/wiki/R8000
 https://en.wikipedia.org/wiki/Rabbinic_Judaism
 https://en.wikipedia.org/wiki/Rabbinic_literature
 https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm
@@ -16269,6 +16385,7 @@ https://en.wikipedia.org/wiki/Readelf
 https://en.wikipedia.org/wiki/Real_analysis
 https://en.wikipedia.org/wiki/Real_computation
 https://en.wikipedia.org/wiki/Real_gas
+https://en.wikipedia.org/wiki/Real_RAM
 https://en.wikipedia.org/wiki/Real-time_computing
 https://en.wikipedia.org/wiki/Real-time_operating_system
 https://en.wikipedia.org/wiki/RealClearPolitics
@@ -16276,6 +16393,7 @@ https://en.wikipedia.org/wiki/Realism_(international_relations)
 https://en.wikipedia.org/wiki/Reality_Labs
 https://en.wikipedia.org/wiki/Realization_(probability)
 https://en.wikipedia.org/wiki/Realpolitik
+https://en.wikipedia.org/wiki/Realtek
 https://en.wikipedia.org/wiki/Rearrangement_inequality
 https://en.wikipedia.org/wiki/Reason
 https://en.wikipedia.org/wiki/Reasoning_system
@@ -16422,6 +16540,7 @@ https://en.wikipedia.org/wiki/Research_Papers_in_Economics
 https://en.wikipedia.org/wiki/Research_program
 https://en.wikipedia.org/wiki/Research_university
 https://en.wikipedia.org/wiki/Research_Unix
+https://en.wikipedia.org/wiki/Reservation_station
 https://en.wikipedia.org/wiki/Reserved_IP_addresses
 https://en.wikipedia.org/wiki/Reservoir_computing
 https://en.wikipedia.org/wiki/Reservoir_sampling
@@ -16453,6 +16572,7 @@ https://en.wikipedia.org/wiki/Retrograde_and_prograde_motion
 https://en.wikipedia.org/wiki/Retroshare
 https://en.wikipedia.org/wiki/Retrosynthetic_analysis
 https://en.wikipedia.org/wiki/Return_receipt
+https://en.wikipedia.org/wiki/Return_statement
 https://en.wikipedia.org/wiki/Return_type
 https://en.wikipedia.org/wiki/Return-oriented_programming
 https://en.wikipedia.org/wiki/Return-to-libc_attack
@@ -16554,6 +16674,7 @@ https://en.wikipedia.org/wiki/Riverside_County,_California
 https://en.wikipedia.org/wiki/Riverside,_California
 https://en.wikipedia.org/wiki/RKWard
 https://en.wikipedia.org/wiki/Rmetrics
+https://en.wikipedia.org/wiki/RMI_Corporation
 https://en.wikipedia.org/wiki/RNA
 https://en.wikipedia.org/wiki/Rnn_(software)
 https://en.wikipedia.org/wiki/Rob_J._Hyndman
@@ -16849,6 +16970,7 @@ https://en.wikipedia.org/wiki/Save_Ferris
 https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter
 https://en.wikipedia.org/wiki/Scala_(programming_language)
 https://en.wikipedia.org/wiki/Scalar_field
+https://en.wikipedia.org/wiki/Scalar_processor
 https://en.wikipedia.org/wiki/Scale_parameter
 https://en.wikipedia.org/wiki/Scale_space
 https://en.wikipedia.org/wiki/Scale_space_implementation
@@ -16904,6 +17026,7 @@ https://en.wikipedia.org/wiki/Scleronomous
 https://en.wikipedia.org/wiki/Scope_(computer_science)
 https://en.wikipedia.org/wiki/Scopus
 https://en.wikipedia.org/wiki/Score_test
+https://en.wikipedia.org/wiki/Scoreboarding
 https://en.wikipedia.org/wiki/Scott_J._Shapiro
 https://en.wikipedia.org/wiki/Scott_Vanstone
 https://en.wikipedia.org/wiki/Scottish_Book
@@ -17096,6 +17219,10 @@ https://en.wikipedia.org/wiki/Seven_heavens
 https://en.wikipedia.org/wiki/Seven_hills_of_Rome
 https://en.wikipedia.org/wiki/Sexagesimal
 https://en.wikipedia.org/wiki/SFNT
+https://en.wikipedia.org/wiki/SGI_Indigo
+https://en.wikipedia.org/wiki/SGI_IRIS
+https://en.wikipedia.org/wiki/SGI_Octane
+https://en.wikipedia.org/wiki/SGI_Onyx
 https://en.wikipedia.org/wiki/SHA-1
 https://en.wikipedia.org/wiki/SHA-2
 https://en.wikipedia.org/wiki/SHA-3
@@ -17163,9 +17290,12 @@ https://en.wikipedia.org/wiki/SIAM_Journal_on_Computing
 https://en.wikipedia.org/wiki/SIAM_Journal_on_Numerical_Analysis
 https://en.wikipedia.org/wiki/Siamese_neural_network
 https://en.wikipedia.org/wiki/Sicherheitsdienst
+https://en.wikipedia.org/wiki/SiCortex
 https://en.wikipedia.org/wiki/Side_chain
 https://en.wikipedia.org/wiki/Side-channel_attack
 https://en.wikipedia.org/wiki/Sidon
+https://en.wikipedia.org/wiki/Siemens
+https://en.wikipedia.org/wiki/Siemens_Nixdorf
 https://en.wikipedia.org/wiki/Sieve_theory
 https://en.wikipedia.org/wiki/SIGABA
 https://en.wikipedia.org/wiki/Sigma_approximation
@@ -17295,6 +17425,7 @@ https://en.wikipedia.org/wiki/Sky_News
 https://en.wikipedia.org/wiki/Skylab
 https://en.wikipedia.org/wiki/Skyline_matrix
 https://en.wikipedia.org/wiki/Skype_Technologies
+https://en.wikipedia.org/wiki/Skytone_Alpha-400
 https://en.wikipedia.org/wiki/Slab_allocation
 https://en.wikipedia.org/wiki/Slab_method
 https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory
@@ -17694,6 +17825,7 @@ https://en.wikipedia.org/wiki/Star_Trek
 https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation
 https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series
 https://en.wikipedia.org/wiki/StarCraft_(video_game)
+https://en.wikipedia.org/wiki/Stardent_Inc.
 https://en.wikipedia.org/wiki/StarLogo
 https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)
 https://en.wikipedia.org/wiki/Stat_(system_call)
@@ -17911,6 +18043,7 @@ https://en.wikipedia.org/wiki/Sufficient_statistic
 https://en.wikipedia.org/wiki/Suffix_array
 https://en.wikipedia.org/wiki/Suffix_automaton
 https://en.wikipedia.org/wiki/Suffix_tree
+https://en.wikipedia.org/wiki/Sugon
 https://en.wikipedia.org/wiki/Sulfur_cycle
 https://en.wikipedia.org/wiki/Sulfuric_acid
 https://en.wikipedia.org/wiki/Sum_of_four_cubes_problem
@@ -17950,6 +18083,7 @@ https://en.wikipedia.org/wiki/SuperPascal
 https://en.wikipedia.org/wiki/Superposition_Benchmark
 https://en.wikipedia.org/wiki/Superposition_principle
 https://en.wikipedia.org/wiki/SuperPrime
+https://en.wikipedia.org/wiki/Superscalar_processor
 https://en.wikipedia.org/wiki/Supersingular_isogeny_key_exchange
 https://en.wikipedia.org/wiki/Supersymmetric_theory_of_stochastic_dynamics
 https://en.wikipedia.org/wiki/Supervenience
@@ -18096,6 +18230,7 @@ https://en.wikipedia.org/wiki/Tamara_Munzner
 https://en.wikipedia.org/wiki/Tamil_language
 https://en.wikipedia.org/wiki/Tamil_Nadu
 https://en.wikipedia.org/wiki/Tamperproofing
+https://en.wikipedia.org/wiki/Tandem_Computers
 https://en.wikipedia.org/wiki/Tangent_half-angle_substitution
 https://en.wikipedia.org/wiki/Tangent_space
 https://en.wikipedia.org/wiki/Tangerine
@@ -18665,6 +18800,7 @@ https://en.wikipedia.org/wiki/Transition_system
 https://en.wikipedia.org/wiki/Transition-rate_matrix
 https://en.wikipedia.org/wiki/Transitive_closure
 https://en.wikipedia.org/wiki/Translation_(biology)
+https://en.wikipedia.org/wiki/Translation_lookaside_buffer
 https://en.wikipedia.org/wiki/Translator_(computing)
 https://en.wikipedia.org/wiki/Transmission_control_unit
 https://en.wikipedia.org/wiki/Transport_layer
@@ -18768,6 +18904,7 @@ https://en.wikipedia.org/wiki/Tunnelblick
 https://en.wikipedia.org/wiki/Tunneling_protocol
 https://en.wikipedia.org/wiki/Tuple
 https://en.wikipedia.org/wiki/Tur%C3%A1n%27s_brick_factory_problem
+https://en.wikipedia.org/wiki/TurboExpress
 https://en.wikipedia.org/wiki/TurboGrafx-16
 https://en.wikipedia.org/wiki/Turing_completeness
 https://en.wikipedia.org/wiki/Turing_machine
@@ -18875,6 +19012,7 @@ https://en.wikipedia.org/wiki/Understanding
 https://en.wikipedia.org/wiki/Uneconomic_growth
 https://en.wikipedia.org/wiki/UNetbootin
 https://en.wikipedia.org/wiki/Unicon_(programming_language)
+https://en.wikipedia.org/wiki/Unicore
 https://en.wikipedia.org/wiki/Unification_(computer_science)
 https://en.wikipedia.org/wiki/Unification_of_Italy
 https://en.wikipedia.org/wiki/Unified_combatant_command
@@ -19264,6 +19402,7 @@ https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Umi%C5%84ski
 https://en.wikipedia.org/wiki/Wac%C5%82aw_Sierpi%C5%84ski
 https://en.wikipedia.org/wiki/Wageningen_University_%26_Research
 https://en.wikipedia.org/wiki/Wahba%27s_problem
+https://en.wikipedia.org/wiki/Wait_state
 https://en.wikipedia.org/wiki/Wald_test
 https://en.wikipedia.org/wiki/WalkSAT
 https://en.wikipedia.org/wiki/Walsh_function
@@ -19400,6 +19539,7 @@ https://en.wikipedia.org/wiki/White_magic
 https://en.wikipedia.org/wiki/White_noise
 https://en.wikipedia.org/wiki/White_Rabbit_Project
 https://en.wikipedia.org/wiki/White_Sea
+https://en.wikipedia.org/wiki/Whitechapel_Computer_Works
 https://en.wikipedia.org/wiki/Whitehorse
 https://en.wikipedia.org/wiki/Whitfield_Diffie
 https://en.wikipedia.org/wiki/Whitley_Strieber
@@ -19411,12 +19551,15 @@ https://en.wikipedia.org/wiki/Whole_Foods_Market
 https://en.wikipedia.org/wiki/Why_Most_Published_Research_Findings_Are_False
 https://en.wikipedia.org/wiki/Why_Socialism%3F
 https://en.wikipedia.org/wiki/Wicca
+https://en.wikipedia.org/wiki/Wide-issue
 https://en.wikipedia.org/wiki/Widescreen
 https://en.wikipedia.org/wiki/Widest_path_problem
 https://en.wikipedia.org/wiki/Widget_toolkit
 https://en.wikipedia.org/wiki/Wiener_filter
 https://en.wikipedia.org/wiki/Wiener_process
 https://en.wikipedia.org/wiki/Wiener_series
+https://en.wikipedia.org/wiki/Wii
+https://en.wikipedia.org/wiki/Wii_U
 https://en.wikipedia.org/wiki/Wiki.js
 https://en.wikipedia.org/wiki/WikiLeaks
 https://en.wikipedia.org/wiki/Wikimedia_Foundation
@@ -19550,6 +19693,7 @@ https://en.wikipedia.org/wiki/XAMPP
 https://en.wikipedia.org/wiki/Xandria
 https://en.wikipedia.org/wiki/Xapian
 https://en.wikipedia.org/wiki/XBEL
+https://en.wikipedia.org/wiki/Xbox_360
 https://en.wikipedia.org/wiki/Xcas
 https://en.wikipedia.org/wiki/XCircuit
 https://en.wikipedia.org/wiki/XDCC
@@ -19560,6 +19704,7 @@ https://en.wikipedia.org/wiki/Xiangqi
 https://en.wikipedia.org/wiki/Xibalba
 https://en.wikipedia.org/wiki/Xilinx
 https://en.wikipedia.org/wiki/Xilinx_ISE
+https://en.wikipedia.org/wiki/Xilleon
 https://en.wikipedia.org/wiki/Xine
 https://en.wikipedia.org/wiki/Xinhua_News_Agency
 https://en.wikipedia.org/wiki/Xiph.Org_Foundation
@@ -20197,6 +20342,8 @@ https://fluxml.ai/
 https://fly.io/
 https://fmt.dev/latest/index.html
 https://foc.ethz.ch/
+https://focm-society.org/
+https://focm-society.org/links.php
 https://fontforge.org/en-US/
 https://fonts.adobe.com/
 https://fonts.google.com/
@@ -25203,6 +25350,7 @@ https://link.springer.com/book/10.1007/978-3-642-57149-7
 https://link.springer.com/book/10.1007/978-3-642-58038-3
 https://link.springer.com/book/10.1007/978-3-642-58223-3
 https://link.springer.com/book/10.1007/978-3-642-58274-5
+https://link.springer.com/book/10.1007/978-3-642-58589-0
 https://link.springer.com/book/10.1007/978-3-642-58604-0
 https://link.springer.com/book/10.1007/978-3-642-59101-3
 https://link.springer.com/book/10.1007/978-3-642-59242-3
@@ -27018,6 +27166,7 @@ https://packetstormsecurity.com/news/
 https://pacmanattack.com/
 https://padloc.app/
 https://pages.cs.wisc.edu/~ace/cs642-spring-2016.html
+https://pages.cs.wisc.edu/~larus/larus.html
 https://pages.cs.wisc.edu/~remzi/OSTEP/
 https://pages.cs.wisc.edu/~remzi/OSTEP/dist-nfs.pdf
 https://pages.cs.wisc.edu/~swright/
@@ -28751,6 +28900,7 @@ https://speed.pypy.org/
 https://sphincs.cr.yp.to/
 https://sphincs.org/
 https://spidermonkey.dev/
+https://spimsimulator.sourceforge.net/
 https://spinroot.com/spin/whatispin.html
 https://spj.science.org/
 https://spring.io/projects
@@ -31220,6 +31370,7 @@ https://www.demoscene.info/
 https://www.derivative-calculator.net/
 https://www.design-reuse.com/articles/46237/extending-risc-v-isa-with-a-custom-instruction-set-extension.html
 https://www.design-reuse.com/articles/49303/security-risc-v-connected-systems.html
+https://www.design-reuse.com/news/27047/loongson-mips32-mips64-license.html
 https://www.destatis.de/DE/Home/_inhalt.html
 https://www.desy.de/index_eng.html
 https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0
@@ -32904,6 +33055,7 @@ https://www.linuxfoundation.org/
 https://www.linuxfoundation.org/projects
 https://www.linuxfoundation.org/tools/census-ii-of-free-and-open-source-software-application-libraries/
 https://www.linuxfromscratch.org/
+https://www.linuxjournal.com/
 https://www.linuxmint.com/
 https://www.lirmm.fr/~giorgi/
 https://www.lispworks.com/
@@ -32943,6 +33095,7 @@ https://www.lrb.co.uk/the-paper/v19/n07/adam-phillips/you-have-to-be-educated-to
 https://www.lrb.co.uk/the-paper/v38/n13/andrew-o-hagan/the-satoshi-affair
 https://www.lrb.co.uk/the-paper/v45/n16/tom-stevenson/disappearing-ink
 https://www.lrb.co.uk/the-paper/v45/n22/jamie-martin/kettle-of-vultures
+https://www.lri.fr/
 https://www.lri.fr/~gcharpia/machinelearningcourse/refs.html
 https://www.lrz.de/
 https://www.lse.ac.uk/statistics
@@ -33903,6 +34056,7 @@ https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols
 https://www.overleaf.com/learn/latex/MLTeX_EncTeX_and_SyncTeX_TeX_extensions
 https://www.overleaf.com/learn/latex/Pgfplots_package
 https://www.overleaf.com/learn/latex/TikZ_package
+https://www.ovpworld.org/
 https://www.ovt.com/
 https://www.ox.ac.uk/
 https://www.ox.ac.uk/news/2022-03-09-oxford-historians-apply-state-art-ai-transform-study-ancient-texts
