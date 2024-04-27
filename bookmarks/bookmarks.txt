@@ -463,6 +463,8 @@ https://aitopics.org/misc/brief-history
 https://aitopics.org/search
 https://aivillage.org/
 https://aiweekly.co/
+https://akademie.dw.com/
+https://akademie.dw.com/en/is-fact-checking-effective-a-critical-review-of-what-works-and-what-doesnt/a-55248257
 https://alacritty.org/
 https://alecmuffett.com/muffett-passwords
 https://alephjs.org/
@@ -705,6 +707,7 @@ https://archive.ics.uci.edu/
 https://archive.ics.uci.edu/dataset/164/bag+of+words
 https://archive.ics.uci.edu/dataset/53/iris
 https://archive.ics.uci.edu/datasets
+https://archive.is/
 https://archive.org/
 https://archive.org/details/@mirtitles
 https://archive.org/details/86-dos-version-0.1-c-serial-11-original-disk
@@ -1667,6 +1670,7 @@ https://captum.ai/
 https://capturetheflag.withgoogle.com/
 https://careers.cern/
 https://carnegieendowment.org/
+https://carnegieendowment.org/2024/01/31/countering-disinformation-effectively-evidence-based-policy-guide-pub-91476
 https://carpentries.org/
 https://casa.rub.de/
 https://casa.rub.de/en/
@@ -9544,6 +9548,7 @@ https://en.wikipedia.org/wiki/Fabrice_Bellard
 https://en.wikipedia.org/wiki/Face_ID
 https://en.wikipedia.org/wiki/Facebook
 https://en.wikipedia.org/wiki/Facial_recognition_system
+https://en.wikipedia.org/wiki/Fact-checking
 https://en.wikipedia.org/wiki/Factor_(programming_language)
 https://en.wikipedia.org/wiki/Factor_analysis
 https://en.wikipedia.org/wiki/Factor_graph
@@ -10107,6 +10112,7 @@ https://en.wikipedia.org/wiki/Gcov
 https://en.wikipedia.org/wiki/GCW_Zero
 https://en.wikipedia.org/wiki/GD_Graphics_Library
 https://en.wikipedia.org/wiki/GDAL
+https://en.wikipedia.org/wiki/Gdium
 https://en.wikipedia.org/wiki/Gecko_(software)
 https://en.wikipedia.org/wiki/Gecode
 https://en.wikipedia.org/wiki/Geekbench
@@ -22889,6 +22895,7 @@ https://hackaday.com/2020/01/23/the-truth-is-in-there-the-art-of-electronics-the
 https://hackaday.com/2021/11/18/c-is-the-greenest-programming-language/
 https://hackaday.com/2022/04/07/remoticon-2021-rob-weinstein-builds-an-hp-35-from-the-patent-up/
 https://hackaday.com/2022/08/05/books-you-should-read-the-hardware-hackers-handbook/
+https://hackaday.com/2022/09/29/ibm-made-a-mips-laptop-will-it-make-you-wince/
 https://hackaday.com/2022/12/05/epic-guide-to-bare-metal-stm32-programming/
 https://hackaday.com/2023/03/06/the-future-of-risc-v-and-the-visionfive-2-single-board-computer/
 https://hackaday.com/2023/03/19/rp2040-runs-linux-through-risc-v-emulation/
@@ -33942,6 +33949,7 @@ https://www.openbsd.org/faq/faq17.html
 https://www.openbsd.org/faq/index.html
 https://www.openbsd.org/faq/pf/carp.html
 https://www.openbsd.org/innovations.html
+https://www.openbsd.org/loongson.html
 https://www.openbsd.org/openiked/
 https://www.openbsdfoundation.org/
 https://www.openbsdhandbook.com/
@@ -34210,6 +34218,7 @@ https://www.pnas.org/doi/10.1073/pnas.2012208118
 https://www.pnas.org/doi/10.1073/pnas.2104235118
 https://www.pnas.org/doi/10.1073/pnas.2303904120
 https://www.pnas.org/doi/10.1073/pnas.2306275120
+https://www.pnas.org/doi/abs/10.1073/pnas.2104235118
 https://www.pnas.org/doi/full/10.1073/pnas.1116619109
 https://www.pnas.org/doi/full/10.1073/pnas.1410931111
 https://www.pnas.org/doi/full/10.1073/pnas.1605366113
@@ -34244,6 +34253,8 @@ https://www.pouet.net/prod.php?which=63
 https://www.pouly.fr/research.html
 https://www.povray.org/
 https://www.powershellgallery.com/
+https://www.poynter.org/
+https://www.poynter.org/fact-checking/2023/fact-checkers-applaud-academic-research-on-fact-checking-but-offer-wide-range-of-opinions-on-which-research-is-most-valuable/
 https://www.pppl.gov/
 https://www.pq-crystals.org/
 https://www.pq-crystals.org/kyber/
