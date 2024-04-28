@@ -3138,6 +3138,7 @@ https://developer.okta.com/blog/2022/02/08/cookies-vs-tokens
 https://developer.r-project.org/
 https://developer.r-project.org/TechDocs/
 https://developer.toradex.com/torizon/in-depth/ostree/
+https://developerhelp.microchip.com/xwiki/bin/view/products/mcu-mpu/32bit-mcu/PIC32/mx-arch-cpu-overview/m4k-isa-overview/
 https://developers.cloudflare.com/web3/ipfs-gateway/concepts/ipfs/
 https://developers.generativeai.google/guide
 https://developers.generativeai.google/tutorials/text_quickstart
@@ -3853,6 +3854,7 @@ https://docs.rust-embedded.org/
 https://docs.rust-embedded.org/book/
 https://docs.rust-embedded.org/book/index.html
 https://docs.rust-embedded.org/book/intro/no-std.html
+https://docs.rust-embedded.org/discovery/
 https://docs.rust-embedded.org/discovery/microbit/
 https://docs.rust-embedded.org/embedonomicon/index.html
 https://docs.scheme.org/
@@ -4454,6 +4456,7 @@ https://emailengine.app/
 https://emailselfdefense.fsf.org/en/
 https://embed.cs.utah.edu/csmith/
 https://embed.tidymodels.org/
+https://embeddedcomputing.com/technology/software-and-os/introduction-to-realtime-operating-systems-rtos
 https://emberjs.com/
 https://emboss.github.io/blog/2012/12/14/breaking-murmur-hash-flooding-dos-reloaded/
 https://emcee.readthedocs.io/en/stable/
@@ -5254,6 +5257,7 @@ https://en.wikipedia.org/wiki/Apache_License
 https://en.wikipedia.org/wiki/Apache_Lucene
 https://en.wikipedia.org/wiki/Apache_Mahout
 https://en.wikipedia.org/wiki/Apache_MXNet
+https://en.wikipedia.org/wiki/Apache_Mynewt
 https://en.wikipedia.org/wiki/Apache_OpenJPA
 https://en.wikipedia.org/wiki/Apache_ORC
 https://en.wikipedia.org/wiki/Apache_Pinot
@@ -7708,9 +7712,11 @@ https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(algebraic_dat
 https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(list_comprehension)
 https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms
 https://en.wikipedia.org/wiki/Comparison_of_Prolog_implementations
+https://en.wikipedia.org/wiki/Comparison_of_real-time_operating_systems
 https://en.wikipedia.org/wiki/Comparison_of_regular_expression_engines
 https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software
 https://en.wikipedia.org/wiki/Comparison_of_server-side_web_frameworks
+https://en.wikipedia.org/wiki/Comparison_of_single-board_microcontrollers
 https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking
 https://en.wikipedia.org/wiki/Comparison_of_software_calculators
 https://en.wikipedia.org/wiki/Comparison_of_software_for_molecular_mechanics_modeling
@@ -7941,6 +7947,7 @@ https://en.wikipedia.org/wiki/Context-free_grammar
 https://en.wikipedia.org/wiki/Contextual_Query_Language
 https://en.wikipedia.org/wiki/Contextualism
 https://en.wikipedia.org/wiki/Conti_(ransomware)
+https://en.wikipedia.org/wiki/Contiki
 https://en.wikipedia.org/wiki/Continental_Army
 https://en.wikipedia.org/wiki/Continental_Congress
 https://en.wikipedia.org/wiki/Contingency_table
@@ -9032,6 +9039,7 @@ https://en.wikipedia.org/wiki/Economic_model
 https://en.wikipedia.org/wiki/Economic_security
 https://en.wikipedia.org/wiki/Economics_of_religion
 https://en.wikipedia.org/wiki/Econophysics
+https://en.wikipedia.org/wiki/ECos
 https://en.wikipedia.org/wiki/ECRYPT
 https://en.wikipedia.org/wiki/Ecumenism
 https://en.wikipedia.org/wiki/Ed_(text_editor)
@@ -9209,6 +9217,7 @@ https://en.wikipedia.org/wiki/Embeddable_Common_Lisp
 https://en.wikipedia.org/wiki/Embeddable_Linux_Kernel_Subset
 https://en.wikipedia.org/wiki/Embedded_database
 https://en.wikipedia.org/wiki/Embedded_operating_system
+https://en.wikipedia.org/wiki/Embedded_software
 https://en.wikipedia.org/wiki/Embedded_system
 https://en.wikipedia.org/wiki/Embedding
 https://en.wikipedia.org/wiki/Ember.js
@@ -12204,6 +12213,7 @@ https://en.wikipedia.org/wiki/Kibana
 https://en.wikipedia.org/wiki/KiCad
 https://en.wikipedia.org/wiki/KickassTorrents
 https://en.wikipedia.org/wiki/Kill_chain
+https://en.wikipedia.org/wiki/Killer_NIC
 https://en.wikipedia.org/wiki/Killing_of_Osama_bin_Laden
 https://en.wikipedia.org/wiki/Kim_Philby
 https://en.wikipedia.org/wiki/KIM-1
@@ -13096,6 +13106,7 @@ https://en.wikipedia.org/wiki/List_of_psychology_journals
 https://en.wikipedia.org/wiki/List_of_public_broadcasters_by_country
 https://en.wikipedia.org/wiki/List_of_public_corporations_by_market_capitalization
 https://en.wikipedia.org/wiki/List_of_puzzle_video_games
+https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_systems_on_chips
 https://en.wikipedia.org/wiki/List_of_quantum_processors
 https://en.wikipedia.org/wiki/List_of_Radical_Thinkers_releases
 https://en.wikipedia.org/wiki/List_of_random_number_generators
@@ -13204,6 +13215,7 @@ https://en.wikipedia.org/wiki/List_of_video_games_considered_the_best
 https://en.wikipedia.org/wiki/List_of_wars_between_democracies
 https://en.wikipedia.org/wiki/List_of_wars_extended_by_diplomatic_irregularity
 https://en.wikipedia.org/wiki/List_of_wealthiest_charitable_foundations
+https://en.wikipedia.org/wiki/List_of_Wi-Fi_microcontrollers
 https://en.wikipedia.org/wiki/List_of_widget_toolkits
 https://en.wikipedia.org/wiki/List_of_word_processors
 https://en.wikipedia.org/wiki/List_of_world_folk-epics
@@ -14745,6 +14757,7 @@ https://en.wikipedia.org/wiki/NumPy
 https://en.wikipedia.org/wiki/Nunavut
 https://en.wikipedia.org/wiki/NUnit
 https://en.wikipedia.org/wiki/Nutrient_cycle
+https://en.wikipedia.org/wiki/NuttX
 https://en.wikipedia.org/wiki/Nvidia
 https://en.wikipedia.org/wiki/Nvidia_DGX
 https://en.wikipedia.org/wiki/NVM_Express
@@ -16184,6 +16197,7 @@ https://en.wikipedia.org/wiki/Quadric
 https://en.wikipedia.org/wiki/Qualcomm
 https://en.wikipedia.org/wiki/Qualcomm_Atheros
 https://en.wikipedia.org/wiki/Qualcomm_Hexagon
+https://en.wikipedia.org/wiki/Qualcomm_Snapdragon
 https://en.wikipedia.org/wiki/Qualitative_research
 https://en.wikipedia.org/wiki/Quality_control
 https://en.wikipedia.org/wiki/Quantile
@@ -18642,6 +18656,7 @@ https://en.wikipedia.org/wiki/Thousand_Character_Classic
 https://en.wikipedia.org/wiki/Thread_pool
 https://en.wikipedia.org/wiki/Threaded_code
 https://en.wikipedia.org/wiki/Threading_Building_Blocks
+https://en.wikipedia.org/wiki/ThreadX
 https://en.wikipedia.org/wiki/Threat_Intelligence_Platform
 https://en.wikipedia.org/wiki/Three_Books_of_Occult_Philosophy
 https://en.wikipedia.org/wiki/Three_Evils
@@ -19628,6 +19643,7 @@ https://en.wikipedia.org/wiki/Window_function
 https://en.wikipedia.org/wiki/Window_function_(SQL)
 https://en.wikipedia.org/wiki/Windows_Calculator
 https://en.wikipedia.org/wiki/Windows_File_Manager
+https://en.wikipedia.org/wiki/Windows_IoT
 https://en.wikipedia.org/wiki/Windows_Package_Manager
 https://en.wikipedia.org/wiki/Windows_Server
 https://en.wikipedia.org/wiki/Windows_System_Assessment_Tool
@@ -21461,6 +21477,7 @@ https://github.com/linuxmint/cinnamon/
 https://github.com/linuxmint/nemo
 https://github.com/lirantal/awesome-nodejs-security
 https://github.com/litmus-tests/litmus-tests-riscv
+https://github.com/littlefs-project/littlefs
 https://github.com/liuliu/ccv
 https://github.com/LLNL/sundials
 https://github.com/LLNL/units
@@ -26800,6 +26817,7 @@ https://numpy.org/doc/stable/reference/generated/numpy.unique.html
 https://numpy.org/neps/
 https://nunit.org/
 https://nuspell.github.io/
+https://nuttx.apache.org/
 https://nuwen.net/mingw.html
 https://nvd.nist.gov/
 https://nyaa.si/view/1314237
@@ -28384,6 +28402,7 @@ https://rweekly.org/
 https://rxjs.dev/
 https://rye-up.com/
 https://s-unit.attacks.cr.yp.to/
+https://s3-eu-west-1.amazonaws.com/downloads-mips/documents/MD00016-2B-4K-SUM-01.18.pdf
 https://s48.org/
 https://sachachua.com/blog/
 https://safecurves.cr.yp.to/
@@ -29989,6 +30008,7 @@ https://wiki.ubuntu.com/ToolChain/CompilerFlags
 https://wiki.videolan.org/LibVLC
 https://wiki.xfce.org/
 https://wiki.xxiivv.com/site/paper_computing.html
+https://wikidevi.wi-cat.ru/MIPS32
 https://wikileaks.org/
 https://wikimediafoundation.org/
 https://wilkelab.org/ggridges/
@@ -30070,6 +30090,7 @@ https://www.17centurymaths.com/
 https://www.20k.org
 https://www.2600.com/
 https://www.270towin.com/
+https://www.7-cpu.com/cpu/Mips4K.html
 https://www.8bitclassics.com/
 https://www.8bitclassics.com/product-category/computers/atari-8-bit-computer/
 https://www.aaas.org/
@@ -31531,6 +31552,7 @@ https://www.dw.com/es/live-tv/channel-spanish
 https://www.dwd.de/DE/derdwd/arbeitgeber/arbeitgeber_node.html
 https://www.dwd.de/DE/Home/home_node.html
 https://www.dwds.de/
+https://www.dwds.de/wb/verrinnen
 https://www.dyalog.com/
 https://www.dyalog.com/50-years-of-apl.htm
 https://www.dyalog.com/apl-challenge.htm
@@ -31635,6 +31657,7 @@ https://www.emate.ucr.ac.cr/
 https://www.embarcadero.com/
 https://www.embarcadero.com/free-tools/dev-cpp
 https://www.embarcadero.com/products/delphi/starter
+https://www.embedded.com/programming-embedded-systems-what-is-a-real-time-operating-system/
 https://www.embeddedrelated.com/
 https://www.embeddedrelated.com/showarticle/1453.php
 https://www.emerald.com/insight/content/doi/10.1108/02640471111156777/full/html
@@ -31857,6 +31880,7 @@ https://www.freepascal.org/
 https://www.freepdfconvert.com/jpg-to-pdf
 https://www.freerdp.com/
 https://www.freertos.org/
+https://www.freertos.org/about-RTOS.html
 https://www.freethink.com/
 https://www.freethink.com/hard-tech/analog-computing
 https://www.freightwaves.com/news/container-shipping-outlook-2024-rising-risk-of-delays-disruptions/
@@ -34091,6 +34115,7 @@ https://www.overleaf.com/learn/latex/MLTeX_EncTeX_and_SyncTeX_TeX_extensions
 https://www.overleaf.com/learn/latex/Pgfplots_package
 https://www.overleaf.com/learn/latex/TikZ_package
 https://www.ovpworld.org/
+https://www.ovpworld.org/processor-family-mips-4k
 https://www.ovt.com/
 https://www.ox.ac.uk/
 https://www.ox.ac.uk/news/2022-03-09-oxford-historians-apply-state-art-ai-transform-study-ancient-texts
@@ -34366,6 +34391,7 @@ https://www.qs.com/
 https://www.qt.io/
 https://www.qtrac.eu/diffpdf.html
 https://www.quad9.net/
+https://www.qualcomm.com/products/mobile/snapdragon/pcs-and-tablets/snapdragon-x-elite
 https://www.quantamagazine.org/
 https://www.quantamagazine.org/a-brain-inspired-chip-can-run-ai-with-far-less-energy-20221110/
 https://www.quantamagazine.org/a-mathematicians-adventure-through-the-physical-world-20201216/
