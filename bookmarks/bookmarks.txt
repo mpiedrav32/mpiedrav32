@@ -1630,6 +1630,7 @@ https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-p
 https://cacm.acm.org/opinion/generative-ai-and-cs-education/
 https://cacm.acm.org/research/a-new-golden-age-for-computer-architecture/
 https://cacm.acm.org/research/exponential-laws-of-computing-growth/
+https://cacm.acm.org/research/nand-to-tetris-building-a-modern-computer-system-from-first-principles/
 https://cacm.acm.org/section/research/
 https://cacr.uwaterloo.ca/
 https://cacr.uwaterloo.ca/ecc/
@@ -4661,6 +4662,7 @@ https://en.wikipedia.org/wiki/Ab_initio_quantum_chemistry_methods
 https://en.wikipedia.org/wiki/ABACABA_pattern
 https://en.wikipedia.org/wiki/ABAP
 https://en.wikipedia.org/wiki/Abbas_El_Gamal
+https://en.wikipedia.org/wiki/Abbasid_Caliphate
 https://en.wikipedia.org/wiki/ABC_(programming_language)
 https://en.wikipedia.org/wiki/ABC_News_(Australian_TV_channel)
 https://en.wikipedia.org/wiki/ABC_News_Live
@@ -4814,6 +4816,7 @@ https://en.wikipedia.org/wiki/Adversarial_information_retrieval
 https://en.wikipedia.org/wiki/Adversarial_journalism
 https://en.wikipedia.org/wiki/Adversarial_machine_learning
 https://en.wikipedia.org/wiki/Aegean_civilization
+https://en.wikipedia.org/wiki/Aegis
 https://en.wikipedia.org/wiki/Aeneas
 https://en.wikipedia.org/wiki/Aeneid
 https://en.wikipedia.org/wiki/Aeon_(Thelema)
@@ -4887,6 +4890,8 @@ https://en.wikipedia.org/wiki/Al_Jazeera
 https://en.wikipedia.org/wiki/Al_Jazeera_Arabic
 https://en.wikipedia.org/wiki/Al_Jazeera_English
 https://en.wikipedia.org/wiki/Al_Jazeera_Media_Network
+https://en.wikipedia.org/wiki/Al-Andalus
+https://en.wikipedia.org/wiki/Al-Khwarizmi
 https://en.wikipedia.org/wiki/Alain_Colmerauer
 https://en.wikipedia.org/wiki/Alain_Finkielkraut
 https://en.wikipedia.org/wiki/Alamaailman_Vasarat
@@ -5120,6 +5125,7 @@ https://en.wikipedia.org/wiki/Anarcho-pacifism
 https://en.wikipedia.org/wiki/Anarchy
 https://en.wikipedia.org/wiki/Anarchy_(international_relations)
 https://en.wikipedia.org/wiki/Anarchy,_State,_and_Utopia
+https://en.wikipedia.org/wiki/Anathema_(band)
 https://en.wikipedia.org/wiki/Anatolia
 https://en.wikipedia.org/wiki/Anatolian_peoples
 https://en.wikipedia.org/wiki/Anatt%C4%81
@@ -5174,6 +5180,7 @@ https://en.wikipedia.org/wiki/Anemic_domain_model
 https://en.wikipedia.org/wiki/Angel%27s_Egg
 https://en.wikipedia.org/wiki/Angela_Dean
 https://en.wikipedia.org/wiki/Anglo-French_Wars
+https://en.wikipedia.org/wiki/Anglo-Norman_language
 https://en.wikipedia.org/wiki/Anglo-Saxons
 https://en.wikipedia.org/wiki/Angra_(band)
 https://en.wikipedia.org/wiki/Anil_Nerode
@@ -5268,6 +5275,7 @@ https://en.wikipedia.org/wiki/Apocryphon_of_John
 https://en.wikipedia.org/wiki/Apollo_Computer
 https://en.wikipedia.org/wiki/Apollo_PRISM
 https://en.wikipedia.org/wiki/Apollo/Domain
+https://en.wikipedia.org/wiki/Apologetics
 https://en.wikipedia.org/wiki/APOPT
 https://en.wikipedia.org/wiki/Apotheosis
 https://en.wikipedia.org/wiki/Apparent_retrograde_motion
@@ -5409,6 +5417,7 @@ https://en.wikipedia.org/wiki/Artificial_intelligence_of_things
 https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach
 https://en.wikipedia.org/wiki/Artificial_neural_network
 https://en.wikipedia.org/wiki/Artistic_License
+https://en.wikipedia.org/wiki/Artrosis
 https://en.wikipedia.org/wiki/Arts_et_M%C3%A9tiers_ParisTech
 https://en.wikipedia.org/wiki/Arvid_Gerhard_Damm
 https://en.wikipedia.org/wiki/ArXiv
@@ -5637,6 +5646,7 @@ https://en.wikipedia.org/wiki/Ballerina_(programming_language)
 https://en.wikipedia.org/wiki/Balloon_hashing
 https://en.wikipedia.org/wiki/Baltimore
 https://en.wikipedia.org/wiki/Baltimore_and_Ohio_Railroad
+https://en.wikipedia.org/wiki/Ban%C5%AB_M%C5%ABs%C4%81_brothers
 https://en.wikipedia.org/wiki/Banach_space
 https://en.wikipedia.org/wiki/Banburismus
 https://en.wikipedia.org/wiki/Band_matrix
@@ -5932,6 +5942,7 @@ https://en.wikipedia.org/wiki/BlackBerry
 https://en.wikipedia.org/wiki/Blackcurrant
 https://en.wikipedia.org/wiki/Blackfin
 https://en.wikipedia.org/wiki/Blade_server
+https://en.wikipedia.org/wiki/Blaise_Pascal
 https://en.wikipedia.org/wiki/BLAKE_(hash_function)
 https://en.wikipedia.org/wiki/Bland%27s_rule
 https://en.wikipedia.org/wiki/BLAST_(biotechnology)
@@ -6358,8 +6369,10 @@ https://en.wikipedia.org/wiki/Casio_BASIC
 https://en.wikipedia.org/wiki/Cassowary_(software)
 https://en.wikipedia.org/wiki/CAST-128
 https://en.wikipedia.org/wiki/Catalan_language
+https://en.wikipedia.org/wiki/Catalan_literature
 https://en.wikipedia.org/wiki/Catalan_number
 https://en.wikipedia.org/wiki/Catalog_of_articles_in_probability_theory
+https://en.wikipedia.org/wiki/Catalonia
 https://en.wikipedia.org/wiki/Catalysis
 https://en.wikipedia.org/wiki/Catastrophe_theory
 https://en.wikipedia.org/wiki/Catastrophic_cancellation
@@ -6416,6 +6429,7 @@ https://en.wikipedia.org/wiki/Category:APL_programming_language_family
 https://en.wikipedia.org/wiki/Category:Application_layer_protocols
 https://en.wikipedia.org/wiki/Category:Application-specific_integrated_circuits
 https://en.wikipedia.org/wiki/Category:Applied_data_mining
+https://en.wikipedia.org/wiki/Category:Archaic_English_words_and_phrases
 https://en.wikipedia.org/wiki/Category:Array_programming_languages
 https://en.wikipedia.org/wiki/Category:Artificial_intelligence_competitions
 https://en.wikipedia.org/wiki/Category:Artificial_intelligence_researchers
@@ -6447,6 +6461,7 @@ https://en.wikipedia.org/wiki/Category:Book_publishing_companies_of_the_United_K
 https://en.wikipedia.org/wiki/Category:Books_about_geopolitics
 https://en.wikipedia.org/wiki/Category:Boundary_value_problems
 https://en.wikipedia.org/wiki/Category:British_actuaries
+https://en.wikipedia.org/wiki/Category:British_dark_wave_musical_groups
 https://en.wikipedia.org/wiki/Category:British_demographers
 https://en.wikipedia.org/wiki/Category:British_statisticians
 https://en.wikipedia.org/wiki/Category:British_textbook_writers
@@ -6642,6 +6657,7 @@ https://en.wikipedia.org/wiki/Category:GCHQ_cryptographers
 https://en.wikipedia.org/wiki/Category:Generalized_convexity
 https://en.wikipedia.org/wiki/Category:Generalized_functions
 https://en.wikipedia.org/wiki/Category:Generative_pre-trained_transformers
+https://en.wikipedia.org/wiki/Category:German_dark_wave_musical_groups
 https://en.wikipedia.org/wiki/Category:GNU_Project
 https://en.wikipedia.org/wiki/Category:Graph_algorithms
 https://en.wikipedia.org/wiki/Category:Graphical_models
@@ -11139,6 +11155,7 @@ https://en.wikipedia.org/wiki/Ian_Stewart_(mathematician)
 https://en.wikipedia.org/wiki/IAPM_(mode)
 https://en.wikipedia.org/wiki/IATA_airport_code
 https://en.wikipedia.org/wiki/IB_affair
+https://en.wikipedia.org/wiki/Iberian_Peninsula
 https://en.wikipedia.org/wiki/IBM
 https://en.wikipedia.org/wiki/IBM_1401
 https://en.wikipedia.org/wiki/IBM_2741
@@ -11667,6 +11684,7 @@ https://en.wikipedia.org/wiki/Ising_model
 https://en.wikipedia.org/wiki/Islamic_holy_books
 https://en.wikipedia.org/wiki/Islands_in_the_Net
 https://en.wikipedia.org/wiki/ISLISP
+https://en.wikipedia.org/wiki/Ismail_al-Jazari
 https://en.wikipedia.org/wiki/ISO_4
 https://en.wikipedia.org/wiki/ISO_8583
 https://en.wikipedia.org/wiki/ISO_8601
@@ -13050,6 +13068,7 @@ https://en.wikipedia.org/wiki/List_of_people_with_an_anxiety_disorder
 https://en.wikipedia.org/wiki/List_of_periodic_functions
 https://en.wikipedia.org/wiki/List_of_philosophical_fiction_authors
 https://en.wikipedia.org/wiki/List_of_physics_journals
+https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science
 https://en.wikipedia.org/wiki/List_of_Pirate_Parties
 https://en.wikipedia.org/wiki/List_of_Plan_9_applications
 https://en.wikipedia.org/wiki/List_of_planetariums
@@ -13275,6 +13294,7 @@ https://en.wikipedia.org/wiki/LogMeIn_Hamachi
 https://en.wikipedia.org/wiki/Logo_(programming_language)
 https://en.wikipedia.org/wiki/Logrank_test
 https://en.wikipedia.org/wiki/Logtalk
+https://en.wikipedia.org/wiki/London_After_Midnight_(band)
 https://en.wikipedia.org/wiki/London_Review_of_Books
 https://en.wikipedia.org/wiki/London,_Ontario
 https://en.wikipedia.org/wiki/Long_Island
@@ -14796,6 +14816,7 @@ https://en.wikipedia.org/wiki/OjAlgo
 https://en.wikipedia.org/wiki/Okapi_BM25
 https://en.wikipedia.org/wiki/Okinawa_Institute_of_Science_and_Technology
 https://en.wikipedia.org/wiki/OLAP_cube
+https://en.wikipedia.org/wiki/Old_English
 https://en.wikipedia.org/wiki/Old_Europe_(archaeology)
 https://en.wikipedia.org/wiki/Old_Latin
 https://en.wikipedia.org/wiki/Old_Norse
@@ -15764,6 +15785,7 @@ https://en.wikipedia.org/wiki/Positive-definite_kernel
 https://en.wikipedia.org/wiki/Positivism
 https://en.wikipedia.org/wiki/POSIX
 https://en.wikipedia.org/wiki/Possibility_theory
+https://en.wikipedia.org/wiki/Post-punk
 https://en.wikipedia.org/wiki/Post-quantum_cryptography
 https://en.wikipedia.org/wiki/Post-rock
 https://en.wikipedia.org/wiki/Post-structuralism
@@ -16297,6 +16319,7 @@ https://en.wikipedia.org/wiki/Ralph_Palmer_Agnew
 https://en.wikipedia.org/wiki/Rama
 https://en.wikipedia.org/wiki/Ramayana
 https://en.wikipedia.org/wiki/Ramer%E2%80%93Douglas%E2%80%93Peucker_algorithm
+https://en.wikipedia.org/wiki/Ramon_Llull
 https://en.wikipedia.org/wiki/Ramp_function
 https://en.wikipedia.org/wiki/Ramsey_theory
 https://en.wikipedia.org/wiki/RAND_Corporation
@@ -17238,6 +17261,7 @@ https://en.wikipedia.org/wiki/Shadowsocks
 https://en.wikipedia.org/wiki/Shafi_Goldwasser
 https://en.wikipedia.org/wiki/Shahnameh
 https://en.wikipedia.org/wiki/Shaivism
+https://en.wikipedia.org/wiki/Shakespeare%27s_influence
 https://en.wikipedia.org/wiki/Shakey_the_robot
 https://en.wikipedia.org/wiki/SHAKTI_(microprocessor)
 https://en.wikipedia.org/wiki/Shalihotra
@@ -18432,6 +18456,7 @@ https://en.wikipedia.org/wiki/The_Fletcher_School_at_Tufts_University
 https://en.wikipedia.org/wiki/The_Fog_of_War
 https://en.wikipedia.org/wiki/The_Future_Sound_of_London
 https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths
+https://en.wikipedia.org/wiki/The_Gathering_(band)
 https://en.wikipedia.org/wiki/The_Ghost_in_the_Machine
 https://en.wikipedia.org/wiki/The_Globalization_of_World_Politics
 https://en.wikipedia.org/wiki/The_God_Delusion
@@ -19382,6 +19407,7 @@ https://en.wikipedia.org/wiki/Volume_form
 https://en.wikipedia.org/wiki/Volume_ray_casting
 https://en.wikipedia.org/wiki/Voluntarism_(action)
 https://en.wikipedia.org/wiki/Voluntary_Human_Extinction_Movement
+https://en.wikipedia.org/wiki/Volvelle
 https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor
 https://en.wikipedia.org/wiki/Vorbis
 https://en.wikipedia.org/wiki/Voronoi_diagram
