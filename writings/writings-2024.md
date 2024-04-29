@@ -348,3 +348,21 @@ Nothing in this world is worth existing. Nothing in this world is worth having c
 My opinion of humanity as a whole is much too low for appreciating life.
 Over the years, I became painfully aware of how worthless my own life is.
 No psychologist or therapist has ever changed my perspective, nor ever will.
+
+# Computational mathematics and mathematical computation
+
+That field encompasses a wild, wide variety of areas at the intersection of computation and mathematics.
+But I'm nowhere near close to be a competent student or researcher in that field.
+I would have to excel at both computer science and mathematics, as in being mentally sound enough to publish
+some coherent result in complexity of analog cryptographic circuits,
+desigining and implementing my own computer algebra system, and other kind of tasks.
+
+If I ever were able to start a Master's or a PhD program related to computational mathematics
+(e.g., in Linz, Saarbrücken, Aachen, Edinburgh, Toronto, etc.), I know I'd feel totally out of place
+from the very beginning. I'd perceive myself as an obscenely imbecile outcast,
+among extremely bright researchers from all over the world.
+
+Even at my home country, I feel out of place at 37 as a BSc student, while the rest of the class is 25 at most.
+I've wasted my country's and my parents' resources because of lack of focus, stamina, resilience.
+In other circumstances, it would be totally justified to be extrajudicially executed and buried in a mass grave.
+I deeply know my very existence is beyond wasteful. I don't want to exist.
