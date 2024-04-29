@@ -12,6 +12,7 @@ http://aleph0.clarku.edu/~djoyce/java/elements/toc.html
 http://aliramadhan.me/
 http://archives.news.yale.edu/v29.n18/story18.html
 http://arewemetayet.com/
+http://ash.engr.uconn.edu/~acr/
 http://aspell.net/
 http://axiom-developer.org/
 http://biochemical-pathways.com/
@@ -64,6 +65,7 @@ http://hpcuniversity.org/
 http://hyperphysics.phy-astr.gsu.edu/hbase/index.html
 http://impredicative.com/ur/
 http://incompleteideas.net/book/the-book-2nd.html
+http://infolab.stanford.edu/~ullman/
 http://infolab.stanford.edu/~ullman/focs.html
 http://introtodeeplearning.com/
 http://invece.org/
@@ -143,6 +145,8 @@ http://stepanovpapers.com/
 http://tau-prolog.org/
 http://torch.ch/
 http://ulaff.net/
+http://users.cms.caltech.edu/~umans/
+http://users.cms.caltech.edu/~vidick/
 http://users.stat.umn.edu/~gary/Book.html
 http://varianceexplained.org/
 http://varianceexplained.org/r/broom-intro/
@@ -1195,6 +1199,7 @@ https://bair.berkeley.edu/blog/
 https://balasys.eu/blogs/modern-techniques-to-prevent-malware-instead-of-detecting-it
 https://ballerina.io/
 https://banana-pi.org/
+https://bansal.engin.umich.edu/
 https://bapco.com/
 https://bapco.com/products/crossmark/
 https://bapco.com/products/mobilemark-25/
@@ -1798,6 +1803,7 @@ https://cifar.ca/ai/impact/
 https://cifar.ca/cifarnews/2023/09/27/deloitte-report-canada-leads-the-world-in-ai-talent-concentration/
 https://cifar.ca/our-story/
 https://cifar.ca/topics/cifar-pan-canadian-ai-strategy/ai-science/
+https://cims.nyu.edu/~regev/
 https://ciq.com/
 https://ciq.com/products/rocky-linux/
 https://circle.gnome.org/
@@ -2509,6 +2515,7 @@ https://crystal-lang.org/
 https://cs-tccc.org/
 https://cs.au.dk/
 https://cs.au.dk/~amoeller/spa/
+https://cs.au.dk/~srikanth/
 https://cs.au.dk/research/cryptography-and-security
 https://cs.biu.ac.il/
 https://cs.brown.edu/people/pfelzens/
@@ -2517,6 +2524,7 @@ https://cs.illinois.edu/news
 https://cs.illinois.edu/research/areas/scientific-computing
 https://cs.mcgill.ca/~wlh/comp766/index.html
 https://cs.nyu.edu/~dodis/
+https://cs.nyu.edu/~khot/
 https://cs.nyu.edu/~mohri/mlbook/
 https://cs.nyu.edu/exact/core_pages/index.html
 https://cs.opensource.google/go
@@ -4332,6 +4340,7 @@ https://dw.com/en/germany-marks-its-day-of-destiny/a-1389348
 https://dw.com/en/who-benefits-from-china-africa-relations/a-59979169
 https://dwarfstd.org/
 https://dwm.suckless.org/
+https://dwork.seas.harvard.edu/
 https://dx.doi.org/10.1561/0400000001
 https://dx.doi.org/10.1561/0400000070
 https://dx.doi.org/10.1561/1900000002
@@ -6004,6 +6013,7 @@ https://en.wikipedia.org/wiki/BMJ_Open
 https://en.wikipedia.org/wiki/BNR_Prolog
 https://en.wikipedia.org/wiki/Board_game
 https://en.wikipedia.org/wiki/Boards_of_Canada
+https://en.wikipedia.org/wiki/Boaz_Barak
 https://en.wikipedia.org/wiki/Bode_plot
 https://en.wikipedia.org/wiki/Bodhisattva
 https://en.wikipedia.org/wiki/Body_of_Secrets
@@ -6647,6 +6657,7 @@ https://en.wikipedia.org/wiki/Category:Field_(mathematics)
 https://en.wikipedia.org/wiki/Category:Finite_fields
 https://en.wikipedia.org/wiki/Category:Forecasting
 https://en.wikipedia.org/wiki/Category:Foreign_policy_and_strategy_think_tanks_in_China
+https://en.wikipedia.org/wiki/Category:Formal_methods_people
 https://en.wikipedia.org/wiki/Category:Formerly_open-source_or_free_software
 https://en.wikipedia.org/wiki/Category:Formerly_proprietary_software
 https://en.wikipedia.org/wiki/Category:Free_and_open-source_software
@@ -6712,6 +6723,7 @@ https://en.wikipedia.org/wiki/Category:International_security
 https://en.wikipedia.org/wiki/Category:Internet_layer_protocols
 https://en.wikipedia.org/wiki/Category:Internet_theorists
 https://en.wikipedia.org/wiki/Category:Inverse_problems
+https://en.wikipedia.org/wiki/Category:Israeli_communists
 https://en.wikipedia.org/wiki/Category:Italian_gothic_metal_musical_groups
 https://en.wikipedia.org/wiki/Category:Japanese_pop_rock_music_groups
 https://en.wikipedia.org/wiki/Category:Japanese_punk_rock_groups
@@ -6901,6 +6913,7 @@ https://en.wikipedia.org/wiki/Category:Register-based_virtual_machines
 https://en.wikipedia.org/wiki/Category:Regression_analysis
 https://en.wikipedia.org/wiki/Category:Regression_models
 https://en.wikipedia.org/wiki/Category:Religious_texts
+https://en.wikipedia.org/wiki/Category:Researchers_in_geometric_algorithms
 https://en.wikipedia.org/wiki/Category:Reverse_proxy
 https://en.wikipedia.org/wiki/Category:Risk
 https://en.wikipedia.org/wiki/Category:Rothamsted_statisticians
@@ -9358,6 +9371,7 @@ https://en.wikipedia.org/wiki/Ergodic_process
 https://en.wikipedia.org/wiki/Ergodic_theory
 https://en.wikipedia.org/wiki/Ergodicity
 https://en.wikipedia.org/wiki/Erhan_%C3%87inlar
+https://en.wikipedia.org/wiki/Eric_Bach
 https://en.wikipedia.org/wiki/Eric_Brewer_(scientist)
 https://en.wikipedia.org/wiki/Eric_Corley
 https://en.wikipedia.org/wiki/Eric_Hobsbawm
@@ -10122,6 +10136,7 @@ https://en.wikipedia.org/wiki/Gardening_(cryptanalysis)
 https://en.wikipedia.org/wiki/Garrett_Birkhoff
 https://en.wikipedia.org/wiki/Gary_Chartrand
 https://en.wikipedia.org/wiki/Gary_Kildall
+https://en.wikipedia.org/wiki/Gary_Miller_(computer_scientist)
 https://en.wikipedia.org/wiki/Gas_laws
 https://en.wikipedia.org/wiki/Gaspard_Monge
 https://en.wikipedia.org/wiki/Gaspard-Gustave_de_Coriolis
@@ -10730,6 +10745,7 @@ https://en.wikipedia.org/wiki/Hans_Sloane
 https://en.wikipedia.org/wiki/Hapax_legomenon
 https://en.wikipedia.org/wiki/HAProxy
 https://en.wikipedia.org/wiki/Harald_Cram%C3%A9r
+https://en.wikipedia.org/wiki/Harald_Helfgott
 https://en.wikipedia.org/wiki/Harald_Niederreiter
 https://en.wikipedia.org/wiki/Harald_Welte
 https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology
@@ -13390,6 +13406,7 @@ https://en.wikipedia.org/wiki/Ludwig_Prandtl
 https://en.wikipedia.org/wiki/Ludwig_van_Beethoven
 https://en.wikipedia.org/wiki/Ludwig_von_Bertalanffy
 https://en.wikipedia.org/wiki/Luhn_algorithm
+https://en.wikipedia.org/wiki/Luis_von_Ahn
 https://en.wikipedia.org/wiki/Luis_Walter_Alvarez
 https://en.wikipedia.org/wiki/Luke_Tierney
 https://en.wikipedia.org/wiki/Luke%27s_variational_principle
@@ -13460,6 +13477,7 @@ https://en.wikipedia.org/wiki/Made_in_China_2025
 https://en.wikipedia.org/wiki/Madeleine_Albright
 https://en.wikipedia.org/wiki/Madhava%27s_correction_term
 https://en.wikipedia.org/wiki/Madhouse_(company)
+https://en.wikipedia.org/wiki/Madhu_Sudan
 https://en.wikipedia.org/wiki/Madrid_Codex_(Maya)
 https://en.wikipedia.org/wiki/Maebashi_Institute_of_Technology
 https://en.wikipedia.org/wiki/Magdeburg_rights
@@ -13513,6 +13531,7 @@ https://en.wikipedia.org/wiki/Manifesto_of_Evolutionary_Humanism
 https://en.wikipedia.org/wiki/Manifold
 https://en.wikipedia.org/wiki/Manifold_hypothesis
 https://en.wikipedia.org/wiki/Manifold_regularization
+https://en.wikipedia.org/wiki/Manindra_Agrawal
 https://en.wikipedia.org/wiki/Manitoba
 https://en.wikipedia.org/wiki/Mann_family
 https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test
@@ -13887,6 +13906,7 @@ https://en.wikipedia.org/wiki/Michael_Kearns_(computer_scientist)
 https://en.wikipedia.org/wiki/Michael_Luby
 https://en.wikipedia.org/wiki/Michael_Mitzenmacher
 https://en.wikipedia.org/wiki/Michael_Shub
+https://en.wikipedia.org/wiki/Michael_Sipser
 https://en.wikipedia.org/wiki/Michael_Spence
 https://en.wikipedia.org/wiki/Michael_Stonebraker
 https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics
@@ -14113,6 +14133,7 @@ https://en.wikipedia.org/wiki/Monetary_policy
 https://en.wikipedia.org/wiki/MonetDB
 https://en.wikipedia.org/wiki/MongoDB
 https://en.wikipedia.org/wiki/Mongoose-V
+https://en.wikipedia.org/wiki/Moni_Naor
 https://en.wikipedia.org/wiki/Monitor_(synchronization)
 https://en.wikipedia.org/wiki/Monotone_likelihood_ratio
 https://en.wikipedia.org/wiki/Monotonicity_of_entailment
@@ -16823,6 +16844,7 @@ https://en.wikipedia.org/wiki/Ronald_Fisher
 https://en.wikipedia.org/wiki/Ronald_J._Brachman
 https://en.wikipedia.org/wiki/Ronald_J._Williams
 https://en.wikipedia.org/wiki/Ronen_Eldan
+https://en.wikipedia.org/wiki/Ronitt_Rubinfeld
 https://en.wikipedia.org/wiki/Room_40
 https://en.wikipedia.org/wiki/Root_cause_analysis
 https://en.wikipedia.org/wiki/Root_mean_square
@@ -16928,6 +16950,8 @@ https://en.wikipedia.org/wiki/Rust_(programming_language)
 https://en.wikipedia.org/wiki/Rust_for_Linux
 https://en.wikipedia.org/wiki/Rutracker.org
 https://en.wikipedia.org/wiki/RWTH_Aachen_University
+https://en.wikipedia.org/wiki/Ryan_O%27Donnell_(computer_scientist)
+https://en.wikipedia.org/wiki/Ryan_Williams_(computer_scientist)
 https://en.wikipedia.org/wiki/Rydberg_atom
 https://en.wikipedia.org/wiki/Rydberg_formula
 https://en.wikipedia.org/wiki/Ryszard_Syski
@@ -16990,6 +17014,7 @@ https://en.wikipedia.org/wiki/San_Bernardino,_California
 https://en.wikipedia.org/wiki/San_Diego_County,_California
 https://en.wikipedia.org/wiki/San_Francisco_Bay_Area
 https://en.wikipedia.org/wiki/Sanity_check
+https://en.wikipedia.org/wiki/Sanjeev_Arora
 https://en.wikipedia.org/wiki/Sanskrit
 https://en.wikipedia.org/wiki/Sanskrit_literature
 https://en.wikipedia.org/wiki/Sanssouci
@@ -17081,6 +17106,7 @@ https://en.wikipedia.org/wiki/Scope_(computer_science)
 https://en.wikipedia.org/wiki/Scopus
 https://en.wikipedia.org/wiki/Score_test
 https://en.wikipedia.org/wiki/Scoreboarding
+https://en.wikipedia.org/wiki/Scott_Aaronson
 https://en.wikipedia.org/wiki/Scott_J._Shapiro
 https://en.wikipedia.org/wiki/Scott_Vanstone
 https://en.wikipedia.org/wiki/Scottish_Book
@@ -17972,6 +17998,7 @@ https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
 https://en.wikipedia.org/wiki/Steve_Wozniak
 https://en.wikipedia.org/wiki/Steven_Levy
 https://en.wikipedia.org/wiki/Steven_M._Bellovin
+https://en.wikipedia.org/wiki/Steven_Rudich
 https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology
 https://en.wikipedia.org/wiki/Stewart_Brand
 https://en.wikipedia.org/wiki/Stiff_equation
@@ -19055,6 +19082,7 @@ https://en.wikipedia.org/wiki/Ultra-low-voltage_processor
 https://en.wikipedia.org/wiki/Ultra-wideband
 https://en.wikipedia.org/wiki/Ultracomputer
 https://en.wikipedia.org/wiki/UMAC
+https://en.wikipedia.org/wiki/Umesh_Vazirani
 https://en.wikipedia.org/wiki/UMFPACK
 https://en.wikipedia.org/wiki/Unambiguous_Turing_machine
 https://en.wikipedia.org/wiki/Unary_coding
@@ -19365,6 +19393,7 @@ https://en.wikipedia.org/wiki/VideoLAN
 https://en.wikipedia.org/wiki/Vieta%27s_formulas
 https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
 https://en.wikipedia.org/wiki/VIGRA
+https://en.wikipedia.org/wiki/Vijay_Vazirani
 https://en.wikipedia.org/wiki/Vilfredo_Pareto
 https://en.wikipedia.org/wiki/Vinagre
 https://en.wikipedia.org/wiki/Vincent_Poor
@@ -19989,6 +20018,7 @@ https://energyeducation.ca/encyclopedia/Main_Page
 https://eng.vt.edu/magazine/stories/spring-2020/the-new-cryptographers.html
 https://engineering.jhu.edu/ams/
 https://engineering.mit.edu/
+https://engineering.stanford.edu/people/mary-wootters
 https://engineering.tufts.edu/cee/people/faculty/steven-chapra
 https://engineeringmedia.com/books
 https://english.alarabiya.net/
@@ -20305,6 +20335,7 @@ https://fachgruppe-computeralgebra.de/
 https://facthacks.cr.yp.to/
 https://factorable.net/index.html
 https://factorable.net/paper.html
+https://faculty.cc.gatech.edu/~vempala/
 https://faculty.uml.edu/dklain/rota.html
 https://fanael.github.io/is-x86-risc-internally.html
 https://fanart.tv/
@@ -23077,10 +23108,13 @@ https://home.cs.colorado.edu/~richard/
 https://home.cs.colorado.edu/~srirams/courses/csci2824-spr14/pollardsRho.html
 https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth
 https://home.treasury.gov/
+https://home.ttic.edu/~avrim/
+https://home.ttic.edu/~madhurt/
 https://home.unicode.org/
 https://home.web.cern.ch/science/accelerators/large-hadron-collider/safety-lhc
 https://home.web.cern.ch/science/experiments
 https://home.web.cern.ch/science/physics
+https://homepages.cwi.nl/~jop/
 https://homepages.inf.ed.ac.uk/rbf/CVonline/
 https://homepages.inf.ed.ac.uk/rbf/HIPR2/bitshift.htm
 https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf
@@ -23269,6 +23303,7 @@ https://icml.cc/
 https://icms-conference.org/
 https://icms-conference.org/2018/sessions/session14/
 https://ics.uci.edu/
+https://ics.uci.edu/~irani/
 https://ics.uci.edu/~pattis/quotations.html
 https://ics.uci.edu/~stasio/fall04/reading.html
 https://icu.unicode.org/
@@ -23466,6 +23501,7 @@ https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=99
 https://ig.ft.com/sites/business-book-award/
 https://ig.ft.com/sites/business-book-award/books/2022/winner/chip-war-by-chris-miller/
 https://iiif.io/
+https://iiis.tsinghua.edu.cn/yao/
 https://ijg.org/
 https://ikiwiki.info/
 https://ilasic.org/
@@ -23638,6 +23674,7 @@ https://jacobsschool.ucsd.edu/node/3592
 https://jakarta.ee/
 https://jakevdp.github.io/
 https://jakevdp.github.io/PythonDataScienceHandbook/
+https://jakobnordstrom.se/
 https://jalammar.github.io/illustrated-transformer/
 https://jamesmccaffrey.wordpress.com/2021/12/17/knapsack-problem-using-simulated-annealing-example/
 https://jamestown.org/program/examining-chinas-grand-strategy-for-risc-v/
@@ -23709,6 +23746,7 @@ https://joeyh.name/code/moreutils/
 https://johncremona.github.io/
 https://johnfactotum.github.io/foliate/
 https://johnmcfarlane.github.io/cnl/
+https://johnwatrous.com/
 https://join-lemmy.org/
 https://joinfirefish.org/
 https://joinmastodon.org/
@@ -23720,6 +23758,7 @@ https://josefsson.org/
 https://josefsson.org/base64/
 https://josefsson.org/pubs.html
 https://josem.co/the-beauty-of-finished-software/
+https://joshalman.com/
 https://joss.theoj.org/
 https://joss.theoj.org/papers/10.21105/joss.00765
 https://journal.r-project.org/
@@ -25761,6 +25800,7 @@ https://lore.kernel.org/lkml/
 https://lost-stats.github.io/
 https://lotz84.github.io/haskellbyexample/
 https://loup-vaillant.fr/articles/hsm-done-right
+https://lovasz.web.elte.hu/
 https://lovespellsmusic.bandcamp.com/music
 https://lowrisc.org/
 https://lpeproject.org/blog/the-role-of-law-in-capitalism/
@@ -25998,6 +26038,7 @@ https://macpassapp.org/
 https://macropolo.org/
 https://macropolo.org/digital-projects/the-global-ai-talent-tracker/
 https://mad.firstmark.com/
+https://madhu.seas.harvard.edu/
 https://madiot.fr/coq100/
 https://mae.princeton.edu/
 https://magazine.caltech.edu/
@@ -26505,6 +26546,7 @@ https://mpimet.mpg.de/startseite
 https://mplayerhq.hu/design7/news.html
 https://mpmath.org/
 https://mpv.io/
+https://mrtz.org/
 https://mseffie.com/assignments/calligraphy/Plethora%20of%20Pangrams.pdf
 https://msrc-blog.microsoft.com/
 https://msrc.microsoft.com/
@@ -27398,6 +27440,7 @@ https://people.carleton.edu/~rdobrow/Probability/
 https://people.carleton.edu/~rdobrow/stochbook/
 https://people.cs.georgetown.edu/~kobbi/
 https://people.cs.kuleuven.be/~tom.schrijvers/
+https://people.cs.uchicago.edu/~laci/
 https://people.cs.uchicago.edu/~ridg/PhDcompumath.html
 https://people.csail.mit.edu/beckmann/
 https://people.csail.mit.edu/beckmann/publications/papers/2015.hpca.talus.pdf
@@ -27411,6 +27454,7 @@ https://people.csail.mit.edu/jaffer/SLIB
 https://people.csail.mit.edu/jaffer/WB
 https://people.csail.mit.edu/rivest/
 https://people.csail.mit.edu/rivest/pubs/RSW96.pdf
+https://people.csail.mit.edu/rrw/
 https://people.csail.mit.edu/sanchez/
 https://people.csail.mit.edu/sanchez/papers/2016.cachecalc.cal.pdf
 https://people.csail.mit.edu/shafi/
@@ -27444,6 +27488,7 @@ https://people.mpi-sws.org/~viktor/wmc/
 https://people.scs.carleton.ca/~paulv/
 https://people.scs.carleton.ca/~paulv/5900wBooks.html
 https://people.scs.carleton.ca/~paulv/toolsjewels.html
+https://people.seas.harvard.edu/~valiant/
 https://people.smp.uq.edu.au/DirkKroese/
 https://people.smp.uq.edu.au/DirkKroese/DSML/
 https://people.tamu.edu/~huafei-yan//Rota/mitless.html
@@ -27461,6 +27506,7 @@ https://perldoc.perl.org/perlre
 https://perlweekly.com/
 https://perso.crans.org/besson/publis/notebooks/Simulated_annealing_in_Python.html
 https://personal.cis.strath.ac.uk/james.wood.100/pub/thesis.pdf
+https://personal.lse.ac.uk/veghl/
 https://personal.math.ubc.ca/~cbm/aands/
 https://personal.math.ubc.ca/~feldman/m267/heat3d.pdf
 https://personal.utdallas.edu/~hamlen/cs4301sp24.html
@@ -28092,6 +28138,7 @@ https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/
 https://rajpurkar.github.io/SQuAD-explorer/
 https://raku.org/
 https://ramiro.org/notebooks/
+https://randall.math.gatech.edu/
 https://random-walks.org/content/misc/node/node.html
 https://randombytes.cr.yp.to/
 https://randomnerdtutorials.com/
@@ -28708,7 +28755,9 @@ https://sites.google.com/site/robotkinematicscmu/
 https://sites.google.com/view/crypto-sat/
 https://sites.google.com/view/energy-efficiency-languages/
 https://sites.google.com/view/energy-efficiency-languages/results
+https://sites.google.com/view/manindra/home
 https://sites.google.com/ycp.edu/craigbauer
+https://sites.math.washington.edu/~rothvoss/
 https://sites.research.google/weatherbench/
 https://sites.stat.washington.edu/mmp/courses/535/fall22/resources.html
 https://sjgiorgi.github.io/
@@ -29465,7 +29514,9 @@ https://theomagica.com/on-the-nature-of-the-qlippoth
 https://theoreticalminimum.com/home
 https://theory.cern/
 https://theory.cs.columbia.edu/
+https://theory.stanford.edu/~liyang/
 https://theoryofcomputing.org/
+https://theoryofcomputing.org/editors.html
 https://theoryofcomputing.org/introduction.html
 https://thepalindrome.org/
 https://thepalindrome.org/p/how-large-that-number-in-the-law
@@ -29733,6 +29784,7 @@ https://us.sagepub.com/en-us/nam/home
 https://uscilab.github.io/cereal/
 https://usemodels.tidymodels.org/
 https://users-cs.au.dk/ivan/
+https://users.cs.duke.edu/~br148/
 https://users.cs.northwestern.edu/~jesse/pubs/alms/
 https://users.dcc.uchile.cl/~rbaeza/mir2ed/
 https://users.encs.concordia.ca/~gcowan/phdresearch.html
@@ -29856,9 +29908,12 @@ https://web.cs.ucla.edu/~palsberg/h-number.html
 https://web.dev/
 https://web.dev/rendering-on-the-web/
 https://web.ece.ucsb.edu/~zhengzhang/Index.htm
+https://web.eecs.umich.edu/~cpeikert/
 https://web.engr.oregonstate.edu/~rosulekm/
 https://web.ma.utexas.edu/users/m408n/CurrentWeb/LM4-3-12.php
 https://web.math.pmf.unizg.hr/~duje/tbkripteng.html
+https://web.math.princeton.edu/~nalon/
+https://web.math.princeton.edu/~naor/
 https://web.media.mit.edu/~xdong/resource.html
 https://web.media.mit.edu/~xdong/talk/BDI_GSP.pdf
 https://web.mit.edu/wisdom/www/
@@ -30518,6 +30573,7 @@ https://www.bma.org.uk/
 https://www.bmbf.de/bmbf/de/home/home_node.html
 https://www.bmj.com/
 https://www.bnf.fr/fr
+https://www.boazbarak.org/
 https://www.bodleian.ox.ac.uk/csb
 https://www.bookbrowse.com/
 https://www.bookbub.com/
@@ -31196,6 +31252,7 @@ https://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html
 https://www.cs.cmu.edu/bs-in-artificial-intelligence/
 https://www.cs.columbia.edu/
 https://www.cs.columbia.edu/~aho/cs4115/Lectures/15-01-21.html
+https://www.cs.columbia.edu/~omri/
 https://www.cs.columbia.edu/~simha/
 https://www.cs.columbia.edu/~simha/hdcacase.pdf
 https://www.cs.columbia.edu/~simha/preprint_isca16.pdf
@@ -31203,7 +31260,9 @@ https://www.cs.columbia.edu/~smb/
 https://www.cs.columbia.edu/~tal/4261/F12/readings.html
 https://www.cs.cornell.edu/~asampson/blog/flattening.html
 https://www.cs.cornell.edu/~asampson/blog/llvm.html
+https://www.cs.cornell.edu/~eva/
 https://www.cs.cornell.edu/~kozen/Papers/lbs.pdf
+https://www.cs.cornell.edu/~rdk/
 https://www.cs.cornell.edu/andru/xsokoban.html
 https://www.cs.cornell.edu/courses/cs6110/2017sp/lectures/lec30.pdf
 https://www.cs.cornell.edu/courses/cs6110/2023sp/
@@ -31214,6 +31273,7 @@ https://www.cs.cornell.edu/projects/cyclone/online-manual/main-screen001.html
 https://www.cs.dartmouth.edu/~sergey/
 https://www.cs.dartmouth.edu/~sergey/langsec/
 https://www.cs.dartmouth.edu/~sws/pubs/skbk15.pdf
+https://www.cs.haifa.ac.il/~ronen/
 https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/
 https://www.cs.kent.ac.uk/people/staff/rej/gcbook/
 https://www.cs.otago.ac.nz/staffpriv/ok/
@@ -31224,8 +31284,11 @@ https://www.cs.ox.ac.uk/publications/publication3723-abstract.html
 https://www.cs.ox.ac.uk/ralf.hinze/WG2.8/25/slides/phil.pdf
 https://www.cs.ox.ac.uk/research/
 https://www.cs.princeton.edu/
+https://www.cs.princeton.edu/~arora/
 https://www.cs.princeton.edu/~rpa//
+https://www.cs.princeton.edu/~zdvir/
 https://www.cs.purdue.edu/homes/spa/book.html
+https://www.cs.rit.edu/~ib/
 https://www.cs.rochester.edu/~scott/pragmatics/
 https://www.cs.ru.nl/~erikpoll/
 https://www.cs.ru.nl/~freek/
@@ -31234,6 +31297,8 @@ https://www.cs.ru.nl/~henk/
 https://www.cs.ru.nl/~herman/
 https://www.cs.ru.nl/~joan/
 https://www.cs.rug.nl/~wim/fermat/wilesEnglish.html
+https://www.cs.tau.ac.il/~schechik/
+https://www.cs.tau.ac.il/~shpilka/
 https://www.cs.toronto.edu/~duvenaud/
 https://www.cs.toronto.edu/~hinton/
 https://www.cs.toronto.edu/~kriz/cifar.html
@@ -31250,6 +31315,7 @@ https://www.cs.umd.edu/~gasarch/
 https://www.cs.umd.edu/~gasarch/bookrev/
 https://www.cs.umd.edu/~jkatz/
 https://www.cs.umd.edu/~jkatz/imc.html
+https://www.cs.umd.edu/~srin/
 https://www.cs.umd.edu/users/oleary/SCCS/
 https://www.cs.unc.edu/techreports/86-020.pdf
 https://www.cs.utah.edu/~regehr/
@@ -31264,6 +31330,7 @@ https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 https://www.cs.virginia.edu/~evans/greatworks/
 https://www.cs.waikato.ac.nz/ml/weka/
 https://www.cs.waikato.ac.nz/ml/weka/book.html
+https://www.cs.yale.edu/homes/spielman/
 https://www.cs251.com/
 https://www.csail.mit.edu/
 https://www.csail.mit.edu/event/building-secure-systems-memory-enclaves
@@ -31695,8 +31762,10 @@ https://www.energy.gov/eere/office-energy-efficiency-renewable-energy
 https://www.energy.gov/national-laboratories
 https://www.energy.gov/science/ascr/advanced-scientific-computing-research
 https://www.energy.gov/science/office-science
+https://www.eng.biu.ac.il/weissmo3/
 https://www.engadget.com/
 https://www.engadget.com/us-senator-calls-for-the-public-release-of-att-hemisphere-surveillance-records-083627787.html
+https://www.engineering.columbia.edu/faculty/christos-papadimitriou
 https://www.english-heritage.org.uk/
 https://www.english-heritage.org.uk/visit/places/kenwood/history-stories-kenwood/old-london-bridge/
 https://www.enisa.europa.eu/
@@ -33364,10 +33433,12 @@ https://www.math.brown.edu/johsilve/
 https://www.math.brown.edu/johsilve/MathCryptoHome.html
 https://www.math.columbia.edu/~bayer/
 https://www.math.harvard.edu/
+https://www.math.ias.edu/avi/
 https://www.math.ias.edu/files/mathandcomp.pdf
 https://www.math.princeton.edu/
 https://www.math.purdue.edu/~adebray/lecture_notes/468notes.pdf
 https://www.math.stonybrook.edu/Videos/Colloquium/PDFs/20160128-Poonen.pdf
+https://www.math.toronto.edu/ssaraf/
 https://www.math.u-bordeaux.fr/~hecohen/
 https://www.math.umd.edu/~lcw/
 https://www.math.utah.edu/~beebe/
@@ -33526,9 +33597,11 @@ https://www.microsoft.com/en-us/research/blog/privacy-preserving-machine-learnin
 https://www.microsoft.com/en-us/research/blog/unlocking-the-future-of-computing-the-analog-iterative-machines-lightning-fast-approach-to-optimization/
 https://www.microsoft.com/en-us/research/group/cryptography-research/
 https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/
+https://www.microsoft.com/en-us/research/people/
 https://www.microsoft.com/en-us/research/people/cmbishop/
 https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/
 https://www.microsoft.com/en-us/research/people/roneneldan/
+https://www.microsoft.com/en-us/research/people/satya/
 https://www.microsoft.com/en-us/research/people/yael/
 https://www.microsoft.com/en-us/research/project/academic/articles/neurips-conference-analytics/
 https://www.microsoft.com/en-us/research/project/aim/
@@ -35117,6 +35190,7 @@ https://www.scirp.org/
 https://www.scirp.org/html/7-9202431_107313.htm
 https://www.scmagazine.com/
 https://www.scmp.com/
+https://www.scottaaronson.com/
 https://www.scribus.net/
 https://www.scrivenerpublishing.com/subject_area.php?id=Mathematics
 https://www.scryer.pl/
@@ -35653,6 +35727,8 @@ https://www.tcl-lang.org/
 https://www.tcl.tk/
 https://www.tcpdump.org/
 https://www.tcpdump.org/papers/bpf-usenix93.pdf
+https://www.tcs.tifr.res.in/~jaikumar/
+https://www.tcs.tifr.res.in/~prahladh/
 https://www.tcsh.org/
 https://www.team6502.org/
 https://www.techinsights.com/blog/smic-7nm-n2-huawei-mate-60-pro-uncovering-innovation-inside-chip
@@ -36322,9 +36398,12 @@ https://www.wireguard.com/papers/wireguard.pdf
 https://www.wireguard.com/protocol/
 https://www.wireguard.com/repositories/
 https://www.wireshark.org/
+https://www.wisdom.weizmann.ac.il/~dinuri/
 https://www.wisdom.weizmann.ac.il/~oded/
 https://www.wisdom.weizmann.ac.il/~oded/foc-book.html
 https://www.wisdom.weizmann.ac.il/~oded/toc-bi.html
+https://www.wisdom.weizmann.ac.il/~ranraz/
+https://www.wisdom.weizmann.ac.il/~robi/
 https://www.wnyc.org/
 https://www.wnycstudios.org/podcasts
 https://www.wnycstudios.org/podcasts/radiolab
