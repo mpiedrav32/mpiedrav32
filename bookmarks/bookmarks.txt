@@ -3,6 +3,7 @@ http://0xeb.net/
 http://9p.cat-v.org/
 http://abstract.pugetsound.edu/
 http://abstract.ups.edu/
+http://acm-stoc.org/
 http://acm-stoc.org/stoc2024/
 http://acme.cat-v.org/
 http://aima.cs.berkeley.edu/
@@ -1983,6 +1984,7 @@ https://compilers.iecc.com/
 https://compilers.iecc.com/crenshaw/
 https://compilers.iecc.com/crenshaw/tutorfinal.pdf
 https://complexityzoo.net/Complexity_Zoo
+https://complexityzoo.net/Complexity_Zoo:R
 https://computationalcomplexity.org/
 https://computerhistory.org/
 https://computerhistory.org/blog/fairchild-and-the-fairchildren/
@@ -2526,6 +2528,7 @@ https://cs.stanford.edu/~knuth/taocp.html
 https://cs.stanford.edu/people/eroberts/
 https://cs.stanford.edu/people/eroberts/cs201/projects/export-controls/clipper.html
 https://cs.ucdavis.edu/
+https://cs.uchicago.edu/
 https://cs.uwaterloo.ca/
 https://cs.uwaterloo.ca/~astorjoh/
 https://cs.uwaterloo.ca/~dstinson/
@@ -4355,6 +4358,7 @@ https://easychair.org/cfp/provsec2023
 https://easychair.org/publications/paper/Q4lW
 https://easyeda.com/
 https://easystats.github.io/easystats/
+https://eatcs.org/
 https://eater.net/
 https://eater.net/6502
 https://eater.net/8bit
@@ -4365,6 +4369,7 @@ https://ec-lang.org/
 https://ec.europa.eu/eurostat
 https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en
 https://eccc.weizmann.ac.il/
+https://eccc.weizmann.ac.il//eccc/
 https://eccc.weizmann.ac.il//static/books/A_Simple_Introduction_to_Computable_Analysis_Fragments_of_a_Book/
 https://eccc.weizmann.ac.il/static/pointers/personal_www_home_pages_of_complexity_theorists/
 https://ecchacks.cr.yp.to/
@@ -5361,6 +5366,7 @@ https://en.wikipedia.org/wiki/Arithmetic_function
 https://en.wikipedia.org/wiki/Arithmetic_geometry
 https://en.wikipedia.org/wiki/Arithmetic_mean
 https://en.wikipedia.org/wiki/Arithmetic_of_abelian_varieties
+https://en.wikipedia.org/wiki/Arithmetic_shift
 https://en.wikipedia.org/wiki/Arithmetic_topology
 https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean
 https://en.wikipedia.org/wiki/Arizona_State_University
@@ -6457,6 +6463,7 @@ https://en.wikipedia.org/wiki/Category:Bayesian_statisticians
 https://en.wikipedia.org/wiki/Category:Bayesian_statistics
 https://en.wikipedia.org/wiki/Category:Benchmarks_(computing)
 https://en.wikipedia.org/wiki/Category:Biblical_phrases
+https://en.wikipedia.org/wiki/Category:Binary_arithmetic
 https://en.wikipedia.org/wiki/Category:Bioinformatics_algorithms
 https://en.wikipedia.org/wiki/Category:Bit_data_structures
 https://en.wikipedia.org/wiki/Category:Blaise_Pascal
@@ -10166,6 +10173,7 @@ https://en.wikipedia.org/wiki/General_linear_model
 https://en.wikipedia.org/wiki/General_number_field_sieve
 https://en.wikipedia.org/wiki/General_Problem_Solver
 https://en.wikipedia.org/wiki/General_purpose_analog_computer
+https://en.wikipedia.org/wiki/General_recursive_function
 https://en.wikipedia.org/wiki/General_regression_neural_network
 https://en.wikipedia.org/wiki/General_relativity
 https://en.wikipedia.org/wiki/General_Relativity_(book)
@@ -13297,6 +13305,7 @@ https://en.wikipedia.org/wiki/Logic_Theorist
 https://en.wikipedia.org/wiki/Logical_link_control
 https://en.wikipedia.org/wiki/Logical_matrix
 https://en.wikipedia.org/wiki/Logical_schema
+https://en.wikipedia.org/wiki/Logical_shift
 https://en.wikipedia.org/wiki/Logistic_function
 https://en.wikipedia.org/wiki/Logistic_map
 https://en.wikipedia.org/wiki/Logistic_regression
@@ -16266,6 +16275,7 @@ https://en.wikipedia.org/wiki/Quotient_space_(linear_algebra)
 https://en.wikipedia.org/wiki/Quotient_space_(topology)
 https://en.wikipedia.org/wiki/Quotient_type
 https://en.wikipedia.org/wiki/Quran
+https://en.wikipedia.org/wiki/R_(complexity)
 https://en.wikipedia.org/wiki/R_(programming_language)
 https://en.wikipedia.org/wiki/R_Commander
 https://en.wikipedia.org/wiki/R_package
@@ -16276,6 +16286,7 @@ https://en.wikipedia.org/wiki/R._Tyrrell_Rockafellar
 https://en.wikipedia.org/wiki/R*_rule_(ecology)
 https://en.wikipedia.org/wiki/R%C3%A9nyi_entropy
 https://en.wikipedia.org/wiki/R%C3%B3is%C3%ADn_Murphy
+https://en.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter
 https://en.wikipedia.org/wiki/R%C3%B6k_runestone
 https://en.wikipedia.org/wiki/R%C3%B6ssler_attractor
 https://en.wikipedia.org/wiki/R%C3%B6yksopp
@@ -23071,6 +23082,7 @@ https://home.web.cern.ch/science/accelerators/large-hadron-collider/safety-lhc
 https://home.web.cern.ch/science/experiments
 https://home.web.cern.ch/science/physics
 https://homepages.inf.ed.ac.uk/rbf/CVonline/
+https://homepages.inf.ed.ac.uk/rbf/HIPR2/bitshift.htm
 https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf
 https://homepages.math.uic.edu/~marker/
 https://homepages.rpi.edu/~holmes/
@@ -26146,6 +26158,7 @@ https://math.mit.edu/~yyao1/integrationbee.html
 https://math.mit.edu/classes/18.783/2022/syllabus.html
 https://math.mit.edu/directory/profile.html?pid=9
 https://math.mit.edu/nt/
+https://math.mit.edu/research/
 https://math.mit.edu/research/applied/
 https://math.mit.edu/research/applied/combinatorics.html
 https://math.mit.edu/research/applied/comp-biology.html
@@ -27825,6 +27838,7 @@ https://projecteuclid.org/journals/annals-of-probability
 https://projecteuclid.org/journals/annals-of-statistics
 https://projecteuclid.org/journals/annals-of-statistics/volume-30/issue-5/What-is-a-statistical-model/10.1214/aos/1035844977.full
 https://projecteuclid.org/journals/bayesian-analysis
+https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-21/issue-1/On-a-theory-of-computation-and-complexity-over-the-real/bams/1183555121.full
 https://projecteuclid.org/journals/probability-surveys/volume-5/issue-none/Differential-equation-approximations-for-Markov-chains/10.1214/07-PS121.full
 https://projecteuclid.org/journals/statistical-science
 https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full
@@ -29452,6 +29466,7 @@ https://theoreticalminimum.com/home
 https://theory.cern/
 https://theory.cs.columbia.edu/
 https://theoryofcomputing.org/
+https://theoryofcomputing.org/introduction.html
 https://thepalindrome.org/
 https://thepalindrome.org/p/how-large-that-number-in-the-law
 https://theparisreview.org/interviews/1670/the-art-of-fiction-no-140-primo-levi
@@ -30241,6 +30256,7 @@ https://www.ams.org/education/emp-reu
 https://www.ams.org/home/page
 https://www.ams.org/journals/bull/1954-60-06/S0002-9904-1954-09848-8/
 https://www.ams.org/journals/bull/1981-04-03/S0273-0979-1981-14910-7/
+https://www.ams.org/journals/bull/1989-21-01/S0273-0979-1989-15750-9/S0273-0979-1989-15750-9.pdf
 https://www.ams.org/journals/bull/1992-27-01/S0273-0979-1992-00289-6/
 https://www.ams.org/journals/bull/2002-39-01/S0273-0979-01-00923-5/
 https://www.ams.org/journals/bull/2002-39-03/S0273-0979-02-00947-3/
@@ -31252,6 +31268,7 @@ https://www.cs251.com/
 https://www.csail.mit.edu/
 https://www.csail.mit.edu/event/building-secure-systems-memory-enclaves
 https://www.csail.mit.edu/person/shafi-goldwasser
+https://www.csail.mit.edu/research/theory-computation-community-research
 https://www.csc.cam.ac.uk/
 https://www.csd.uwo.ca/~watt/
 https://www.cse.iitb.ac.in/~mp/
@@ -31557,6 +31574,7 @@ https://www.dyalog.com/
 https://www.dyalog.com/50-years-of-apl.htm
 https://www.dyalog.com/apl-challenge.htm
 https://www.dyalog.com/what-is-dyalog.htm
+https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html
 https://www.ebi.ac.uk/
 https://www.ebi.ac.uk/Tools/sss/fasta/
 https://www.ecb.europa.eu/home/html/index.en.html
@@ -31594,6 +31612,7 @@ https://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html
 https://www.ee.pw.edu.pl/en/
 https://www.eecs.mit.edu/
 https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-4-artificial-intelligence-and-decision-making/
+https://www.eecs.mit.edu/research/explore-all-research-areas/algorithms-and-theory/
 https://www.eecs.mit.edu/research/explore-all-research-areas/security-and-cryptography/
 https://www.eembc.org/
 https://www.eembc.org/coremark/
@@ -33096,6 +33115,7 @@ https://www.libtom.net/TomsFastMath/
 https://www.libvolk.org/
 https://www.licenturion.com/xp/fully-licensed-wpa.txt
 https://www.lickobservatory.org/
+https://www.lics.rwth-aachen.de/cms/~nwej/LICS/
 https://www.lifetable.de/
 https://www.lightbluetouchpaper.org/
 https://www.lightbluetouchpaper.org/2022/01/20/arm-releases-experimental-cheri-enabled-morello-board-as-part-of-187m-ukri-digital-security-by-design-programme/
@@ -33123,6 +33143,7 @@ https://www.list.org/
 https://www.livescience.com/
 https://www.lix.polytechnique.fr/~bournez/i.php?n=Main.ResearchNotFancy
 https://www.lix.polytechnique.fr/~bournez/i.php/Main/HomePage
+https://www.lix.polytechnique.fr/~hermann/conf.php
 https://www.lix.polytechnique.fr/~morain/
 https://www.lmfdb.org/
 https://www.lms.ac.uk/
@@ -33669,6 +33690,7 @@ https://www.nature.com/articles/d41586-023-03745-5
 https://www.nature.com/articles/d41586-023-04044-9
 https://www.nature.com/articles/d41586-024-00768-4
 https://www.nature.com/articles/d41586-024-00930-y
+https://www.nature.com/articles/d41586-024-01216-z
 https://www.nature.com/articles/nature14539
 https://www.nature.com/articles/nature16961
 https://www.nature.com/articles/nature25447
@@ -35165,6 +35187,8 @@ https://www.sifive.com/blog/all-aboard-part-4-risc-v-code-models
 https://www.sifive.com/blog/risc-v-qemu-part-2-the-risc-v-qemu-port-is-upstream
 https://www.sifive.com/boards
 https://www.sifive.com/boards/hifive-unmatched-revb
+https://www.sigact.org/
+https://www.sigact.org/articles/web_pages.html
 https://www.sigact.org/prizes/g%C3%B6del.html
 https://www.sigarch.org/
 https://www.sigarch.org/blog/
@@ -36300,6 +36324,7 @@ https://www.wireguard.com/repositories/
 https://www.wireshark.org/
 https://www.wisdom.weizmann.ac.il/~oded/
 https://www.wisdom.weizmann.ac.il/~oded/foc-book.html
+https://www.wisdom.weizmann.ac.il/~oded/toc-bi.html
 https://www.wnyc.org/
 https://www.wnycstudios.org/podcasts
 https://www.wnycstudios.org/podcasts/radiolab
