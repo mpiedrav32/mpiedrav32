@@ -331,3 +331,20 @@ far greater than being the CEO of a 3 trillion dollar corporation.
 
 No money in this world can solve nature's puzzles in any provable way. It's an incentive to those who work in science
 and the infrastructure that sustains science and academia. But, by itself, money is worthless.
+
+# Scenarios
+
+It's all too easy for me to concoct mental scenarios where I kill myself. In those scenarios, taking place at a company,
+at the uni, or at home, I slit my throat, stab my heart, and slash my stomach,
+hoping to bleed enough to render myself unrescuable by paramedics.
+
+Existence is too horrible and painful to find anything that makes it worth it. And I haven't yet experienced the utmost
+everyday hell of situations like extreme poverty, serious physical disability, or extreme violence by gangs.
+But I might in the future.
+
+One's death is not to be feared, but to be wished. Especially if it's fast and painless.
+Nothing in this world is worth existing. Nothing in this world is worth having children, either.
+
+My opinion of humanity as a whole is much too low for appreciating life.
+Over the years, I became painfully aware of how worthless my own life is.
+No psychologist or therapist has ever changed my perspective, nor ever will.
