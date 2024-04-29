@@ -297,3 +297,37 @@ but all of ACM Turing Award recipients: Lamport, Knuth, Hoare, Hopcroft, Floyd, 
 
 It's painful to create something that nobody will use, that is plain ugly, and that has no real value.
 I fear writing wasteful software, even when code is cheap (vs. using physical media in material objects).
+
+# Anarchist
+
+Being an anarchist means that anything like a position of power over people feels deeply disgusting,
+either in academia, industry, government, or NGOs.
+
+Socially climbing for the right to rule over people is a waste of human existence.
+Hierarchies are arbitrary and artificial. The additional pay isn't worth it.
+
+Being remembered for posterity as someone who climbed positions of power doesn't seem like a legacy worth living.
+Actual work is done by actual workers, not managers or directors or presidents.
+
+# Theoretical computer science
+
+To me, theoretical computer science, as in computability, complexity, analysis of algorithms, theoretical cryptography,
+information theory, and some other fields, are the very raison d'être of computing.
+
+Other computing fields involving systems and applications are important.
+But they intrinsically depend on the foundations of theoretical computer science.
+
+Despite that fact, fundamental research in computer science is often far less popular
+(and financially supported) than applied research.
+
+The rationale behind research funding is that some (hopefully successful) market product or service should be
+the end result, so as to justify the investment in research.
+
+Nevertheless, science is supposed to be studied for its own sake, not to please industrial shareholders.
+They can get their irrelevant money in many other ways.
+
+Being remembered for eternity as someone who directly helped solve some deep research problem is an honor
+far greater than being the CEO of a 3 trillion dollar corporation.
+
+No money in this world can solve nature's puzzles in any provable way. It's an incentive to those who work in science
+and the infrastructure that sustains science and academia. But, by itself, money is worthless.
