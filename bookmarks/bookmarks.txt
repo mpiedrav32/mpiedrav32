@@ -3470,6 +3470,7 @@ https://dl.acm.org/doi/abs/10.1145/1566445.1566537
 https://dl.acm.org/doi/abs/10.1145/2678373.2665740
 https://dl.acm.org/doi/abs/10.1145/3309544
 https://dl.acm.org/doi/abs/10.1145/3394486.3403132
+https://dl.acm.org/doi/abs/10.1145/3412439
 https://dl.acm.org/doi/abs/10.1145/3431282
 https://dl.acm.org/doi/abs/10.1145/3445814.3446724
 https://dl.acm.org/doi/abs/10.1145/3505243
@@ -5230,6 +5231,7 @@ https://en.wikipedia.org/wiki/Antichrist
 https://en.wikipedia.org/wiki/Antiderivative
 https://en.wikipedia.org/wiki/ANTIGONE
 https://en.wikipedia.org/wiki/Antihumanism
+https://en.wikipedia.org/wiki/Antikythera_mechanism
 https://en.wikipedia.org/wiki/Antinatalism
 https://en.wikipedia.org/wiki/Antipositivism
 https://en.wikipedia.org/wiki/Antoine_Faivre
@@ -14334,6 +14336,7 @@ https://en.wikipedia.org/wiki/Nathan_Keyfitz
 https://en.wikipedia.org/wiki/Nathaniel_Rochester_(computer_scientist)
 https://en.wikipedia.org/wiki/National_Academy_of_Sciences
 https://en.wikipedia.org/wiki/National_accounts
+https://en.wikipedia.org/wiki/National_Archaeological_Museum,_Athens
 https://en.wikipedia.org/wiki/National_Archive_of_Computerized_Data_on_Aging
 https://en.wikipedia.org/wiki/National_Archives_and_Records_Administration
 https://en.wikipedia.org/wiki/National_Book_Award
@@ -23325,6 +23328,7 @@ https://ieeexplore.ieee.org/author/37531401100
 https://ieeexplore.ieee.org/author/38242110800
 https://ieeexplore.ieee.org/browse/periodicals/title
 https://ieeexplore.ieee.org/document/10013773
+https://ieeexplore.ieee.org/document/10024749
 https://ieeexplore.ieee.org/document/1008855
 https://ieeexplore.ieee.org/document/10111514
 https://ieeexplore.ieee.org/document/1021819
@@ -32544,6 +32548,7 @@ https://www.grandcanyontrust.org/baaj-nwaavjo-itah-kukveni-grand-canyon-national
 https://www.graph-signal-processing-book.org/
 https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story
 https://www.graylog.org/
+https://www.greeknewsagenda.gr/book-of-the-month-drifting-cities-by-stratis-tsirkas/
 https://www.greenwoodsoftware.com/less/
 https://www.gromacs.org/
 https://www.grpc.io/
@@ -33726,6 +33731,7 @@ https://www.mysqltutorial.org/understand-mysql-table-types-innodb-myisam.aspx
 https://www.myth-gen.eu/home
 https://www.n16f.net/blog/interactive-common-lisp-development/
 https://www.nacion.com/
+https://www.namuseum.gr/en/
 https://www.nano-editor.org/
 https://www.nano-editor.org/dist/latest/cheatsheet.html
 https://www.nanoframework.net/
@@ -36591,6 +36597,7 @@ https://www.youtube.com/watch?v=SqkIv79KBTw
 https://www.youtube.com/watch?v=SXZTbmyjVgo
 https://www.youtube.com/watch?v=tIeHLnjs5U8
 https://www.youtube.com/watch?v=Un0KbZ_vAtw
+https://www.youtube.com/watch?v=UpLcnAIpVRA
 https://www.youtube.com/watch?v=vgPFzblBh7w
 https://www.youtube.com/watch?v=wITHivsuRfc
 https://www.youtube.com/watch?v=wlN1VORVstc
@@ -36656,6 +36663,7 @@ https://www1.wdr.de/
 https://www2.deloitte.com/ca/en/pages/deloitte-analytics/articles/ai-institute.html
 https://www2.deloitte.com/ca/en/pages/press-releases/articles/impact-and-opportunities.html
 https://www2.dmst.aueb.gr/dds/
+https://www2.dmst.aueb.gr/dds/athens/
 https://www2.eecs.berkeley.edu/Faculty/Homepages/zadeh.html/
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/1983/5392.html
 https://www2.math.upenn.edu/~wilf/
