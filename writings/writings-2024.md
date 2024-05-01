@@ -366,3 +366,19 @@ Even at my home country, I feel out of place at 37 as a BSc student, while the r
 I've wasted my country's and my parents' resources because of lack of focus, stamina, resilience.
 In other circumstances, it would be totally justified to be extrajudicially executed and buried in a mass grave.
 I deeply know my very existence is beyond wasteful. I don't want to exist.
+
+# Legacy
+
+I've never had a significant other. And I know I won't, given my personality. Nature is deeply wise in prohibiting me to
+help bring offspring to this world with my genetics. While there's the eternal nature vs. nurture debate, there's always
+a nonzero probability that my hypothetical offspring develops my states of severe mental confusion, clinical depression,
+generalized social anxiety, partial dyscalculia, partial anhedonia, etc.
+
+My hypothetical offspring might well develop a sheer hatred towards me, once they realize the kind of hell the world is.
+Additionally, I know I wouldn't make a reasonable father. I don't have the stamina to be a responsible
+and caring parent. I would project my insecurities, fears, and unrealistic expectations onto my offspring.
+
+In my heart of hearts, I generalize my pessimism and personally advocate voluntary human extinction.
+I tried myself in August-September 2005, but I guess I'll have to wait for an opportunity to become extinct myself.
+In fact, my very existence might be a threat to other humans, due to my deeply ingrained pessimism
+and bleak perspective about life and existence.
