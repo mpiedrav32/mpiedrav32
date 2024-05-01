@@ -168,6 +168,7 @@ http://www.atarimania.com/
 http://www.athenasc.com/nonlinbook.html
 http://www.axiom-developer.org/
 http://www.axiom-developer.org/axiom-website/documentation.html
+http://www.bailis.org/blog/linearizability-versus-serializability/
 http://www.bayesianscientific.org/resource/bugs-openbugs-winbugs/
 http://www.cburch.com/books/arm/
 http://www.cburch.com/cso/
@@ -1162,6 +1163,7 @@ https://aws.amazon.com/blogs/machine-learning/
 https://aws.amazon.com/blogs/opensource/
 https://aws.amazon.com/blogs/opensource/introducing-opensearch/
 https://aws.amazon.com/cloudfront/
+https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/
 https://aws.amazon.com/documentdb/
 https://aws.amazon.com/dynamodb/
 https://aws.amazon.com/ec2/
@@ -3311,8 +3313,10 @@ https://dl.acm.org/doi/10.1145/128765.128770
 https://dl.acm.org/doi/10.1145/129712.129746
 https://dl.acm.org/doi/10.1145/1327452.1327478
 https://dl.acm.org/doi/10.1145/1379387.1379398
+https://dl.acm.org/doi/10.1145/1435417.1435432
 https://dl.acm.org/doi/10.1145/1460361.1460381
 https://dl.acm.org/doi/10.1145/1465482.1465560
+https://dl.acm.org/doi/10.1145/1466443.1466448
 https://dl.acm.org/doi/10.1145/1527017.1527028
 https://dl.acm.org/doi/10.1145/155360.155580
 https://dl.acm.org/doi/10.1145/1562164.1562186
@@ -3329,6 +3333,7 @@ https://dl.acm.org/doi/10.1145/2000064.2000104
 https://dl.acm.org/doi/10.1145/2089125.2089126
 https://dl.acm.org/doi/10.1145/2103786.2103788
 https://dl.acm.org/doi/10.1145/22145.22161
+https://dl.acm.org/doi/10.1145/224057.224070
 https://dl.acm.org/doi/10.1145/2330087.2331170
 https://dl.acm.org/doi/10.1145/2330667.2330682
 https://dl.acm.org/doi/10.1145/233269.233333
@@ -3351,6 +3356,7 @@ https://dl.acm.org/doi/10.1145/2810103.2813611
 https://dl.acm.org/doi/10.1145/2810103.2813707
 https://dl.acm.org/doi/10.1145/2829988.2787505
 https://dl.acm.org/doi/10.1145/28395.28420
+https://dl.acm.org/doi/10.1145/289.291
 https://dl.acm.org/doi/10.1145/2908080.2908081
 https://dl.acm.org/doi/10.1145/2966986.2967045
 https://dl.acm.org/doi/10.1145/2976758
@@ -3384,6 +3390,7 @@ https://dl.acm.org/doi/10.1145/3319627.3319636
 https://dl.acm.org/doi/10.1145/3322125
 https://dl.acm.org/doi/10.1145/333623.333627
 https://dl.acm.org/doi/10.1145/3361682
+https://dl.acm.org/doi/10.1145/3369736
 https://dl.acm.org/doi/10.1145/3383313.3412225
 https://dl.acm.org/doi/10.1145/3383583.3398514
 https://dl.acm.org/doi/10.1145/3386334
@@ -3393,6 +3400,8 @@ https://dl.acm.org/doi/10.1145/3453930
 https://dl.acm.org/doi/10.1145/3454122.3456125
 https://dl.acm.org/doi/10.1145/3459664
 https://dl.acm.org/doi/10.1145/3460351
+https://dl.acm.org/doi/10.1145/3466132.3469647
+https://dl.acm.org/doi/10.1145/3475965.3480470
 https://dl.acm.org/doi/10.1145/3539618.3592055
 https://dl.acm.org/doi/10.1145/355604.361593
 https://dl.acm.org/doi/10.1145/356678.356680
@@ -3409,6 +3418,7 @@ https://dl.acm.org/doi/10.1145/359168.359176
 https://dl.acm.org/doi/10.1145/359340.359342
 https://dl.acm.org/doi/10.1145/3593856.3595913
 https://dl.acm.org/doi/10.1145/359460.359473
+https://dl.acm.org/doi/10.1145/359545.359563
 https://dl.acm.org/doi/10.1145/361011.361070
 https://dl.acm.org/doi/10.1145/361219.361220
 https://dl.acm.org/doi/10.1145/3613424.3614266
@@ -3436,12 +3446,14 @@ https://dl.acm.org/doi/10.1145/43876.43879
 https://dl.acm.org/doi/10.1145/47931.47934
 https://dl.acm.org/doi/10.1145/502102.502106
 https://dl.acm.org/doi/10.1145/545197.545199
+https://dl.acm.org/doi/10.1145/564585.564601
 https://dl.acm.org/doi/10.1145/567752.567763
 https://dl.acm.org/doi/10.1145/6041.6042
 https://dl.acm.org/doi/10.1145/6490.6503
 https://dl.acm.org/doi/10.1145/6617.6621
 https://dl.acm.org/doi/10.1145/762471.762473
 https://dl.acm.org/doi/10.1145/77481.77485
+https://dl.acm.org/doi/10.1145/78969.78972
 https://dl.acm.org/doi/10.1145/800053.801914
 https://dl.acm.org/doi/10.1145/800070.802186
 https://dl.acm.org/doi/10.1145/800070.802212
@@ -5045,6 +5057,7 @@ https://en.wikipedia.org/wiki/AM-GM_Inequality
 https://en.wikipedia.org/wiki/AM%E2%80%93GM_inequality
 https://en.wikipedia.org/wiki/Amari_distance
 https://en.wikipedia.org/wiki/Amazon_(company)
+https://en.wikipedia.org/wiki/Amazon_Aurora
 https://en.wikipedia.org/wiki/Amazon_DocumentDB
 https://en.wikipedia.org/wiki/Amazon_DynamoDB
 https://en.wikipedia.org/wiki/Amazon_Neptune
@@ -5177,6 +5190,7 @@ https://en.wikipedia.org/wiki/Andr%C3%A9_Citro%C3%ABn
 https://en.wikipedia.org/wiki/Andr%C3%A9_Weil
 https://en.wikipedia.org/wiki/Andr%C3%A9-Louis_Cholesky
 https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re
+https://en.wikipedia.org/wiki/Andreas_Reuter
 https://en.wikipedia.org/wiki/Andrei_Alexandrescu
 https://en.wikipedia.org/wiki/Andrei_Broder
 https://en.wikipedia.org/wiki/Andrei_Polyanin
@@ -5528,6 +5542,7 @@ https://en.wikipedia.org/wiki/Atomic_physics
 https://en.wikipedia.org/wiki/Atomic_spies
 https://en.wikipedia.org/wiki/Atomic_theory
 https://en.wikipedia.org/wiki/Atomic,_molecular,_and_optical_physics
+https://en.wikipedia.org/wiki/Atomicity_(database_systems)
 https://en.wikipedia.org/wiki/Attack_model
 https://en.wikipedia.org/wiki/Attack_on_Titan
 https://en.wikipedia.org/wiki/Attack_on_Titan_(TV_series)
@@ -5592,6 +5607,7 @@ https://en.wikipedia.org/wiki/Autoregressive_model
 https://en.wikipedia.org/wiki/Autoregressive_moving-average_model
 https://en.wikipedia.org/wiki/Autowave
 https://en.wikipedia.org/wiki/AV1
+https://en.wikipedia.org/wiki/Availability
 https://en.wikipedia.org/wiki/Avalanche_effect
 https://en.wikipedia.org/wiki/Avast
 https://en.wikipedia.org/wiki/Avast_SecureLine_VPN
@@ -7929,6 +7945,8 @@ https://en.wikipedia.org/wiki/Conservative_vector_field
 https://en.wikipedia.org/wiki/Conservatoire_de_Paris
 https://en.wikipedia.org/wiki/Conservatoire_national_des_arts_et_m%C3%A9tiers
 https://en.wikipedia.org/wiki/Conservatoire_national_sup%C3%A9rieur_d%27art_dramatique
+https://en.wikipedia.org/wiki/Consistency_(database_systems)
+https://en.wikipedia.org/wiki/Consistency_model
 https://en.wikipedia.org/wiki/Consistent_heuristic
 https://en.wikipedia.org/wiki/Consolas
 https://en.wikipedia.org/wiki/Const_(computer_programming)
@@ -8825,6 +8843,7 @@ https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union
 https://en.wikipedia.org/wiki/Distance_measure
 https://en.wikipedia.org/wiki/Distcc
 https://en.wikipedia.org/wiki/Distributed_data_store
+https://en.wikipedia.org/wiki/Distributed_database
 https://en.wikipedia.org/wiki/Distributed_Denial_of_Secrets
 https://en.wikipedia.org/wiki/Distributed_European_Infrastructure_for_Supercomputing_Applications
 https://en.wikipedia.org/wiki/Distributed_hash_table
@@ -8970,6 +8989,7 @@ https://en.wikipedia.org/wiki/Dune:_The_Machine_Crusade
 https://en.wikipedia.org/wiki/Dunford%E2%80%93Schwartz_theorem
 https://en.wikipedia.org/wiki/Dunn_index
 https://en.wikipedia.org/wiki/Duolingo_English_Test
+https://en.wikipedia.org/wiki/Durability_(database_systems)
 https://en.wikipedia.org/wiki/DuraCloud
 https://en.wikipedia.org/wiki/DuraSpace
 https://en.wikipedia.org/wiki/Durbin%E2%80%93Watson_statistic
@@ -10920,6 +10940,7 @@ https://en.wikipedia.org/wiki/Hierarchical_clustering
 https://en.wikipedia.org/wiki/Hierarchical_Dirichlet_process
 https://en.wikipedia.org/wiki/Hierarchical_INTegration
 https://en.wikipedia.org/wiki/Hierarchical_temporal_memory
+https://en.wikipedia.org/wiki/High_availability
 https://en.wikipedia.org/wiki/High_Bandwidth_Memory
 https://en.wikipedia.org/wiki/High_fantasy
 https://en.wikipedia.org/wiki/High_Middle_Ages
@@ -11061,6 +11082,7 @@ https://en.wikipedia.org/wiki/Honeypot_(computing)
 https://en.wikipedia.org/wiki/Honeytoken
 https://en.wikipedia.org/wiki/Hong_Kong
 https://en.wikipedia.org/wiki/Hong_Kong_Polytechnic_University
+https://en.wikipedia.org/wiki/Honorary_degree
 https://en.wikipedia.org/wiki/Hooke%27s_law
 https://en.wikipedia.org/wiki/Hopf_maximum_principle
 https://en.wikipedia.org/wiki/Hopfield_network
@@ -11932,6 +11954,7 @@ https://en.wikipedia.org/wiki/Jewish%E2%80%93Christian_gospels
 https://en.wikipedia.org/wiki/JFK_(film)
 https://en.wikipedia.org/wiki/JH_(hash_function)
 https://en.wikipedia.org/wiki/Jiawei_Han
+https://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist)
 https://en.wikipedia.org/wiki/Jinja_(template_engine)
 https://en.wikipedia.org/wiki/JIT_spraying
 https://en.wikipedia.org/wiki/Jitsi
@@ -14481,6 +14504,7 @@ https://en.wikipedia.org/wiki/Network_layer
 https://en.wikipedia.org/wiki/Network_management
 https://en.wikipedia.org/wiki/Network_model
 https://en.wikipedia.org/wiki/Network_on_a_chip
+https://en.wikipedia.org/wiki/Network_partition
 https://en.wikipedia.org/wiki/Network_processor
 https://en.wikipedia.org/wiki/Network_scheduler
 https://en.wikipedia.org/wiki/Network_science
@@ -16600,6 +16624,7 @@ https://en.wikipedia.org/wiki/Rensselaer_Polytechnic_Institute
 https://en.wikipedia.org/wiki/Repeated_measures_design
 https://en.wikipedia.org/wiki/Repetition_code
 https://en.wikipedia.org/wiki/Repetitive_strain_injury
+https://en.wikipedia.org/wiki/Replication_(computing)
 https://en.wikipedia.org/wiki/Replication_(statistics)
 https://en.wikipedia.org/wiki/Representation_learning
 https://en.wikipedia.org/wiki/Representation_theory
@@ -16822,6 +16847,7 @@ https://en.wikipedia.org/wiki/Roland_Barthes
 https://en.wikipedia.org/wiki/Roland_Bulirsch
 https://en.wikipedia.org/wiki/Role-based_access_control
 https://en.wikipedia.org/wiki/Rolf_Nevanlinna
+https://en.wikipedia.org/wiki/Rollback_(data_management)
 https://en.wikipedia.org/wiki/Rolling_code
 https://en.wikipedia.org/wiki/Rolling_hash
 https://en.wikipedia.org/wiki/Rolling_release
@@ -17557,6 +17583,7 @@ https://en.wikipedia.org/wiki/Snorri_Sturluson
 https://en.wikipedia.org/wiki/Snostorm
 https://en.wikipedia.org/wiki/Snow_Crash
 https://en.wikipedia.org/wiki/Snowflake_ID
+https://en.wikipedia.org/wiki/Snowflake_Inc.
 https://en.wikipedia.org/wiki/Soap
 https://en.wikipedia.org/wiki/Soap_bubble
 https://en.wikipedia.org/wiki/Soap_film
@@ -18631,6 +18658,7 @@ https://en.wikipedia.org/wiki/Theatrum_Mundi
 https://en.wikipedia.org/wiki/Thelema
 https://en.wikipedia.org/wiki/Theli_(album)
 https://en.wikipedia.org/wiki/Theo_de_Raadt
+https://en.wikipedia.org/wiki/Theo_H%C3%A4rder
 https://en.wikipedia.org/wiki/Theodore_Motzkin
 https://en.wikipedia.org/wiki/Theodore_Sturgeon
 https://en.wikipedia.org/wiki/Theogony
@@ -23406,6 +23434,7 @@ https://ieeexplore.ieee.org/document/5999630
 https://ieeexplore.ieee.org/document/6018100
 https://ieeexplore.ieee.org/document/6079248
 https://ieeexplore.ieee.org/document/6109204
+https://ieeexplore.ieee.org/document/6133253
 https://ieeexplore.ieee.org/document/6169492
 https://ieeexplore.ieee.org/document/6184706
 https://ieeexplore.ieee.org/document/6296526
@@ -23448,6 +23477,7 @@ https://ieeexplore.ieee.org/document/7945175
 https://ieeexplore.ieee.org/document/7948662
 https://ieeexplore.ieee.org/document/7958581
 https://ieeexplore.ieee.org/document/7974879
+https://ieeexplore.ieee.org/document/798396
 https://ieeexplore.ieee.org/document/7999386
 https://ieeexplore.ieee.org/document/8015405
 https://ieeexplore.ieee.org/document/809023
@@ -23566,6 +23596,7 @@ https://inpyjama.com/
 https://inpyjama.com/blog/c-pointers-course-is-out/
 https://inria.hal.science/AECF/
 https://inria.hal.science/hal-03807965
+https://inria.hal.science/inria-00609399
 https://inroads.acm.org/
 https://insecure.org/sploits.html
 https://insidebigdata.com/
@@ -27415,6 +27446,7 @@ https://pastel.hal.science/tel-01223284
 https://pastglobalchanges.org/
 https://pastglobalchanges.org/science/wg/2k-network/intro
 https://patchwork.kernel.org/
+https://pathelland.substack.com/
 https://paulgraham.com/acl.html
 https://paulgraham.com/onlisp.html
 https://paulkocher.com/
@@ -27467,6 +27499,7 @@ https://people.csail.mit.edu/silvio/
 https://people.csail.mit.edu/vinodv/
 https://people.csail.mit.edu/virgi/
 https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/readings.html
+https://people.eecs.berkeley.edu/~brewer/
 https://people.eecs.berkeley.edu/~chua/
 https://people.eecs.berkeley.edu/~dawnsong/teaching/s10/papers/angluin87.pdf
 https://people.eecs.berkeley.edu/~fateman/
@@ -28086,7 +28119,11 @@ https://queue.acm.org/detail.cfm?id=2000516
 https://queue.acm.org/detail.cfm?id=2544374
 https://queue.acm.org/detail.cfm?id=2687011
 https://queue.acm.org/detail.cfm?id=2747873
+https://queue.acm.org/detail.cfm?id=3025012
+https://queue.acm.org/detail.cfm?id=3099561
 https://queue.acm.org/detail.cfm?id=3212479
+https://queue.acm.org/detail.cfm?id=3469647
+https://queue.acm.org/detail.cfm?id=3480470
 https://queue.acm.org/detail.cfm?id=3639445
 https://queueing-systems.ens-lyon.fr/
 https://quiabsurdum.com/
@@ -28752,6 +28789,7 @@ https://site.mockito.org/
 https://sitecheck.sucuri.net/
 https://sites.brown.edu/bergen-lab/research/what-is-sciml/
 https://sites.cs.ucsb.edu/~gilbert/
+https://sites.cs.ucsb.edu/~rich/class/cs293-cloud/papers/Brewer_podc_keynote_2000.pdf
 https://sites.google.com/case.edu/danielacalvetti/home
 https://sites.google.com/site/doingbayesiandataanalysis/
 https://sites.google.com/site/marywootters/
@@ -30380,6 +30418,7 @@ https://www.aps.org/
 https://www.aps.org/publications/apsnews/201405/physicshistory.cfm
 https://www.aps.org/publications/apsnews/202307/history.cfm
 https://www.aqcircuits.com/home
+https://www.archaeology.org/
 https://www.archim.org.uk/
 https://www.archives.gov/
 https://www.archives.gov/research/jfk
@@ -32480,6 +32519,7 @@ https://www.goodreads.com/en/book/show/1298709
 https://www.goodreads.com/en/book/show/1414631
 https://www.goodreads.com/en/book/show/16087552
 https://www.goodreads.com/en/book/show/26262725
+https://www.goodreads.com/en/book/show/2823853
 https://www.goodreads.com/en/book/show/4520246
 https://www.goodreads.com/en/book/show/585807
 https://www.goodreads.com/en/book/show/6535065
@@ -36666,6 +36706,7 @@ https://www2.dmst.aueb.gr/dds/
 https://www2.dmst.aueb.gr/dds/athens/
 https://www2.eecs.berkeley.edu/Faculty/Homepages/zadeh.html/
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/1983/5392.html
+https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-242.pdf
 https://www2.math.upenn.edu/~wilf/
 https://www2.math.upenn.edu/~wilf/website/CombAlgDownld.html
 https://www2.mathematik.tu-darmstadt.de/~pfetsch/index.en.html
