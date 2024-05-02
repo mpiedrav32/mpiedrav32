@@ -2645,7 +2645,10 @@ https://cubehash.cr.yp.to/
 https://cuckoosandbox.org/
 https://cucumber.io/
 https://culture.pl/en
+https://culture.pl/en/article/10-craziest-polish-tongue-twisters
 https://culture.pl/en/article/11-key-facts-about-the-polish-language
+https://culture.pl/en/article/seances-dragons-chakras-krakows-magical-past
+https://culture.pl/en/place/wawel-castle-the-residency-of-polish-kings
 https://cupy.dev/
 https://curator.jsc.nasa.gov/
 https://curator.jsc.nasa.gov/stardust/aerogel.cfm
@@ -9680,6 +9683,7 @@ https://en.wikipedia.org/wiki/Fairfax_County,_Virginia
 https://en.wikipedia.org/wiki/Fairfax,_Virginia
 https://en.wikipedia.org/wiki/Falcon_(signature_scheme)
 https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire
+https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
 https://en.wikipedia.org/wiki/Fallen_angel
 https://en.wikipedia.org/wiki/Falling_and_rising_factorials
 https://en.wikipedia.org/wiki/False_positive_rate
@@ -11377,6 +11381,7 @@ https://en.wikipedia.org/wiki/Imaginary_hyperelliptic_curve
 https://en.wikipedia.org/wiki/Imagination_META
 https://en.wikipedia.org/wiki/Imagination_Technologies
 https://en.wikipedia.org/wiki/IMAX
+https://en.wikipedia.org/wiki/Imieli%C5%84ski%E2%80%93Lipski_algebra
 https://en.wikipedia.org/wiki/IML%2B%2B
 https://en.wikipedia.org/wiki/Immanant
 https://en.wikipedia.org/wiki/Immortal_Game
@@ -15345,6 +15350,7 @@ https://en.wikipedia.org/wiki/P%C3%B3lya_urn_model
 https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini
 https://en.wikipedia.org/wiki/P4-metric
 https://en.wikipedia.org/wiki/PA-RISC
+https://en.wikipedia.org/wiki/PACELC_theorem
 https://en.wikipedia.org/wiki/Pacific_Northwest_National_Laboratory
 https://en.wikipedia.org/wiki/Pacific_Ocean
 https://en.wikipedia.org/wiki/Package_manager
@@ -26845,6 +26851,7 @@ https://news.mit.edu/2022/qa-what-makes-bestselling-textbook-introduction-algori
 https://news.mit.edu/2022/scaling-analog-optical-computing-1129
 https://news.mit.edu/2023/yael-tauman-kalai-acm-prize-computing-0419
 https://news.mit.edu/topic/cryptography
+https://news.mit.edu/topic/quantum-physics
 https://news.northwestern.edu/stories/2023/10/ai-just-got-100-fold-more-energy-efficient/
 https://news.sky.com/
 https://news.sophos.com/en-us/
@@ -27695,6 +27702,7 @@ https://phys.org/
 https://phys.org/news/2018-05-proof-reveals-fundamental-limits-scientific.html
 https://phys.org/news/2023-11-brightest-disturbed-earth-atmosphere-year.html
 https://phys.org/physics-news/
+https://phys.org/physics-news/quantum-physics/
 https://physics.aps.org/
 https://physics.aps.org/articles/v16/148
 https://physics.aps.org/articles/v17/52
@@ -33730,6 +33738,7 @@ https://www.mersenneforum.org/index.php?s=eaf07e6dc25b06262cd539c19168d280
 https://www.mersenneforum.org/showthread.php?t=19466
 https://www.mesa3d.org/
 https://www.met.no/en/free-meteorological-data
+https://www.metal-archives.com/bands/Artrosis/2526
 https://www.metalevel.at/ediprolog/
 https://www.metalevel.at/prolog
 https://www.metalevel.at/prolog/clpz
@@ -34678,10 +34687,12 @@ https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-wi
 https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/
 https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/
 https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/
+https://www.quantamagazine.org/physicists-use-quantum-mechanics-to-pull-energy-out-of-nothing-20230222/
 https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/
 https://www.quantamagazine.org/symbolic-mathematics-finally-yields-to-neural-networks-20200520/
 https://www.quantamagazine.org/tag/chaos-theory/
 https://www.quantamagazine.org/tag/quantum-information-theory/
+https://www.quantamagazine.org/tag/quantum-physics/
 https://www.quantamagazine.org/the-astonishing-behavior-of-recursive-sequences-20231116/
 https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/
 https://www.quantamagazine.org/the-hidden-heroines-of-chaos-20190520/
@@ -36634,6 +36645,7 @@ https://www.youtube.com/@DWClassicalMusic
 https://www.youtube.com/@hackmanit-it-security
 https://www.youtube.com/@introductiontocryptography4223
 https://www.youtube.com/@LiveOverflow
+https://www.youtube.com/@MacabreSoundscapes
 https://www.youtube.com/@mitocw
 https://www.youtube.com/@nsarchive
 https://www.youtube.com/@PracticalEngineeringChannel
@@ -36665,6 +36677,10 @@ https://www.youtube.com/playlist?list=OLAK5uy_n9RS0rx3M3a-7xmV8MMCaKDx2yh90aVsI
 https://www.youtube.com/playlist?list=OLAK5uy_nkm6YQvqhC5CfigSLJqmJq9fkk2arJilM
 https://www.youtube.com/playlist?list=OLAK5uy_nucN1UfY66949PN65YPLceQi7hntOnp0U
 https://www.youtube.com/playlist?list=OLAK5uy_nWbm1n0nx7GV9PMjwqdoF9a5MJuA_JBuI
+https://www.youtube.com/playlist?list=PL0Z_X4HsY7E-u-8TsNTDFa9-C7FgsX1TR
+https://www.youtube.com/playlist?list=PL0Z_X4HsY7E8-5YLJwDhD3aWwQYaoMGDO
+https://www.youtube.com/playlist?list=PL0Z_X4HsY7E8gCutB19N492fNUc2XpR5R
+https://www.youtube.com/playlist?list=PL0Z_X4HsY7E9988xnXc35pfk_XD1EESw6
 https://www.youtube.com/playlist?list=PL4IY-bW5BK2TY6Kc8Nzcv3I1j7narR6hw
 https://www.youtube.com/playlist?list=PL8t1FdN2Tj3ZVAzTY-FvsS0qy-mEfRdoj
 https://www.youtube.com/playlist?list=PL94E35692EB9D36F3
