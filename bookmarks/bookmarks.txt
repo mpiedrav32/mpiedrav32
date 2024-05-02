@@ -716,12 +716,14 @@ https://archive.ics.uci.edu/datasets
 https://archive.is/
 https://archive.org/
 https://archive.org/details/@mirtitles
+https://archive.org/details/011.Sonda-Fabryka.Absolutu
 https://archive.org/details/86-dos-version-0.1-c-serial-11-original-disk
 https://archive.org/details/gantmacher-the-theory-of-matrices-vol-1-1959
 https://archive.org/details/gantmacher-the-theory-of-matrices-vol-2-1959
 https://archive.org/details/gelfand-fomin-calculus-of-variations
 https://archive.org/details/mondohistory
 https://archive.org/details/n.-piskunov-calculo-diferencial-e-integral-tomo-i-editorial-mir-1977esp
+https://archive.org/details/sonda
 https://archive.org/details/texts
 https://archive.org/details/UnixProgrammingEnviornment
 https://archive.org/details/usenix-login
@@ -1690,6 +1692,8 @@ https://casfaculty.case.edu/erkki-somersalo/
 https://caslab.csl.yale.edu/
 https://casper.com/blog/pink-noise-vs-white-noise/
 https://cassandra.apache.org/
+https://cassandra.apache.org/doc/latest/
+https://cassandra.apache.org/doc/stable/
 https://cassyni.com/
 https://cassyni.com/events/71M14Ze44CtoAVScffS7vV
 https://cassyni.com/events/7NqCr5NhPJJt6371H6HwuF
@@ -4620,6 +4624,7 @@ https://en.wikipedia.org/wiki/16th_century
 https://en.wikipedia.org/wiki/17th_century
 https://en.wikipedia.org/wiki/18th_century
 https://en.wikipedia.org/wiki/19-inch_rack
+https://en.wikipedia.org/wiki/1900s_in_Western_fashion
 https://en.wikipedia.org/wiki/1950s
 https://en.wikipedia.org/wiki/1952_Egyptian_Revolution
 https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat
@@ -4684,6 +4689,7 @@ https://en.wikipedia.org/wiki/A.out
 https://en.wikipedia.org/wiki/A*_search_algorithm
 https://en.wikipedia.org/wiki/A%27arab_Zaraq_%E2%80%93_Lucid_Dreaming
 https://en.wikipedia.org/wiki/A%2B_(programming_language)
+https://en.wikipedia.org/wiki/A%C3%A9gis_(album)
 https://en.wikipedia.org/wiki/A%C3%A9ropostale_(aviation)
 https://en.wikipedia.org/wiki/A%E2%99%AF_(Axiom)
 https://en.wikipedia.org/wiki/A5/1
@@ -5010,6 +5016,7 @@ https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance
 https://en.wikipedia.org/wiki/Algorithms_for_Recovery_and_Isolation_Exploiting_Semantics
 https://en.wikipedia.org/wiki/Alibaba_Group
 https://en.wikipedia.org/wiki/Alice_(programming_language)
+https://en.wikipedia.org/wiki/Alice_Nine
 https://en.wikipedia.org/wiki/Alignment-free_sequence_analysis
 https://en.wikipedia.org/wiki/Alignments_of_random_points
 https://en.wikipedia.org/wiki/Alison_Harcourt
@@ -5051,6 +5058,7 @@ https://en.wikipedia.org/wiki/Altered_state_of_consciousness
 https://en.wikipedia.org/wiki/Alternating_series_test
 https://en.wikipedia.org/wiki/Alternating_Turing_machine
 https://en.wikipedia.org/wiki/Alternative_hypothesis
+https://en.wikipedia.org/wiki/Alternative_metal
 https://en.wikipedia.org/wiki/AltGr_key
 https://en.wikipedia.org/wiki/Altmetrics
 https://en.wikipedia.org/wiki/Aluminium-ion_battery
@@ -5225,6 +5233,7 @@ https://en.wikipedia.org/wiki/Anna%27s_Archive
 https://en.wikipedia.org/wiki/Annihilator_method
 https://en.wikipedia.org/wiki/Anomaly_(natural_sciences)
 https://en.wikipedia.org/wiki/Anomaly_detection
+https://en.wikipedia.org/wiki/Anonymous;Code
 https://en.wikipedia.org/wiki/Anscombe%27s_quartet
 https://en.wikipedia.org/wiki/ANSI_C
 https://en.wikipedia.org/wiki/Answer_set_programming
@@ -5265,6 +5274,7 @@ https://en.wikipedia.org/wiki/Anubis_(cipher)
 https://en.wikipedia.org/wiki/Any-angle_path_planning
 https://en.wikipedia.org/wiki/Anytime_algorithm
 https://en.wikipedia.org/wiki/Anywhere_on_Earth
+https://en.wikipedia.org/wiki/Aoede
 https://en.wikipedia.org/wiki/AOL
 https://en.wikipedia.org/wiki/Ap%C3%A9ry%27s_constant
 https://en.wikipedia.org/wiki/Apache_Accumulo
@@ -5281,6 +5291,7 @@ https://en.wikipedia.org/wiki/Apache_Groovy
 https://en.wikipedia.org/wiki/Apache_Hadoop
 https://en.wikipedia.org/wiki/Apache_HBase
 https://en.wikipedia.org/wiki/Apache_Helix
+https://en.wikipedia.org/wiki/Apache_Hive
 https://en.wikipedia.org/wiki/Apache_IoTDB
 https://en.wikipedia.org/wiki/Apache_JMeter
 https://en.wikipedia.org/wiki/Apache_Kudu
@@ -5292,6 +5303,7 @@ https://en.wikipedia.org/wiki/Apache_MXNet
 https://en.wikipedia.org/wiki/Apache_Mynewt
 https://en.wikipedia.org/wiki/Apache_OpenJPA
 https://en.wikipedia.org/wiki/Apache_ORC
+https://en.wikipedia.org/wiki/Apache_Pig
 https://en.wikipedia.org/wiki/Apache_Pinot
 https://en.wikipedia.org/wiki/Apache_SINGA
 https://en.wikipedia.org/wiki/Apache_Solr
@@ -5308,6 +5320,7 @@ https://en.wikipedia.org/wiki/APL_syntax_and_symbols
 https://en.wikipedia.org/wiki/APLX
 https://en.wikipedia.org/wiki/APMonitor
 https://en.wikipedia.org/wiki/Apocryphon_of_John
+https://en.wikipedia.org/wiki/Apollo_archetype
 https://en.wikipedia.org/wiki/Apollo_Computer
 https://en.wikipedia.org/wiki/Apollo_PRISM
 https://en.wikipedia.org/wiki/Apollo/Domain
@@ -5423,6 +5436,7 @@ https://en.wikipedia.org/wiki/Array_programming
 https://en.wikipedia.org/wiki/Array_slicing
 https://en.wikipedia.org/wiki/ArrayFire
 https://en.wikipedia.org/wiki/Arrhenius_equation
+https://en.wikipedia.org/wiki/Arrival_(film)
 https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem
 https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu_model
 https://en.wikipedia.org/wiki/Ars_Conjectandi
@@ -5611,6 +5625,7 @@ https://en.wikipedia.org/wiki/Autowave
 https://en.wikipedia.org/wiki/AV1
 https://en.wikipedia.org/wiki/Availability
 https://en.wikipedia.org/wiki/Avalanche_effect
+https://en.wikipedia.org/wiki/Avant-garde_metal
 https://en.wikipedia.org/wiki/Avast
 https://en.wikipedia.org/wiki/Avast_SecureLine_VPN
 https://en.wikipedia.org/wiki/Avatar
@@ -5796,6 +5811,7 @@ https://en.wikipedia.org/wiki/Belief_propagation
 https://en.wikipedia.org/wiki/Belief_revision
 https://en.wikipedia.org/wiki/Bell_Canada
 https://en.wikipedia.org/wiki/Bell_Labs
+https://en.wikipedia.org/wiki/Belle_%C3%89poque
 https://en.wikipedia.org/wiki/Bellerophon
 https://en.wikipedia.org/wiki/Bellman_equation
 https://en.wikipedia.org/wiki/Bellman_pseudospectral_method
@@ -5974,6 +5990,7 @@ https://en.wikipedia.org/wiki/Black_hole_(networking)
 https://en.wikipedia.org/wiki/Black_magic
 https://en.wikipedia.org/wiki/Black_Mass
 https://en.wikipedia.org/wiki/Black_metal
+https://en.wikipedia.org/wiki/Black_Sabbath
 https://en.wikipedia.org/wiki/Black_Sea
 https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model
 https://en.wikipedia.org/wiki/BlackArch
@@ -6086,6 +6103,7 @@ https://en.wikipedia.org/wiki/Boris_Hagelin
 https://en.wikipedia.org/wiki/Born%E2%80%93Infeld_model
 https://en.wikipedia.org/wiki/Born%E2%80%93Oppenheimer_approximation
 https://en.wikipedia.org/wiki/Bose_Institute
+https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensate
 https://en.wikipedia.org/wiki/Boson
 https://en.wikipedia.org/wiki/Bosphorus_Bridge
 https://en.wikipedia.org/wiki/Bosque_(programming_language)
@@ -6194,6 +6212,7 @@ https://en.wikipedia.org/wiki/BSD_licenses
 https://en.wikipedia.org/wiki/BSON
 https://en.wikipedia.org/wiki/Btrfs
 https://en.wikipedia.org/wiki/Bubble_chart
+https://en.wikipedia.org/wiki/Buck-Tick
 https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem
 https://en.wikipedia.org/wiki/Buckling_spring
 https://en.wikipedia.org/wiki/Bucky_bit
@@ -6406,6 +6425,7 @@ https://en.wikipedia.org/wiki/Case_study
 https://en.wikipedia.org/wiki/Case_Western_Reserve_University
 https://en.wikipedia.org/wiki/Case%E2%80%93control_study
 https://en.wikipedia.org/wiki/Casio_BASIC
+https://en.wikipedia.org/wiki/Cassandra
 https://en.wikipedia.org/wiki/Cassowary_(software)
 https://en.wikipedia.org/wiki/CAST-128
 https://en.wikipedia.org/wiki/Catalan_language
@@ -7119,6 +7139,7 @@ https://en.wikipedia.org/wiki/Causal_model
 https://en.wikipedia.org/wiki/Causal_notation
 https://en.wikipedia.org/wiki/Causal_reasoning
 https://en.wikipedia.org/wiki/Causality
+https://en.wikipedia.org/wiki/Causality_(physics)
 https://en.wikipedia.org/wiki/Cavendish_Laboratory
 https://en.wikipedia.org/wiki/Cavity_magnetron
 https://en.wikipedia.org/wiki/Cavium
@@ -7155,6 +7176,7 @@ https://en.wikipedia.org/wiki/CellProfiler
 https://en.wikipedia.org/wiki/Cellular_neural_network
 https://en.wikipedia.org/wiki/CELSA_Paris
 https://en.wikipedia.org/wiki/Celso_Grebogi
+https://en.wikipedia.org/wiki/Celtic_Frost
 https://en.wikipedia.org/wiki/Cemu
 https://en.wikipedia.org/wiki/Censoring_(statistics)
 https://en.wikipedia.org/wiki/Censorship_by_country
@@ -7225,6 +7247,8 @@ https://en.wikipedia.org/wiki/Chaos_Computer_Club
 https://en.wikipedia.org/wiki/Chaos_computing
 https://en.wikipedia.org/wiki/Chaos_magic
 https://en.wikipedia.org/wiki/Chaos_theory
+https://en.wikipedia.org/wiki/Chaos;Child
+https://en.wikipedia.org/wiki/Chaos;Head
 https://en.wikipedia.org/wiki/Chaotic_cryptology
 https://en.wikipedia.org/wiki/Chaotic_mixing
 https://en.wikipedia.org/wiki/Chaotic_scattering
@@ -7317,6 +7341,7 @@ https://en.wikipedia.org/wiki/Chi-squared_distribution
 https://en.wikipedia.org/wiki/Chi-squared_test
 https://en.wikipedia.org/wiki/Chicago_metropolitan_area
 https://en.wikipedia.org/wiki/Chichen_Itza
+https://en.wikipedia.org/wiki/Chicken_or_the_egg
 https://en.wikipedia.org/wiki/Chilam_Balam
 https://en.wikipedia.org/wiki/Children_of_Dune
 https://en.wikipedia.org/wiki/Children_of_Time_(novel)
@@ -7376,6 +7401,7 @@ https://en.wikipedia.org/wiki/ChromeOS
 https://en.wikipedia.org/wiki/ChromiumOS
 https://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80
 https://en.wikipedia.org/wiki/Chronology_of_warfare_between_the_Romans_and_Germanic_peoples
+https://en.wikipedia.org/wiki/Chronology_protection_conjecture
 https://en.wikipedia.org/wiki/Chrysler_Building
 https://en.wikipedia.org/wiki/Chrystal%27s_equation
 https://en.wikipedia.org/wiki/Chua's_circuit
@@ -7403,6 +7429,7 @@ https://en.wikipedia.org/wiki/Cipher_runes
 https://en.wikipedia.org/wiki/Cipher_security_summary
 https://en.wikipedia.org/wiki/Ciphertext_indistinguishability
 https://en.wikipedia.org/wiki/Ciphertext-only_attack
+https://en.wikipedia.org/wiki/Circe
 https://en.wikipedia.org/wiki/Circle
 https://en.wikipedia.org/wiki/Circle_of_latitude
 https://en.wikipedia.org/wiki/Circuit_complexity
@@ -7521,6 +7548,7 @@ https://en.wikipedia.org/wiki/Clock_of_the_Long_Now
 https://en.wikipedia.org/wiki/Clock_synchronization
 https://en.wikipedia.org/wiki/Clojure
 https://en.wikipedia.org/wiki/Closed_and_exact_differential_forms
+https://en.wikipedia.org/wiki/Closed_timelike_curve
 https://en.wikipedia.org/wiki/Closed-circuit_television
 https://en.wikipedia.org/wiki/Closed-form_expression
 https://en.wikipedia.org/wiki/Closed-world_assumption
@@ -7598,6 +7626,7 @@ https://en.wikipedia.org/wiki/Cohort_(statistics)
 https://en.wikipedia.org/wiki/Cohort_study
 https://en.wikipedia.org/wiki/COIN-OR
 https://en.wikipedia.org/wiki/Cointegration
+https://en.wikipedia.org/wiki/Colchis
 https://en.wikipedia.org/wiki/Cold_war
 https://en.wikipedia.org/wiki/Cold_wave_(music)
 https://en.wikipedia.org/wiki/ColdFusion_Markup_Language
@@ -7619,6 +7648,7 @@ https://en.wikipedia.org/wiki/Collision_detection
 https://en.wikipedia.org/wiki/Collocation_method
 https://en.wikipedia.org/wiki/Cologne
 https://en.wikipedia.org/wiki/Colonist_(The_X-Files)
+https://en.wikipedia.org/wiki/Color_(band)
 https://en.wikipedia.org/wiki/Color_gradient
 https://en.wikipedia.org/wiki/Color_Graphics_Adapter
 https://en.wikipedia.org/wiki/Color_quantization
@@ -7656,6 +7686,7 @@ https://en.wikipedia.org/wiki/Commentarii_de_Bello_Gallico
 https://en.wikipedia.org/wiki/Commercial_code_(communications)
 https://en.wikipedia.org/wiki/Commitment_scheme
 https://en.wikipedia.org/wiki/Committee_on_Earth_Observation_Satellites
+https://en.wikipedia.org/wiki/Commodity_computing
 https://en.wikipedia.org/wiki/Commodore_128
 https://en.wikipedia.org/wiki/Commodore_64
 https://en.wikipedia.org/wiki/Commodore_64_software
@@ -8075,6 +8106,7 @@ https://en.wikipedia.org/wiki/Correspondence_analysis
 https://en.wikipedia.org/wiki/Cory_Doctorow
 https://en.wikipedia.org/wiki/COSIC
 https://en.wikipedia.org/wiki/Cosine_similarity
+https://en.wikipedia.org/wiki/Cosmic_censorship_hypothesis
 https://en.wikipedia.org/wiki/Cosmic_microwave_background
 https://en.wikipedia.org/wiki/Cosmicism
 https://en.wikipedia.org/wiki/Cosmological_constant
@@ -8276,6 +8308,7 @@ https://en.wikipedia.org/wiki/Cybernetics
 https://en.wikipedia.org/wiki/Cyberpunk
 https://en.wikipedia.org/wiki/Cyberwarfare
 https://en.wikipedia.org/wiki/Cyclades
+https://en.wikipedia.org/wiki/Cycles_of_Time
 https://en.wikipedia.org/wiki/Cyclic_code
 https://en.wikipedia.org/wiki/Cyclic_redundancy_check
 https://en.wikipedia.org/wiki/Cycloid
@@ -8302,6 +8335,7 @@ https://en.wikipedia.org/wiki/D%27Alembert_operator
 https://en.wikipedia.org/wiki/D%27Alembert%27s_equation
 https://en.wikipedia.org/wiki/D%27Alembert%27s_formula
 https://en.wikipedia.org/wiki/D%27Alembert%27s_principle
+https://en.wikipedia.org/wiki/D%27erlanger
 https://en.wikipedia.org/wiki/D%27Hondt_method
 https://en.wikipedia.org/wiki/D%C3%A9tente
 https://en.wikipedia.org/wiki/D3.js
@@ -8331,6 +8365,7 @@ https://en.wikipedia.org/wiki/Danone
 https://en.wikipedia.org/wiki/DANTE
 https://en.wikipedia.org/wiki/Daphne_Koller
 https://en.wikipedia.org/wiki/Daredevils_of_Sassoun
+https://en.wikipedia.org/wiki/Dark_academia
 https://en.wikipedia.org/wiki/Dark_Ages_(historiography)
 https://en.wikipedia.org/wiki/Dark_Avenger
 https://en.wikipedia.org/wiki/Dark_Passion_Play
@@ -8511,6 +8546,8 @@ https://en.wikipedia.org/wiki/De_Gruyter
 https://en.wikipedia.org/wiki/De_Moivre%27s_formula
 https://en.wikipedia.org/wiki/De_novo_protein_structure_prediction
 https://en.wikipedia.org/wiki/De_Re_Atari
+https://en.wikipedia.org/wiki/Dead_Can_Dance
+https://en.wikipedia.org/wiki/Dead_End_(band)
 https://en.wikipedia.org/wiki/Dead_mileage
 https://en.wikipedia.org/wiki/Dead_reckoning
 https://en.wikipedia.org/wiki/Dead_Sea_Scrolls
@@ -8518,7 +8555,9 @@ https://en.wikipedia.org/wiki/Deadwing
 https://en.wikipedia.org/wiki/Deal.II
 https://en.wikipedia.org/wiki/Dean_Acheson
 https://en.wikipedia.org/wiki/Death_Note
+https://en.wikipedia.org/wiki/Death-doom
 https://en.wikipedia.org/wiki/Death%27s_End
+https://en.wikipedia.org/wiki/Deathrock
 https://en.wikipedia.org/wiki/Debasis_Mitra
 https://en.wikipedia.org/wiki/Debian
 https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines
@@ -8780,6 +8819,7 @@ https://en.wikipedia.org/wiki/Diophantine_geometry
 https://en.wikipedia.org/wiki/Diphosgene
 https://en.wikipedia.org/wiki/Diplomacy_(book)
 https://en.wikipedia.org/wiki/Diplomatic_history
+https://en.wikipedia.org/wiki/Dir_En_Grey
 https://en.wikipedia.org/wiki/Dirac_delta_function
 https://en.wikipedia.org/wiki/Direcci%C3%B3n_de_Inteligencia_Nacional
 https://en.wikipedia.org/wiki/Direct_and_indirect_realism
@@ -8948,6 +8988,7 @@ https://en.wikipedia.org/wiki/Dresden_Codex
 https://en.wikipedia.org/wiki/Drew_McDermott
 https://en.wikipedia.org/wiki/Drexel_University
 https://en.wikipedia.org/wiki/Droid_(typeface)
+https://en.wikipedia.org/wiki/Drone_metal
 https://en.wikipedia.org/wiki/Drone_strikes_in_Pakistan
 https://en.wikipedia.org/wiki/Drools
 https://en.wikipedia.org/wiki/Dropbear_(software)
@@ -9494,6 +9535,7 @@ https://en.wikipedia.org/wiki/European_Data_Portal
 https://en.wikipedia.org/wiki/European_Defence_Agency
 https://en.wikipedia.org/wiki/European_Economic_Community
 https://en.wikipedia.org/wiki/European_External_Action_Service
+https://en.wikipedia.org/wiki/European_folklore
 https://en.wikipedia.org/wiki/European_Institute_for_Computer_Antivirus_Research
 https://en.wikipedia.org/wiki/European_Space_Agency
 https://en.wikipedia.org/wiki/European_Study_Groups_with_Industry
@@ -9597,6 +9639,7 @@ https://en.wikipedia.org/wiki/Extract,_transform,_load
 https://en.wikipedia.org/wiki/Extrapolation
 https://en.wikipedia.org/wiki/Extraterrestrial_intelligence
 https://en.wikipedia.org/wiki/Extraterrestrial_life
+https://en.wikipedia.org/wiki/Extreme_metal
 https://en.wikipedia.org/wiki/Extreme_programming
 https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography
 https://en.wikipedia.org/wiki/Eye_for_an_eye
@@ -9656,6 +9699,7 @@ https://en.wikipedia.org/wiki/Faraday%27s_law_of_induction
 https://en.wikipedia.org/wiki/Farey_sequence
 https://en.wikipedia.org/wiki/Farkas%27_lemma
 https://en.wikipedia.org/wiki/Fashion_MNIST
+https://en.wikipedia.org/wiki/Fashion,_Faith,_and_Fantasy_in_the_New_Physics_of_the_Universe
 https://en.wikipedia.org/wiki/Fast_Fourier_transform
 https://en.wikipedia.org/wiki/Fast_Library_for_Number_Theory
 https://en.wikipedia.org/wiki/FASTA
@@ -10106,6 +10150,7 @@ https://en.wikipedia.org/wiki/G._H._Hardy
 https://en.wikipedia.org/wiki/G._I._Taylor
 https://en.wikipedia.org/wiki/G/G/1_queue
 https://en.wikipedia.org/wiki/G%C3%A9rard_Berry
+https://en.wikipedia.org/wiki/G%C3%B6del_metric
 https://en.wikipedia.org/wiki/G%C3%B6del_numbering
 https://en.wikipedia.org/wiki/G%C3%B6del_Prize
 https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
@@ -10117,6 +10162,7 @@ https://en.wikipedia.org/wiki/G7
 https://en.wikipedia.org/wiki/Gabor_filter
 https://en.wikipedia.org/wiki/Gabriel
 https://en.wikipedia.org/wiki/Gabriel_Lam%C3%A9
+https://en.wikipedia.org/wiki/Gackt
 https://en.wikipedia.org/wiki/Gadget_(computer_science)
 https://en.wikipedia.org/wiki/Gadsby_(novel)
 https://en.wikipedia.org/wiki/Gakken_EX-System
@@ -10377,6 +10423,7 @@ https://en.wikipedia.org/wiki/Gillian_Anderson
 https://en.wikipedia.org/wiki/GiNaC
 https://en.wikipedia.org/wiki/Giordano_Bruno_Foundation
 https://en.wikipedia.org/wiki/Giovanni_De_Micheli
+https://en.wikipedia.org/wiki/Girugamesh
 https://en.wikipedia.org/wiki/Git
 https://en.wikipedia.org/wiki/Gita_Press
 https://en.wikipedia.org/wiki/Gitea
@@ -10386,7 +10433,9 @@ https://en.wikipedia.org/wiki/Gitter
 https://en.wikipedia.org/wiki/Gittins_index
 https://en.wikipedia.org/wiki/Giuseppe_Garibaldi
 https://en.wikipedia.org/wiki/Giuseppe_Mazzini
+https://en.wikipedia.org/wiki/Glam_rock
 https://en.wikipedia.org/wiki/Glasgow_Haskell_Compiler
+https://en.wikipedia.org/wiki/Glay
 https://en.wikipedia.org/wiki/Glenda_Schroeder
 https://en.wikipedia.org/wiki/Glenn_T._Seaborg
 https://en.wikipedia.org/wiki/Glibc
@@ -10477,6 +10526,7 @@ https://en.wikipedia.org/wiki/Goldbach%27s_conjecture
 https://en.wikipedia.org/wiki/Goldbach%27s_weak_conjecture
 https://en.wikipedia.org/wiki/Golden_age_of_American_animation
 https://en.wikipedia.org/wiki/Golden_Age_of_Television
+https://en.wikipedia.org/wiki/Golden_Fleece
 https://en.wikipedia.org/wiki/Golden_Horseshoe
 https://en.wikipedia.org/wiki/Golden_ratio
 https://en.wikipedia.org/wiki/Golden_Verses
@@ -10519,6 +10569,8 @@ https://en.wikipedia.org/wiki/GOST
 https://en.wikipedia.org/wiki/GOST_(block_cipher)
 https://en.wikipedia.org/wiki/GOST_(hash_function)
 https://en.wikipedia.org/wiki/Gosu_(programming_language)
+https://en.wikipedia.org/wiki/Goth_subculture
+https://en.wikipedia.org/wiki/Gothic_film
 https://en.wikipedia.org/wiki/Gothic_Kabbalah
 https://en.wikipedia.org/wiki/Gothic_metal
 https://en.wikipedia.org/wiki/Gothic_rock
@@ -11398,6 +11450,7 @@ https://en.wikipedia.org/wiki/Inductive_reasoning
 https://en.wikipedia.org/wiki/Indus_Valley_Civilisation
 https://en.wikipedia.org/wiki/Industrial_complex
 https://en.wikipedia.org/wiki/Industrial_control_system
+https://en.wikipedia.org/wiki/Industrial_metal
 https://en.wikipedia.org/wiki/Industrial_PC
 https://en.wikipedia.org/wiki/Industrial_policy
 https://en.wikipedia.org/wiki/Industrial_Society_and_Its_Future
@@ -11667,6 +11720,7 @@ https://en.wikipedia.org/wiki/Intersection_type
 https://en.wikipedia.org/wiki/Intertropical_Convergence_Zone
 https://en.wikipedia.org/wiki/Interval_arithmetic
 https://en.wikipedia.org/wiki/Interval_estimation
+https://en.wikipedia.org/wiki/Into_the_Pandemonium
 https://en.wikipedia.org/wiki/Intransitive_dice
 https://en.wikipedia.org/wiki/Intrinsic_dimension
 https://en.wikipedia.org/wiki/Introduction_to_Commutative_Algebra
@@ -12178,6 +12232,7 @@ https://en.wikipedia.org/wiki/Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions
 https://en.wikipedia.org/wiki/Kasiski_examination
 https://en.wikipedia.org/wiki/Kasparov_versus_the_World
 https://en.wikipedia.org/wiki/KASUMI
+https://en.wikipedia.org/wiki/Katatonia
 https://en.wikipedia.org/wiki/Katharine_Gun
 https://en.wikipedia.org/wiki/Katowice
 https://en.wikipedia.org/wiki/Katz_centrality
@@ -12385,6 +12440,7 @@ https://en.wikipedia.org/wiki/L-function
 https://en.wikipedia.org/wiki/L-infinity
 https://en.wikipedia.org/wiki/L-moment
 https://en.wikipedia.org/wiki/L-notation
+https://en.wikipedia.org/wiki/L%27Arc-en-Ciel
 https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Babai
 https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Lov%C3%A1sz
 https://en.wikipedia.org/wiki/L%C3%A9on_Bottou
@@ -12569,6 +12625,7 @@ https://en.wikipedia.org/wiki/Least_squares
 https://en.wikipedia.org/wiki/Least-squares_spectral_analysis
 https://en.wikipedia.org/wiki/Least-squares_support_vector_machine
 https://en.wikipedia.org/wiki/Leave-one-out_error
+https://en.wikipedia.org/wiki/Leaves%27_Eyes
 https://en.wikipedia.org/wiki/LEB128
 https://en.wikipedia.org/wiki/Lebanon
 https://en.wikipedia.org/wiki/Lebesgue_covering_dimension
@@ -12913,6 +12970,7 @@ https://en.wikipedia.org/wiki/List_of_demons_in_the_Ars_Goetia
 https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes
 https://en.wikipedia.org/wiki/List_of_dialects_of_English
 https://en.wikipedia.org/wiki/List_of_discrete_event_simulation_software
+https://en.wikipedia.org/wiki/List_of_doom_metal_bands
 https://en.wikipedia.org/wiki/List_of_Dune_characters
 https://en.wikipedia.org/wiki/List_of_dynamical_systems_and_differential_equations_topics
 https://en.wikipedia.org/wiki/List_of_early_Germanic_peoples
@@ -12955,6 +13013,7 @@ https://en.wikipedia.org/wiki/List_of_future_astronomical_events
 https://en.wikipedia.org/wiki/List_of_geometry_topics
 https://en.wikipedia.org/wiki/List_of_Gnostic_texts
 https://en.wikipedia.org/wiki/List_of_GNU_packages
+https://en.wikipedia.org/wiki/List_of_gothic_festivals
 https://en.wikipedia.org/wiki/List_of_gothic_metal_bands
 https://en.wikipedia.org/wiki/List_of_gothic_rock_artists
 https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects
@@ -12973,6 +13032,7 @@ https://en.wikipedia.org/wiki/List_of_historical_fiction_by_time_period
 https://en.wikipedia.org/wiki/List_of_historical_novels
 https://en.wikipedia.org/wiki/List_of_history_journals
 https://en.wikipedia.org/wiki/List_of_home_computers
+https://en.wikipedia.org/wiki/List_of_Homeric_characters
 https://en.wikipedia.org/wiki/List_of_household_surveys_in_the_United_States
 https://en.wikipedia.org/wiki/List_of_humanities_journals
 https://en.wikipedia.org/wiki/List_of_IBM_Personal_Computer_models
@@ -13379,6 +13439,7 @@ https://en.wikipedia.org/wiki/Loop_unrolling
 https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s
 https://en.wikipedia.org/wiki/Lord_Byron
 https://en.wikipedia.org/wiki/Lord_Kelvin
+https://en.wikipedia.org/wiki/Lorelei
 https://en.wikipedia.org/wiki/Lorenz_96_model
 https://en.wikipedia.org/wiki/Lorenz_cipher
 https://en.wikipedia.org/wiki/Lorenz_energy_cycle
@@ -13441,6 +13502,7 @@ https://en.wikipedia.org/wiki/Lule%C3%A5_University_of_Technology
 https://en.wikipedia.org/wiki/LULI
 https://en.wikipedia.org/wiki/Lumi_(software)
 https://en.wikipedia.org/wiki/Lumped-element_model
+https://en.wikipedia.org/wiki/Luna_Sea
 https://en.wikipedia.org/wiki/Lunar_distance_(navigation)
 https://en.wikipedia.org/wiki/Lurianic_Kabbalah
 https://en.wikipedia.org/wiki/Lush_(band)
@@ -13507,6 +13569,7 @@ https://en.wikipedia.org/wiki/Madhouse_(company)
 https://en.wikipedia.org/wiki/Madhu_Sudan
 https://en.wikipedia.org/wiki/Madrid_Codex_(Maya)
 https://en.wikipedia.org/wiki/Maebashi_Institute_of_Technology
+https://en.wikipedia.org/wiki/Maenad
 https://en.wikipedia.org/wiki/Magdeburg_rights
 https://en.wikipedia.org/wiki/Magi
 https://en.wikipedia.org/wiki/Magic_(cryptography)
@@ -13537,6 +13600,7 @@ https://en.wikipedia.org/wiki/Malacca
 https://en.wikipedia.org/wiki/Malay_Peninsula
 https://en.wikipedia.org/wiki/Malayalam
 https://en.wikipedia.org/wiki/Malaysia
+https://en.wikipedia.org/wiki/Malice_Mizer
 https://en.wikipedia.org/wiki/Malleability_(cryptography)
 https://en.wikipedia.org/wiki/Malta
 https://en.wikipedia.org/wiki/Malthusianism
@@ -13573,6 +13637,7 @@ https://en.wikipedia.org/wiki/Map_(higher-order_function)
 https://en.wikipedia.org/wiki/Map_(parallel_pattern)
 https://en.wikipedia.org/wiki/Maple_(software)
 https://en.wikipedia.org/wiki/Mapnik
+https://en.wikipedia.org/wiki/MapReduce
 https://en.wikipedia.org/wiki/Marcel_Mauss
 https://en.wikipedia.org/wiki/Marcelo_Viana
 https://en.wikipedia.org/wiki/March_1989_geomagnetic_storm
@@ -13803,6 +13868,8 @@ https://en.wikipedia.org/wiki/Measuring_the_World
 https://en.wikipedia.org/wiki/Mechanical_calculator
 https://en.wikipedia.org/wiki/Mechanical_equivalent_of_heat
 https://en.wikipedia.org/wiki/Mechanosynthesis
+https://en.wikipedia.org/wiki/Medea
+https://en.wikipedia.org/wiki/Medea_(play)
 https://en.wikipedia.org/wiki/Median
 https://en.wikipedia.org/wiki/Median_absolute_deviation
 https://en.wikipedia.org/wiki/MediaTek
@@ -14305,6 +14372,7 @@ https://en.wikipedia.org/wiki/MurmurHash
 https://en.wikipedia.org/wiki/Muroran_Institute_of_Technology
 https://en.wikipedia.org/wiki/Murray_Gell-Mann
 https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay
+https://en.wikipedia.org/wiki/Muses
 https://en.wikipedia.org/wiki/Musical_notation
 https://en.wikipedia.org/wiki/Mustache_(template_system)
 https://en.wikipedia.org/wiki/Mustard_gas
@@ -14313,6 +14381,7 @@ https://en.wikipedia.org/wiki/Mutt_(email_client)
 https://en.wikipedia.org/wiki/Mutual_information
 https://en.wikipedia.org/wiki/Mutual_recursion
 https://en.wikipedia.org/wiki/MuZero
+https://en.wikipedia.org/wiki/My_Dying_Bride
 https://en.wikipedia.org/wiki/My_kung_fu_is_stronger_than_yours
 https://en.wikipedia.org/wiki/My_Neighbor_Totoro
 https://en.wikipedia.org/wiki/Mycenae
@@ -14341,6 +14410,7 @@ https://en.wikipedia.org/wiki/Nahuatl
 https://en.wikipedia.org/wiki/Naive_Bayes_classifier
 https://en.wikipedia.org/wiki/Naive_Bayes_spam_filtering
 https://en.wikipedia.org/wiki/Nakba_denial
+https://en.wikipedia.org/wiki/Name_of_the_Goths
 https://en.wikipedia.org/wiki/Named_graph
 https://en.wikipedia.org/wiki/Named-entity_recognition
 https://en.wikipedia.org/wiki/Names_of_God
@@ -14641,6 +14711,7 @@ https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework
 https://en.wikipedia.org/wiki/NIST_Post-Quantum_Cryptography_Standardization
 https://en.wikipedia.org/wiki/Nitrogen_mustard
 https://en.wikipedia.org/wiki/Nix_(package_manager)
+https://en.wikipedia.org/wiki/Nixie_(folklore)
 https://en.wikipedia.org/wiki/Nizami_Ganjavi
 https://en.wikipedia.org/wiki/Njalla
 https://en.wikipedia.org/wiki/NKVD
@@ -14741,6 +14812,7 @@ https://en.wikipedia.org/wiki/Notpron
 https://en.wikipedia.org/wiki/Nova_Methodus_pro_Maximis_et_Minimis
 https://en.wikipedia.org/wiki/Nova_Scotia
 https://en.wikipedia.org/wiki/Novabench
+https://en.wikipedia.org/wiki/Novikov_self-consistency_principle
 https://en.wikipedia.org/wiki/NOVO7
 https://en.wikipedia.org/wiki/Nox_(platform)
 https://en.wikipedia.org/wiki/NP-completeness
@@ -14858,6 +14930,7 @@ https://en.wikipedia.org/wiki/OCB_mode
 https://en.wikipedia.org/wiki/Occam_learning
 https://en.wikipedia.org/wiki/Occult
 https://en.wikipedia.org/wiki/Occult_rock
+https://en.wikipedia.org/wiki/Occultic;Nine
 https://en.wikipedia.org/wiki/Occurs_check
 https://en.wikipedia.org/wiki/Ocean_general_circulation_model
 https://en.wikipedia.org/wiki/Oceania
@@ -15170,6 +15243,7 @@ https://en.wikipedia.org/wiki/Orlando_Innamorato
 https://en.wikipedia.org/wiki/Orpheus
 https://en.wikipedia.org/wiki/Orphism_(religion)
 https://en.wikipedia.org/wiki/Orthant
+https://en.wikipedia.org/wiki/Orthogonal_(series)
 https://en.wikipedia.org/wiki/Orthogonal_array
 https://en.wikipedia.org/wiki/Orthogonal_functions
 https://en.wikipedia.org/wiki/Orthogonal_matrix
@@ -15204,6 +15278,7 @@ https://en.wikipedia.org/wiki/Ousterhout%27s_dichotomy
 https://en.wikipedia.org/wiki/Out_of_memory
 https://en.wikipedia.org/wiki/Out-of-band_management
 https://en.wikipedia.org/wiki/Out-of-order_execution
+https://en.wikipedia.org/wiki/Outer_Wilds
 https://en.wikipedia.org/wiki/OutGuess
 https://en.wikipedia.org/wiki/Outlier
 https://en.wikipedia.org/wiki/Outline_of_algebra
@@ -15320,6 +15395,7 @@ https://en.wikipedia.org/wiki/Parabolic_partial_differential_equation
 https://en.wikipedia.org/wiki/Paraboloid
 https://en.wikipedia.org/wiki/Paracelsus
 https://en.wikipedia.org/wiki/Paradise_Lost
+https://en.wikipedia.org/wiki/Paradise_Lost_(band)
 https://en.wikipedia.org/wiki/Paradox_of_thrift
 https://en.wikipedia.org/wiki/Parag_Khanna
 https://en.wikipedia.org/wiki/Parallel_Colt
@@ -15525,6 +15601,7 @@ https://en.wikipedia.org/wiki/Peroxide
 https://en.wikipedia.org/wiki/Perpetual_war
 https://en.wikipedia.org/wiki/Perplexity
 https://en.wikipedia.org/wiki/Perron%E2%80%93Frobenius_theorem
+https://en.wikipedia.org/wiki/Perse_(mythology)
 https://en.wikipedia.org/wiki/Perseus
 https://en.wikipedia.org/wiki/Persian_lime
 https://en.wikipedia.org/wiki/Persian_literature
@@ -15824,6 +15901,7 @@ https://en.wikipedia.org/wiki/POPFile
 https://en.wikipedia.org/wiki/POPLmark_challenge
 https://en.wikipedia.org/wiki/Poplog
 https://en.wikipedia.org/wiki/Popol_Vuh
+https://en.wikipedia.org/wiki/Poppaea_Sabina
 https://en.wikipedia.org/wiki/Popular_education
 https://en.wikipedia.org/wiki/Population
 https://en.wikipedia.org/wiki/Population_ageing
@@ -15857,6 +15935,7 @@ https://en.wikipedia.org/wiki/Positive-definite_kernel
 https://en.wikipedia.org/wiki/Positivism
 https://en.wikipedia.org/wiki/POSIX
 https://en.wikipedia.org/wiki/Possibility_theory
+https://en.wikipedia.org/wiki/Post-metal
 https://en.wikipedia.org/wiki/Post-punk
 https://en.wikipedia.org/wiki/Post-quantum_cryptography
 https://en.wikipedia.org/wiki/Post-rock
@@ -16073,6 +16152,7 @@ https://en.wikipedia.org/wiki/Programming_Languages:_Application_and_Interpretat
 https://en.wikipedia.org/wiki/Programming_paradigm
 https://en.wikipedia.org/wiki/Programming_Perl
 https://en.wikipedia.org/wiki/Progressive_Era
+https://en.wikipedia.org/wiki/Progressive_metal
 https://en.wikipedia.org/wiki/Progressive_music
 https://en.wikipedia.org/wiki/Progressive_pop
 https://en.wikipedia.org/wiki/Progressive_rock
@@ -16267,6 +16347,7 @@ https://en.wikipedia.org/wiki/Quantities_of_information
 https://en.wikipedia.org/wiki/Quantization_(signal_processing)
 https://en.wikipedia.org/wiki/Quantum
 https://en.wikipedia.org/wiki/Quantum_annealing
+https://en.wikipedia.org/wiki/Quantum_Break
 https://en.wikipedia.org/wiki/Quantum_chaos
 https://en.wikipedia.org/wiki/Quantum_chemistry
 https://en.wikipedia.org/wiki/Quantum_Computation_and_Quantum_Information
@@ -16280,6 +16361,7 @@ https://en.wikipedia.org/wiki/Quantum_finite_automaton
 https://en.wikipedia.org/wiki/Quantum_information
 https://en.wikipedia.org/wiki/Quantum_information_science
 https://en.wikipedia.org/wiki/Quantum_mechanics
+https://en.wikipedia.org/wiki/Quantum_mechanics_of_time_travel
 https://en.wikipedia.org/wiki/Quantum_number
 https://en.wikipedia.org/wiki/Quantum_statistical_mechanics
 https://en.wikipedia.org/wiki/Quantum_superposition
@@ -16817,6 +16899,7 @@ https://en.wikipedia.org/wiki/Robot_control
 https://en.wikipedia.org/wiki/Robot_ethics
 https://en.wikipedia.org/wiki/Robot_Operating_System
 https://en.wikipedia.org/wiki/Robot_series
+https://en.wikipedia.org/wiki/Robotics;Notes
 https://en.wikipedia.org/wiki/Roboto
 https://en.wikipedia.org/wiki/Robots_and_Empire
 https://en.wikipedia.org/wiki/Robust_decision-making
@@ -16841,6 +16924,7 @@ https://en.wikipedia.org/wiki/Roger_Cotes
 https://en.wikipedia.org/wiki/Roger_Horn
 https://en.wikipedia.org/wiki/Roger_Hui
 https://en.wikipedia.org/wiki/Roger_J-B_Wets
+https://en.wikipedia.org/wiki/Roger_Penrose
 https://en.wikipedia.org/wiki/Rogers_Communications
 https://en.wikipedia.org/wiki/Rogue_wave
 https://en.wikipedia.org/wiki/Roguelike
@@ -17112,6 +17196,7 @@ https://en.wikipedia.org/wiki/SciELO
 https://en.wikipedia.org/wiki/Science
 https://en.wikipedia.org/wiki/Science_(journal)
 https://en.wikipedia.org/wiki/Science_Advances
+https://en.wikipedia.org/wiki/Science_Adventure
 https://en.wikipedia.org/wiki/Science_museum
 https://en.wikipedia.org/wiki/Science_wars
 https://en.wikipedia.org/wiki/Sciences_Po
@@ -17339,6 +17424,7 @@ https://en.wikipedia.org/wiki/SHA-2
 https://en.wikipedia.org/wiki/SHA-3
 https://en.wikipedia.org/wiki/Shader
 https://en.wikipedia.org/wiki/Shadow_library
+https://en.wikipedia.org/wiki/Shadows_of_the_Mind
 https://en.wikipedia.org/wiki/Shadowsocks
 https://en.wikipedia.org/wiki/Shafi_Goldwasser
 https://en.wikipedia.org/wiki/Shahnameh
@@ -17386,6 +17472,7 @@ https://en.wikipedia.org/wiki/Shinto
 https://en.wikipedia.org/wiki/Shiva
 https://en.wikipedia.org/wiki/ShmooCon
 https://en.wikipedia.org/wiki/Shmuel_Winograd
+https://en.wikipedia.org/wiki/Shoegaze
 https://en.wikipedia.org/wiki/Shooting_method
 https://en.wikipedia.org/wiki/Shopify
 https://en.wikipedia.org/wiki/Shor%27s_algorithm
@@ -17514,6 +17601,7 @@ https://en.wikipedia.org/wiki/SINPO_code
 https://en.wikipedia.org/wiki/SipHash
 https://en.wikipedia.org/wiki/SIPRNet
 https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet
+https://en.wikipedia.org/wiki/Siren_(mythology)
 https://en.wikipedia.org/wiki/Sirius_B_(album)
 https://en.wikipedia.org/wiki/SIS_Building
 https://en.wikipedia.org/wiki/Sisterhood_of_Dune
@@ -17554,6 +17642,8 @@ https://en.wikipedia.org/wiki/SLEPc
 https://en.wikipedia.org/wiki/Sliced_inverse_regression
 https://en.wikipedia.org/wiki/Slide_rule
 https://en.wikipedia.org/wiki/Sliding_puzzle
+https://en.wikipedia.org/wiki/Slowcore
+https://en.wikipedia.org/wiki/Sludge_metal
 https://en.wikipedia.org/wiki/Small_multiple
 https://en.wikipedia.org/wiki/Small_outline_integrated_circuit
 https://en.wikipedia.org/wiki/Smalltalk
@@ -17702,6 +17792,7 @@ https://en.wikipedia.org/wiki/Soman
 https://en.wikipedia.org/wiki/Somerset_House
 https://en.wikipedia.org/wiki/Somnium_(novel)
 https://en.wikipedia.org/wiki/Sonata_Arctica
+https://en.wikipedia.org/wiki/Sonda_(TV_series)
 https://en.wikipedia.org/wiki/Song_of_Roland
 https://en.wikipedia.org/wiki/Songs_of_Innocence_and_of_Experience
 https://en.wikipedia.org/wiki/Sony
@@ -18010,6 +18101,8 @@ https://en.wikipedia.org/wiki/Steganographia
 https://en.wikipedia.org/wiki/Steganography
 https://en.wikipedia.org/wiki/Steganography_tools
 https://en.wikipedia.org/wiki/Steinhaus%E2%80%93Johnson%E2%80%93Trotter_algorithm
+https://en.wikipedia.org/wiki/Steins;%3F%3F%3F
+https://en.wikipedia.org/wiki/Steins;Gate
 https://en.wikipedia.org/wiki/Stella_(emulator)
 https://en.wikipedia.org/wiki/Stellar_corona
 https://en.wikipedia.org/wiki/Stellar_evolution
@@ -18386,6 +18479,7 @@ https://en.wikipedia.org/wiki/Technology_policy
 https://en.wikipedia.org/wiki/Technoparc_Montreal
 https://en.wikipedia.org/wiki/Technorati
 https://en.wikipedia.org/wiki/Ted_Bundy
+https://en.wikipedia.org/wiki/Ted_Chiang
 https://en.wikipedia.org/wiki/Ted_Kaczynski
 https://en.wikipedia.org/wiki/Teddy_Sagi
 https://en.wikipedia.org/wiki/Telangana
@@ -18414,6 +18508,7 @@ https://en.wikipedia.org/wiki/Temple_of_Heaven
 https://en.wikipedia.org/wiki/Temple_of_Venus_and_Roma
 https://en.wikipedia.org/wiki/Temporal_difference_learning
 https://en.wikipedia.org/wiki/Temporal_information_retrieval
+https://en.wikipedia.org/wiki/Temporal_paradox
 https://en.wikipedia.org/wiki/Tencent
 https://en.wikipedia.org/wiki/Tennessee_Tech
 https://en.wikipedia.org/wiki/Tensilica
@@ -18492,6 +18587,7 @@ https://en.wikipedia.org/wiki/The_Book_of_Abramelin
 https://en.wikipedia.org/wiki/The_Book_of_Five_Rings
 https://en.wikipedia.org/wiki/The_Book_of_the_Law
 https://en.wikipedia.org/wiki/The_Boy_and_the_Heron
+https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf
 https://en.wikipedia.org/wiki/The_C_Programming_Language
 https://en.wikipedia.org/wiki/The_C%2B%2B_Programming_Language
 https://en.wikipedia.org/wiki/The_Cambridge_Ancient_History
@@ -18534,6 +18630,7 @@ https://en.wikipedia.org/wiki/The_End_of_Evangelion
 https://en.wikipedia.org/wiki/The_Fable_of_the_Bees
 https://en.wikipedia.org/wiki/The_Faerie_Queene
 https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics
+https://en.wikipedia.org/wiki/The_Final_Countdown_(film)
 https://en.wikipedia.org/wiki/The_Final_Cut_(TV_serial)
 https://en.wikipedia.org/wiki/The_Fletcher_Forum_of_World_Affairs
 https://en.wikipedia.org/wiki/The_Fletcher_School_at_Tufts_University
@@ -18541,6 +18638,7 @@ https://en.wikipedia.org/wiki/The_Fog_of_War
 https://en.wikipedia.org/wiki/The_Future_Sound_of_London
 https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths
 https://en.wikipedia.org/wiki/The_Gathering_(band)
+https://en.wikipedia.org/wiki/The_Gazette_(band)
 https://en.wikipedia.org/wiki/The_Ghost_in_the_Machine
 https://en.wikipedia.org/wiki/The_Globalization_of_World_Politics
 https://en.wikipedia.org/wiki/The_God_Delusion
@@ -18555,6 +18653,8 @@ https://en.wikipedia.org/wiki/The_Heike_Story
 https://en.wikipedia.org/wiki/The_Hidden_Ivies
 https://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
 https://en.wikipedia.org/wiki/The_House_of_the_Rising_Sun
+https://en.wikipedia.org/wiki/The_Hunger_(1983_film)
+https://en.wikipedia.org/wiki/The_Hunger_(Strieber_novel)
 https://en.wikipedia.org/wiki/The_Hunters_in_the_Snow
 https://en.wikipedia.org/wiki/The_Incident_(album)
 https://en.wikipedia.org/wiki/The_Institute_of_Technology_at_Link%C3%B6ping_University
@@ -18571,6 +18671,7 @@ https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
 https://en.wikipedia.org/wiki/The_Magic_Words_are_Squeamish_Ossifrage
 https://en.wikipedia.org/wiki/The_Marriage_of_Heaven_and_Hell
 https://en.wikipedia.org/wiki/The_Mathematical_Intelligencer
+https://en.wikipedia.org/wiki/The_Merchant_and_the_Alchemist%27s_Gate
 https://en.wikipedia.org/wiki/The_Miskolc_Experience
 https://en.wikipedia.org/wiki/The_Monthly
 https://en.wikipedia.org/wiki/The_Musical_Offering
@@ -18643,18 +18744,21 @@ https://en.wikipedia.org/wiki/The_Virgin_Suicides
 https://en.wikipedia.org/wiki/The_Virgin_Suicides_(film)
 https://en.wikipedia.org/wiki/The_war_to_end_war
 https://en.wikipedia.org/wiki/The_Washington_Post
+https://en.wikipedia.org/wiki/The_Way_Home_(TV_series)
 https://en.wikipedia.org/wiki/The_WELL
 https://en.wikipedia.org/wiki/The_Wheel_of_Time
 https://en.wikipedia.org/wiki/The_White_Guard
 https://en.wikipedia.org/wiki/The_Wilson_Quarterly
 https://en.wikipedia.org/wiki/The_Winds_of_Dune
 https://en.wikipedia.org/wiki/The_Wise_Men_(book)
+https://en.wikipedia.org/wiki/The_Wolfen
 https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation
 https://en.wikipedia.org/wiki/The_World_Without_Us
 https://en.wikipedia.org/wiki/The_X-Files
 https://en.wikipedia.org/wiki/The_X-Files_(season_1)
 https://en.wikipedia.org/wiki/Theano_(software)
 https://en.wikipedia.org/wiki/Theatre_of_Tragedy
+https://en.wikipedia.org/wiki/Theatre_of_Tragedy_(album)
 https://en.wikipedia.org/wiki/Theatres_des_Vampires
 https://en.wikipedia.org/wiki/Theatrum_Mundi
 https://en.wikipedia.org/wiki/Thelema
@@ -18769,6 +18873,7 @@ https://en.wikipedia.org/wiki/Time_domain
 https://en.wikipedia.org/wiki/Time_horizon
 https://en.wikipedia.org/wiki/Time_series
 https://en.wikipedia.org/wiki/Time_stamp_protocol
+https://en.wikipedia.org/wiki/Time_viewer
 https://en.wikipedia.org/wiki/Time-invariant_system
 https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use
 https://en.wikipedia.org/wiki/Time-scale_calculus
@@ -19061,6 +19166,7 @@ https://en.wikipedia.org/wiki/Type_B_Cipher_Machine
 https://en.wikipedia.org/wiki/Type_class
 https://en.wikipedia.org/wiki/Type_D_personality
 https://en.wikipedia.org/wiki/Type_I_and_type_II_errors
+https://en.wikipedia.org/wiki/Type_O_Negative
 https://en.wikipedia.org/wiki/Type_safety
 https://en.wikipedia.org/wiki/Type_system
 https://en.wikipedia.org/wiki/Type_theory
@@ -19380,9 +19486,11 @@ https://en.wikipedia.org/wiki/Veil_of_Isis
 https://en.wikipedia.org/wiki/Vela_incident
 https://en.wikipedia.org/wiki/Velocifero
 https://en.wikipedia.org/wiki/Velocity
+https://en.wikipedia.org/wiki/Velvet_Darkness_They_Fear
 https://en.wikipedia.org/wiki/Venice-Simplon_Orient_Express
 https://en.wikipedia.org/wiki/Venona_project
 https://en.wikipedia.org/wiki/Venti
+https://en.wikipedia.org/wiki/Venus_(mythology)
 https://en.wikipedia.org/wiki/Vera_Pless
 https://en.wikipedia.org/wiki/VeraCrypt
 https://en.wikipedia.org/wiki/Verb%E2%80%93object%E2%80%93subject_word_order
@@ -19396,6 +19504,7 @@ https://en.wikipedia.org/wiki/Verlet_integration
 https://en.wikipedia.org/wiki/Verlet_list
 https://en.wikipedia.org/wiki/Vermont
 https://en.wikipedia.org/wiki/Vernier_scale
+https://en.wikipedia.org/wiki/Versailles_(band)
 https://en.wikipedia.org/wiki/Version_7_Unix
 https://en.wikipedia.org/wiki/Verso_Books
 https://en.wikipedia.org/wiki/Vertex_cover
@@ -19419,6 +19528,7 @@ https://en.wikipedia.org/wiki/Victor_S._Miller
 https://en.wikipedia.org/wiki/Victor_Serge
 https://en.wikipedia.org/wiki/Victor_Shoup
 https://en.wikipedia.org/wiki/Victoria,_British_Columbia
+https://en.wikipedia.org/wiki/Victorian_fashion
 https://en.wikipedia.org/wiki/Vidalia_(software)
 https://en.wikipedia.org/wiki/Video_game
 https://en.wikipedia.org/wiki/Video_game_console_emulator
@@ -19467,6 +19577,7 @@ https://en.wikipedia.org/wiki/Visual_agnosia
 https://en.wikipedia.org/wiki/Visual_Basic_(.NET)
 https://en.wikipedia.org/wiki/Visual_Basic_(classic)
 https://en.wikipedia.org/wiki/Visual_descriptor
+https://en.wikipedia.org/wiki/Visual_kei
 https://en.wikipedia.org/wiki/Visual_perception
 https://en.wikipedia.org/wiki/Visual_Studio_Code
 https://en.wikipedia.org/wiki/Vitalik_Buterin
@@ -19671,6 +19782,7 @@ https://en.wikipedia.org/wiki/Whole_Foods_Market
 https://en.wikipedia.org/wiki/Why_Most_Published_Research_Findings_Are_False
 https://en.wikipedia.org/wiki/Why_Socialism%3F
 https://en.wikipedia.org/wiki/Wicca
+https://en.wikipedia.org/wiki/Wide-column_store
 https://en.wikipedia.org/wiki/Wide-issue
 https://en.wikipedia.org/wiki/Widescreen
 https://en.wikipedia.org/wiki/Widest_path_problem
@@ -19799,6 +19911,7 @@ https://en.wikipedia.org/wiki/X_(manga)
 https://en.wikipedia.org/wiki/X_(The_X-Files)
 https://en.wikipedia.org/wiki/X_Article
 https://en.wikipedia.org/wiki/X_Development
+https://en.wikipedia.org/wiki/X_Japan
 https://en.wikipedia.org/wiki/X-ray_transform
 https://en.wikipedia.org/wiki/X.509
 https://en.wikipedia.org/wiki/X.690
@@ -29695,6 +29808,8 @@ https://tornightfire.com/9-tales-of-tentacle-free-cosmic-and-existential-horror/
 https://torrentfreak.com/
 https://toshiba.semicon-storage.com/ap-en/semiconductor/knowledge/e-learning/discrete.html
 https://tour.dlang.org/
+https://toutestquantique.fr/
+https://toutestquantique.fr/en/
 https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
 https://towardsdatascience.com/paper-summary-neural-ordinary-differential-equations-37c4e52df128
 https://tox.chat/
@@ -30680,6 +30795,7 @@ https://www.browserstack.com/guide/tag/automation-testing
 https://www.browserstack.com/guide/test-cases-for-automated-tests
 https://www.browserstack.com/guide/unit-testing-frameworks-in-selenium
 https://www.bruegel.org/
+https://www.bruegel.org/analysis/european-unions-remarkable-growth-performance-relative-united-states
 https://www.bsd.lv/
 https://www.bshm.ac.uk/
 https://www.bsi.bund.de/DE/Home/home_node.html
@@ -34219,6 +34335,7 @@ https://www.opus-codec.org/
 https://www.or.rwth-aachen.de/en/
 https://www.oracle.com/
 https://www.oracle.com/database/technologies/
+https://www.oracle.com/database/technologies/flashback/
 https://www.oracle.com/database/technologies/related/berkeleydb-downloads.html
 https://www.oracle.com/java/
 https://www.oracle.com/java/technologies/
@@ -36628,6 +36745,7 @@ https://www.youtube.com/watch?v=mGDJO2M7RBg
 https://www.youtube.com/watch?v=Mp-HhTucfhE
 https://www.youtube.com/watch?v=MVL-x_7C_Mo
 https://www.youtube.com/watch?v=N0Ne623fKWc
+https://www.youtube.com/watch?v=nyJhRCTbUag
 https://www.youtube.com/watch?v=o_WXTRS2qTY
 https://www.youtube.com/watch?v=OWGCBz8NXbk
 https://www.youtube.com/watch?v=PhNUjg9X4g8
@@ -36657,6 +36775,7 @@ https://www.youtube.com/watch?v=WYPNjSoDrqw
 https://www.youtube.com/watch?v=X2Y4JdoLPv4
 https://www.youtube.com/watch?v=X5REM-3nWHg
 https://www.youtube.com/watch?v=ybLKmO5Kq5A
+https://www.youtube.com/watch?v=YKjFPpuK-Jo
 https://www.youtube.com/watch?v=ylpOO-7cyt0
 https://www.youtube.com/watch?v=YNGumKrXrlQ
 https://www.youtube.com/watch?v=ySEx_Bqxvvo
