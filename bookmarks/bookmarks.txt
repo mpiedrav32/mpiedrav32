@@ -5717,6 +5717,7 @@ https://en.wikipedia.org/wiki/Bank_of_Montreal
 https://en.wikipedia.org/wiki/Bank_switching
 https://en.wikipedia.org/wiki/BAPCo_consortium
 https://en.wikipedia.org/wiki/Bar_chart
+https://en.wikipedia.org/wiki/Barbara_Radziwi%C5%82%C5%82
 https://en.wikipedia.org/wiki/Barbara_W._Tuchman
 https://en.wikipedia.org/wiki/Barbarian_kingdoms
 https://en.wikipedia.org/wiki/Barcode
@@ -7963,6 +7964,7 @@ https://en.wikipedia.org/wiki/Confusion_and_diffusion
 https://en.wikipedia.org/wiki/Confusion_matrix
 https://en.wikipedia.org/wiki/Congo_Crisis
 https://en.wikipedia.org/wiki/Congress_of_Vienna
+https://en.wikipedia.org/wiki/Congress_Poland
 https://en.wikipedia.org/wiki/Congruum
 https://en.wikipedia.org/wiki/Conic_optimization
 https://en.wikipedia.org/wiki/Conic_section
@@ -9021,6 +9023,7 @@ https://en.wikipedia.org/wiki/Dual_space
 https://en.wikipedia.org/wiki/Duality_(optimization)
 https://en.wikipedia.org/wiki/Dublin_Institute_of_Technology
 https://en.wikipedia.org/wiki/Dublin%E2%80%93Belfast_corridor
+https://en.wikipedia.org/wiki/Duchy_of_Warsaw
 https://en.wikipedia.org/wiki/Duff%27s_device
 https://en.wikipedia.org/wiki/Duhamel%27s_principle
 https://en.wikipedia.org/wiki/Dulles_Technology_Corridor
@@ -9104,6 +9107,7 @@ https://en.wikipedia.org/wiki/Earth%27s_circumference
 https://en.wikipedia.org/wiki/Earth%27s_rotation
 https://en.wikipedia.org/wiki/East_Coast_of_the_United_States
 https://en.wikipedia.org/wiki/East_India_Company
+https://en.wikipedia.org/wiki/East_Prussia
 https://en.wikipedia.org/wiki/East_Slavs
 https://en.wikipedia.org/wiki/EasyChair
 https://en.wikipedia.org/wiki/EasyEDA
@@ -10544,6 +10548,7 @@ https://en.wikipedia.org/wiki/Golden_age_of_American_animation
 https://en.wikipedia.org/wiki/Golden_Age_of_Television
 https://en.wikipedia.org/wiki/Golden_Fleece
 https://en.wikipedia.org/wiki/Golden_Horseshoe
+https://en.wikipedia.org/wiki/Golden_Liberty
 https://en.wikipedia.org/wiki/Golden_ratio
 https://en.wikipedia.org/wiki/Golden_Verses
 https://en.wikipedia.org/wiki/Golden-section_search
@@ -11942,6 +11947,7 @@ https://en.wikipedia.org/wiki/Jamstack
 https://en.wikipedia.org/wiki/Jan_%C5%81ukasiewicz
 https://en.wikipedia.org/wiki/Jan_Karel_Lenstra
 https://en.wikipedia.org/wiki/Jan_Krissler
+https://en.wikipedia.org/wiki/Jan_Matejko
 https://en.wikipedia.org/wiki/Japan_Advanced_Institute_of_Science_and_Technology
 https://en.wikipedia.org/wiki/Japan_Society_(Manhattan)
 https://en.wikipedia.org/wiki/Japanese_Communist_Party
@@ -12360,6 +12366,7 @@ https://en.wikipedia.org/wiki/King%27s_Cross,_London
 https://en.wikipedia.org/wiki/Kingdom_of_Galicia_and_Lodomeria
 https://en.wikipedia.org/wiki/Kingdom_of_Galicia%E2%80%93Volhynia
 https://en.wikipedia.org/wiki/Kingdom_of_Poland
+https://en.wikipedia.org/wiki/Kingdom_of_Poland_(1917%E2%80%931918)
 https://en.wikipedia.org/wiki/Kings%27_sagas
 https://en.wikipedia.org/wiki/Kingston,_Ontario
 https://en.wikipedia.org/wiki/Kip_Thorne
@@ -14451,6 +14458,7 @@ https://en.wikipedia.org/wiki/Named_graph
 https://en.wikipedia.org/wiki/Named-entity_recognition
 https://en.wikipedia.org/wiki/Names_of_God
 https://en.wikipedia.org/wiki/Names_of_large_numbers
+https://en.wikipedia.org/wiki/Names_of_Poland
 https://en.wikipedia.org/wiki/Nanogel
 https://en.wikipedia.org/wiki/Nanoimprint_lithography
 https://en.wikipedia.org/wiki/Nanotechnology
@@ -15341,6 +15349,7 @@ https://en.wikipedia.org/wiki/Outline_of_mathematics
 https://en.wikipedia.org/wiki/Outline_of_natural_language_processing
 https://en.wikipedia.org/wiki/Outline_of_Perl
 https://en.wikipedia.org/wiki/Outline_of_physical_science
+https://en.wikipedia.org/wiki/Outline_of_Poland
 https://en.wikipedia.org/wiki/Outline_of_probability
 https://en.wikipedia.org/wiki/Outline_of_regression_analysis
 https://en.wikipedia.org/wiki/Outline_of_science_fiction
@@ -15856,6 +15865,7 @@ https://en.wikipedia.org/wiki/Pointer_machine
 https://en.wikipedia.org/wiki/Poisson_distribution
 https://en.wikipedia.org/wiki/Poisson_point_process
 https://en.wikipedia.org/wiki/Poisson_regression
+https://en.wikipedia.org/wiki/Poland
 https://en.wikipedia.org/wiki/Polar_decomposition
 https://en.wikipedia.org/wiki/Polarization_(waves)
 https://en.wikipedia.org/wiki/Polarizer#Malus's_law_and_other_properties
@@ -15864,6 +15874,7 @@ https://en.wikipedia.org/wiki/Police_state
 https://en.wikipedia.org/wiki/Polis
 https://en.wikipedia.org/wiki/Polish_Enigma_double
 https://en.wikipedia.org/wiki/Polish_Enlightenment
+https://en.wikipedia.org/wiki/Polish_Golden_Age
 https://en.wikipedia.org/wiki/Polish_historical_regions
 https://en.wikipedia.org/wiki/Polish_language
 https://en.wikipedia.org/wiki/Polish_literature
@@ -17121,6 +17132,7 @@ https://en.wikipedia.org/wiki/Rydberg_formula
 https://en.wikipedia.org/wiki/Ryszard_Syski
 https://en.wikipedia.org/wiki/Ryuk_(ransomware)
 https://en.wikipedia.org/wiki/Ryzen
+https://en.wikipedia.org/wiki/Rzeczpospolita
 https://en.wikipedia.org/wiki/S_(programming_language)
 https://en.wikipedia.org/wiki/S_corporation
 https://en.wikipedia.org/wiki/S-attributed_grammar
@@ -17308,6 +17320,7 @@ https://en.wikipedia.org/wiki/Second_Foundation
 https://en.wikipedia.org/wiki/Second_law_of_thermodynamics
 https://en.wikipedia.org/wiki/Second_partial_derivative_test
 https://en.wikipedia.org/wiki/Second_Persian_invasion_of_Greece
+https://en.wikipedia.org/wiki/Second_Polish_Republic
 https://en.wikipedia.org/wiki/Second_Reality
 https://en.wikipedia.org/wiki/Second_source
 https://en.wikipedia.org/wiki/Second_Temple
@@ -17546,6 +17559,7 @@ https://en.wikipedia.org/wiki/Siemens
 https://en.wikipedia.org/wiki/Siemens_Nixdorf
 https://en.wikipedia.org/wiki/Sieve_theory
 https://en.wikipedia.org/wiki/SIGABA
+https://en.wikipedia.org/wiki/Sigismund_II_Augustus
 https://en.wikipedia.org/wiki/Sigismund_III_Vasa
 https://en.wikipedia.org/wiki/Sigma_approximation
 https://en.wikipedia.org/wiki/SIGMOD
@@ -18444,6 +18458,7 @@ https://en.wikipedia.org/wiki/SystemVerilog
 https://en.wikipedia.org/wiki/Systolic_array
 https://en.wikipedia.org/wiki/Syukuro_Manabe
 https://en.wikipedia.org/wiki/Szczecin
+https://en.wikipedia.org/wiki/Szlachta
 https://en.wikipedia.org/wiki/T_(programming_language)
 https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
 https://en.wikipedia.org/wiki/T-Mobile_International_AG
@@ -19592,6 +19607,7 @@ https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
 https://en.wikipedia.org/wiki/VIGRA
 https://en.wikipedia.org/wiki/Vijay_Vazirani
 https://en.wikipedia.org/wiki/Vilfredo_Pareto
+https://en.wikipedia.org/wiki/Vilnius
 https://en.wikipedia.org/wiki/Vinagre
 https://en.wikipedia.org/wiki/Vincent_Poor
 https://en.wikipedia.org/wiki/Vincent_Rijmen
