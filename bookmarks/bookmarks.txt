@@ -2553,6 +2553,7 @@ https://cs.uwaterloo.ca/~kogeddes/
 https://cs.uwaterloo.ca/~mwg/
 https://cs.uwaterloo.ca/~shallit/
 https://cs.uwaterloo.ca/~smwatt/
+https://cs.uwaterloo.ca/research/research-areas/computer-algebra-and-symbolic-computation
 https://cs155.stanford.edu/
 https://cs155.stanford.edu/syllabus.html
 https://cs3110.github.io/textbook/cover.html
@@ -23255,6 +23256,7 @@ https://hadoop.apache.org/
 https://hal.science/
 https://hal.science/browse/portal
 https://hal.science/hal-00113779
+https://hal.science/hal-00702634v1
 https://hal.science/tel-01223284
 https://hammerjs.github.io/
 https://handbook.mit.edu/
@@ -25723,6 +25725,7 @@ https://link.springer.com/book/10.1007/978-3-662-03983-0
 https://link.springer.com/book/10.1007/978-3-662-04053-9
 https://link.springer.com/book/10.1007/978-3-662-05078-1
 https://link.springer.com/book/10.1007/978-3-662-05269-3
+https://link.springer.com/book/10.1007/978-3-662-05355-3
 https://link.springer.com/book/10.1007/978-3-662-05441-3
 https://link.springer.com/book/10.1007/978-3-662-07807-5
 https://link.springer.com/book/10.1007/978-3-662-07964-5
@@ -25759,6 +25762,7 @@ https://link.springer.com/book/10.1007/978-3-662-65875-8
 https://link.springer.com/book/10.1007/978-3-662-67495-6
 https://link.springer.com/book/10.1007/978-3-663-05925-7
 https://link.springer.com/book/10.1007/978-3-663-12057-5
+https://link.springer.com/book/10.1007/978-3-7091-0445-3
 https://link.springer.com/book/10.1007/978-3-7091-6571-3
 https://link.springer.com/book/10.1007/978-3-7091-7551-4
 https://link.springer.com/book/10.1007/978-4-431-55978-8
@@ -28539,10 +28543,12 @@ https://rigaux.org/hexedit.html
 https://ringzer0ctf.com/
 https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html
 https://risc.jku.at/
+https://risc.jku.at/courses/
 https://risc.jku.at/m/franz-winkler/
 https://risc.jku.at/phd-studies/
 https://risc.jku.at/research_topic/computer-algebra-for-differential-equations/
 https://risc.jku.at/study-at-risc/
+https://risc.jku.at/studying-symbolic-computation/
 https://riscv-programming.org/
 https://riscv-programming.org/ale/
 https://riscv-programming.org/book.html
@@ -30053,6 +30059,7 @@ https://uwaterloo.ca/applied-mathematics/research-areas/mathematical-physics
 https://uwaterloo.ca/applied-mathematics/research-areas/scientific-computing
 https://uwaterloo.ca/combinatorics-and-optimization/
 https://uwaterloo.ca/computational-mathematics/
+https://uwaterloo.ca/computational-mathematics/people-profiles/category/69
 https://uwaterloo.ca/cybersecurity-privacy-institute/
 https://uwaterloo.ca/math/
 https://uwaterloo.ca/pure-mathematics/
@@ -30721,6 +30728,7 @@ https://www.baeldung.com/linux/process-vs-thread
 https://www.baeza.cl/mir2ed/
 https://www.base64decode.org/
 https://www.base64encode.org/
+https://www.bath.ac.uk/research-groups/mathematical-foundations-of-computation/
 https://www.bathsheba.com/
 https://www.bbc.co.uk/archive/tomorrows-world/zrkpwty
 https://www.bbc.co.uk/programmes/p00yh2rc
@@ -32961,6 +32969,7 @@ https://www.idea.int/democracytracker/country/costa-rica
 https://www.idea.int/gsod/gsod
 https://www.ids-mannheim.de/
 https://www.ids-mannheim.de/en/digspra/corpus-linguistics/projects/corpus-development/
+https://www.idsr.uni-stuttgart.de/en/research/
 https://www.iea.org/
 https://www.iea.org/data-and-statistics
 https://www.iea.org/energy-system/buildings/data-centres-and-data-transmission-networks
@@ -33702,6 +33711,9 @@ https://www.mathematik.tu-darmstadt.de/optimierung/arbeitsgruppe_optimierung/
 https://www.mathematik.tu-darmstadt.de/optimierung/arbeitsgruppe_optimierung/index.de.jsp
 https://www.mathematik.tu-darmstadt.de/optimierung/arbeitsgruppe_optimierung/personen_1/former_staff_members/habeck_oliver_1.en.jsp
 https://www.mathematik.tu-darmstadt.de/optimierung/forschung/discrete_optimization_1/index.de.jsp
+https://www.mathematik.uni-kassel.de//~koepf/ISAAC2001/CA.html
+https://www.mathematik.uni-kassel.de/~koepf/
+https://www.mathematik.uni-kassel.de/~koepf/iiperson.html
 https://www.mathematik.uni-muenchen.de/~forster/
 https://www.mathematik.uni-muenchen.de/~forster/sw/aribas.html
 https://www.mathi.uni-heidelberg.de/~vdisarlo/hgds/ilia_luca_merged.pdf
@@ -35399,6 +35411,7 @@ https://www.sciencedirect.com/science/article/pii/S0315086009001360
 https://www.sciencedirect.com/science/article/pii/S0315086084710317?via%3Dihub
 https://www.sciencedirect.com/science/article/pii/S0377042700004222
 https://www.sciencedirect.com/science/article/pii/S0747717102001372
+https://www.sciencedirect.com/science/article/pii/S0747717105000295
 https://www.sciencedirect.com/science/article/pii/S0747717109001357
 https://www.sciencedirect.com/science/article/pii/S0747717185710061
 https://www.sciencedirect.com/science/article/pii/S0747717189800070
@@ -36272,6 +36285,7 @@ https://www.twilio.com/en-us
 https://www.typedesignclass.com/resources/latin-pangram-list
 https://www.typescriptlang.org/
 https://www.u-blox.com/en/
+https://www.uc.pt/en/fctuc/dmat/ensino/doutoramentoAlgComp
 https://www.ucar.edu/
 https://www.uci.edu/
 https://www.uciexpress.org/
@@ -36933,6 +36947,10 @@ https://www21.in.tum.de/~nipkow/TRaAT/
 https://www3.cs.stonybrook.edu/~has/
 https://www3.cs.stonybrook.edu/~skiena/quant-shop/
 https://www3.nhk.or.jp/nhkworld/
+https://www3.risc.jku.at/education/courses/ss2014/ComputerAnalysis/
+https://www3.risc.jku.at/education/courses/ss2021/ComputerAnalysis/
+https://www3.risc.jku.at/education/courses/ss2023/ComputerAnalysis/
+https://www3.risc.jku.at/education/phd/phd.html
 https://www3.risc.jku.at/people/winkler/
 https://www3.risc.jku.at/publications/download/risc_3531/paper_36.pdf
 https://www8.cs.fau.de/teaching/rewr/
