@@ -1051,6 +1051,7 @@ https://arxiv.org/abs/2403.03998
 https://arxiv.org/abs/cs/0610105
 https://arxiv.org/abs/physics/0106045
 https://arxiv.org/abs/physics/0208101
+https://arxiv.org/abs/quant-ph/9908043
 https://arxiv.org/archive/cs
 https://arxiv.org/archive/econ
 https://arxiv.org/archive/eess
@@ -2037,6 +2038,7 @@ https://cosefin.org/
 https://cosmosmagazine.com/
 https://couchdb.apache.org/
 https://council.science/
+https://courage.fandom.com/wiki/The_Chicken_from_Outer_Space
 https://course.dyalog.com/
 https://course.fast.ai/
 https://courses.cs.washington.edu/courses/csep590/06wi/
@@ -4561,6 +4563,7 @@ https://en.cppreference.com/w/cpp/named_req
 https://en.cppreference.com/w/cpp/numeric/linalg
 https://en.cppreference.com/w/cpp/numeric/random
 https://en.ilmatieteenlaitos.fi/
+https://en.m.wikipedia.org/wiki/Physics_of_computation
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms
 https://en.wikibooks.org/wiki/Type-oriented_programming
 https://en.wikichip.org/wiki/population_count
@@ -8149,6 +8152,7 @@ https://en.wikipedia.org/wiki/Counterintelligence_state
 https://en.wikipedia.org/wiki/Counting_Bloom_filter
 https://en.wikipedia.org/wiki/Coupling_(electronics)
 https://en.wikipedia.org/wiki/Coupon_collector%27s_problem
+https://en.wikipedia.org/wiki/Courage_the_Cowardly_Dog
 https://en.wikipedia.org/wiki/Courant%E2%80%93Friedrichs%E2%80%93Lewy_condition
 https://en.wikipedia.org/wiki/Courcelle%27s_theorem
 https://en.wikipedia.org/wiki/Courrier_International
@@ -12992,6 +12996,7 @@ https://en.wikipedia.org/wiki/List_of_countries_by_irreligion
 https://en.wikipedia.org/wiki/List_of_countries_by_median_age
 https://en.wikipedia.org/wiki/List_of_countries_by_tertiary_education_attainment
 https://en.wikipedia.org/wiki/List_of_countries_by_total_wealth
+https://en.wikipedia.org/wiki/List_of_Courage_the_Cowardly_Dog_episodes
 https://en.wikipedia.org/wiki/List_of_creation_myths
 https://en.wikipedia.org/wiki/List_of_creepypastas
 https://en.wikipedia.org/wiki/List_of_cryptographers
@@ -13607,6 +13612,7 @@ https://en.wikipedia.org/wiki/Maclisp
 https://en.wikipedia.org/wiki/MacOS
 https://en.wikipedia.org/wiki/Macro_(computer_science)
 https://en.wikipedia.org/wiki/Macroeconomics
+https://en.wikipedia.org/wiki/Macroscopic_quantum_self-trapping
 https://en.wikipedia.org/wiki/Macross
 https://en.wikipedia.org/wiki/Macsyma
 https://en.wikipedia.org/wiki/MacTutor_History_of_Mathematics_Archive
@@ -17716,6 +17722,7 @@ https://en.wikipedia.org/wiki/SLEPc
 https://en.wikipedia.org/wiki/Sliced_inverse_regression
 https://en.wikipedia.org/wiki/Slide_rule
 https://en.wikipedia.org/wiki/Sliding_puzzle
+https://en.wikipedia.org/wiki/Slow_light
 https://en.wikipedia.org/wiki/Slowcore
 https://en.wikipedia.org/wiki/Sludge_metal
 https://en.wikipedia.org/wiki/Small_multiple
@@ -25028,6 +25035,7 @@ https://link.springer.com/article/10.1007/BF01931367
 https://link.springer.com/article/10.1007/BF02136827
 https://link.springer.com/article/10.1007/BF02234758
 https://link.springer.com/article/10.1007/BF02252870
+https://link.springer.com/article/10.1007/BF02650179
 https://link.springer.com/article/10.1007/BF03023053
 https://link.springer.com/article/10.1007/BF03024068
 https://link.springer.com/article/10.1007/BF03024085
@@ -26680,6 +26688,7 @@ https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data
 https://mistral.ai/
 https://mit6875.github.io/
 https://mitadmissions.org/help/faq/motto-mens-et-manus/
+https://mitendicotthouse.org/physics-computation-conference/
 https://mitgcm.org/
 https://mitliagkas.github.io/ift6085-2018/student_slides/IFT6085_Presentation_IB.pdf
 https://mitmproxy.org/
@@ -26884,6 +26893,7 @@ https://ncbi.nlm.nih.gov/
 https://nces.ed.gov/
 https://ncses.nsf.gov/
 https://neglectedbooks.com/
+https://nemocas.github.io/Nemo.jl/stable/
 https://neo4j.com/
 https://neon.kde.org/
 https://neos-guide.org/
@@ -27972,6 +27982,7 @@ https://poissonreg.tidymodels.org/
 https://pola.rs/
 https://polis.stanford.edu/
 https://politiqueinternationale.com/
+https://polymake.org/doku.php
 https://polymake.org/doku.php/start
 https://polytechnique.hal.science/
 https://polytechnique.hal.science/hal-00760976
@@ -28642,6 +28653,7 @@ https://rpm-software-management.github.io/
 https://rpm.org/
 https://rpmfusion.org/
 https://rpostgres.r-dbi.org/
+https://rptu.de/
 https://rpubs.com/
 https://rpubs.com/aaronsc32/singular-value-decomposition-r
 https://rpubs.com/mingo1226/hmm
@@ -31417,6 +31429,10 @@ https://www.computer.org/publications/tech-news
 https://www.computer.org/publications/tech-news/on-architecture
 https://www.computer.org/publications/tech-news/on-computing
 https://www.computer.org/publications/tech-news/silver-bullet
+https://www.computeralgebra.de/
+https://www.computeralgebra.de/sfb/
+https://www.computeralgebra.de/sfb/software/
+https://www.computeralgebra.de/spp/
 https://www.computerhistory.org/babbage/charlesbabbage/
 https://www.computerhistory.org/revolution/analog-computers/3/143
 https://www.computerhistory.org/revolution/analog-computers/3/150
@@ -31818,6 +31834,7 @@ https://www.devuan.org/os/init-freedom
 https://www.devuan.org/os/install
 https://www.devuan.org/os/packages
 https://www.devuan.org/os/team
+https://www.dfg.de/
 https://www.dfg.de/foerderung/programme/einzelfoerderung/heisenberg/
 https://www.dfn.de/
 https://www.dhs.gov/
@@ -33046,6 +33063,7 @@ https://www.imdb.com/
 https://www.imdb.com/name/nm0000399/
 https://www.imdb.com/title/tt0104779/
 https://www.imdb.com/title/tt0106179/
+https://www.imdb.com/title/tt0112661/
 https://www.imdb.com/title/tt0113568/
 https://www.imdb.com/title/tt0142688/
 https://www.imdb.com/title/tt0360486/
@@ -34050,6 +34068,7 @@ https://www.nationalarchives.gov.uk/
 https://www.nationalgeographic.com/
 https://www.nature.com/
 https://www.nature.com/articles/323533a0
+https://www.nature.com/articles/35023282
 https://www.nature.com/articles/432823a
 https://www.nature.com/articles/476145a
 https://www.nature.com/articles/d41586-021-02134-0
@@ -34525,6 +34544,7 @@ https://www.orfeo-toolbox.org/
 https://www.orfonline.org/expert-speak/nordic-countries-and-urban-local-governance-architecture/
 https://www.ornl.gov/
 https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/you-and-the-atom-bomb/
+https://www.oscar-system.org/
 https://www.oscollective.org/
 https://www.osfc.io/
 https://www.osgeo.org/
@@ -34962,7 +34982,6 @@ https://www.reddit.com/r/cpp/
 https://www.reddit.com/r/cryptography/comments/scb6pm/information_and_learning_resources_for/
 https://www.reddit.com/r/datascience/
 https://www.reddit.com/r/golang/
-https://www.reddit.com/r/mpiedrav/
 https://www.reddit.com/r/optimization/comments/ykbrk9/books_on_optimization/
 https://www.reddit.com/r/ProgrammingLanguages/
 https://www.reddit.com/r/ProgrammingLanguages/comments/ays7d7/languages_used_to_implement_compilers/
@@ -34973,7 +34992,6 @@ https://www.reddit.com/r/scifi/comments/rbo4la/is_there_much_economics_fiction_o
 https://www.reddit.com/r/statistics/
 https://www.reddit.com/r/statistics/comments/itzgch/is_it_worth_struggling_to_understand_casella_and/
 https://www.reddit.com/r/uBlockOrigin/comments/173jmog/youtube_antiadblock_and_ads_october_09_2023/
-https://www.reddit.com/user/mpiedrav32/
 https://www.redhat.com/en
 https://www.redhat.com/en/blog/jose-json-object-signing-and-encryption
 https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
@@ -35248,6 +35266,7 @@ https://www.ruhrsec.de/2023/
 https://www.ruhrsec.de/2025/
 https://www.rust-lang.org/
 https://www.rust-lang.org/learn
+https://www.rwth-aachen.de/
 https://www.sagemath.org/
 https://www.sagemath.org/sagebook/
 https://www.sagemath.org/sagebook/english.html
@@ -36197,6 +36216,7 @@ https://www.theverge.com/22691965/lenovo-thinkpad-x1-carbon-gen-9-review-design-
 https://www.theverge.com/23578430/chip-war-chris-miller-asml-intel-apple-samsung-us-china-decoder
 https://www.think-silicon.com/
 https://www.thisamericanlife.org/
+https://www.thofma.com/Hecke.jl/stable/
 https://www.thoughtworks.com/insights/books/fluent-python-2nd-edition
 https://www.thoughtworks.com/radar
 https://www.thunderbird.net/en-US/
@@ -36398,6 +36418,7 @@ https://www.uni-koeln.de/
 https://www.uni-leipzig.de/
 https://www.uni-mainz.de/
 https://www.uni-muenster.de/
+https://www.uni-saarland.de/
 https://www.uni-siegen.de/start/
 https://www.uni-ulm.de/mawi/mawi-or/
 https://www.uni-wuerzburg.de/
