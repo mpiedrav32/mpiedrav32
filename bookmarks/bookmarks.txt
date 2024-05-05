@@ -2814,6 +2814,7 @@ https://dblp.org/db/journals/ieeesp/index.html
 https://dblp.org/db/series/lncs/lncs13900.html
 https://dblp.org/faq/What+is+the+meaning+of+the+acronym+dblp.html
 https://dblp.org/pid/03/1878.html
+https://dblp.org/pid/152/5845.html
 https://dblp.org/pid/16/6954.html
 https://dblp.org/pid/183/6329.html
 https://dblp.org/pid/19/1165.html
@@ -3492,6 +3493,7 @@ https://dl.acm.org/doi/abs/10.1145/128765.128770
 https://dl.acm.org/doi/abs/10.1145/1566445.1566537
 https://dl.acm.org/doi/abs/10.1145/2678373.2665740
 https://dl.acm.org/doi/abs/10.1145/3309544
+https://dl.acm.org/doi/abs/10.1145/3373376.3378449
 https://dl.acm.org/doi/abs/10.1145/3394486.3403132
 https://dl.acm.org/doi/abs/10.1145/3412439
 https://dl.acm.org/doi/abs/10.1145/3431282
@@ -13030,6 +13032,7 @@ https://en.wikipedia.org/wiki/List_of_environmental_economics_journals
 https://en.wikipedia.org/wiki/List_of_environmental_journals
 https://en.wikipedia.org/wiki/List_of_environmental_social_science_journals
 https://en.wikipedia.org/wiki/List_of_epic_poems
+https://en.wikipedia.org/wiki/List_of_eponyms_of_special_functions
 https://en.wikipedia.org/wiki/List_of_equations
 https://en.wikipedia.org/wiki/List_of_equations_in_classical_mechanics
 https://en.wikipedia.org/wiki/List_of_ethics_journals
@@ -23047,6 +23050,7 @@ https://graphql.org/
 https://graphviz.org/
 https://graydon2.dreamwidth.org/307291.html
 https://greatscottgadgets.com/pocorgtfo/
+https://greekreporter.com/2024/02/08/liver-emotions-ancient-greeks/
 https://greenplum.org/
 https://greenteapress.com/wp/
 https://greenteapress.com/wp/data-structures-and-information-retrieval-in-python/
@@ -24030,6 +24034,7 @@ https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031020
 https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.51.447
 https://journals.bmj.com/home
 https://journals.openedition.org/rfcb/1662
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004020
 https://journals.plos.org/plosone/
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140
 https://journals.sagepub.com/
@@ -26603,6 +26608,12 @@ https://medium.com/kaggle-blog
 https://medium.com/machine-learning-for-humans/neural-networks-deep-learning-cdad8aeae49b
 https://medium.com/octavian-ai/finding-shortest-paths-with-graph-networks-807c5bbfc9c8
 https://medlineplus.gov/
+https://medlineplus.gov/lab-tests/
+https://medlineplus.gov/lab-tests/alkaline-phosphatase/
+https://medlineplus.gov/lab-tests/comprehensive-metabolic-panel-cmp/
+https://medlineplus.gov/lab-tests/d-dimer-test/
+https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/
+https://medlineplus.gov/lab-tests/liver-function-tests/
 https://medriscoll.com/
 https://meetings.informs.org/wordpress/wsc2023/
 https://mega65.org/
@@ -27703,6 +27714,7 @@ https://people.csail.mit.edu/jaffer/WB
 https://people.csail.mit.edu/rivest/
 https://people.csail.mit.edu/rivest/pubs/RSW96.pdf
 https://people.csail.mit.edu/rrw/
+https://people.csail.mit.edu/sachour/
 https://people.csail.mit.edu/sanchez/
 https://people.csail.mit.edu/sanchez/papers/2016.cachecalc.cal.pdf
 https://people.csail.mit.edu/shafi/
@@ -28063,6 +28075,8 @@ https://press.princeton.edu/series/princeton-mathematical-series
 https://press.princeton.edu/series/the-princeton-history-of-the-ancient-world
 https://press.princeton.edu/subjects/ancient-world
 https://press.princeton.edu/subjects/physics-astronomy
+https://press.stripe.com/
+https://press.stripe.com/the-art-of-doing-science-and-engineering
 https://press.stripe.com/the-dream-machine
 https://pretextbook.org/
 https://primes.utm.edu/
@@ -28758,6 +28772,7 @@ https://scheme.fail/
 https://scholar.google.co.uk/citations?user=RLCyYG0AAAAJ&hl=en
 https://scholar.google.com/citations?user=AxFrw0sAAAAJ
 https://scholar.google.com/citations?user=hkJ7xKwAAAAJ&hl=en
+https://scholar.google.com/citations?user=J-5mJ7AAAAAJ
 https://scholar.google.com/citations?user=kFbFJqIAAAAJ&hl=en
 https://scholar.google.com/citations?user=S6H-0RAAAAAJ&hl=en
 https://scholar.google.com/citations?user=se0TZ2EAAAAJ&hl=en
@@ -29721,6 +29736,7 @@ https://texteditors.org/cgi-bin/wiki.pl?Sam
 https://textrecipes.tidymodels.org/
 https://tgockel.github.io/json-voorhees/
 https://the-analog-thing.org/
+https://the-analog-thing.org/docs/dirhtml/rst/basics_programming/
 https://the-analog-thing.org/wiki/Hybrid_Computer
 https://theaidigest.org/progress-and-dangers
 https://theaircurrent.com/
@@ -31290,6 +31306,7 @@ https://www.classicfm.com/
 https://www.classicfm.com/composers/beethoven/guides/beethovens-music-string-quartets/
 https://www.classicfm.com/discover-music/music-theory/why-are-there-only-12-notes-in-western-music/
 https://www.cleanenergywire.org/
+https://www.clear.rice.edu/elec301/Projects99/anlgcomp/
 https://www.cliki.net/
 https://www.cliki.net/cryptography
 https://www.cliki.net/favorite%20Lisp%20books
@@ -31589,6 +31606,7 @@ https://www.cs.utexas.edu/users/moore/acl2/
 https://www.cs.virginia.edu/~evans/cs216/
 https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 https://www.cs.virginia.edu/~evans/greatworks/
+https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 https://www.cs.waikato.ac.nz/ml/weka/
 https://www.cs.waikato.ac.nz/ml/weka/book.html
 https://www.cs.yale.edu/homes/spielman/
@@ -31751,6 +31769,7 @@ https://www.degruyter.com/document/doi/10.1515/9781400830329/html
 https://www.degruyter.com/document/doi/10.1515/9781400842643/html
 https://www.degruyter.com/document/doi/10.1515/9781400873173/html
 https://www.degruyter.com/document/doi/10.1515/9783110652864/html
+https://www.degruyter.com/document/doi/10.1515/9783110662207/html
 https://www.degruyter.com/document/doi/10.1515/9783110780147/html
 https://www.degruyter.com/document/doi/10.1515/9783110787733/html
 https://www.degruyter.com/document/doi/10.1515/9783110787740/html
@@ -32480,6 +32499,7 @@ https://www.goodreads.com/author/show/47220.Jerrold_E_Marsden
 https://www.goodreads.com/author/show/518918.Steven_S_Skiena
 https://www.goodreads.com/author/show/5521280.John_W_Tukey
 https://www.goodreads.com/author/show/5780686.Liu_Cixin
+https://www.goodreads.com/author/show/83670.Richard_Hamming
 https://www.goodreads.com/author/similar/8352974.qntm
 https://www.goodreads.com/book/show/1002449.Matrix_analysis_and_applied_linear_algebra
 https://www.goodreads.com/book/show/1020884.A_Manual_of_Greek_Mathematics
@@ -32500,6 +32520,7 @@ https://www.goodreads.com/book/show/119399.Introduction_to_Probability_Models
 https://www.goodreads.com/book/show/1229768.A_Survey_of_Modern_Algebra
 https://www.goodreads.com/book/show/1258635.The_Variational_Principles_of_Mechanics
 https://www.goodreads.com/book/show/12933654-d-is-for-digital
+https://www.goodreads.com/book/show/13206986-introduction-to-applied-numerical-analysis
 https://www.goodreads.com/book/show/1322446.Formal_Semantics_of_Programming_Languages
 https://www.goodreads.com/book/show/13413455-software-foundations
 https://www.goodreads.com/book/show/1352341.Nonlinear_Programming
@@ -32509,6 +32530,7 @@ https://www.goodreads.com/book/show/138562.Computational_Complexity
 https://www.goodreads.com/book/show/1414631.Trigonometry
 https://www.goodreads.com/book/show/1416956.Semantics_of_Programming_Languages
 https://www.goodreads.com/book/show/1445306.Introduction_to_Linear_Regression_Analysis
+https://www.goodreads.com/book/show/144731.Digital_Filters
 https://www.goodreads.com/book/show/145057.Approximation_Algorithms
 https://www.goodreads.com/book/show/145096.Ideals_Varieties_and_Algorithms
 https://www.goodreads.com/book/show/145292.Introduction_to_Electrodynamics
@@ -32557,6 +32579,7 @@ https://www.goodreads.com/book/show/2111739.Exploratory_Data_Analysis
 https://www.goodreads.com/book/show/2140100.Algebra
 https://www.goodreads.com/book/show/214442.The_Thirteen_Books_of_the_Elements_Books_1_2
 https://www.goodreads.com/book/show/2170934.Ampl
+https://www.goodreads.com/book/show/2254983.Methods_of_Mathematics_Applied_to_Calculus_Probability_and_Statistics
 https://www.goodreads.com/book/show/22578860-advanced-r
 https://www.goodreads.com/book/show/22693086-the-invention-of-science
 https://www.goodreads.com/book/show/22800567-fluent-python
@@ -32589,6 +32612,7 @@ https://www.goodreads.com/book/show/2696.The_Canterbury_Tales
 https://www.goodreads.com/book/show/2710459-calculus-iii
 https://www.goodreads.com/book/show/2787343-understanding-robust-and-exploratory-data-analysis
 https://www.goodreads.com/book/show/282035.Calculus_Volume_1
+https://www.goodreads.com/book/show/28205242-you-and-your-research
 https://www.goodreads.com/book/show/284369.Computers_and_Intractability
 https://www.goodreads.com/book/show/28474669-recommender-systems
 https://www.goodreads.com/book/show/2914066-programming
@@ -32619,7 +32643,9 @@ https://www.goodreads.com/book/show/35179180-r-for-data-science
 https://www.goodreads.com/book/show/35684978-the-book-of-poc-gtfo
 https://www.goodreads.com/book/show/36265193-serious-cryptography
 https://www.goodreads.com/book/show/3652866-the-implementation-of-functional-programming-languages
+https://www.goodreads.com/book/show/3715097-coding-and-information-theory
 https://www.goodreads.com/book/show/3715561-the-statistical-analysis-of-time-series
+https://www.goodreads.com/book/show/38296777-analog-computer-programming
 https://www.goodreads.com/book/show/383472.Statistical_Inference
 https://www.goodreads.com/book/show/38366113-introduction-to-applied-linear-algebra
 https://www.goodreads.com/book/show/38533694-poc-or-gtfo-volume-2
@@ -32649,12 +32675,14 @@ https://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style
 https://www.goodreads.com/book/show/457284.Decrypted_Secrets
 https://www.goodreads.com/book/show/470691.Calculus_I
 https://www.goodreads.com/book/show/475858.The_Seasoned_Schemer
+https://www.goodreads.com/book/show/4781971-introduction-to-analog-computer-programming
 https://www.goodreads.com/book/show/485812.Broca_s_Brain
 https://www.goodreads.com/book/show/486966.Probability_and_Computing
 https://www.goodreads.com/book/show/48809034-geometry
 https://www.goodreads.com/book/show/51019857-measure-integration-real-analysis
 https://www.goodreads.com/book/show/51031302-calculus-ii
 https://www.goodreads.com/book/show/51131998-poc-or-gtfo-volume-3
+https://www.goodreads.com/book/show/51275579-analog-and-hybrid-computer-programming
 https://www.goodreads.com/book/show/515601.The_C_Programming_Language
 https://www.goodreads.com/book/show/515602.Software_Tools_in_Pascal
 https://www.goodreads.com/book/show/515603.Software_Tools
@@ -32662,6 +32690,8 @@ https://www.goodreads.com/book/show/517233.Introduction_to_Probability
 https://www.goodreads.com/book/show/52734743-linear-algebra-and-optimization-for-machine-learning
 https://www.goodreads.com/book/show/53000876-contact
 https://www.goodreads.com/book/show/53011383-unix
+https://www.goodreads.com/book/show/530415.The_Art_of_Doing_Science_and_Engineering
+https://www.goodreads.com/book/show/53116371-the-unreasonable-effectiveness-of-mathematics
 https://www.goodreads.com/book/show/53599283-statistical-rethinking
 https://www.goodreads.com/book/show/53798.Calculus_Volume_2
 https://www.goodreads.com/book/show/53800.Mathematical_Analysis
@@ -33242,6 +33272,7 @@ https://www.johndcook.com/blog/tag/information-theory/
 https://www.joonet.de/lilo/
 https://www.jooq.org/
 https://www.josuttis.com/
+https://www.journal-of-hepatology.eu/article/S0168-8278(11)00494-6/fulltext
 https://www.journalofdemocracy.org/
 https://www.jpl.nasa.gov/
 https://www.jpryan.me/dartbyexample/
@@ -34025,10 +34056,13 @@ https://www.nature.com/articles/d41586-021-02134-0
 https://www.nature.com/articles/d41586-021-02903-x
 https://www.nature.com/articles/d41586-022-00702-6
 https://www.nature.com/articles/d41586-022-00858-1
+https://www.nature.com/articles/d41586-022-04201-6
 https://www.nature.com/articles/d41586-023-00340-6
 https://www.nature.com/articles/d41586-023-01295-4
+https://www.nature.com/articles/d41586-023-01938-6
 https://www.nature.com/articles/d41586-023-02159-7
 https://www.nature.com/articles/d41586-023-02477-w
+https://www.nature.com/articles/d41586-023-02646-x
 https://www.nature.com/articles/d41586-023-02873-2
 https://www.nature.com/articles/d41586-023-02980-0
 https://www.nature.com/articles/d41586-023-03046-x
@@ -34095,6 +34129,7 @@ https://www.nature.com/articles/s44287-023-00005-6
 https://www.nature.com/articles/srep00725
 https://www.nature.com/natmachintell/
 https://www.nature.com/nature-index/news/ten-most-common-mistakes-with-statistics-and-how-to-avoid-them
+https://www.nature.com/nature/collections
 https://www.nature.com/nature/current-issue
 https://www.nature.com/nature/research-articles
 https://www.nature.com/nature/volumes/623/issues/7988
@@ -34104,6 +34139,23 @@ https://www.nature.com/news/the-chips-are-down-for-moore-s-law-1.19338
 https://www.nature.com/nphys/
 https://www.nature.com/npjurbansustain/
 https://www.nature.com/srep/
+https://www.nature.com/subjects
+https://www.nature.com/subjects/astronomy-and-planetary-science/nature
+https://www.nature.com/subjects/chemistry/nature
+https://www.nature.com/subjects/computer-science
+https://www.nature.com/subjects/computer-science/nature
+https://www.nature.com/subjects/energy-science-and-technology/nature
+https://www.nature.com/subjects/engineering/nature
+https://www.nature.com/subjects/materials-science/nature
+https://www.nature.com/subjects/mathematics-and-computing
+https://www.nature.com/subjects/mathematics-and-computing/nature
+https://www.nature.com/subjects/nanoscience-and-technology/nature
+https://www.nature.com/subjects/optics-and-photonics/nature
+https://www.nature.com/subjects/physical-sciences
+https://www.nature.com/subjects/physical-sciences/nature
+https://www.nature.com/subjects/physics
+https://www.nature.com/subjects/physics/nature
+https://www.nature.com/subjects/pure-mathematics/nature
 https://www.naut.ca/blog/2019/05/07/notes-on-neural-ordinary-differential-equations/
 https://www.nbcnews.com/
 https://www.nbcnews.com/tech/cyber-security
@@ -35214,6 +35266,7 @@ https://www.sans.org/newsletters/newsbites/
 https://www.santafe.edu/research/projects/thermodynamics-computation
 https://www.santafe.edu/research/results/working-papers/no-free-lunch-theorems-for-search
 https://www.sap.com/products/technology-platform/crystal-reports.html
+https://www.sara-achour.me/
 https://www.sbcl.org/
 https://www.scala-exercises.org/
 https://www.scala-lang.org/
@@ -35393,6 +35446,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0169207006000021?via%3Dih
 https://www.sciencedirect.com/science/article/abs/pii/S0169207006000239?via%3Dihub
 https://www.sciencedirect.com/science/article/abs/pii/S016975529800110X
 https://www.sciencedirect.com/science/article/abs/pii/S036054421830879X
+https://www.sciencedirect.com/science/article/abs/pii/S0747717120300924
 https://www.sciencedirect.com/science/article/abs/pii/S0893608002000679
 https://www.sciencedirect.com/science/article/abs/pii/S0893608014002135
 https://www.sciencedirect.com/science/article/abs/pii/S0925231212006571
@@ -35425,6 +35479,7 @@ https://www.sciencedirect.com/science/article/pii/S0167642313001251
 https://www.sciencedirect.com/science/article/pii/S0167642313002980
 https://www.sciencedirect.com/science/article/pii/S0167739X16301856
 https://www.sciencedirect.com/science/article/pii/S0167819197001142?via%3Dihub
+https://www.sciencedirect.com/science/article/pii/S0168827810003259
 https://www.sciencedirect.com/science/article/pii/S0315086009001360
 https://www.sciencedirect.com/science/article/pii/S0315086084710317?via%3Dihub
 https://www.sciencedirect.com/science/article/pii/S0377042700004222
@@ -36276,6 +36331,7 @@ https://www.trustedfirmware.org/
 https://www.trustedfirmware.org/projects/mbed-tls/
 https://www.tsinghua.edu.cn/en/
 https://www.tsividis.ee.columbia.edu/
+https://www.tsividis.ee.columbia.edu/current-research
 https://www.tsmc.com/english
 https://www.tsmc.com/english/news-events/blog-article-20190814
 https://www.ttmath.org/
@@ -36860,6 +36916,7 @@ https://www.youtube.com/watch?v=jfKfPfyJRdk
 https://www.youtube.com/watch?v=jHoEjvuPoB8
 https://www.youtube.com/watch?v=JISDHjzgGL4
 https://www.youtube.com/watch?v=jkytxdedxhU
+https://www.youtube.com/watch?v=jRyIGtTGxcE
 https://www.youtube.com/watch?v=JSIj5PUrWL4
 https://www.youtube.com/watch?v=lgSDd6Bkatg
 https://www.youtube.com/watch?v=Lt-Xx2CmuQE
