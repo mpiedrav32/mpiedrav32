@@ -2812,6 +2812,7 @@ https://dbi.r-dbi.org/
 https://dblp.org/
 https://dblp.org/db/conf/calculemus/index.html
 https://dblp.org/db/conf/floc/index.html
+https://dblp.org/db/conf/issac/index.html
 https://dblp.org/db/journals/ieeesp/index.html
 https://dblp.org/db/series/lncs/lncs13900.html
 https://dblp.org/faq/What+is+the+meaning+of+the+acronym+dblp.html
@@ -3303,6 +3304,7 @@ https://dl.acm.org/conference/gecco
 https://dl.acm.org/conference/imc
 https://dl.acm.org/conference/ir
 https://dl.acm.org/conference/isca
+https://dl.acm.org/conference/issac
 https://dl.acm.org/conference/iui
 https://dl.acm.org/conference/kdd
 https://dl.acm.org/conference/metrics
@@ -3467,6 +3469,7 @@ https://dl.acm.org/doi/10.1145/6490.6503
 https://dl.acm.org/doi/10.1145/6617.6621
 https://dl.acm.org/doi/10.1145/762471.762473
 https://dl.acm.org/doi/10.1145/77481.77485
+https://dl.acm.org/doi/10.1145/780506.780510
 https://dl.acm.org/doi/10.1145/78969.78972
 https://dl.acm.org/doi/10.1145/800053.801914
 https://dl.acm.org/doi/10.1145/800070.802186
@@ -12169,6 +12172,7 @@ https://en.wikipedia.org/wiki/Journal_des_s%C3%A7avans
 https://en.wikipedia.org/wiki/Journal_of_Climate
 https://en.wikipedia.org/wiki/Journal_of_Computational_and_Graphical_Statistics
 https://en.wikipedia.org/wiki/Journal_of_Cryptology
+https://en.wikipedia.org/wiki/Journal_of_Functional_Programming
 https://en.wikipedia.org/wiki/Journal_of_Geophysical_Research
 https://en.wikipedia.org/wiki/Journal_of_Machine_Learning_Research
 https://en.wikipedia.org/wiki/Journal_of_Open_Source_Software
@@ -30443,6 +30447,8 @@ https://www-isl.stanford.edu/people/cover/
 https://www-labs.iro.umontreal.ca/~lecuyer/
 https://www-math.umd.edu/
 https://www-math.umd.edu/undergraduate/88-math/undergraduate/311-textbook-list.html
+https://www-sop.inria.fr/cafe/
+https://www-sop.inria.fr/cafe/Manuel.Bronstein/
 https://www-sop.inria.fr/indes/fp/Bigloo/
 https://www-users.cse.umn.edu/~saad/software/SPARSKIT/
 https://www.1001fonts.com/
@@ -33226,6 +33232,7 @@ https://www.iso.org/isoiec-27001-information-security.html
 https://www.iso.org/popular-standards.html
 https://www.ispyconnect.com/
 https://www.israelmgelfand.com/
+https://www.issac-conference.org/
 https://www.issn.org/
 https://www.issn.org/services/online-services/access-to-the-ltwa/
 https://www.it4dl.org/
