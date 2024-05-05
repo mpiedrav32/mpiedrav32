@@ -6530,6 +6530,7 @@ https://en.wikipedia.org/wiki/Category:Augustin-Louis_Cauchy
 https://en.wikipedia.org/wiki/Category:Automated_reasoning
 https://en.wikipedia.org/wiki/Category:Automated_theorem_proving
 https://en.wikipedia.org/wiki/Category:Automatic_memory_management
+https://en.wikipedia.org/wiki/Category:Automorphic_forms
 https://en.wikipedia.org/wiki/Category:Autumn_equinox
 https://en.wikipedia.org/wiki/Category:Bases_(chemistry)
 https://en.wikipedia.org/wiki/Category:Bayesian_estimation
@@ -10008,6 +10009,7 @@ https://en.wikipedia.org/wiki/Fourier_sine_and_cosine_series
 https://en.wikipedia.org/wiki/Fourier_transform
 https://en.wikipedia.org/wiki/Fourier%E2%80%93Motzkin_elimination
 https://en.wikipedia.org/wiki/Fourth,_fifth,_and_sixth_derivatives_of_position
+https://en.wikipedia.org/wiki/Fox_H-function
 https://en.wikipedia.org/wiki/Fox_Mulder
 https://en.wikipedia.org/wiki/Foxconn
 https://en.wikipedia.org/wiki/FP_(programming_language)
@@ -12698,6 +12700,7 @@ https://en.wikipedia.org/wiki/Left%E2%80%93right_political_spectrum
 https://en.wikipedia.org/wiki/Leftover_hash_lemma
 https://en.wikipedia.org/wiki/Legal_expert_system
 https://en.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes
+https://en.wikipedia.org/wiki/Legendre_function
 https://en.wikipedia.org/wiki/Legendre_polynomials
 https://en.wikipedia.org/wiki/Legendre_symbol
 https://en.wikipedia.org/wiki/Legendre_transformation
@@ -13097,6 +13100,7 @@ https://en.wikipedia.org/wiki/List_of_home_computers
 https://en.wikipedia.org/wiki/List_of_Homeric_characters
 https://en.wikipedia.org/wiki/List_of_household_surveys_in_the_United_States
 https://en.wikipedia.org/wiki/List_of_humanities_journals
+https://en.wikipedia.org/wiki/List_of_hypergeometric_identities
 https://en.wikipedia.org/wiki/List_of_IBM_Personal_Computer_models
 https://en.wikipedia.org/wiki/List_of_IBM_products
 https://en.wikipedia.org/wiki/List_of_important_publications_in_cryptography
@@ -13954,6 +13958,7 @@ https://en.wikipedia.org/wiki/Meet-in-the-middle_attack
 https://en.wikipedia.org/wiki/Mega_journal
 https://en.wikipedia.org/wiki/Mega_Man
 https://en.wikipedia.org/wiki/Megacity
+https://en.wikipedia.org/wiki/Meijer_G-function
 https://en.wikipedia.org/wiki/Meituan
 https://en.wikipedia.org/wiki/Meizu
 https://en.wikipedia.org/wiki/Melanesia
@@ -14477,6 +14482,7 @@ https://en.wikipedia.org/wiki/Nadir
 https://en.wikipedia.org/wiki/Nag_Hammadi_library
 https://en.wikipedia.org/wiki/NAG_Numerical_Library
 https://en.wikipedia.org/wiki/Nagaoka_University_of_Technology
+https://en.wikipedia.org/wiki/Nagell%E2%80%93Lutz_theorem
 https://en.wikipedia.org/wiki/Nagoya_Institute_of_Technology
 https://en.wikipedia.org/wiki/Nahuatl
 https://en.wikipedia.org/wiki/Naive_Bayes_classifier
@@ -16922,6 +16928,7 @@ https://en.wikipedia.org/wiki/Riemann_hypothesis
 https://en.wikipedia.org/wiki/Riemann_mapping_theorem
 https://en.wikipedia.org/wiki/Riemann_surface
 https://en.wikipedia.org/wiki/Riemann_zeta_function
+https://en.wikipedia.org/wiki/Riemann%27s_differential_equation
 https://en.wikipedia.org/wiki/Riemannian_geometry
 https://en.wikipedia.org/wiki/Riemannian_manifold
 https://en.wikipedia.org/wiki/Riesz_representation_theorem
@@ -19071,6 +19078,7 @@ https://en.wikipedia.org/wiki/Toronto
 https://en.wikipedia.org/wiki/Toronto_Pearson_International_Airport
 https://en.wikipedia.org/wiki/Toronto_School_of_communication_theory
 https://en.wikipedia.org/wiki/Torque
+https://en.wikipedia.org/wiki/Torsion_(algebra)
 https://en.wikipedia.org/wiki/Torx
 https://en.wikipedia.org/wiki/Total_Commander
 https://en.wikipedia.org/wiki/Total_derivative
@@ -19914,6 +19922,7 @@ https://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test
 https://en.wikipedia.org/wiki/Wildberries
 https://en.wikipedia.org/wiki/Wildfire_modeling
 https://en.wikipedia.org/wiki/Wiley_Interdisciplinary_Reviews:_Computational_Statistics
+https://en.wikipedia.org/wiki/Wilf%E2%80%93Zeilberger_pair
 https://en.wikipedia.org/wiki/Wilhelm_Anderson
 https://en.wikipedia.org/wiki/Wilhelm_Lexis
 https://en.wikipedia.org/wiki/Wilks%27s_lambda_distribution
@@ -24814,6 +24823,7 @@ https://library.lol/main/5E9067A8D191DFB6240629FDC409AE8D
 https://library.lol/main/5F1830D03E9FACA1B03C93C04F6C114E
 https://library.lol/main/5F7F84E2963550D897E8E56CAD7C4289
 https://library.lol/main/6010A1ED9B292FA34D283F33000C034F
+https://library.lol/main/605B0A505C690BEA603A0BB7B2B00F87
 https://library.lol/main/621E9E772AD9E797B9957A9EDEEAC1B3
 https://library.lol/main/6371D1FF37F8F03ABA0C4E86CD4086BC
 https://library.lol/main/63E675C6CB18322DD0464AC98848C5B8
@@ -25427,6 +25437,7 @@ https://link.springer.com/book/10.1007/978-3-030-29164-8
 https://link.springer.com/book/10.1007/978-3-030-29414-4
 https://link.springer.com/book/10.1007/978-3-030-32097-3
 https://link.springer.com/book/10.1007/978-3-030-32538-1
+https://link.springer.com/book/10.1007/978-3-030-33143-6
 https://link.springer.com/book/10.1007/978-3-030-33836-7
 https://link.springer.com/book/10.1007/978-3-030-34142-8
 https://link.springer.com/book/10.1007/978-3-030-34372-9
@@ -25456,6 +25467,7 @@ https://link.springer.com/book/10.1007/978-3-030-55193-3
 https://link.springer.com/book/10.1007/978-3-030-56070-6
 https://link.springer.com/book/10.1007/978-3-030-56402-5
 https://link.springer.com/book/10.1007/978-3-030-57592-2
+https://link.springer.com/book/10.1007/978-3-030-58478-8
 https://link.springer.com/book/10.1007/978-3-030-59234-9
 https://link.springer.com/book/10.1007/978-3-030-59242-4
 https://link.springer.com/book/10.1007/978-3-030-59789-4
@@ -34321,6 +34333,7 @@ https://www.nongnu.org/lzip/
 https://www.nongnu.org/oath-toolkit/
 https://www.normaliz.uni-osnabrueck.de/
 https://www.norvig.com/
+https://www.nottingham.ac.uk/csme/meas/papers/yasukawa.html
 https://www.nowpublishers.com/
 https://www.nowpublishers.com/article/Details/DBS-002
 https://www.nowpublishers.com/article/Details/DBS-024
