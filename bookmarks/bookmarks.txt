@@ -3322,6 +3322,7 @@ https://dl.acm.org/doi/10.1145/103162.103163
 https://dl.acm.org/doi/10.1145/1041680.1041681
 https://dl.acm.org/doi/10.1145/1060745.1060754
 https://dl.acm.org/doi/10.1145/1071610.1071612
+https://dl.acm.org/doi/10.1145/1088216.1088219
 https://dl.acm.org/doi/10.1145/116825.116852
 https://dl.acm.org/doi/10.1145/1180405.1180435
 https://dl.acm.org/doi/10.1145/12130.12142
@@ -4567,7 +4568,6 @@ https://en.cppreference.com/w/cpp/named_req
 https://en.cppreference.com/w/cpp/numeric/linalg
 https://en.cppreference.com/w/cpp/numeric/random
 https://en.ilmatieteenlaitos.fi/
-https://en.m.wikipedia.org/wiki/Physics_of_computation
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms
 https://en.wikibooks.org/wiki/Type-oriented_programming
 https://en.wikichip.org/wiki/population_count
@@ -4739,6 +4739,7 @@ https://en.wikipedia.org/wiki/Absolute_continuity
 https://en.wikipedia.org/wiki/Absorbed_dose
 https://en.wikipedia.org/wiki/Absorbing_Markov_chain
 https://en.wikipedia.org/wiki/Absorption_wavemeter
+https://en.wikipedia.org/wiki/Abstract_algebra
 https://en.wikipedia.org/wiki/Abstract_data_type
 https://en.wikipedia.org/wiki/Abstract_differential_equation
 https://en.wikipedia.org/wiki/Abstract_graphical_data_type
@@ -6233,6 +6234,7 @@ https://en.wikipedia.org/wiki/BSD_licenses
 https://en.wikipedia.org/wiki/BSON
 https://en.wikipedia.org/wiki/Btrfs
 https://en.wikipedia.org/wiki/Bubble_chart
+https://en.wikipedia.org/wiki/Buchberger%27s_algorithm
 https://en.wikipedia.org/wiki/Buck-Tick
 https://en.wikipedia.org/wiki/Buckingham_%CF%80_theorem
 https://en.wikipedia.org/wiki/Buckling_spring
@@ -6400,6 +6402,7 @@ https://en.wikipedia.org/wiki/Canonical_LR_parser
 https://en.wikipedia.org/wiki/Cantar_de_mio_Cid
 https://en.wikipedia.org/wiki/Canterbury
 https://en.wikipedia.org/wiki/Canton_of_Geneva
+https://en.wikipedia.org/wiki/Cantor%E2%80%93Zassenhaus_algorithm
 https://en.wikipedia.org/wiki/Canvas_element
 https://en.wikipedia.org/wiki/CAP_computer
 https://en.wikipedia.org/wiki/CAP_theorem
@@ -6742,6 +6745,7 @@ https://en.wikipedia.org/wiki/Category:GCHQ_cryptographers
 https://en.wikipedia.org/wiki/Category:Generalized_convexity
 https://en.wikipedia.org/wiki/Category:Generalized_functions
 https://en.wikipedia.org/wiki/Category:Generative_pre-trained_transformers
+https://en.wikipedia.org/wiki/Category:Geometric_algorithms
 https://en.wikipedia.org/wiki/Category:German_dark_wave_musical_groups
 https://en.wikipedia.org/wiki/Category:GNU_Project
 https://en.wikipedia.org/wiki/Category:Graph_algorithms
@@ -7366,6 +7370,7 @@ https://en.wikipedia.org/wiki/Chi-squared_test
 https://en.wikipedia.org/wiki/Chicago_metropolitan_area
 https://en.wikipedia.org/wiki/Chichen_Itza
 https://en.wikipedia.org/wiki/Chicken_or_the_egg
+https://en.wikipedia.org/wiki/Chien_search
 https://en.wikipedia.org/wiki/Chilam_Balam
 https://en.wikipedia.org/wiki/Children_of_Dune
 https://en.wikipedia.org/wiki/Children_of_Time_(novel)
@@ -8129,6 +8134,7 @@ https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation
 https://en.wikipedia.org/wiki/Correlogram
 https://en.wikipedia.org/wiki/Correspondence_analysis
 https://en.wikipedia.org/wiki/Cory_Doctorow
+https://en.wikipedia.org/wiki/Coset
 https://en.wikipedia.org/wiki/COSIC
 https://en.wikipedia.org/wiki/Cosine_similarity
 https://en.wikipedia.org/wiki/Cosmic_censorship_hypothesis
@@ -9742,6 +9748,7 @@ https://en.wikipedia.org/wiki/FastText
 https://en.wikipedia.org/wiki/Fat_binary
 https://en.wikipedia.org/wiki/Fat_tree
 https://en.wikipedia.org/wiki/Fate_of_a_Dreamer
+https://en.wikipedia.org/wiki/Faug%C3%A8re%27s_F4_and_F5_algorithms
 https://en.wikipedia.org/wiki/Fault_tolerance
 https://en.wikipedia.org/wiki/Faust
 https://en.wikipedia.org/wiki/FBI_Academy
@@ -12419,6 +12426,7 @@ https://en.wikipedia.org/wiki/Knowledge_sharing
 https://en.wikipedia.org/wiki/Knowledge-based_systems
 https://en.wikipedia.org/wiki/Known-plaintext_attack
 https://en.wikipedia.org/wiki/Knox_Bible
+https://en.wikipedia.org/wiki/Knuth%E2%80%93Bendix_completion_algorithm
 https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm
 https://en.wikipedia.org/wiki/Kochi_University_of_Technology
 https://en.wikipedia.org/wiki/Kolchak:_The_Night_Stalker
@@ -12982,6 +12990,7 @@ https://en.wikipedia.org/wiki/List_of_computer_algebra_systems
 https://en.wikipedia.org/wiki/List_of_computer_criminals
 https://en.wikipedia.org/wiki/List_of_computer_magazines
 https://en.wikipedia.org/wiki/List_of_computer_occupations
+https://en.wikipedia.org/wiki/List_of_computer_science_awards
 https://en.wikipedia.org/wiki/List_of_computer_science_journals
 https://en.wikipedia.org/wiki/List_of_computer_security_certifications
 https://en.wikipedia.org/wiki/List_of_computer_simulation_software
@@ -15665,6 +15674,7 @@ https://en.wikipedia.org/wiki/Perlin_noise
 https://en.wikipedia.org/wiki/Permafrost
 https://en.wikipedia.org/wiki/Permanent_(mathematics)
 https://en.wikipedia.org/wiki/Permissive_software_license
+https://en.wikipedia.org/wiki/Permutation_group
 https://en.wikipedia.org/wiki/Permutation_test
 https://en.wikipedia.org/wiki/Peroxide
 https://en.wikipedia.org/wiki/Perpetual_war
@@ -16472,6 +16482,7 @@ https://en.wikipedia.org/wiki/Queueing_theory
 https://en.wikipedia.org/wiki/QUIC
 https://en.wikipedia.org/wiki/QuickBASIC
 https://en.wikipedia.org/wiki/Quietism_(philosophy)
+https://en.wikipedia.org/wiki/Quine%E2%80%93McCluskey_algorithm
 https://en.wikipedia.org/wiki/Quintic_function
 https://en.wikipedia.org/wiki/Quintilian
 https://en.wikipedia.org/wiki/Quis_custodiet_ipsos_custodes%3F
@@ -17020,6 +17031,7 @@ https://en.wikipedia.org/wiki/ROM_cartridge
 https://en.wikipedia.org/wiki/ROM_hacking
 https://en.wikipedia.org/wiki/ROM_image
 https://en.wikipedia.org/wiki/Roman_art
+https://en.wikipedia.org/wiki/Roman_Baths_(Bath)
 https://en.wikipedia.org/wiki/Roman_Dacia
 https://en.wikipedia.org/wiki/Roman_Empire
 https://en.wikipedia.org/wiki/Roman_Forum
@@ -17269,6 +17281,8 @@ https://en.wikipedia.org/wiki/Scholia
 https://en.wikipedia.org/wiki/School_for_Advanced_Studies_in_the_Social_Sciences
 https://en.wikipedia.org/wiki/Schoonschip
 https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation
+https://en.wikipedia.org/wiki/Schreier%27s_lemma
+https://en.wikipedia.org/wiki/Schreier%E2%80%93Sims_algorithm
 https://en.wikipedia.org/wiki/Schulze_method
 https://en.wikipedia.org/wiki/Schwartz_kernel_theorem
 https://en.wikipedia.org/wiki/Schwartz_space
@@ -18271,6 +18285,7 @@ https://en.wikipedia.org/wiki/String_metric
 https://en.wikipedia.org/wiki/String_Quartets,_Op._18_(Beethoven)
 https://en.wikipedia.org/wiki/String_Quartets,_Op._59_(Beethoven)
 https://en.wikipedia.org/wiki/String-searching_algorithm
+https://en.wikipedia.org/wiki/Strong_generating_set
 https://en.wikipedia.org/wiki/Strong_law_of_small_numbers
 https://en.wikipedia.org/wiki/Strong_pseudoprime
 https://en.wikipedia.org/wiki/Strong_secrecy
@@ -18315,6 +18330,7 @@ https://en.wikipedia.org/wiki/SU2_code
 https://en.wikipedia.org/wiki/SuanShu_numerical_library
 https://en.wikipedia.org/wiki/Subgradient_method
 https://en.wikipedia.org/wiki/Subgraph_isomorphism_problem
+https://en.wikipedia.org/wiki/Subgroup
 https://en.wikipedia.org/wiki/Subject%E2%80%93object%E2%80%93verb_word_order
 https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object_word_order
 https://en.wikipedia.org/wiki/Subliminal_channel
@@ -19012,6 +19028,7 @@ https://en.wikipedia.org/wiki/Tkinter
 https://en.wikipedia.org/wiki/TMS34010
 https://en.wikipedia.org/wiki/To_Play_the_King
 https://en.wikipedia.org/wiki/Tobit_model
+https://en.wikipedia.org/wiki/Todd%E2%80%93Coxeter_algorithm
 https://en.wikipedia.org/wiki/Tohu_and_Tikun
 https://en.wikipedia.org/wiki/Tokenization_(data_security)
 https://en.wikipedia.org/wiki/Tokio_(software)
@@ -20305,6 +20322,7 @@ https://eprint.iacr.org/2022/662.pdf
 https://eprint.iacr.org/2023/1378
 https://epubs.siam.org/
 https://epubs.siam.org/doi/10.1137/0218012
+https://epubs.siam.org/doi/10.1137/0219053
 https://epubs.siam.org/doi/10.1137/0301010
 https://epubs.siam.org/doi/10.1137/050623280
 https://epubs.siam.org/doi/10.1137/060666457
@@ -25103,6 +25121,7 @@ https://link.springer.com/book/10.1007/0-8176-4473-3
 https://link.springer.com/book/10.1007/1-4020-3467-9
 https://link.springer.com/book/10.1007/1-84628-168-7
 https://link.springer.com/book/10.1007/11542384
+https://link.springer.com/book/10.1007/3-540-10290-6
 https://link.springer.com/book/10.1007/3-540-27477-4
 https://link.springer.com/book/10.1007/3-540-27903-2
 https://link.springer.com/book/10.1007/3-540-28428-1
@@ -28067,6 +28086,7 @@ https://press.princeton.edu/books/hardcover/9780691159027/modern-classical-physi
 https://press.princeton.edu/books/hardcover/9780691178561/mathematical-foundations-of-quantum-mechanics
 https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital
 https://press.princeton.edu/books/hardcover/9780691179414/the-doctrine-of-triangles
+https://press.princeton.edu/books/hardcover/9780691189130/mathematics-and-computation
 https://press.princeton.edu/books/paperback/9780691005478/mathematical-methods-of-statistics-pms-9-volume-9
 https://press.princeton.edu/books/paperback/9780691011462/general-theory-of-relativity
 https://press.princeton.edu/books/paperback/9780691015866/convex-analysis
@@ -28081,6 +28101,7 @@ https://press.princeton.edu/books/paperback/9780691162317/whos-1
 https://press.princeton.edu/books/paperback/9780691163529/in-pursuit-of-the-traveling-salesman
 https://press.princeton.edu/books/paperback/9780691175997/heavenly-mathematics
 https://press.princeton.edu/books/paperback/9780691202198/trigonometric-delights
+https://press.princeton.edu/books/paperback/9780691242057/the-mathematical-mechanic
 https://press.princeton.edu/books/paperback/9780691625393/flows-in-networks
 https://press.princeton.edu/catalogs/ancient-world
 https://press.princeton.edu/catalogs/mathematics
@@ -28635,6 +28656,7 @@ https://rocket.rs/
 https://rockylinux.org/
 https://roi.r-forge.r-project.org/
 https://rolf.esecurity.ch/?page_id=100
+https://romaninscriptionsofbritain.org/
 https://romanzolotarev.com/
 https://rome.tools/
 https://root.cern/
@@ -30185,6 +30207,7 @@ https://wandb.ai/fully-connected
 https://warisboring.com/its-time-to-start-watching-japans-best-military-sci-fi/
 https://warontherocks.com/
 https://warontherocks.com/2020/06/the-chip-wars-of-the-21st-century/
+https://warwick.ac.uk/fac/sci/maths/research/miraw/days/computation/
 https://wasmtime.dev/
 https://waste.org/mailman/listinfo/pynchon-l
 https://wayland.freedesktop.org/
@@ -30609,6 +30632,7 @@ https://www.ams.org/books/hmath/011/
 https://www.ams.org/education/emp-reu
 https://www.ams.org/home/page
 https://www.ams.org/journals/bull/1954-60-06/S0002-9904-1954-09848-8/
+https://www.ams.org/journals/bull/1970-76-03/S0002-9904-1970-12454-5/
 https://www.ams.org/journals/bull/1981-04-03/S0273-0979-1981-14910-7/
 https://www.ams.org/journals/bull/1989-21-01/S0273-0979-1989-15750-9/S0273-0979-1989-15750-9.pdf
 https://www.ams.org/journals/bull/1992-27-01/S0273-0979-1992-00289-6/
@@ -30976,6 +31000,7 @@ https://www.cambridge.org/core/books/combinatorial-matrix-theory/599A61CE4A2F6A8
 https://www.cambridge.org/core/books/combinatorics-on-words/6FEBB4FCCB43895CCEFA8D69A0983374
 https://www.cambridge.org/core/books/combinatorics-the-rota-way/8596DED6B1233D7E23EE6844859D97AD
 https://www.cambridge.org/core/books/compact-data-structures/68A5983E6F1176181291E235D0B7EB44
+https://www.cambridge.org/core/books/computation-proof-machine/65FB180C5EF2970B649EE20E284C9492
 https://www.cambridge.org/core/books/computational-introduction-to-number-theory-and-algebra/6DBE79226210EB629448E57A1C65E985
 https://www.cambridge.org/core/books/computer-algebra-and-differential-equations/DC0A13A500FB431326B8F421F51E4222
 https://www.cambridge.org/core/books/cours-danalyse-de-lecole-polytechnique/0A83F049A98167EFA3C41DE1CDD03F05
@@ -31875,6 +31900,7 @@ https://www.diw.de/deutsch
 https://www.djangoproject.com/
 https://www.djangoproject.com/foundation/
 https://www.dji.com/global/mobile
+https://www.dk-compmath.jku.at/Courses/2012w/fundamentals-of-numerical-analysis-and-symbolic-computation/dk-lecture
 https://www.dkrypt.org/Main_Page
 https://www.dkrz.de/de
 https://www.dlr.de/de
@@ -33768,6 +33794,7 @@ https://www.math.brown.edu/johsilve/MathCryptoHome.html
 https://www.math.columbia.edu/~bayer/
 https://www.math.harvard.edu/
 https://www.math.ias.edu/avi/
+https://www.math.ias.edu/avi/book
 https://www.math.ias.edu/files/mathandcomp.pdf
 https://www.math.princeton.edu/
 https://www.math.purdue.edu/~adebray/lecture_notes/468notes.pdf
@@ -33778,6 +33805,7 @@ https://www.math.umd.edu/~lcw/
 https://www.math.utah.edu/~beebe/
 https://www.math.utah.edu/~beebe/digital-libraries.html
 https://www.math.uwaterloo.ca/~bico/
+https://www.math.uwo.ca/research/computational_mathematics.html
 https://www.math.uzh.ch/pages/spam/
 https://www.math.wustl.edu/~feres/Math350Fall12.html
 https://www.math.wustl.edu/~feres/Math350Fall2012/Projects/mathproj09.pdf
@@ -34306,7 +34334,9 @@ https://www.nowpublishers.com/article/Details/EDA-022
 https://www.nowpublishers.com/article/Details/EDA-032
 https://www.nowpublishers.com/article/Details/EDA-055
 https://www.nowpublishers.com/article/Details/SIP-014
+https://www.nowpublishers.com/article/Details/TCS-002
 https://www.nowpublishers.com/article/Details/TCS-042
+https://www.nowpublishers.com/article/Details/TCS-054
 https://www.nowpublishers.com/CIT
 https://www.nowpublishers.com/DBS
 https://www.nowpublishers.com/EDA
@@ -35491,6 +35521,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S135521980300039X?via%3Dih
 https://www.sciencedirect.com/science/article/abs/pii/S1568494611001761
 https://www.sciencedirect.com/science/article/abs/pii/S1751157717300500
 https://www.sciencedirect.com/science/article/abs/pii/S2214785320365032
+https://www.sciencedirect.com/science/article/pii/0001870882900482
 https://www.sciencedirect.com/science/article/pii/0022000084900709
 https://www.sciencedirect.com/science/article/pii/0022247X68900784
 https://www.sciencedirect.com/science/article/pii/0165011495002391
@@ -35516,7 +35547,9 @@ https://www.sciencedirect.com/science/article/pii/S0315086084710317?via%3Dihub
 https://www.sciencedirect.com/science/article/pii/S0377042700004222
 https://www.sciencedirect.com/science/article/pii/S0747717102001372
 https://www.sciencedirect.com/science/article/pii/S0747717105000295
+https://www.sciencedirect.com/science/article/pii/S0747717108800272
 https://www.sciencedirect.com/science/article/pii/S0747717109001357
+https://www.sciencedirect.com/science/article/pii/S0747717110001483
 https://www.sciencedirect.com/science/article/pii/S0747717185710061
 https://www.sciencedirect.com/science/article/pii/S0747717189800070
 https://www.sciencedirect.com/science/article/pii/S0885064X03000347
@@ -35975,6 +36008,7 @@ https://www.tagesschau.de/
 https://www.taiwanplus.com/
 https://www.tandfonline.com/doi/abs/10.1080/00029890.1961.11989637
 https://www.tandfonline.com/doi/abs/10.1080/00029890.1966.11970915
+https://www.tandfonline.com/doi/abs/10.1080/00029890.1972.11993166
 https://www.tandfonline.com/doi/abs/10.1080/00029890.1977.11994420?journalCode=uamm20
 https://www.tandfonline.com/doi/abs/10.1080/00029890.1999.12005019
 https://www.tandfonline.com/doi/abs/10.1080/00031305.1975.10477402
