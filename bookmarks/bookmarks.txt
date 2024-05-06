@@ -373,6 +373,7 @@ https://accu.org/journals/overload/20/109/lewin_1915/
 https://accu.org/news/
 https://accu.org/reviews/by_date/
 https://accumulo.apache.org/
+https://achievement.org/
 https://aclanthology.org/
 https://aclanthology.org/2021.eacl-main.81/
 https://aclanthology.org/2021.findings-emnlp.297/
@@ -26710,6 +26711,7 @@ https://milvus.io/
 https://minesweepergame.com/
 https://minifree.org/
 https://minnie.tuhs.org/CompArch/Tutes/week04.html
+https://minsky.ai/
 https://mintty.github.io/
 https://minuitmachine.bandcamp.com/music
 https://mips.com/products/silicon-vendors/
@@ -31226,6 +31228,7 @@ https://www.cell.com/one-earth/home
 https://www.cell.com/patterns/home
 https://www.cell.com/structure/home
 https://www.cenat.ac.cr/en/
+https://www.cendi.gov/
 https://www.census.gov/
 https://www.census.gov/data/data-tools/survey-explorer/
 https://www.census.gov/en.html
