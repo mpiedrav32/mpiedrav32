@@ -1587,6 +1587,7 @@ https://brenocon.com/blog/2008/12/statistics-vs-machine-learning-fight/
 https://brenocon.com/blog/2009/12/list-of-probabilistic-model-mini-language-toolkits/
 https://briancallahan.net/blog/20210407.html
 https://briarproject.org/
+https://brill.com/
 https://brill.com/display/book/9781848881761/BP000010.xml
 https://brill.com/display/title/36055
 https://brill.com/view/journals/gnos/6/1/article-p79_4.xml?language=en
@@ -3065,6 +3066,7 @@ https://defendtheweb.net/
 https://defunctland.com/
 https://defuse.ca/online-x86-assembler.htm
 https://defuse.ca/race-conditions-in-web-applications.htm
+https://degruyterbrill.com/en/
 https://dejavu-fonts.github.io/
 https://delfino.cr/
 https://deluge-torrent.org/
@@ -10493,6 +10495,7 @@ https://en.wikipedia.org/wiki/Gilles_Van_Assche
 https://en.wikipedia.org/wiki/Gillian_Anderson
 https://en.wikipedia.org/wiki/GiNaC
 https://en.wikipedia.org/wiki/Giordano_Bruno_Foundation
+https://en.wikipedia.org/wiki/Giordano_Riccati
 https://en.wikipedia.org/wiki/Giovanni_De_Micheli
 https://en.wikipedia.org/wiki/Girugamesh
 https://en.wikipedia.org/wiki/Git
@@ -11261,6 +11264,7 @@ https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
 https://en.wikipedia.org/wiki/HTTP/3
 https://en.wikipedia.org/wiki/Httperf
 https://en.wikipedia.org/wiki/Huawei
+https://en.wikipedia.org/wiki/Hudde%27s_rules
 https://en.wikipedia.org/wiki/Huffman_coding
 https://en.wikipedia.org/wiki/Hugging_Face
 https://en.wikipedia.org/wiki/Hugh_Lowell_Montgomery
@@ -11958,6 +11962,7 @@ https://en.wikipedia.org/wiki/Jacobian_curve
 https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant
 https://en.wikipedia.org/wiki/Jacobite_rising_of_1745
 https://en.wikipedia.org/wiki/JaCoP_(solver)
+https://en.wikipedia.org/wiki/Jacopo_Riccati
 https://en.wikipedia.org/wiki/Jacquard_machine
 https://en.wikipedia.org/wiki/Jacques_Derrida
 https://en.wikipedia.org/wiki/Jacques_Ellul
@@ -12113,6 +12118,7 @@ https://en.wikipedia.org/wiki/Johann_Radon
 https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 https://en.wikipedia.org/wiki/Johannes_Brahms
 https://en.wikipedia.org/wiki/Johannes_Bureus
+https://en.wikipedia.org/wiki/Johannes_Hudde
 https://en.wikipedia.org/wiki/Johannes_Kepler
 https://en.wikipedia.org/wiki/Johannes_Trithemius
 https://en.wikipedia.org/wiki/Johansen_test
@@ -15845,6 +15851,7 @@ https://en.wikipedia.org/wiki/Piecewise
 https://en.wikipedia.org/wiki/Pierce_oscillator
 https://en.wikipedia.org/wiki/Pierre_Bourdieu
 https://en.wikipedia.org/wiki/Pierre_Curie
+https://en.wikipedia.org/wiki/Pierre_de_Fermat
 https://en.wikipedia.org/wiki/Pierre_Henri_Hugoniot
 https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis
 https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon
@@ -16821,6 +16828,7 @@ https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past
 https://en.wikipedia.org/wiki/Remez_algorithm
 https://en.wikipedia.org/wiki/Remez_inequality
 https://en.wikipedia.org/wiki/Remmina
+https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 https://en.wikipedia.org/wiki/Ren%C3%A9_Maurice_Fr%C3%A9chet
 https://en.wikipedia.org/wiki/Renaissance_humanism
 https://en.wikipedia.org/wiki/Renaissance_in_Poland
@@ -17945,6 +17953,7 @@ https://en.wikipedia.org/wiki/Sorbonne_University
 https://en.wikipedia.org/wiki/Sorcery_(goetia)
 https://en.wikipedia.org/wiki/Sort-merge_join
 https://en.wikipedia.org/wiki/Sorting_algorithm
+https://en.wikipedia.org/wiki/Sortition
 https://en.wikipedia.org/wiki/Sound_power
 https://en.wikipedia.org/wiki/Source_Code_Pro
 https://en.wikipedia.org/wiki/Source-to-source_compiler
@@ -18973,6 +18982,7 @@ https://en.wikipedia.org/wiki/Thomas_M._Cover
 https://en.wikipedia.org/wiki/Thomas_Mann
 https://en.wikipedia.org/wiki/Thomas_Pynchon
 https://en.wikipedia.org/wiki/Thomas_Turton
+https://en.wikipedia.org/wiki/Thomas_Young_(scientist)
 https://en.wikipedia.org/wiki/Thompson_shell
 https://en.wikipedia.org/wiki/Thomson_Reuters
 https://en.wikipedia.org/wiki/Thor_(video_codec)
@@ -20166,6 +20176,7 @@ https://en.wikipedia.org/wiki/Yom_Kippur_War
 https://en.wikipedia.org/wiki/Yonhap_News_Agency
 https://en.wikipedia.org/wiki/Yoruba_religion
 https://en.wikipedia.org/wiki/Yoshua_Bengio
+https://en.wikipedia.org/wiki/Young%27s_modulus
 https://en.wikipedia.org/wiki/Younger_Dryas
 https://en.wikipedia.org/wiki/Younger_Futhark
 https://en.wikipedia.org/wiki/YubiKey
@@ -24726,6 +24737,7 @@ https://library.lol/main/04F96951479ABEAEBA713B0FE972E81D
 https://library.lol/main/06145446C52EBA11E03A1196731CEFF2
 https://library.lol/main/066F00CDA7C0026086A2C7E44FB7D81C
 https://library.lol/main/079201FBCD6E51022C478FA34BC87237
+https://library.lol/main/082AF57FC6A4E618C497374CEF0048C9
 https://library.lol/main/0A1580FA43BC709A4AF9DDBAB025CD98
 https://library.lol/main/0A803094A0C2716E95F4ABB9C602221E
 https://library.lol/main/0A99C5835A4D38D84FD4A5A0A781B40C
@@ -24752,10 +24764,12 @@ https://library.lol/main/17D76C7216FBFF5C926FFDB3B1B046CB
 https://library.lol/main/17FD22F36DAEC82DA9A250B887F5E658
 https://library.lol/main/18187184C250B098EB318B2B6EF97CB8
 https://library.lol/main/1839398409F29B5279B5D244940205D1
+https://library.lol/main/1944586716BD93CB0133F95F0B3A110A
 https://library.lol/main/195873884E131094DBF7B459FBA70D4A
 https://library.lol/main/19E7A8F2EDAD3A5DB070BAA43E2B1165
 https://library.lol/main/1A4D612C67866B4C666AA07D84EA6662
 https://library.lol/main/1C07635D617523DD283DBB3A23B48D9F
+https://library.lol/main/1C248CA46443DC2180FCAF84130C4847
 https://library.lol/main/1C5879B8666C96320003AE888FF74B1E
 https://library.lol/main/1CDF5E2E2EB904135EECA42FECB9BC22
 https://library.lol/main/1D818C5DA3BD43BC06219E1F6ED344D8
@@ -24818,6 +24832,7 @@ https://library.lol/main/3E8D4AD748173B9E2349A6E7728817C0
 https://library.lol/main/40164ECD08699C4465128C0EF1D034E3
 https://library.lol/main/407A5ED0AF60041C99CE17767B3C0D97
 https://library.lol/main/42AEFAA7B61B6197D5269544A7E3F9BD
+https://library.lol/main/4394BCB89ED0D3D286ED0E465AFEF1A7
 https://library.lol/main/43A67A9BF71F483E34879816454E04EF
 https://library.lol/main/43CADA32A445B5C0321BA21F2A95D3D3
 https://library.lol/main/43DA771AA5EDDDB72E06FA91E54C8F04
@@ -25008,6 +25023,7 @@ https://library.lol/main/BF3873170A3741E041D74DED1E7BE934
 https://library.lol/main/BF7C3FECFE5DCFFCEB170B2AA6D34C31
 https://library.lol/main/C0FD5BFE6D0A8FA375777BF9B4E81550
 https://library.lol/main/C158BAA4EE4524FDAC1DAB96A7499FAF
+https://library.lol/main/C200228A7B26C34546D51418D5D43DAB
 https://library.lol/main/C32A7D778CEE246182FEB5937364885A
 https://library.lol/main/C5469066E3E18CB5E74CD8D46F9B6EBE
 https://library.lol/main/C59DA252633E91D65AE25BD5F998372A
@@ -36195,6 +36211,7 @@ https://www.taylorfrancis.com/books/mono/10.1201/9780429246593/introduction-boot
 https://www.taylorfrancis.com/books/mono/10.1201/9780429295225/g%C3%B6del-theorem-torkel-franz%C3%A9n
 https://www.taylorfrancis.com/books/mono/10.1201/9780429466335/handbook-applied-cryptography-alfred-menezes-kenneth-rosen-scott-vanstone-paul-van-oorschot
 https://www.taylorfrancis.com/books/mono/10.1201/9780429492952/art-probability-richard-hamming
+https://www.taylorfrancis.com/books/mono/10.1201/9780429502859/feynman-lectures-gravitation-richard-feynman
 https://www.taylorfrancis.com/books/mono/10.1201/9781003068006/combinatorial-algorithms-donald-kreher-douglas-stinson
 https://www.taylorfrancis.com/books/mono/10.1201/9781003081845/secure-data-science-bhavani-thuraisingham-murat-kantarcioglu-latifur-khan
 https://www.taylorfrancis.com/books/mono/10.1201/9781003142331/contemporary-abstract-algebra-joseph-gallian
