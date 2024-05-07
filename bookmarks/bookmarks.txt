@@ -532,6 +532,7 @@ https://amturing.acm.org/award_winners/gray_3649936.cfm
 https://amturing.acm.org/award_winners/hennessy_1426931.cfm
 https://amturing.acm.org/award_winners/iverson_9147499.cfm
 https://amturing.acm.org/award_winners/knuth_1013846.cfm
+https://amturing.acm.org/award_winners/lamport_1205376.cfm
 https://amturing.acm.org/award_winners/mccarthy_1118322.cfm
 https://amturing.acm.org/award_winners/micali_9954407.cfm
 https://amturing.acm.org/award_winners/nygaard_5916220.cfm
@@ -1644,6 +1645,7 @@ https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-p
 https://cacm.acm.org/opinion/generative-ai-and-cs-education/
 https://cacm.acm.org/research/a-new-golden-age-for-computer-architecture/
 https://cacm.acm.org/research/exponential-laws-of-computing-growth/
+https://cacm.acm.org/research/how-amazon-web-services-uses-formal-methods/
 https://cacm.acm.org/research/nand-to-tetris-building-a-modern-computer-system-from-first-principles/
 https://cacm.acm.org/section/research/
 https://cacr.uwaterloo.ca/
@@ -2852,7 +2854,9 @@ https://dd-wrt.com/
 https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets
 https://de-crypt.org/
 https://de.wikipedia.org/wiki/%C3%96ffentlichkeit
+https://de.wikipedia.org/wiki/%C3%9Cber_die_spezielle_und_die_allgemeine_Relativit%C3%A4tstheorie
 https://de.wikipedia.org/wiki/Aachen
+https://de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie
 https://de.wikipedia.org/wiki/Antike
 https://de.wikipedia.org/wiki/Antikes_Griechenland
 https://de.wikipedia.org/wiki/ARD
@@ -2941,6 +2945,7 @@ https://de.wikipedia.org/wiki/Information_Retrieval
 https://de.wikipedia.org/wiki/Informationssicherheit
 https://de.wikipedia.org/wiki/Internationale_Beziehungen
 https://de.wikipedia.org/wiki/IT-Cluster_Rhein-Main-Neckar
+https://de.wikipedia.org/wiki/Julian_Seymour_Schwinger
 https://de.wikipedia.org/wiki/Juris
 https://de.wikipedia.org/wiki/K%C3%B6ln
 https://de.wikipedia.org/wiki/K%C3%B6nigreich_Preu%C3%9Fen
@@ -2990,6 +2995,7 @@ https://de.wikipedia.org/wiki/Preu%C3%9Fen
 https://de.wikipedia.org/wiki/Qantara.de
 https://de.wikipedia.org/wiki/R%C3%B6misches_Reich
 https://de.wikipedia.org/wiki/Regierungsbezirk_K%C3%B6ln
+https://de.wikipedia.org/wiki/Relativit%C3%A4tstheorie
 https://de.wikipedia.org/wiki/Rot-gr%C3%BCne_Koalition
 https://de.wikipedia.org/wiki/Rudi_Dutschke
 https://de.wikipedia.org/wiki/Rudi-Dutschke-Stra%C3%9Fe
@@ -2998,6 +3004,7 @@ https://de.wikipedia.org/wiki/Ruhrgebiet
 https://de.wikipedia.org/wiki/Schweiz
 https://de.wikipedia.org/wiki/Schweizer_Nachrichtendienste
 https://de.wikipedia.org/wiki/Schweizer_Radio_und_Fernsehen
+https://de.wikipedia.org/wiki/Spezielle_Relativit%C3%A4tstheorie
 https://de.wikipedia.org/wiki/Spionageabwehr
 https://de.wikipedia.org/wiki/Sprachpolitik
 https://de.wikipedia.org/wiki/Staatsschutz
@@ -3324,6 +3331,7 @@ https://dl.acm.org/doi/10.1145/1041680.1041681
 https://dl.acm.org/doi/10.1145/1060745.1060754
 https://dl.acm.org/doi/10.1145/1071610.1071612
 https://dl.acm.org/doi/10.1145/1088216.1088219
+https://dl.acm.org/doi/10.1145/1132863.1132867
 https://dl.acm.org/doi/10.1145/116825.116852
 https://dl.acm.org/doi/10.1145/1180405.1180435
 https://dl.acm.org/doi/10.1145/12130.12142
@@ -3343,6 +3351,7 @@ https://dl.acm.org/doi/10.1145/1666420.1666444
 https://dl.acm.org/doi/10.1145/1734663.1734671
 https://dl.acm.org/doi/10.1145/175247.175255
 https://dl.acm.org/doi/10.1145/176454.176484
+https://dl.acm.org/doi/10.1145/177492.177726
 https://dl.acm.org/doi/10.1145/1806907.1806908
 https://dl.acm.org/doi/10.1145/182.358466
 https://dl.acm.org/doi/10.1145/1916461.1916469
@@ -3351,6 +3360,7 @@ https://dl.acm.org/doi/10.1145/1968.1972
 https://dl.acm.org/doi/10.1145/2000064.2000104
 https://dl.acm.org/doi/10.1145/2089125.2089126
 https://dl.acm.org/doi/10.1145/2103786.2103788
+https://dl.acm.org/doi/10.1145/214451.214456
 https://dl.acm.org/doi/10.1145/22145.22161
 https://dl.acm.org/doi/10.1145/224057.224070
 https://dl.acm.org/doi/10.1145/2330087.2331170
@@ -3367,10 +3377,13 @@ https://dl.acm.org/doi/10.1145/2592798.2592801
 https://dl.acm.org/doi/10.1145/2677030
 https://dl.acm.org/doi/10.1145/2685690.2687011
 https://dl.acm.org/doi/10.1145/2694344.2694367
+https://dl.acm.org/doi/10.1145/2699417
 https://dl.acm.org/doi/10.1145/2701413
 https://dl.acm.org/doi/10.1145/272991.272995
+https://dl.acm.org/doi/10.1145/2771951
 https://dl.acm.org/doi/10.1145/278283.278285
 https://dl.acm.org/doi/10.1145/2791347.2791365
+https://dl.acm.org/doi/10.1145/279227.279229
 https://dl.acm.org/doi/10.1145/2810103.2813611
 https://dl.acm.org/doi/10.1145/2810103.2813707
 https://dl.acm.org/doi/10.1145/2829988.2787505
@@ -3396,6 +3409,7 @@ https://dl.acm.org/doi/10.1145/321239.321249
 https://dl.acm.org/doi/10.1145/3212477.3212479
 https://dl.acm.org/doi/10.1145/321250.321253
 https://dl.acm.org/doi/10.1145/3219753.3219754
+https://dl.acm.org/doi/10.1145/322186.322188
 https://dl.acm.org/doi/10.1145/3230833.3230856
 https://dl.acm.org/doi/10.1145/324133.324266
 https://dl.acm.org/doi/10.1145/3282307
@@ -3421,15 +3435,18 @@ https://dl.acm.org/doi/10.1145/3459664
 https://dl.acm.org/doi/10.1145/3460351
 https://dl.acm.org/doi/10.1145/3466132.3469647
 https://dl.acm.org/doi/10.1145/3475965.3480470
+https://dl.acm.org/doi/10.1145/3513259
 https://dl.acm.org/doi/10.1145/3539618.3592055
 https://dl.acm.org/doi/10.1145/355604.361593
 https://dl.acm.org/doi/10.1145/356678.356680
 https://dl.acm.org/doi/10.1145/356689.356692
+https://dl.acm.org/doi/10.1145/357172.357176
 https://dl.acm.org/doi/10.1145/357456.357457
 https://dl.acm.org/doi/10.1145/3580305.3599375
 https://dl.acm.org/doi/10.1145/358172.358179
 https://dl.acm.org/doi/10.1145/358274.358283
 https://dl.acm.org/doi/10.1145/3587716.3587787
+https://dl.acm.org/doi/10.1145/358790.358797
 https://dl.acm.org/doi/10.1145/358886.358892
 https://dl.acm.org/doi/10.1145/358896.358899
 https://dl.acm.org/doi/10.1145/359007.359010
@@ -3613,6 +3630,7 @@ https://dl.acm.org/magazine/ubiquity
 https://dl.acm.org/magazine/xrds
 https://dl.acm.org/magazines
 https://dl.acm.org/newsletter/sigarch
+https://dl.acm.org/profile/81100244989
 https://dl.acm.org/profile/81100271851
 https://dl.acm.org/profile/81100303820
 https://dl.acm.org/profile/81100565162
@@ -4931,6 +4949,7 @@ https://en.wikipedia.org/wiki/AIP_Advances
 https://en.wikipedia.org/wiki/Air_(French_band)
 https://en.wikipedia.org/wiki/Air_Force_Institute_of_Technology
 https://en.wikipedia.org/wiki/Airbus
+https://en.wikipedia.org/wiki/Airplane_Information_Management_System
 https://en.wikipedia.org/wiki/Airy_function
 https://en.wikipedia.org/wiki/Akaike_information_criterion
 https://en.wikipedia.org/wiki/Akira_(1988_film)
@@ -5571,6 +5590,7 @@ https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 https://en.wikipedia.org/wiki/Atmosphere_of_the_Moon
 https://en.wikipedia.org/wiki/Atmospheric_methane
 https://en.wikipedia.org/wiki/Atmospheric_model
+https://en.wikipedia.org/wiki/Atomic_commit
 https://en.wikipedia.org/wiki/Atomic_mass
 https://en.wikipedia.org/wiki/Atomic_physics
 https://en.wikipedia.org/wiki/Atomic_spies
@@ -6214,6 +6234,7 @@ https://en.wikipedia.org/wiki/Bronis%C5%82aw_Knaster
 https://en.wikipedia.org/wiki/Bronze_Age
 https://en.wikipedia.org/wiki/Brookhaven_National_Laboratory
 https://en.wikipedia.org/wiki/Brookings_Institution
+https://en.wikipedia.org/wiki/Brooks%E2%80%93Iyengar_algorithm
 https://en.wikipedia.org/wiki/Brosl_Hasslacher
 https://en.wikipedia.org/wiki/Brownian_motion
 https://en.wikipedia.org/wiki/Browser_security
@@ -6676,6 +6697,7 @@ https://en.wikipedia.org/wiki/Category:Dimension_reduction
 https://en.wikipedia.org/wiki/Category:Dimensional_analysis
 https://en.wikipedia.org/wiki/Category:Discrete_geometry
 https://en.wikipedia.org/wiki/Category:Distributed_computing_architecture
+https://en.wikipedia.org/wiki/Category:Distributed_computing_problems
 https://en.wikipedia.org/wiki/Category:Distributed_data_stores
 https://en.wikipedia.org/wiki/Category:Distributed_operating_systems
 https://en.wikipedia.org/wiki/Category:DOS_games
@@ -7971,6 +7993,7 @@ https://en.wikipedia.org/wiki/Configuration_space_(mathematics)
 https://en.wikipedia.org/wiki/Configuration_space_(physics)
 https://en.wikipedia.org/wiki/Confirmatory_factor_analysis
 https://en.wikipedia.org/wiki/Conflict_of_interest
+https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type
 https://en.wikipedia.org/wiki/Conflicts_of_interest_in_academic_publishing
 https://en.wikipedia.org/wiki/Confluent_hypergeometric_function
 https://en.wikipedia.org/wiki/Conformal_map
@@ -9103,6 +9126,7 @@ https://en.wikipedia.org/wiki/Dynamics_(mechanics)
 https://en.wikipedia.org/wiki/Dynamics_of_the_celestial_spheres
 https://en.wikipedia.org/wiki/Dynamization
 https://en.wikipedia.org/wiki/DYNAMO_(programming_language)
+https://en.wikipedia.org/wiki/Dynamo_(storage_system)
 https://en.wikipedia.org/wiki/Dysarthria
 https://en.wikipedia.org/wiki/Dyschronometria
 https://en.wikipedia.org/wiki/Dysmetria
@@ -16442,6 +16466,7 @@ https://en.wikipedia.org/wiki/Quantization_(signal_processing)
 https://en.wikipedia.org/wiki/Quantum
 https://en.wikipedia.org/wiki/Quantum_annealing
 https://en.wikipedia.org/wiki/Quantum_Break
+https://en.wikipedia.org/wiki/Quantum_Byzantine_agreement
 https://en.wikipedia.org/wiki/Quantum_chaos
 https://en.wikipedia.org/wiki/Quantum_chemistry
 https://en.wikipedia.org/wiki/Quantum_Computation_and_Quantum_Information
@@ -17337,6 +17362,7 @@ https://en.wikipedia.org/wiki/Scripting_language
 https://en.wikipedia.org/wiki/Scrolls_of_Abraham
 https://en.wikipedia.org/wiki/Scrypt
 https://en.wikipedia.org/wiki/Scylla
+https://en.wikipedia.org/wiki/ScyllaDB
 https://en.wikipedia.org/wiki/SD-WAN
 https://en.wikipedia.org/wiki/SDET
 https://en.wikipedia.org/wiki/SDF_Public_Access_Unix_System
@@ -18621,6 +18647,8 @@ https://en.wikipedia.org/wiki/Temple_of_Heaven
 https://en.wikipedia.org/wiki/Temple_of_Venus_and_Roma
 https://en.wikipedia.org/wiki/Temporal_difference_learning
 https://en.wikipedia.org/wiki/Temporal_information_retrieval
+https://en.wikipedia.org/wiki/Temporal_logic
+https://en.wikipedia.org/wiki/Temporal_logic_of_actions
 https://en.wikipedia.org/wiki/Temporal_paradox
 https://en.wikipedia.org/wiki/Tencent
 https://en.wikipedia.org/wiki/Tennessee_Tech
@@ -19033,6 +19061,7 @@ https://en.wikipedia.org/wiki/Titan_Security_Key
 https://en.wikipedia.org/wiki/Tizen
 https://en.wikipedia.org/wiki/Tk_(software)
 https://en.wikipedia.org/wiki/Tkinter
+https://en.wikipedia.org/wiki/TLA%2B
 https://en.wikipedia.org/wiki/TMS34010
 https://en.wikipedia.org/wiki/To_Play_the_King
 https://en.wikipedia.org/wiki/Tobit_model
@@ -19272,6 +19301,7 @@ https://en.wikipedia.org/wiki/Twin_Peaks
 https://en.wikipedia.org/wiki/Twin-width
 https://en.wikipedia.org/wiki/Twisted_Edwards_curve
 https://en.wikipedia.org/wiki/Twitch_(service)
+https://en.wikipedia.org/wiki/Two_Generals%27_Problem
 https://en.wikipedia.org/wiki/Two-body_problem
 https://en.wikipedia.org/wiki/Two-phase_locking
 https://en.wikipedia.org/wiki/Two-sided_Laplace_transform
@@ -19361,6 +19391,7 @@ https://en.wikipedia.org/wiki/Unification_of_Italy
 https://en.wikipedia.org/wiki/Unified_combatant_command
 https://en.wikipedia.org/wiki/Unified_Parallel_C
 https://en.wikipedia.org/wiki/Unified_Theories_of_Cognition
+https://en.wikipedia.org/wiki/Uniform_consensus
 https://en.wikipedia.org/wiki/Uniform_continuity
 https://en.wikipedia.org/wiki/Uniform_Function_Call_Syntax
 https://en.wikipedia.org/wiki/Uniformly_most_powerful_test
@@ -23916,6 +23947,7 @@ https://irreal.org/blog/?p=10575
 https://irreal.org/emacs-reminders.html
 https://irrlicht.sourceforge.io/
 https://irtf.org/
+https://isbgpsafeyet.com/
 https://iscaconf.org/
 https://iscaconf.org/isca2024/
 https://isd.mceliece.org/
@@ -24825,6 +24857,7 @@ https://library.lol/main/5F1830D03E9FACA1B03C93C04F6C114E
 https://library.lol/main/5F7F84E2963550D897E8E56CAD7C4289
 https://library.lol/main/6010A1ED9B292FA34D283F33000C034F
 https://library.lol/main/605B0A505C690BEA603A0BB7B2B00F87
+https://library.lol/main/60BF387E14924662CCD48E01B70F6C0A
 https://library.lol/main/621E9E772AD9E797B9957A9EDEEAC1B3
 https://library.lol/main/6371D1FF37F8F03ABA0C4E86CD4086BC
 https://library.lol/main/63E675C6CB18322DD0464AC98848C5B8
@@ -25693,6 +25726,8 @@ https://link.springer.com/book/10.1007/978-3-540-77647-5
 https://link.springer.com/book/10.1007/978-3-540-77659-8
 https://link.springer.com/book/10.1007/978-3-540-77974-2
 https://link.springer.com/book/10.1007/978-3-540-85146-2
+https://link.springer.com/book/10.1007/978-3-540-87777-6
+https://link.springer.com/book/10.1007/978-3-540-87847-6
 https://link.springer.com/book/10.1007/978-3-540-88702-7
 https://link.springer.com/book/10.1007/978-3-642-00319-6
 https://link.springer.com/book/10.1007/978-3-642-01097-2
@@ -25735,6 +25770,7 @@ https://link.springer.com/book/10.1007/978-3-642-41482-4
 https://link.springer.com/book/10.1007/978-3-642-45242-0
 https://link.springer.com/book/10.1007/978-3-642-49686-8
 https://link.springer.com/book/10.1007/978-3-642-49888-6
+https://link.springer.com/book/10.1007/978-3-642-50746-5
 https://link.springer.com/book/10.1007/978-3-642-54003-5
 https://link.springer.com/book/10.1007/978-3-642-55481-0
 https://link.springer.com/book/10.1007/978-3-642-55826-9
@@ -25761,6 +25797,7 @@ https://link.springer.com/book/10.1007/978-3-642-61943-4
 https://link.springer.com/book/10.1007/978-3-642-61973-1
 https://link.springer.com/book/10.1007/978-3-642-61983-0
 https://link.springer.com/book/10.1007/978-3-642-61988-5
+https://link.springer.com/book/10.1007/978-3-642-64927-1
 https://link.springer.com/book/10.1007/978-3-642-71243-2
 https://link.springer.com/book/10.1007/978-3-642-74303-0
 https://link.springer.com/book/10.1007/978-3-642-75329-9
@@ -25822,7 +25859,10 @@ https://link.springer.com/book/10.1007/978-3-662-65875-8
 https://link.springer.com/book/10.1007/978-3-662-67495-6
 https://link.springer.com/book/10.1007/978-3-663-05925-7
 https://link.springer.com/book/10.1007/978-3-663-12057-5
+https://link.springer.com/book/10.1007/978-3-663-16170-7
+https://link.springer.com/book/10.1007/978-3-663-19510-8
 https://link.springer.com/book/10.1007/978-3-7091-0445-3
+https://link.springer.com/book/10.1007/978-3-7091-3071-1
 https://link.springer.com/book/10.1007/978-3-7091-6571-3
 https://link.springer.com/book/10.1007/978-3-7091-7551-4
 https://link.springer.com/book/10.1007/978-4-431-55978-8
@@ -25831,6 +25871,7 @@ https://link.springer.com/book/10.1007/978-90-481-2804-4
 https://link.springer.com/book/10.1007/978-94-007-2636-9
 https://link.springer.com/book/10.1007/978-94-011-1806-4
 https://link.springer.com/book/10.1007/978-94-011-5300-3
+https://link.springer.com/book/10.1007/978-94-011-6022-3
 https://link.springer.com/book/10.1007/978-94-015-7744-1
 https://link.springer.com/book/10.1007/978-94-015-9239-0
 https://link.springer.com/book/10.1007/978-94-015-9241-3
@@ -29340,6 +29381,7 @@ https://spectrum.ieee.org/xerox-alto
 https://spectrum.ieee.org/yugoslavia-diy-microcomputer
 https://speechprocessingbook.aalto.fi/index.html
 https://speechprocessingbook.aalto.fi/Modelling/Vector_quantization_VQ.html
+https://speed.cloudflare.com/
 https://speed.pypy.org/
 https://sphincs.cr.yp.to/
 https://sphincs.org/
@@ -32044,6 +32086,7 @@ https://www.eff.org/deeplinks/2023/04/platforms-decay-lets-put-users-first
 https://www.eff.org/https-everywhere
 https://www.eff.org/issues/privacy
 https://www.eff.org/pages/surveillance-self-defense
+https://www.eftaylor.com/spacetimephysics/
 https://www.eia.gov/
 https://www.eia.gov/electricity/data/browser/
 https://www.eia.gov/energyexplained/us-energy-facts/
@@ -32612,6 +32655,7 @@ https://www.goodreads.com/book/show/153908.Introduction_to_Quantum_Mechanics
 https://www.goodreads.com/book/show/1553673.Banach_Spaces_of_Analytic_Functions
 https://www.goodreads.com/book/show/1568589.Information_Theory
 https://www.goodreads.com/book/show/1584224.Data_Analysis_and_Regression
+https://www.goodreads.com/book/show/15852.Relativity
 https://www.goodreads.com/book/show/15857489-machine-learning
 https://www.goodreads.com/book/show/1602667.BigNum_Math
 https://www.goodreads.com/book/show/16087552-real-world-ocaml
@@ -34779,6 +34823,7 @@ https://www.pnas.org/doi/full/10.1073/pnas.1116619109
 https://www.pnas.org/doi/full/10.1073/pnas.1410931111
 https://www.pnas.org/doi/full/10.1073/pnas.1605366113
 https://www.pnnl.gov/
+https://www.podc.org/
 https://www.podcast.de/
 https://www.politico.com/
 https://www.politico.eu/
