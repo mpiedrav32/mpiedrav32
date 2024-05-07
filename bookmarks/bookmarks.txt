@@ -3380,6 +3380,7 @@ https://dl.acm.org/doi/10.1145/2694344.2694367
 https://dl.acm.org/doi/10.1145/2699417
 https://dl.acm.org/doi/10.1145/2701413
 https://dl.acm.org/doi/10.1145/272991.272995
+https://dl.acm.org/doi/10.1145/2737924.2737958
 https://dl.acm.org/doi/10.1145/2771951
 https://dl.acm.org/doi/10.1145/278283.278285
 https://dl.acm.org/doi/10.1145/2791347.2791365
@@ -3388,6 +3389,7 @@ https://dl.acm.org/doi/10.1145/2810103.2813611
 https://dl.acm.org/doi/10.1145/2810103.2813707
 https://dl.acm.org/doi/10.1145/2829988.2787505
 https://dl.acm.org/doi/10.1145/28395.28420
+https://dl.acm.org/doi/10.1145/2854065.2854081
 https://dl.acm.org/doi/10.1145/289.291
 https://dl.acm.org/doi/10.1145/2908080.2908081
 https://dl.acm.org/doi/10.1145/2966986.2967045
@@ -20775,6 +20777,7 @@ https://foundation.fsharp.org/
 https://foundation.gnome.org/
 https://foundation.mozilla.org/en/
 https://foundation.rust-lang.org/
+https://foundation.tlapl.us/
 https://fourmilab.ch/
 https://fowid.de/meldung/religionszugehoerigkeiten-2022
 https://fowid.de/meldung/saekulare-deutschland-56-prozent
@@ -21290,6 +21293,7 @@ https://github.com/dimforge
 https://github.com/dimforge/nalgebra
 https://github.com/diodesign/diosix
 https://github.com/discourse/discourse
+https://github.com/diskuv/dkml-installer-ocaml
 https://github.com/distcc/distcc
 https://github.com/distillpub
 https://github.com/DistrictDataLabs/yellowbrick
@@ -22723,6 +22727,12 @@ https://github.com/time-rs/time
 https://github.com/timescale/timescaledb
 https://github.com/timsort/cpp-TimSort
 https://github.com/tink-crypto/tink-go
+https://github.com/tlaplus/awesome-tlaplus
+https://github.com/tlaplus/CommunityModules
+https://github.com/tlaplus/DrTLAPlus
+https://github.com/tlaplus/Examples
+https://github.com/tlaplus/tlaplus
+https://github.com/tlaplus/vscode-tlaplus
 https://github.com/tmux/tmux
 https://github.com/tobiaslocker/base64
 https://github.com/tobiasvl/awesome-chip-8
@@ -22744,6 +22754,7 @@ https://github.com/topics/ctf-tools
 https://github.com/topics/decryption
 https://github.com/topics/dimensionality-reduction
 https://github.com/topics/discrete-diffusion
+https://github.com/topics/distributed-systems
 https://github.com/topics/emacs
 https://github.com/topics/geometric-deep-learning
 https://github.com/topics/graph-neural-networks
@@ -22805,6 +22816,7 @@ https://github.com/urllib3/urllib3
 https://github.com/USCiLab/cereal
 https://github.com/usnistgov/fipy
 https://github.com/util-linux/util-linux
+https://github.com/uwplse/verdi
 https://github.com/uxmal/reko
 https://github.com/valkey-io/valkey
 https://github.com/varnishcache/varnish-cache
@@ -22905,6 +22917,7 @@ https://gitlab.com/cppit/jucipp
 https://gitlab.com/cryptsetup/cryptsetup
 https://gitlab.com/denji/awesome-http-benchmark
 https://gitlab.com/DerLinkshaender/csv2xlsx
+https://gitlab.com/dkml/distributions/dkml
 https://gitlab.com/duplicity/duplicity
 https://gitlab.com/emacs-geiser/chez
 https://gitlab.com/emacs-geiser/geiser
@@ -24253,6 +24266,7 @@ https://labs.withsecure.com/publications/sniff-there-leaks-my-bitlocker-key
 https://ladal.edu.au/svm.html
 https://ladytron.bandcamp.com/music
 https://lambdalabs.com/
+https://lamport.azurewebsites.net/tla/tla.html
 https://landscape.cncf.io/
 https://landscape.riscv.org/
 https://lang-team.rust-lang.org/
@@ -27248,6 +27262,7 @@ https://oauth.net/2/
 https://observador.cr/
 https://obsproject.com/
 https://obviouscation.cr.yp.to/
+https://ocaml-sf.org/
 https://ocaml.github.io/merlin/
 https://ocaml.org/
 https://ocaml.org/docs/platform
