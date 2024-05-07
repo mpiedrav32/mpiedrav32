@@ -20828,6 +20828,7 @@ https://frigate.video/
 https://frodsham.com/commissions/burgess-regulator/
 https://frontendfoc.us/
 https://fs.blog/gian-carlo-rota/
+https://fs.blog/the-feynman-lectures-on-physics/
 https://fse.iacr.org/2024/
 https://fsfe.org/
 https://fsfe.org/index.en.html
@@ -25034,6 +25035,7 @@ https://library.lol/main/D462BFAC07BC8BB02D25FB49C57D617D
 https://library.lol/main/D4FA221B95B10582FBB3B09AF661FC5E
 https://library.lol/main/D840C79455DEA37F9EB2F9666590A812
 https://library.lol/main/D84FF68924090A0074C30757C621A316
+https://library.lol/main/D8B4357C44994BB326CCA5D52FF998D0
 https://library.lol/main/D9EDD002EDEC064C796F77DB789E6210
 https://library.lol/main/D9EF69FEFA54257F9A3135E88DBD8B46
 https://library.lol/main/DAC4B5DF471453F0034673065E18F6FD
@@ -25347,6 +25349,7 @@ https://link.springer.com/book/10.1007/978-1-4612-1086-3
 https://link.springer.com/book/10.1007/978-1-4612-1098-6
 https://link.springer.com/book/10.1007/978-1-4612-1174-7
 https://link.springer.com/book/10.1007/978-1-4612-1362-8
+https://link.springer.com/book/10.1007/978-1-4612-1616-2
 https://link.springer.com/book/10.1007/978-1-4612-2138-8
 https://link.springer.com/book/10.1007/978-1-4612-2162-3
 https://link.springer.com/book/10.1007/978-1-4612-3038-0
@@ -32291,8 +32294,12 @@ https://www.fertilitydata.org/
 https://www.fes.de/
 https://www.feynmanlectures.caltech.edu/
 https://www.feynmanlectures.caltech.edu/I_21.html
+https://www.feynmanlectures.caltech.edu/I_toc.html
 https://www.feynmanlectures.caltech.edu/II_02.html
 https://www.feynmanlectures.caltech.edu/II_03.html
+https://www.feynmanlectures.caltech.edu/II_toc.html
+https://www.feynmanlectures.caltech.edu/III_toc.html
+https://www.feynmanlectures.caltech.edu/messenger.html
 https://www.fftw.org/
 https://www.fharrell.com/
 https://www.fierceelectronics.com/
@@ -32835,6 +32842,7 @@ https://www.goodreads.com/book/show/5486885-discriminants-resultants-and-multidi
 https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division
 https://www.goodreads.com/book/show/548914.The_Little_Schemer
 https://www.goodreads.com/book/show/55030.Cosmos
+https://www.goodreads.com/book/show/5546.The_Feynman_Lectures_on_Physics
 https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning
 https://www.goodreads.com/book/show/56201964-algebra
 https://www.goodreads.com/book/show/573330.A_Course_of_Pure_Mathematics
@@ -35293,6 +35301,7 @@ https://www.routledge.com/Chapman--HallCRC-Textbooks-in-Computing/book-series/CA
 https://www.routledge.com/Chapman--HallCRC-Texts-in-Statistical-Science/book-series/CHTEXSTASCI
 https://www.routledge.com/Chapman--HallCRC-The-R-Series/book-series/CRCTHERSER
 https://www.routledge.com/Chapman-HallCRC-Mathematics-Series/book-series/CHMATHEMAT
+https://www.routledge.com/Classical-Electrodynamics/Milton-Schwinger/p/book/9780367502072
 https://www.routledge.com/Classification-and-Regression-Trees/Breiman-Friedman-Stone-Olshen/p/book/9780412048418
 https://www.routledge.com/Classification/Gordon/p/book/9780367399665
 https://www.routledge.com/Combinatorial-Algorithms-Generation-Enumeration-and-Search/Kreher-Stinson/p/book/9780367400156
@@ -35316,7 +35325,10 @@ https://www.routledge.com/Discrete-Mathematics-and-Its-Applications/book-series/
 https://www.routledge.com/Elliptic-Curves-Number-Theory-and-Cryptography-Second-Edition/Washington/p/book/9781420071467
 https://www.routledge.com/Enumerative-Combinatorics/Charalambides/p/book/9780367396121
 https://www.routledge.com/Extending-R/Chambers/p/book/9781498775717
+https://www.routledge.com/Feynman-And-Computation/Hey/p/book/9780813340395
 https://www.routledge.com/Feynman-Lectures-on-Computation-Anniversary-Edition/Hey/p/book/9780367857332
+https://www.routledge.com/Feynman-Lectures-On-Gravitation/Feynman-Morinigo-Wagner-Hatfield-Pines/p/book/9780813340388
+https://www.routledge.com/Frontiers-in-Physics/book-series/FRONTIERSPHYS
 https://www.routledge.com/Gaussian-Markov-Random-Fields-Theory-and-Applications/Rue-Held/p/book/9781584884323
 https://www.routledge.com/Generalized-Additive-Models/Hastie-Tibshirani/p/book/9780412343902
 https://www.routledge.com/Generalized-Linear-Models/McCullagh-Nelder/p/book/9780412317606
@@ -35347,6 +35359,7 @@ https://www.routledge.com/our-products/book-series?letter=C
 https://www.routledge.com/our-products/book-series?letter=R
 https://www.routledge.com/Principles-of-Uncertainty/Kadane/p/book/9781138052734
 https://www.routledge.com/Probabilistic-Foundations-of-Statistical-Network-Analysis/Crane/p/book/9781138630154
+https://www.routledge.com/Quantum-Computation/Bez-Croft/p/book/9781032206486
 https://www.routledge.com/Queues/Cox-Smith/p/book/9780412109300
 https://www.routledge.com/R-Markdown-The-Definitive-Guide/Xie-Allaire-Grolemund/p/book/9781138359338
 https://www.routledge.com/Secret-History-The-Story-of-Cryptology/Bauer/p/book/9781138061231
