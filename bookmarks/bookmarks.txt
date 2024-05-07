@@ -30229,6 +30229,7 @@ https://vanderbei.princeton.edu/planets_webgl/GottPlanets.html
 https://vanemden.wordpress.com/
 https://vanemden.wordpress.com/2012/04/08/flowcharts-the-once-and-future-programming-language/
 https://vanemden.wordpress.com/2018/07/21/dijkstra-and-logic/
+https://vanillaos.org/
 https://varnish-cache.org/
 https://vcl.apache.org/
 https://vcpkg.io/en/
@@ -32474,6 +32475,7 @@ https://www.globaltimes.cn/
 https://www.gmfus.org/
 https://www.gnome.org/
 https://www.gnome.org/donate/
+https://www.gnome.org/getting-gnome/
 https://www.gnosisforall.com/about-13
 https://www.gnu-pascal.de/gpc/h-index.html
 https://www.gnu.org/
