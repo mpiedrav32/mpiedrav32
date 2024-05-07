@@ -6947,6 +6947,7 @@ https://en.wikipedia.org/wiki/Category:Package_management_systems
 https://en.wikipedia.org/wiki/Category:Packets_(information_technology)
 https://en.wikipedia.org/wiki/Category:Panel_data
 https://en.wikipedia.org/wiki/Category:Parabolic_partial_differential_equations
+https://en.wikipedia.org/wiki/Category:Parametric_statistics
 https://en.wikipedia.org/wiki/Category:Partial_differential_equations
 https://en.wikipedia.org/wiki/Category:Particle_physics
 https://en.wikipedia.org/wiki/Category:Philosophy_of_science
@@ -7097,6 +7098,7 @@ https://en.wikipedia.org/wiki/Category:Statistical_models
 https://en.wikipedia.org/wiki/Category:Statistical_natural_language_processing
 https://en.wikipedia.org/wiki/Category:Statistical_process_control
 https://en.wikipedia.org/wiki/Category:Statistical_signal_processing
+https://en.wikipedia.org/wiki/Category:Statistical_tests
 https://en.wikipedia.org/wiki/Category:Statistical_tests_for_contingency_tables
 https://en.wikipedia.org/wiki/Category:Statistical_theory
 https://en.wikipedia.org/wiki/Category:Statisticians
@@ -13360,6 +13362,7 @@ https://en.wikipedia.org/wiki/List_of_spiritual_entities_in_Islam
 https://en.wikipedia.org/wiki/List_of_states_with_nuclear_weapons
 https://en.wikipedia.org/wiki/List_of_statistical_mechanics_articles
 https://en.wikipedia.org/wiki/List_of_statistical_software
+https://en.wikipedia.org/wiki/List_of_statistical_tests
 https://en.wikipedia.org/wiki/List_of_statisticians
 https://en.wikipedia.org/wiki/List_of_statistics_articles
 https://en.wikipedia.org/wiki/List_of_statistics_journals
@@ -13486,6 +13489,7 @@ https://en.wikipedia.org/wiki/Locality-sensitive_hashing
 https://en.wikipedia.org/wiki/Locally_convex_topological_vector_space
 https://en.wikipedia.org/wiki/Locate_(Unix)
 https://en.wikipedia.org/wiki/Location_parameter
+https://en.wikipedia.org/wiki/Location_test
 https://en.wikipedia.org/wiki/Location-based_game
 https://en.wikipedia.org/wiki/Location%E2%80%93scale_family
 https://en.wikipedia.org/wiki/Locksport
@@ -15473,6 +15477,7 @@ https://en.wikipedia.org/wiki/Page_fault
 https://en.wikipedia.org/wiki/PageRank
 https://en.wikipedia.org/wiki/Paillier_cryptosystem
 https://en.wikipedia.org/wiki/Pair_production
+https://en.wikipedia.org/wiki/Paired_difference_test
 https://en.wikipedia.org/wiki/Pairing-based_cryptography
 https://en.wikipedia.org/wiki/Pairwise_independence
 https://en.wikipedia.org/wiki/Palace_of_Nations
@@ -18200,6 +18205,7 @@ https://en.wikipedia.org/wiki/Statistical_distance
 https://en.wikipedia.org/wiki/Statistical_finance
 https://en.wikipedia.org/wiki/Statistical_genetics
 https://en.wikipedia.org/wiki/Statistical_graphics
+https://en.wikipedia.org/wiki/Statistical_hypothesis_test
 https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
 https://en.wikipedia.org/wiki/Statistical_inference
 https://en.wikipedia.org/wiki/Statistical_learning_theory
@@ -19896,6 +19902,7 @@ https://en.wikipedia.org/wiki/Weird_machine
 https://en.wikipedia.org/wiki/Weisfeiler_Leman_graph_isomorphism_test
 https://en.wikipedia.org/wiki/Weissman_score
 https://en.wikipedia.org/wiki/Weka_(software)
+https://en.wikipedia.org/wiki/Welch%27s_t-test
 https://en.wikipedia.org/wiki/Welfare_trap
 https://en.wikipedia.org/wiki/Well-Manicured_Man
 https://en.wikipedia.org/wiki/Werner_Fenchel
@@ -24124,7 +24131,9 @@ https://journals.plos.org/plosone/
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140
 https://journals.sagepub.com/
 https://journals.sagepub.com/doi/10.1177/001316447903900237
+https://journals.sagepub.com/doi/10.1177/0301006619844680
 https://journals.sagepub.com/doi/10.1177/0306312710378448
+https://journals.sagepub.com/doi/10.1177/2041669520953457
 https://journals.sagepub.com/doi/full/10.1177/0961000618773133
 https://journals.sagepub.com/doi/full/10.1177/26339137221114874
 https://journals.sagepub.com/home/ire
@@ -27915,6 +27924,7 @@ https://physics.illinois.edu/
 https://physics.mit.edu/
 https://physics.nist.gov/cuu/Constants/
 https://physics.paperswithcode.com/
+https://physics.stackexchange.com/
 https://physics.stanford.edu/
 https://physics.uchicago.edu/
 https://physics.ucsd.edu/
