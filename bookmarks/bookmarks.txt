@@ -27062,7 +27062,9 @@ https://neusprech.org/
 https://neverworkintheory.org/
 https://new.abb.com/news/detail/4431/abb-and-the-economist-launch-automation-readiness-index-global-ranking-for-robotics-and-artificial-intelligence
 https://new.nsf.gov/funding/opportunities/computational-mathematics
+https://news.berkeley.edu/
 https://news.climate.columbia.edu/2023/06/09/ais-growing-carbon-footprint/
+https://news.columbia.edu/
 https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon
 https://news.gallup.com/poll/142727/religiosity-highest-world-poorest-nations.aspx
 https://news.harvard.edu/gazette/
@@ -27080,12 +27082,16 @@ https://news.mit.edu/2022/scaling-analog-optical-computing-1129
 https://news.mit.edu/2023/yael-tauman-kalai-acm-prize-computing-0419
 https://news.mit.edu/topic/cryptography
 https://news.mit.edu/topic/quantum-physics
+https://news.northwestern.edu/
 https://news.northwestern.edu/stories/2023/10/ai-just-got-100-fold-more-energy-efficient/
+https://news.rice.edu/
 https://news.sky.com/
 https://news.sophos.com/en-us/
 https://news.stanford.edu/
+https://news.uchicago.edu/
 https://news.uchicago.edu/story/uchicago-scientists-observe-first-evidence-quantum-superchemistry-laboratory
 https://news.un.org/en/
+https://news.yale.edu/
 https://news.ycombinator.com/
 https://news.ycombinator.com/item?id=10609960
 https://news.ycombinator.com/item?id=16533719
@@ -27104,6 +27110,7 @@ https://newsboat.org/
 https://newsletter.pessimistsarchive.org/
 https://newsletter.pessimistsarchive.org/p/the-unabomber-was-an-ai-doomer-obviously
 https://newsroom.arm.com/200bn-arm-chips
+https://newsroom.ucla.edu/
 https://nextcloud.com/
 https://nextcloud.com/office/
 https://nextjs.org/
@@ -30163,6 +30170,7 @@ https://uk.rs-online.com/web/content/discovery/ideas-and-advice/discrete-semicon
 https://ukdataservice.ac.uk/
 https://umap-learn.readthedocs.io/en/latest/
 https://umbc.edu/stories/first-observed-virus-attaching-to-another/
+https://umich.edu/
 https://uncovering-cicada.fandom.com/wiki/CICADA_3301_Liber_Primus_Sacred_BOOK
 https://uncovering-cicada.fandom.com/wiki/Liber_Primus
 https://uncovering-cicada.fandom.com/wiki/The_Final_Puzzle
@@ -30227,6 +30235,7 @@ https://uwaterloo.ca/computational-mathematics/
 https://uwaterloo.ca/computational-mathematics/people-profiles/category/69
 https://uwaterloo.ca/cybersecurity-privacy-institute/
 https://uwaterloo.ca/math/
+https://uwaterloo.ca/news/
 https://uwaterloo.ca/pure-mathematics/
 https://uwaterloo.ca/scholar/ajmeneze
 https://uwaterloo.ca/scholar/ajmeneze/home
@@ -31045,6 +31054,7 @@ https://www.brookings.edu/projects/artificial-intelligence-and-emerging-technolo
 https://www.brookings.edu/topics/cybersecurity/
 https://www.brookings.edu/topics/international-affairs/
 https://www.brown.edu/academics/math/
+https://www.brown.edu/news
 https://www.browserstack.com/automate
 https://www.browserstack.com/guide
 https://www.browserstack.com/guide/cypress-framework-tutorial
@@ -31083,6 +31093,8 @@ https://www.calculator.net/
 https://www.calculator.net/bmr-calculator.html
 https://www.calculator.net/inflation-calculator.html
 https://www.call-cc.org/
+https://www.cam.ac.uk/
+https://www.cam.ac.uk/news
 https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles
 https://www.cam.ac.uk/research/news/pythagoras-was-wrong-there-are-no-universal-musical-harmonies-study-finds
 https://www.cambridge.org/core/books/a-practical-introduction-to-denotational-semantics/80122D52B49F175D38E0478EA45D4EDD
@@ -32483,6 +32495,7 @@ https://www.ginac.de/
 https://www.ginac.de/CLN/
 https://www.gitlogs.com/
 https://www.gl-inet.com/
+https://www.gla.ac.uk/
 https://www.glfw.org/
 https://www.globalchange.gov/
 https://www.globalencryption.org/
@@ -33700,6 +33713,7 @@ https://www.loginradius.com/blog/engineering/guest-post/jwt-vs-sessions/
 https://www.logitech.com/
 https://www.logitech.com/en-us
 https://www.logswan.org/
+https://www.london.ac.uk/
 https://www.loongson.cn/EN
 https://www.lorenz.mit.edu/
 https://www.lorenz.mit.edu/edward-n-lorenz
@@ -34148,6 +34162,8 @@ https://www.mobygames.com/game/325/alone-in-the-dark/
 https://www.mobygames.com/game/692/descent/
 https://www.mobygames.com/platform/dos/
 https://www.modular.com/max/mojo
+https://www.monash.edu/
+https://www.monash.edu/news
 https://www.monde-diplomatique.fr/
 https://www.monde-diplomatique.fr/diplo/int/
 https://www.monetdb.org/
@@ -34430,8 +34446,11 @@ https://www.noemamag.com/what-if-money-expired/
 https://www.nongnu.org/lzip/
 https://www.nongnu.org/oath-toolkit/
 https://www.normaliz.uni-osnabrueck.de/
+https://www.northwestern.edu/
 https://www.norvig.com/
+https://www.nottingham.ac.uk/
 https://www.nottingham.ac.uk/csme/meas/papers/yasukawa.html
+https://www.nottingham.ac.uk/news/
 https://www.nowpublishers.com/
 https://www.nowpublishers.com/article/Details/DBS-002
 https://www.nowpublishers.com/article/Details/DBS-024
@@ -34718,6 +34737,7 @@ https://www.ovpworld.org/
 https://www.ovpworld.org/processor-family-mips-4k
 https://www.ovt.com/
 https://www.ox.ac.uk/
+https://www.ox.ac.uk/news-and-events
 https://www.ox.ac.uk/news/2022-03-09-oxford-historians-apply-state-art-ai-transform-study-ancient-texts
 https://www.ox.ac.uk/news/2022-06-16-researchers-develop-worlds-first-ultra-fast-photonic-computing-processor-using
 https://www.ox.ac.uk/news/2023-08-01-scientists-uncover-surprising-connection-between-number-theory-and-evolutionary
@@ -34918,6 +34938,7 @@ https://www.press.jhu.edu/books/title/10232/chinese-roots-linear-algebra
 https://www.press.jhu.edu/books/title/10678/matrix-computations
 https://www.primekey.com/
 https://www.princeton.edu/~rblee/frog/
+https://www.princeton.edu/news
 https://www.privacy-handbuch.de/download/privacy-handbuch_win.pdf
 https://www.privacyfoundation.ch/
 https://www.privacyguides.org/en/
@@ -34957,6 +34978,7 @@ https://www.public-software-group.org/preftools
 https://www.publicbooks.org/
 https://www.publishersweekly.com/
 https://www.puppet.com/
+https://www.purdue.edu/
 https://www.purevpn.com/
 https://www.pw.org/
 https://www.pycrypto.org/
@@ -35257,6 +35279,7 @@ https://www.rfc-editor.org/search/rfc_search_detail.php
 https://www.rfc-editor.org/search/rfc_search_detail.php?title=oauth&pubstatus%5B%5D=Any&pub_date_type=any
 https://www.rfc-editor.org/standards
 https://www.ri.se/sv
+https://www.rice.edu/
 https://www.rigb.org/
 https://www.rigb.org/christmas-lectures
 https://www.rigb.org/explore-science
@@ -36106,6 +36129,7 @@ https://www.swojtowytsch.com/prospective-students
 https://www.swp-berlin.org/
 https://www.swp-berlin.org/en
 https://www.swr.de/
+https://www.sydney.edu.au/
 https://www.symmetrymagazine.org/
 https://www.sympiler.com/
 https://www.sympy.org/en/index.html
@@ -36634,8 +36658,10 @@ https://www.usgs.gov/
 https://www.usgs.gov/centers/national-minerals-information-center/mineral-commodity-summaries
 https://www.usgs.gov/faqs/can-megaquakes-really-happen-magnitude-10-or-larger
 https://www.usgs.gov/faqs/what-depth-do-earthquakes-occur-what-significance-depth
+https://www.usnews.com/
 https://www.usps.com/
 https://www.utoronto.ca/
+https://www.utoronto.ca/news
 https://www.utoronto.ca/news/u-t-s-peter-wittek-who-will-be-remembered-feb-3-event-why-future-quantum
 https://www.uzh.ch/de.html
 https://www.v-dem.net/
@@ -36715,6 +36741,7 @@ https://www.w3schools.com/r/
 https://www.w3schools.com/sql/
 https://www.w3schools.com/statistics/
 https://www.w3schools.com/xml/
+https://www.washington.edu/news/
 https://www.washingtonpost.com/
 https://www.washingtonpost.com/entertainment/books/
 https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/
