@@ -198,6 +198,7 @@ http://www.gnosis.org/genesis.html
 http://www.gnosis.org/gnintro.htm
 http://www.gnosis.org/whatisgnostic.htm
 http://www.gnumeric.org/
+http://www.gnuplot.info/
 http://www.gprolog.org/
 http://www.graphicsmagick.org/
 http://www.hostsymposium.org/
@@ -276,6 +277,7 @@ http://www.webappsec.org/
 http://www.weidai.com/
 http://www.worldwavedata.com/
 http://www.wtfpl.net/
+http://www.youtube.com/@fedora
 http://www.zodiackillerciphers.com/
 http://xinehq.de/
 http://yum.baseurl.org/
@@ -602,6 +604,7 @@ https://applied-privacy.net/
 https://appliedcrypto.ethz.ch/
 https://appliedmath.brown.edu/
 https://applitools.com/
+https://apps.fedoraproject.org/
 https://apps.gnome.org/
 https://apps.gnome.org/Amberol/
 https://apps.gnome.org/Apostrophe/
@@ -1276,6 +1279,7 @@ https://bio7.org/
 https://bioinfo.uochb.cas.cz/embedsom/
 https://biopython.org/
 https://bips-hb.github.io/innsight/
+https://bitbucket.org/blaze-lib/blaze/src/master/
 https://bitcoin.org/bitcoin.pdf
 https://bitcoin.org/en/
 https://bitfunnel.org/
@@ -1618,6 +1622,7 @@ https://bugs.archlinux.org/
 https://bugs.devuan.org/
 https://bugtraq.securityfocus.com/archive
 https://bugzilla.kernel.org/
+https://bugzilla.redhat.com/
 https://build2.org/
 https://builder.sourceware.org/
 https://buildroot.org/
@@ -1977,7 +1982,25 @@ https://comeetie.github.io/greed/
 https://commission.europa.eu/index_en
 https://common-lisp.net/
 https://commoncrawl.org/
+https://commons.apache.org/
 https://commons.apache.org/components.html
+https://commons.apache.org/proper/commons-collections/
+https://commons.apache.org/proper/commons-compress/
+https://commons.apache.org/proper/commons-crypto/
+https://commons.apache.org/proper/commons-csv/
+https://commons.apache.org/proper/commons-email/
+https://commons.apache.org/proper/commons-imaging/
+https://commons.apache.org/proper/commons-io/
+https://commons.apache.org/proper/commons-logging/
+https://commons.apache.org/proper/commons-math/
+https://commons.apache.org/proper/commons-net/
+https://commons.apache.org/proper/commons-numbers/
+https://commons.apache.org/proper/commons-pool/
+https://commons.apache.org/proper/commons-rng/
+https://commons.apache.org/proper/commons-statistics/
+https://commons.apache.org/proper/commons-text/
+https://commons.apache.org/proper/commons-validator/
+https://commons.apache.org/proper/commons-vfs/
 https://commons.wikimedia.org/wiki/File:Barplot_language_speeds_(Benchmarks_Game_Mandelbrot).svg
 https://commonsensereasoning.org/
 https://commonsensereasoning.org/winograd.html
@@ -2028,6 +2051,7 @@ https://cookbook.scheme.org/
 https://cooperpress.com/
 https://cooperpress.com/publications/
 https://copilot.microsoft.com/
+https://copr.fedorainfracloud.org/coprs/
 https://coq-community.org/coq-art/
 https://coq.inria.fr/
 https://coral.ai/products/
@@ -2828,6 +2852,7 @@ https://dblp.org/pid/183/6329.html
 https://dblp.org/pid/19/1165.html
 https://dblp.org/pid/19/6894.html
 https://dblp.org/pid/36/3031.html
+https://dblp.org/pid/41/1415.html
 https://dblp.org/pid/41/2609.html
 https://dblp.org/pid/62/5917.html
 https://dblp.org/pid/75/296.html
@@ -3253,6 +3278,7 @@ https://direct.mit.edu/books/book/3058/Single-Neuron-Studies-of-the-Human-BrainP
 https://direct.mit.edu/books/edited-volume/2882/chapter-abstract/78185/There-s-Plenty-of-Room-at-the-Bottom-An-Invitation
 https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory
 https://direct.mit.edu/qss/article/2/4/1144/107356/Continued-use-of-retracted-papers-Temporal-trends
+https://directory.apache.org/
 https://directory.fsf.org/wiki/Category/Mathematics
 https://directory.fsf.org/wiki/Main_Page
 https://dirk.eddelbuettel.com/
@@ -3756,10 +3782,21 @@ https://docs.codeberg.org/
 https://docs.conda.io/projects/miniconda/en/latest/
 https://docs.enthought.com/mayavi/mayavi/
 https://docs.fedoraproject.org/en-US/docs/
+https://docs.fedoraproject.org/en-US/emerging/
 https://docs.fedoraproject.org/en-US/epel/
+https://docs.fedoraproject.org/en-US/fedora-coreos/
+https://docs.fedoraproject.org/en-US/fedora-kinoite/
+https://docs.fedoraproject.org/en-US/fedora-magazine/
+https://docs.fedoraproject.org/en-US/fedora-sericea/
+https://docs.fedoraproject.org/en-US/fedora-server/
+https://docs.fedoraproject.org/en-US/fedora-silverblue/
 https://docs.fedoraproject.org/en-US/fedora/latest/
 https://docs.fedoraproject.org/en-US/fesco/
+https://docs.fedoraproject.org/en-US/iot/
+https://docs.fedoraproject.org/en-US/neurofedora/latex/
+https://docs.fedoraproject.org/en-US/project/
 https://docs.fedoraproject.org/en-US/releases/lifecycle/
+https://docs.fedoraproject.org/en-US/spins-labs/
 https://docs.fedoraproject.org/en-US/workstation-docs/
 https://docs.ferretdb.io/diff/
 https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning
@@ -3782,6 +3819,7 @@ https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilitie
 https://docs.ntpsec.org/latest/ntpsec.html
 https://docs.nvidia.com/cudnn/index.html
 https://docs.nvidia.com/deeplearning/modulus/modulus-sym/user_guide/neural_operators/fourcastnet.html
+https://docs.octave.org/latest/
 https://docs.opencv.org/4.8.0/d6/d00/tutorial_py_root.html
 https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html
 https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
@@ -3792,6 +3830,7 @@ https://docs.oracle.com/en/java/javase/20/security/index.html
 https://docs.oracle.com/en/java/javase/21/core/
 https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/package-summary.html
 https://docs.oracle.com/en/java/javase/21/security/
+https://docs.oracle.com/javase/tutorial/collections/
 https://docs.paperless-ngx.com/
 https://docs.posit.co/
 https://docs.pwntools.com/en/stable/
@@ -3930,11 +3969,13 @@ https://docs.scheme.org/tyscheme/
 https://docs.sciml.ai/Catalyst/stable/
 https://docs.sciml.ai/DataDrivenDiffEq/stable/
 https://docs.sciml.ai/ModelingToolkit/dev/
+https://docs.scipy.org/doc/scipy/
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.entropy.html
 https://docs.scipy.org/doc/scipy/reference/integrate.html
 https://docs.scipy.org/doc/scipy/reference/optimize.html
 https://docs.scipy.org/doc/scipy/reference/stats.html
 https://docs.scipy.org/doc/scipy/tutorial/index.html
+https://docs.sympy.org/latest/index.html
 https://docs.xarray.dev/en/stable/
 https://docs.yoctoproject.org/brief-yoctoprojectqs/index.html
 https://docs.zephyrproject.org/latest/
@@ -5614,6 +5655,7 @@ https://en.wikipedia.org/wiki/Attribute-oriented_programming
 https://en.wikipedia.org/wiki/Attribute%E2%80%93value_system
 https://en.wikipedia.org/wiki/Attribution_of_recent_climate_change
 https://en.wikipedia.org/wiki/Auburn_University
+https://en.wikipedia.org/wiki/AUCTeX
 https://en.wikipedia.org/wiki/Audible_(service)
 https://en.wikipedia.org/wiki/Audio_signal
 https://en.wikipedia.org/wiki/Audrey_Terras
@@ -10548,6 +10590,7 @@ https://en.wikipedia.org/wiki/GNOME_Commander
 https://en.wikipedia.org/wiki/GNOME_Files
 https://en.wikipedia.org/wiki/GNOME_Foundation
 https://en.wikipedia.org/wiki/GNOME_Keyring
+https://en.wikipedia.org/wiki/GNOME_LaTeX
 https://en.wikipedia.org/wiki/GNOME_Project
 https://en.wikipedia.org/wiki/Gnosis
 https://en.wikipedia.org/wiki/Gnosticism
@@ -10584,6 +10627,7 @@ https://en.wikipedia.org/wiki/GNU_Readline
 https://en.wikipedia.org/wiki/GNU_Savannah
 https://en.wikipedia.org/wiki/GNU_Scientific_Library
 https://en.wikipedia.org/wiki/GNU_Smalltalk
+https://en.wikipedia.org/wiki/GNU_TeXmacs
 https://en.wikipedia.org/wiki/GNU_toolchain
 https://en.wikipedia.org/wiki/Gnulib
 https://en.wikipedia.org/wiki/Gnus
@@ -10797,6 +10841,7 @@ https://en.wikipedia.org/wiki/GUID_Partition_Table
 https://en.wikipedia.org/wiki/Guided_local_search
 https://en.wikipedia.org/wiki/Guilt_(emotion)
 https://en.wikipedia.org/wiki/Guilt%E2%80%93shame%E2%80%93fear_spectrum_of_cultures
+https://en.wikipedia.org/wiki/Gummi_(software)
 https://en.wikipedia.org/wiki/Gundam
 https://en.wikipedia.org/wiki/Gunn_diode
 https://en.wikipedia.org/wiki/Gunning_transceiver_logic
@@ -12405,6 +12450,7 @@ https://en.wikipedia.org/wiki/Khronos_Group
 https://en.wikipedia.org/wiki/Kibana
 https://en.wikipedia.org/wiki/KiCad
 https://en.wikipedia.org/wiki/KickassTorrents
+https://en.wikipedia.org/wiki/Kile
 https://en.wikipedia.org/wiki/Kill_chain
 https://en.wikipedia.org/wiki/Killer_NIC
 https://en.wikipedia.org/wiki/Killing_of_Osama_bin_Laden
@@ -13631,6 +13677,7 @@ https://en.wikipedia.org/wiki/Lyon_Playfair,_1st_Baron_Playfair
 https://en.wikipedia.org/wiki/Lyra2
 https://en.wikipedia.org/wiki/Lyrasis
 https://en.wikipedia.org/wiki/Lysol
+https://en.wikipedia.org/wiki/LyX
 https://en.wikipedia.org/wiki/LZ77_and_LZ78
 https://en.wikipedia.org/wiki/M-209
 https://en.wikipedia.org/wiki/M-ary_tree
@@ -13670,6 +13717,7 @@ https://en.wikipedia.org/wiki/Macroeconomics
 https://en.wikipedia.org/wiki/Macroscopic_quantum_self-trapping
 https://en.wikipedia.org/wiki/Macross
 https://en.wikipedia.org/wiki/Macsyma
+https://en.wikipedia.org/wiki/MacTeX
 https://en.wikipedia.org/wiki/MacTutor_History_of_Mathematics_Archive
 https://en.wikipedia.org/wiki/Madden%E2%80%93Julian_oscillation
 https://en.wikipedia.org/wiki/Made_in_China_2025
@@ -16374,6 +16422,7 @@ https://en.wikipedia.org/wiki/Pseudorandom_noise
 https://en.wikipedia.org/wiki/Pseudorandom_number_generator
 https://en.wikipedia.org/wiki/Pseudoreplication
 https://en.wikipedia.org/wiki/Psiphon
+https://en.wikipedia.org/wiki/PSTricks
 https://en.wikipedia.org/wiki/Psychological_mindedness
 https://en.wikipedia.org/wiki/Psychometrics
 https://en.wikipedia.org/wiki/Pthreads
@@ -17355,6 +17404,7 @@ https://en.wikipedia.org/wiki/Scientific_programming_language
 https://en.wikipedia.org/wiki/Scientific_Reports
 https://en.wikipedia.org/wiki/Scientific_Revolution
 https://en.wikipedia.org/wiki/Scientific_socialism
+https://en.wikipedia.org/wiki/Scientific_WorkPlace
 https://en.wikipedia.org/wiki/Scientism
 https://en.wikipedia.org/wiki/Scientometrics
 https://en.wikipedia.org/wiki/Scikit-learn
@@ -18713,11 +18763,16 @@ https://en.wikipedia.org/wiki/TeX_Live
 https://en.wikipedia.org/wiki/Texas_Instruments
 https://en.wikipedia.org/wiki/Texas_Instruments_TMS1000
 https://en.wikipedia.org/wiki/Texas_Tech_University
+https://en.wikipedia.org/wiki/Texmaker
+https://en.wikipedia.org/wiki/TeXnicCenter
+https://en.wikipedia.org/wiki/TeXShop
+https://en.wikipedia.org/wiki/TeXstudio
 https://en.wikipedia.org/wiki/Text_editor
 https://en.wikipedia.org/wiki/Text_Encoding_Initiative
 https://en.wikipedia.org/wiki/Text_file
 https://en.wikipedia.org/wiki/Text_mining
 https://en.wikipedia.org/wiki/Textus_Receptus
+https://en.wikipedia.org/wiki/TeXworks
 https://en.wikipedia.org/wiki/Tf%E2%80%93idf
 https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_D%27op%C3%A9ra_Spatial
 https://en.wikipedia.org/wiki/Thalassocracy
@@ -20010,11 +20065,13 @@ https://en.wikipedia.org/wiki/Windows_Terminal
 https://en.wikipedia.org/wiki/Windscribe
 https://en.wikipedia.org/wiki/Windsor,_Ontario
 https://en.wikipedia.org/wiki/Wine_(software)
+https://en.wikipedia.org/wiki/WinEdt
 https://en.wikipedia.org/wiki/Winner-take-all_(computing)
 https://en.wikipedia.org/wiki/Winnipeg
 https://en.wikipedia.org/wiki/Winograd_schema_challenge
 https://en.wikipedia.org/wiki/WinRAR
 https://en.wikipedia.org/wiki/WinSCP
+https://en.wikipedia.org/wiki/WinShell
 https://en.wikipedia.org/wiki/Winsorized_mean
 https://en.wikipedia.org/wiki/Winsorizing
 https://en.wikipedia.org/wiki/WION
@@ -20107,6 +20164,7 @@ https://en.wikipedia.org/wiki/Xcas
 https://en.wikipedia.org/wiki/XCircuit
 https://en.wikipedia.org/wiki/XDCC
 https://en.wikipedia.org/wiki/Xfce
+https://en.wikipedia.org/wiki/Xfig
 https://en.wikipedia.org/wiki/XGBoost
 https://en.wikipedia.org/wiki/XHTML
 https://en.wikipedia.org/wiki/Xiangqi
@@ -20674,6 +20732,7 @@ https://fauna.com/
 https://fbb-git.gitlab.io/cppannotations/
 https://fcix.net/
 https://feathersjs.com/
+https://fedora-scientific.readthedocs.io/en/latest/
 https://fedora-scientific.readthedocs.io/en/latest/tools.html
 https://fedoramagazine.org/
 https://fedoraproject.org/
@@ -20687,8 +20746,18 @@ https://fedoraproject.org/coreos/
 https://fedoraproject.org/en/coreos/
 https://fedoraproject.org/iot/
 https://fedoraproject.org/kinoite/
+https://fedoraproject.org/labs/
+https://fedoraproject.org/labs/astronomy/
+https://fedoraproject.org/labs/comp-neuro/
+https://fedoraproject.org/labs/design-suite/
+https://fedoraproject.org/labs/games/
+https://fedoraproject.org/labs/jam/
+https://fedoraproject.org/labs/python-classroom/
+https://fedoraproject.org/labs/scientific/
+https://fedoraproject.org/labs/security
 https://fedoraproject.org/server/
 https://fedoraproject.org/silverblue/
+https://fedoraproject.org/spins/
 https://fedoraproject.org/wiki/Changes/Harden_All_Packages
 https://fedoraproject.org/wiki/Fedora_Project_Wiki
 https://fedoraproject.org/workstation/
@@ -21125,6 +21194,7 @@ https://github.com/bkimminich/it-security-lecture
 https://github.com/bkimminich/webappsec-nutshell
 https://github.com/BLAKE3-team/BLAKE3
 https://github.com/blakeblackshear/frigate
+https://github.com/blitzpp/blitz
 https://github.com/bloomberg/bde
 https://github.com/Blosc/c-blosc
 https://github.com/bluesky-social
@@ -21424,6 +21494,7 @@ https://github.com/facebook/folly
 https://github.com/facebook/hhvm
 https://github.com/facebook/lexical
 https://github.com/facebook/prophet
+https://github.com/facebook/rocksdb
 https://github.com/facebookincubator/velox
 https://github.com/facebookresearch/esm
 https://github.com/facebookresearch/fastText
@@ -21887,6 +21958,7 @@ https://github.com/maplibre/maplibre-native
 https://github.com/maplibre/maplibre-rs
 https://github.com/mapnik/mapnik
 https://github.com/marcotcr/lime
+https://github.com/MariaDB/server
 https://github.com/marshallpierce
 https://github.com/marshallpierce/rust-base64
 https://github.com/Marwes/combine
@@ -22140,6 +22212,7 @@ https://github.com/openai/multi-agent-emergence-environments
 https://github.com/openai/neural-mmo
 https://github.com/openbabel/openbabel
 https://github.com/opencpu/opencpu
+https://github.com/opencurve/curve
 https://github.com/opencv
 https://github.com/opencv/opencv
 https://github.com/opencv/opencv-python
@@ -22193,6 +22266,7 @@ https://github.com/ostreedev/ostree
 https://github.com/overleaf/overleaf
 https://github.com/OWASP-Foundation
 https://github.com/OWASP/NodeGoat
+https://github.com/owlbarn/owl
 https://github.com/oxfordcontrol/Clarabel.jl
 https://github.com/oxfordcontrol/Clarabel.rs
 https://github.com/oz123/awesome-c
@@ -22362,6 +22436,7 @@ https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-probl
 https://github.com/redis/redis
 https://github.com/REditorSupport/languageserver
 https://github.com/REditorSupport/vscode-R
+https://github.com/redpanda-data/redpanda
 https://github.com/reduxjs/redux
 https://github.com/Reference-LAPACK/lapack
 https://github.com/ReFirmLabs/binwalk
@@ -22742,6 +22817,7 @@ https://github.com/tidyverse/tidyverse
 https://github.com/tidyverts/fable/
 https://github.com/tidyverts/tsibble
 https://github.com/tigertv/BeeNum
+https://github.com/TileDB-Inc/TileDB
 https://github.com/time-rs/time
 https://github.com/timescale/timescaledb
 https://github.com/timsort/cpp-TimSort
@@ -22795,6 +22871,7 @@ https://github.com/topics/scientific-computing
 https://github.com/topics/security
 https://github.com/topics/som
 https://github.com/topics/statistics
+https://github.com/topics/storage-engine
 https://github.com/torch/nn
 https://github.com/torch/optim
 https://github.com/torch/torch7
@@ -23406,6 +23483,7 @@ https://hbr.org/2011/09/was-marx-right
 https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century
 https://hbr.org/2020/03/beyond-silicon-valley
 https://hbr.org/2021/02/is-china-emerging-as-the-global-leader-in-ai
+https://hc.apache.org/
 https://health.gov/
 https://heath.cs.illinois.edu/scicomp/
 https://hedgehogreview.com/
@@ -23419,6 +23497,7 @@ https://help.imdb.com/
 https://herbsutter.com/
 https://herbsutter.com/2012/08/02/strong-and-weak-hardware-memory-models/
 https://here.r-lib.org/
+https://hevea.inria.fr/
 https://hex-rays.com/
 https://hex-rays.com/ida-pro/
 https://hex.xyz/
@@ -24235,6 +24314,7 @@ https://keys.openpgp.org/
 https://khcoder.net/en/
 https://kidger.site/
 https://kidger.site/thoughts/just-know-stuff/
+https://kile.sourceforge.io/
 https://kimh.github.io/clojure-by-example/
 https://kimialab.uwaterloo.ca/kimia/
 https://kimmo.suominen.com/
@@ -24244,11 +24324,13 @@ https://knopper.net/knoppix/index-en.html
 https://knowablemagazine.org/
 https://kobra.uni-kassel.de/handle/123456789/13612
 https://kodi.tv/
+https://koji.fedoraproject.org/koji/
 https://kolektiva.media/w/ra7bfqXCyqBFn7dSFhneFy
 https://korap.ids-mannheim.de/
 https://kore.io/
 https://koreascience.kr/article/JAKO200710737025670.page
 https://kornel.ski/rust-c-speed
+https://koschei.fedoraproject.org/
 https://kotlinlang.org/
 https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free
 https://kr2ml.github.io/
@@ -26707,6 +26789,7 @@ https://mc-stan.org/
 https://mc-stan.org/users/interfaces/math
 https://mccue.dev/pages/7-27-22-c-errors
 https://mceliece.org/
+https://mcj.sourceforge.net/
 https://mcjones.org/dustydecks/
 https://mcjones.org/dustydecks/archives/2021/08/25/1090/
 https://mcjones.org/dustydecks/archives/2022/04/25/1113/
@@ -27264,6 +27347,7 @@ https://numfocus.org/sponsored-projects
 https://numpi.dm.unipi.it/scientific-computing-libraries/mpsolve/
 https://numpy.org/
 https://numpy.org/devdocs/user/index.html
+https://numpy.org/doc/stable/
 https://numpy.org/doc/stable/reference/arrays.html
 https://numpy.org/doc/stable/reference/generated/numpy.unique.html
 https://numpy.org/neps/
@@ -27444,6 +27528,7 @@ https://openbsd.amsterdam/blog/
 https://openbsdrouterguide.net/
 https://opencores.org/
 https://opencryptoaudit.org/
+https://opencurve.io/Curve/HOME
 https://opencv.org/
 https://opendata.cern.ch/
 https://opendatadiscovery.org/
@@ -27664,6 +27749,7 @@ https://packages.debian.org/source/bullseye/libs/
 https://packages.debian.org/stable/
 https://packages.debian.org/stable/intel-media-va-driver-non-free
 https://packages.debian.org/stable/r-recommended
+https://packages.fedoraproject.org/
 https://packagist.org/
 https://packetpushers.net/
 https://packetstormsecurity.com/
@@ -27680,6 +27766,7 @@ https://palisade-crypto.org/
 https://palletsprojects.com/
 https://palletsprojects.com/p/flask/
 https://pandas.pydata.org/
+https://pandas.pydata.org/docs/
 https://pandas.pydata.org/docs/index.html
 https://pandas.pydata.org/docs/user_guide/index.html
 https://pandoc.org/
@@ -28612,6 +28699,7 @@ https://redmine.lighttpd.net/projects/lighttpd/wiki/Docs_SSL
 https://redmonk.com/
 https://redmonk.com/rstephens/2024/03/08/top20-jan2024/
 https://redmonk.com/sogrady/2024/03/08/language-rankings-1-24/
+https://redpanda.com/
 https://reduce-algebra.sourceforge.io/
 https://redux-toolkit.js.org/
 https://redux.js.org/
@@ -28759,6 +28847,7 @@ https://robotsguide.com/
 https://robotsguide.com/robots/universal
 https://rocker-project.org/
 https://rocket.rs/
+https://rocksdb.org/
 https://rockylinux.org/
 https://roi.r-forge.r-project.org/
 https://rolf.esecurity.ch/?page_id=100
@@ -29456,6 +29545,7 @@ https://squeak.org/
 https://sr.ht/
 https://sr.ht/~sircmpwn/sourcehut/
 https://sr.ithaka.org/
+https://src.fedoraproject.org/
 https://srdas.github.io/DLBook/
 https://srfi.schemers.org/
 https://ss64.com/
@@ -30017,6 +30107,7 @@ https://tildes.net/~news
 https://tildes.net/~science
 https://tildes.net/~tech
 https://tildeverse.org/
+https://tiledb.com/
 https://tillitis.se/tkey/
 https://time.com/
 https://time.is/
@@ -31789,15 +31880,20 @@ https://www.csie.ntu.edu.tw/~cjlin/liblinear/
 https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 https://www.csis.org/
 https://www.csis.org/analysis/chinas-new-strategy-waging-microchip-tech-war
+https://www.csm.ornl.gov/pvm/
 https://www.csnp.org/
 https://www.csnp.org/post/capture-the-flag-for-beginners
 https://www.csoonline.com/article/567525/hardware-and-firmware-vulnerabilities-a-guide-to-the-threats.html
 https://www.cst.cam.ac.uk/
 https://www.cst.cam.ac.uk/research/themes/computer-architecture
+https://www.ctan.org/pkg/beamer
 https://www.ctan.org/pkg/doi
+https://www.ctan.org/pkg/fancybox
 https://www.ctan.org/pkg/ieeetran
 https://www.ctan.org/pkg/lshort
 https://www.ctan.org/pkg/lshort-english
+https://www.ctan.org/pkg/prosper
+https://www.ctan.org/pkg/seminar
 https://www.ctcms.nist.gov/fipy/
 https://www.ctvnews.ca/
 https://www.culture.gouv.fr/fr
@@ -32580,6 +32676,7 @@ https://www.gnu.org/software/grub/
 https://www.gnu.org/software/gsasl/
 https://www.gnu.org/software/gsl/
 https://www.gnu.org/software/gsl/design/gsl-design.html
+https://www.gnu.org/software/gsl/doc/html/
 https://www.gnu.org/software/gss/
 https://www.gnu.org/software/guile/
 https://www.gnu.org/software/guile/libraries/
@@ -33609,6 +33706,7 @@ https://www.larecherche.fr/
 https://www.lastpass.com/
 https://www.latacora.com/
 https://www.latex-project.org/
+https://www.latex-project.org/latex3/
 https://www.latimes.com/entertainment-arts/awards/story/2023-11-13/japanese-animation-master-hayao-miyazaki-boy-and-the-heron
 https://www.latticesemi.com/en
 https://www.latticesemi.com/products/developmentboardsandkits/orangecrab
@@ -35171,6 +35269,7 @@ https://www.redhat.com/en
 https://www.redhat.com/en/blog/jose-json-object-signing-and-encryption
 https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
 https://www.redhat.com/en/topics/devops/what-is-devsecops
+https://www.redhat.com/en/topics/linux/fedora-vs-red-hat-enterprise-linux
 https://www.redhat.com/sysadmin/base64-encoding
 https://www.redmine.org/
 https://www.redox-os.org/
@@ -35449,8 +35548,10 @@ https://www.rust-lang.org/
 https://www.rust-lang.org/learn
 https://www.rwth-aachen.de/
 https://www.sagemath.org/
+https://www.sagemath.org/index.html
 https://www.sagemath.org/sagebook/
 https://www.sagemath.org/sagebook/english.html
+https://www.sagemath.org/tour.html
 https://www.salon.com/
 https://www.samba.org/
 https://www.samba.org/samba/
@@ -36275,6 +36376,7 @@ https://www.tcpdump.org/
 https://www.tcpdump.org/papers/bpf-usenix93.pdf
 https://www.tcs.tifr.res.in/~jaikumar/
 https://www.tcs.tifr.res.in/~prahladh/
+https://www.tcs.uni-luebeck.de/en/
 https://www.tcsh.org/
 https://www.team6502.org/
 https://www.tech-insider.org/internet/research/1996/0520.html
@@ -36319,6 +36421,7 @@ https://www.tensorflow.org/tutorials/structured_data/time_series
 https://www.tensorflow.org/xla
 https://www.teradata.com/glossary/what-is-data-gravity
 https://www.texmacs.org/tmweb/home/welcome.en.html
+https://www.texstudio.org/
 https://www.textualize.io/
 https://www.thalesgroup.com/en
 https://www.thalesgroup.com/en/market-specific-solutions/tss/cryptography/public-key-cryptographic-library
@@ -36550,6 +36653,7 @@ https://www.tu.berlin/math
 https://www.tudelft.nl/citg/over-faculteit/afdelingen/hydraulic-engineering/sections/environmental-fluid-mechanics/research/swan
 https://www.tue.nl/en/research/research-groups/mathematics/statistics-probability-and-operations-research/combinatorial-optimization-1/
 https://www.tug.org/texlive/
+https://www.tug.org/texworks/
 https://www.tuhs.org/Archive/Distributions/Research/
 https://www.tuhs.org/cgi-bin/utree.pl?file=V7
 https://www.tunnelbear.com/
