@@ -472,6 +472,7 @@ https://aitopics.org/misc/brief-history
 https://aitopics.org/search
 https://aivillage.org/
 https://aiweekly.co/
+https://ajc.maths.uq.edu.au/
 https://akademie.dw.com/
 https://akademie.dw.com/en/is-fact-checking-effective-a-critical-review-of-what-works-and-what-doesnt/a-55248257
 https://alacritty.org/
@@ -510,6 +511,7 @@ https://alternativeto.net/
 https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html
 https://amath.washington.edu/
 https://ambient.data-imaginist.com/
+https://amc-journal.eu/index.php/amc
 https://america.cgtn.com/
 https://ametsoc.org/index.cfm/ams/
 https://amiunique.org/
@@ -2027,6 +2029,7 @@ https://compilers.iecc.com/crenshaw/
 https://compilers.iecc.com/crenshaw/tutorfinal.pdf
 https://complexityzoo.net/Complexity_Zoo
 https://complexityzoo.net/Complexity_Zoo:R
+https://compositio.nl/
 https://computationalcomplexity.org/
 https://computerhistory.org/
 https://computerhistory.org/blog/fairchild-and-the-fairchildren/
@@ -3278,6 +3281,7 @@ https://dillo.org/
 https://diplomatique.org.br/
 https://direct.mit.edu/books/book/3058/Single-Neuron-Studies-of-the-Human-BrainProbing
 https://direct.mit.edu/books/edited-volume/2882/chapter-abstract/78185/There-s-Plenty-of-Room-at-the-Bottom-An-Invitation
+https://direct.mit.edu/coli
 https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory
 https://direct.mit.edu/qss/article/2/4/1144/107356/Continued-use-of-retracted-papers-Temporal-trends
 https://directory.apache.org/
@@ -3698,6 +3702,7 @@ https://dns.he.net/
 https://dnschecker.org/
 https://dnscurve.org/
 https://dnsprivacy.org/
+https://doaj.org/
 https://dobrev.com/
 https://doc.cat-v.org/
 https://doc.coker.com.au/projects/bonnie/
@@ -4872,6 +4877,7 @@ https://en.wikipedia.org/wiki/Acosmism
 https://en.wikipedia.org/wiki/Acropolis_of_Athens
 https://en.wikipedia.org/wiki/ACS_Omega
 https://en.wikipedia.org/wiki/ACT-R
+https://en.wikipedia.org/wiki/Acta_Mathematica
 https://en.wikipedia.org/wiki/Actian
 https://en.wikipedia.org/wiki/Actinidia_deliciosa
 https://en.wikipedia.org/wiki/Action_(physics)
@@ -4932,6 +4938,8 @@ https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment
 https://en.wikipedia.org/wiki/Advanced_Simulation_Library
 https://en.wikipedia.org/wiki/Advanced_Vector_Extensions
 https://en.wikipedia.org/wiki/Advanced_z-transform
+https://en.wikipedia.org/wiki/Advances_in_Group_Theory_and_Applications
+https://en.wikipedia.org/wiki/Advances_in_Production_Engineering_%26_Management
 https://en.wikipedia.org/wiki/Advent_of_Code
 https://en.wikipedia.org/wiki/Adversarial_information_retrieval
 https://en.wikipedia.org/wiki/Adversarial_journalism
@@ -5314,6 +5322,8 @@ https://en.wikipedia.org/wiki/Animal_rights
 https://en.wikipedia.org/wiki/Animal_rights_movement
 https://en.wikipedia.org/wiki/Anna_Karenina
 https://en.wikipedia.org/wiki/Anna%27s_Archive
+https://en.wikipedia.org/wiki/Annales_de_l%27Institut_Fourier
+https://en.wikipedia.org/wiki/Annales_Fennici_Mathematici
 https://en.wikipedia.org/wiki/Annihilator_method
 https://en.wikipedia.org/wiki/Anomaly_(natural_sciences)
 https://en.wikipedia.org/wiki/Anomaly_detection
@@ -5497,6 +5507,8 @@ https://en.wikipedia.org/wiki/Arizona_State_University
 https://en.wikipedia.org/wiki/Arjen_Lenstra
 https://en.wikipedia.org/wiki/Arjen_Lucassen
 https://en.wikipedia.org/wiki/Arjuna
+https://en.wikipedia.org/wiki/Arkiv_f%C3%B6r_Matematik
+https://en.wikipedia.org/wiki/Arkivoc
 https://en.wikipedia.org/wiki/Arlington_County,_Virginia
 https://en.wikipedia.org/wiki/ARM_architecture_family
 https://en.wikipedia.org/wiki/ARM_Cortex-A
@@ -5524,6 +5536,7 @@ https://en.wikipedia.org/wiki/Arrival_(film)
 https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem
 https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu_model
 https://en.wikipedia.org/wiki/Ars_Conjectandi
+https://en.wikipedia.org/wiki/Ars_Mathematica_Contemporanea
 https://en.wikipedia.org/wiki/Art_Deco
 https://en.wikipedia.org/wiki/Art_Deco_architecture_of_New_York_City
 https://en.wikipedia.org/wiki/Art_pop
@@ -5668,6 +5681,7 @@ https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel
 https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy
 https://en.wikipedia.org/wiki/Augustus
 https://en.wikipedia.org/wiki/Australasia
+https://en.wikipedia.org/wiki/Australasian_Journal_of_Combinatorics
 https://en.wikipedia.org/wiki/Australian_Book_Review
 https://en.wikipedia.org/wiki/Austria-Hungary
 https://en.wikipedia.org/wiki/Austronesian_peoples
@@ -5847,6 +5861,7 @@ https://en.wikipedia.org/wiki/Bayes_classifier
 https://en.wikipedia.org/wiki/Bayes_estimator
 https://en.wikipedia.org/wiki/Bayes_factor
 https://en.wikipedia.org/wiki/Bayes%27_theorem
+https://en.wikipedia.org/wiki/Bayesian_Analysis_(journal)
 https://en.wikipedia.org/wiki/Bayesian_epistemology
 https://en.wikipedia.org/wiki/Bayesian_experimental_design
 https://en.wikipedia.org/wiki/Bayesian_inference
@@ -6243,6 +6258,7 @@ https://en.wikipedia.org/wiki/Brand_Indicators_for_Message_Identification
 https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology
 https://en.wikipedia.org/wiki/Brandon_Sanderson
 https://en.wikipedia.org/wiki/Brandt_Report
+https://en.wikipedia.org/wiki/Brazilian_Journal_of_Probability_and_Statistics
 https://en.wikipedia.org/wiki/Brazilian_Space_Agency
 https://en.wikipedia.org/wiki/BreachForums
 https://en.wikipedia.org/wiki/Breadth-first_search
@@ -6981,6 +6997,8 @@ https://en.wikipedia.org/wiki/Category:Object%E2%80%93subject%E2%80%93verb_langu
 https://en.wikipedia.org/wiki/Category:Object%E2%80%93verb%E2%80%93subject_languages
 https://en.wikipedia.org/wiki/Category:Online_English_dictionaries
 https://en.wikipedia.org/wiki/Category:Open_access_(publishing)
+https://en.wikipedia.org/wiki/Category:Open_access_by_country
+https://en.wikipedia.org/wiki/Category:Open_access_journals
 https://en.wikipedia.org/wiki/Category:Optimal_control
 https://en.wikipedia.org/wiki/Category:Optimization_algorithms_and_methods
 https://en.wikipedia.org/wiki/Category:Optimization_in_vector_spaces
@@ -7448,6 +7466,7 @@ https://en.wikipedia.org/wiki/Chien_search
 https://en.wikipedia.org/wiki/Chilam_Balam
 https://en.wikipedia.org/wiki/Children_of_Dune
 https://en.wikipedia.org/wiki/Children_of_Time_(novel)
+https://en.wikipedia.org/wiki/Chilean_Journal_of_Statistics
 https://en.wikipedia.org/wiki/Chimie_ParisTech
 https://en.wikipedia.org/wiki/China_Central_Television
 https://en.wikipedia.org/wiki/China_Global_Television_Network
@@ -7933,6 +7952,7 @@ https://en.wikipedia.org/wiki/Complutense_University_of_Madrid
 https://en.wikipedia.org/wiki/Component_Pascal
 https://en.wikipedia.org/wiki/Component-based_software_engineering
 https://en.wikipedia.org/wiki/Composite_B%C3%A9zier_curve
+https://en.wikipedia.org/wiki/Compositio_Mathematica
 https://en.wikipedia.org/wiki/Compound_probability_distribution
 https://en.wikipedia.org/wiki/Computability
 https://en.wikipedia.org/wiki/Computability_in_Europe
@@ -7960,6 +7980,7 @@ https://en.wikipedia.org/wiki/Computational_hardness_assumption
 https://en.wikipedia.org/wiki/Computational_indistinguishability
 https://en.wikipedia.org/wiki/Computational_intelligence
 https://en.wikipedia.org/wiki/Computational_learning_theory
+https://en.wikipedia.org/wiki/Computational_Linguistics_(journal)
 https://en.wikipedia.org/wiki/Computational_mathematics
 https://en.wikipedia.org/wiki/Computational_mechanics
 https://en.wikipedia.org/wiki/Computational_model
@@ -8944,6 +8965,7 @@ https://en.wikipedia.org/wiki/Director_of_National_Intelligence
 https://en.wikipedia.org/wiki/Director_of_the_Federal_Bureau_of_Investigation
 https://en.wikipedia.org/wiki/Directorate_of_Military_Intelligence_(United_Kingdom)
 https://en.wikipedia.org/wiki/Directorate-General_for_External_Security
+https://en.wikipedia.org/wiki/Directory_of_Open_Access_Journals
 https://en.wikipedia.org/wiki/Dired
 https://en.wikipedia.org/wiki/Dirichlet_convolution
 https://en.wikipedia.org/wiki/Dirichlet_distribution
@@ -8963,11 +8985,13 @@ https://en.wikipedia.org/wiki/Discover_(magazine)
 https://en.wikipedia.org/wiki/Discovery_of_nuclear_fission
 https://en.wikipedia.org/wiki/Discovery_of_the_neutron
 https://en.wikipedia.org/wiki/Discrepancy_function
+https://en.wikipedia.org/wiki/Discrete_Analysis
 https://en.wikipedia.org/wiki/Discrete_calculus
 https://en.wikipedia.org/wiki/Discrete_cosine_transform
 https://en.wikipedia.org/wiki/Discrete_Fourier_transform
 https://en.wikipedia.org/wiki/Discrete_Laplace_operator
 https://en.wikipedia.org/wiki/Discrete_logarithm
+https://en.wikipedia.org/wiki/Discrete_Mathematics_%26_Theoretical_Computer_Science
 https://en.wikipedia.org/wiki/Discrete_optimization
 https://en.wikipedia.org/wiki/Discrete-event_simulation
 https://en.wikipedia.org/wiki/Discrete-time_Fourier_transform
@@ -9348,12 +9372,16 @@ https://en.wikipedia.org/wiki/Electron%E2%80%93positron_annihilation
 https://en.wikipedia.org/wiki/Electronic_Arrays_9002
 https://en.wikipedia.org/wiki/Electronic_body_music
 https://en.wikipedia.org/wiki/Electronic_Colloquium_on_Computational_Complexity
+https://en.wikipedia.org/wiki/Electronic_Communications_in_Probability
 https://en.wikipedia.org/wiki/Electronic_component
 https://en.wikipedia.org/wiki/Electronic_dance_music
 https://en.wikipedia.org/wiki/Electronic_engineering
 https://en.wikipedia.org/wiki/Electronic_filter
 https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation
+https://en.wikipedia.org/wiki/Electronic_Journal_of_Combinatorics
 https://en.wikipedia.org/wiki/Electronic_Journal_of_Linear_Algebra
+https://en.wikipedia.org/wiki/Electronic_Journal_of_Probability
+https://en.wikipedia.org/wiki/Electronic_Journal_of_Statistics
 https://en.wikipedia.org/wiki/Electronic_Key_Management_System
 https://en.wikipedia.org/wiki/Electronic_kit
 https://en.wikipedia.org/wiki/Electronic_navigational_chart
@@ -9361,6 +9389,7 @@ https://en.wikipedia.org/wiki/Electronic_oscillator
 https://en.wikipedia.org/wiki/Electronic_paper
 https://en.wikipedia.org/wiki/Electronic_publishing
 https://en.wikipedia.org/wiki/Electronic_structure
+https://en.wikipedia.org/wiki/Electronic_Transactions_on_Numerical_Analysis
 https://en.wikipedia.org/wiki/Electronics
 https://en.wikipedia.org/wiki/Electrons_and_Holes_in_Semiconductors_with_Applications_to_Transistor_Electronics
 https://en.wikipedia.org/wiki/Element_(software)
@@ -10062,6 +10091,7 @@ https://en.wikipedia.org/wiki/Fortran
 https://en.wikipedia.org/wiki/Fortress_(programming_language)
 https://en.wikipedia.org/wiki/Fortuna_(PRNG)
 https://en.wikipedia.org/wiki/Fortune%27s_algorithm
+https://en.wikipedia.org/wiki/Forum_of_Mathematics
 https://en.wikipedia.org/wiki/Forward_chaining
 https://en.wikipedia.org/wiki/Forward_secrecy
 https://en.wikipedia.org/wiki/Forward_the_Foundation
@@ -10202,6 +10232,7 @@ https://en.wikipedia.org/wiki/FROG
 https://en.wikipedia.org/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs
 https://en.wikipedia.org/wiki/Front_organization
 https://en.wikipedia.org/wiki/Front_panel
+https://en.wikipedia.org/wiki/Frontiers_in_Heat_and_Mass_Transfer
 https://en.wikipedia.org/wiki/FROSTBURG
 https://en.wikipedia.org/wiki/Fruitarianism
 https://en.wikipedia.org/wiki/FTDI
@@ -10500,6 +10531,7 @@ https://en.wikipedia.org/wiki/German_Confederation
 https://en.wikipedia.org/wiki/German_Council_on_Foreign_Relations
 https://en.wikipedia.org/wiki/German_idealism
 https://en.wikipedia.org/wiki/German_Institute_for_International_and_Security_Affairs
+https://en.wikipedia.org/wiki/German_Mathematical_Society
 https://en.wikipedia.org/wiki/German_nuclear_weapons_program
 https://en.wikipedia.org/wiki/German_Reference_Corpus
 https://en.wikipedia.org/wiki/German_Renaissance
@@ -10966,6 +10998,7 @@ https://en.wikipedia.org/wiki/Hardware_Trojan
 https://en.wikipedia.org/wiki/Hardware-based_full_disk_encryption
 https://en.wikipedia.org/wiki/Hardy_field
 https://en.wikipedia.org/wiki/Hardy%E2%80%93Littlewood_inequality
+https://en.wikipedia.org/wiki/Hardy%E2%80%93Ramanujan_Journal
 https://en.wikipedia.org/wiki/Harmonic_analysis
 https://en.wikipedia.org/wiki/Harmonic_function
 https://en.wikipedia.org/wiki/Harmonic_mean
@@ -12260,16 +12293,26 @@ https://en.wikipedia.org/wiki/Joshua_Tenenbaum
 https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs
 https://en.wikipedia.org/wiki/JOSS
 https://en.wikipedia.org/wiki/Journal_Citation_Reports
+https://en.wikipedia.org/wiki/Journal_de_Th%C3%A9orie_des_Nombres_de_Bordeaux
 https://en.wikipedia.org/wiki/Journal_des_s%C3%A7avans
+https://en.wikipedia.org/wiki/Journal_of_Artificial_Intelligence_Research
 https://en.wikipedia.org/wiki/Journal_of_Climate
 https://en.wikipedia.org/wiki/Journal_of_Computational_and_Graphical_Statistics
+https://en.wikipedia.org/wiki/Journal_of_Computational_Geometry
+https://en.wikipedia.org/wiki/Journal_of_Computer_Graphics_Techniques
 https://en.wikipedia.org/wiki/Journal_of_Cryptology
+https://en.wikipedia.org/wiki/Journal_of_Formalized_Reasoning
 https://en.wikipedia.org/wiki/Journal_of_Functional_Programming
 https://en.wikipedia.org/wiki/Journal_of_Geophysical_Research
+https://en.wikipedia.org/wiki/Journal_of_Graph_Algorithms_and_Applications
+https://en.wikipedia.org/wiki/Journal_of_Integer_Sequences
 https://en.wikipedia.org/wiki/Journal_of_Machine_Learning_Research
+https://en.wikipedia.org/wiki/Journal_of_Modern_Applied_Statistical_Methods
+https://en.wikipedia.org/wiki/Journal_of_Official_Statistics
 https://en.wikipedia.org/wiki/Journal_of_Open_Source_Software
 https://en.wikipedia.org/wiki/Journal_of_Statistical_Computation_and_Simulation
 https://en.wikipedia.org/wiki/Journal_of_Statistical_Software
+https://en.wikipedia.org/wiki/Journal_of_Statistics_Education
 https://en.wikipedia.org/wiki/Journal_of_Symbolic_Computation
 https://en.wikipedia.org/wiki/Journal_of_the_ACM
 https://en.wikipedia.org/wiki/Journal_ranking
@@ -13563,6 +13606,7 @@ https://en.wikipedia.org/wiki/Logic_synthesis
 https://en.wikipedia.org/wiki/Logic_Theorist
 https://en.wikipedia.org/wiki/Logical_link_control
 https://en.wikipedia.org/wiki/Logical_matrix
+https://en.wikipedia.org/wiki/Logical_Methods_in_Computer_Science
 https://en.wikipedia.org/wiki/Logical_schema
 https://en.wikipedia.org/wiki/Logical_shift
 https://en.wikipedia.org/wiki/Logistic_function
@@ -15200,17 +15244,20 @@ https://en.wikipedia.org/wiki/Opaque_data_type
 https://en.wikipedia.org/wiki/Opaque_pointer
 https://en.wikipedia.org/wiki/OPEC
 https://en.wikipedia.org/wiki/Open_access
+https://en.wikipedia.org/wiki/Open_Access_Scholarly_Publishing_Association
 https://en.wikipedia.org/wiki/Open_addressing
 https://en.wikipedia.org/wiki/Open_and_Free_Technology_Community
 https://en.wikipedia.org/wiki/Open_Archives_Initiative
 https://en.wikipedia.org/wiki/Open_Babel
 https://en.wikipedia.org/wiki/Open_Bioinformatics_Foundation
+https://en.wikipedia.org/wiki/Open_Chemistry
 https://en.wikipedia.org/wiki/Open_collector
 https://en.wikipedia.org/wiki/Open_data
 https://en.wikipedia.org/wiki/Open_Database_Connectivity
 https://en.wikipedia.org/wiki/Open_Energy_Modelling_Initiative
 https://en.wikipedia.org/wiki/Open_energy_system_databases
 https://en.wikipedia.org/wiki/Open_energy_system_models
+https://en.wikipedia.org/wiki/Open_Engineering
 https://en.wikipedia.org/wiki/Open_Firmware
 https://en.wikipedia.org/wiki/Open_Geospatial_Consortium
 https://en.wikipedia.org/wiki/Open_Journal_Systems
@@ -15221,6 +15268,7 @@ https://en.wikipedia.org/wiki/Open_Mobile_Terminal_Platform
 https://en.wikipedia.org/wiki/Open_MPI
 https://en.wikipedia.org/wiki/Open_Networking_Foundation
 https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange
+https://en.wikipedia.org/wiki/Open_Physics
 https://en.wikipedia.org/wiki/Open_Publication_Distribution_System
 https://en.wikipedia.org/wiki/Open_Sans
 https://en.wikipedia.org/wiki/Open_set
@@ -15392,6 +15440,7 @@ https://en.wikipedia.org/wiki/Orestes
 https://en.wikipedia.org/wiki/Organic_chemistry
 https://en.wikipedia.org/wiki/Organic_compound
 https://en.wikipedia.org/wiki/Organic_reaction
+https://en.wikipedia.org/wiki/Organic_Syntheses
 https://en.wikipedia.org/wiki/Organic_synthesis
 https://en.wikipedia.org/wiki/Organic_work
 https://en.wikipedia.org/wiki/Organisation_for_the_Prohibition_of_Chemical_Weapons
@@ -15876,6 +15925,8 @@ https://en.wikipedia.org/wiki/Physical_geodesy
 https://en.wikipedia.org/wiki/Physical_layer
 https://en.wikipedia.org/wiki/Physical_neural_network
 https://en.wikipedia.org/wiki/Physical_quantity
+https://en.wikipedia.org/wiki/Physical_Review
+https://en.wikipedia.org/wiki/Physical_Review_X
 https://en.wikipedia.org/wiki/Physical_schema
 https://en.wikipedia.org/wiki/Physical_security
 https://en.wikipedia.org/wiki/Physical_symbol_system
@@ -15968,6 +16019,7 @@ https://en.wikipedia.org/wiki/Plebeians
 https://en.wikipedia.org/wiki/Plessey_System_250
 https://en.wikipedia.org/wiki/Plimpton_322
 https://en.wikipedia.org/wiki/Pliny_the_Elder
+https://en.wikipedia.org/wiki/PLOS
 https://en.wikipedia.org/wiki/PLOS_One
 https://en.wikipedia.org/wiki/Plot_(graphics)
 https://en.wikipedia.org/wiki/Plotinus
@@ -17204,6 +17256,7 @@ https://en.wikipedia.org/wiki/RSA_problem
 https://en.wikipedia.org/wiki/RSA_Secret-Key_Challenge
 https://en.wikipedia.org/wiki/RSA_Security
 https://en.wikipedia.org/wiki/RSBAC
+https://en.wikipedia.org/wiki/RSC_Advances
 https://en.wikipedia.org/wiki/RStudio
 https://en.wikipedia.org/wiki/RTLinux
 https://en.wikipedia.org/wiki/RTX2010
@@ -17529,6 +17582,7 @@ https://en.wikipedia.org/wiki/Semantic_Scholar
 https://en.wikipedia.org/wiki/Semantic_security
 https://en.wikipedia.org/wiki/Semantic_similarity
 https://en.wikipedia.org/wiki/Semantic_triple
+https://en.wikipedia.org/wiki/Semantic_Web_(journal)
 https://en.wikipedia.org/wiki/Semantics_(computer_science)
 https://en.wikipedia.org/wiki/SemEval
 https://en.wikipedia.org/wiki/Semi-major_and_semi-minor_axes
@@ -18874,6 +18928,7 @@ https://en.wikipedia.org/wiki/The_Hunger_(Strieber_novel)
 https://en.wikipedia.org/wiki/The_Hunters_in_the_Snow
 https://en.wikipedia.org/wiki/The_Incident_(album)
 https://en.wikipedia.org/wiki/The_Institute_of_Technology_at_Link%C3%B6ping_University
+https://en.wikipedia.org/wiki/The_Journal_of_Object_Technology
 https://en.wikipedia.org/wiki/The_Kimball_lifecycle
 https://en.wikipedia.org/wiki/The_Kingdom_of_God_Is_Within_You
 https://en.wikipedia.org/wiki/The_Knot_Atlas
@@ -18988,6 +19043,7 @@ https://en.wikipedia.org/wiki/Theoretical_astronomy
 https://en.wikipedia.org/wiki/Theoretical_computer_science
 https://en.wikipedia.org/wiki/Theoretical_physics
 https://en.wikipedia.org/wiki/Theory_of_computation
+https://en.wikipedia.org/wiki/Theory_of_Computing
 https://en.wikipedia.org/wiki/Theory_of_equations
 https://en.wikipedia.org/wiki/Theory_of_relativity
 https://en.wikipedia.org/wiki/Theosophical_Society
@@ -20663,6 +20719,7 @@ https://ethw.org/Fairchild_Semiconductor
 https://ethw.org/First-Hand:The_Hidden_Markov_Model
 https://ethw.org/Main_Page
 https://ethw.org/Oral-History:Claude_E._Shannon
+https://etna.ricam.oeaw.ac.at/
 https://etsh.nl/
 https://eu.swi-prolog.org/man/clpfd.html
 https://eu.swi-prolog.org/pldoc/man?section=assoc
@@ -23953,6 +24010,7 @@ https://implicit-layers-tutorial.org/neural_odes/
 https://improvingpsych.org/
 https://imstat.org/
 https://imstat.org/journals-and-publications/annals-of-statistics
+https://imstat.org/journals-and-publications/electronic-journal-of-probability/
 https://increment.com/programming-languages/cobol-all-the-way-down/
 https://indico.cern.ch/
 https://indico.cern.ch/event/881532/attachments/1988486/3314307/cern_2020.pdf
@@ -24019,6 +24077,8 @@ https://internet2.edu/
 https://interpreterbook.com/
 https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch
 https://intezer.com/blog/research/executable-linkable-format-101-part1-sections-segments/
+https://intlpress.com/
+https://intlpress.com/site/pub/pages/journals/items/arkiv/_home/_main/index.php
 https://intro2r.com/
 https://introtcs.org/public/index.html
 https://inveniosoftware.org/
@@ -24124,6 +24184,7 @@ https://jax.readthedocs.io/en/latest/
 https://jaycarlson.net/embedded-linux/
 https://jaycarlson.net/microcontrollers/
 https://jaycarlson.net/pf/st-stm32f0/
+https://jcgt.org/
 https://jcheminf.biomedcentral.com/
 https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-4-17
 https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00460-5
@@ -24144,6 +24205,7 @@ https://jeroenjanssens.com/dsatcl/
 https://jessecambon.github.io/
 https://jessecambon.github.io/tidygeocoder/
 https://jestjs.io/
+https://jfr.unibo.it/
 https://jfuzzylogic.sourceforge.net/html/index.html
 https://jianh.web.engr.illinois.edu/papers/sdc-ics2019.pdf
 https://jinja.palletsprojects.com/en/3.1.x/
@@ -24171,6 +24233,7 @@ https://jmodelica.org//
 https://jmt.sourceforge.net/
 https://joaotavora.github.io/eglot/
 https://jobs.acm.org/
+https://jocg.org/index.php/jocg
 https://joe-editor.sourceforge.io/
 https://joeyh.name/
 https://joeyh.name/code/moreutils/
@@ -28385,6 +28448,7 @@ https://projecteuclid.org/journals/annals-of-statistics
 https://projecteuclid.org/journals/annals-of-statistics/volume-30/issue-5/What-is-a-statistical-model/10.1214/aos/1035844977.full
 https://projecteuclid.org/journals/bayesian-analysis
 https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-21/issue-1/On-a-theory-of-computation-and-complexity-over-the-real/bams/1183555121.full
+https://projecteuclid.org/journals/electronic-communications-in-probability
 https://projecteuclid.org/journals/probability-surveys/volume-5/issue-none/Differential-equation-approximations-for-Markov-chains/10.1214/07-PS121.full
 https://projecteuclid.org/journals/statistical-science
 https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full
@@ -30706,6 +30770,7 @@ https://www.abetterinternet.org/
 https://www.abortretry.fail/p/the-berkley-software-distribution
 https://www.abs.gov.au/
 https://www.abs.gov.au/statistics
+https://www.acadsci.fi/mathematica/
 https://www.accessengineeringlibrary.com/content/book/9781259587696
 https://www.accessibility.dev/
 https://www.aclweb.org/portal/
@@ -30727,6 +30792,7 @@ https://www.adelielinux.org/
 https://www.admin.ch/gov/de/start.html
 https://www.adobe.com/
 https://www.adultdevelopmentstudy.org/
+https://www.advgrouptheory.com/journal/
 https://www.advintel.io/post/discontinued-the-end-of-conti-s-brand-marks-new-chapter-for-cybercrime-landscape
 https://www.afp.com/
 https://www.ageofempires.com/games/aoe/
@@ -30899,6 +30965,7 @@ https://www.antipope.org/charlie/blog-static/index.html
 https://www.ap.org/
 https://www.apachefriends.org/
 https://www.apam.columbia.edu/
+https://www.apem-journal.org/
 https://www.apisec.ai/blog/broken-object-level-authorization
 https://www.apnews.com/
 https://www.apreshill.com/
@@ -31046,6 +31113,7 @@ https://www.benevolent.com/
 https://www.benfrederickson.com/blog/
 https://www.bennyapplebaum.sites.tau.ac.il/
 https://www.benryves.com/products/bbcbasic/
+https://www.bernoullisociety.org/
 https://www.bettercap.org/
 https://www.bezkoder.com/
 https://www.bezkoder.com/node-js-jwt-authentication-mysql/
@@ -31287,6 +31355,7 @@ https://www.cambridge.org/core/browse-subjects/statistics-and-probability/probab
 https://www.cambridge.org/core/browse-subjects/statistics-and-probability/statistical-theory-and-methods
 https://www.cambridge.org/core/journals/combinatorics-probability-and-computing
 https://www.cambridge.org/core/journals/environmental-data-science
+https://www.cambridge.org/core/journals/forum-of-mathematics-pi
 https://www.cambridge.org/core/journals/international-organization
 https://www.cambridge.org/core/journals/international-organization/most-cited
 https://www.cambridge.org/core/journals/journal-of-navigation/article/abs/review-of-flight-trajectory-optimisations/BC712D186CB6399F06D52144931176EB
@@ -31438,6 +31507,7 @@ https://www.census.gov/programs-surveys/acs.html
 https://www.census.gov/programs-surveys/acs/
 https://www.census.gov/programs-surveys/cps.html
 https://www.centerspace.net/nmath-stats
+https://www.centre-mersenne.org/
 https://www.cerias.purdue.edu/about/history/coast_resources/cryptography/
 https://www.cern/science/computing
 https://www.cesargamboasanabria.com/es/
@@ -33506,6 +33576,7 @@ https://www.itu.dk/~sestoft/
 https://www.ivpn.net/
 https://www.iza.org/
 https://www.jabberwocky.com/software/paperkey/
+https://www.jair.org/index.php/jair
 https://www.jamovi.org/
 https://www.janestreet.com/
 https://www.japan.go.jp/
@@ -33554,6 +33625,7 @@ https://www.johndcook.com/blog/tag/information-theory/
 https://www.joonet.de/lilo/
 https://www.jooq.org/
 https://www.josuttis.com/
+https://www.jot.fm/
 https://www.journal-of-hepatology.eu/article/S0168-8278(11)00494-6/fulltext
 https://www.journalofdemocracy.org/
 https://www.jpl.nasa.gov/
@@ -34055,6 +34127,7 @@ https://www.mathematik.uni-muenchen.de/~forster/sw/aribas.html
 https://www.mathi.uni-heidelberg.de/~vdisarlo/hgds/ilia_luca_merged.pdf
 https://www.mathjax.org/
 https://www.mathnet.ru/index.phtml?&option_lang=eng
+https://www.mathoa.org/
 https://www.mathopt.org/
 https://www.mathopt.org/?nav=journal
 https://www.mathopt.org/?nav=optima_newsletter
@@ -34260,6 +34333,7 @@ https://www.mit.edu/hacker/hacker.html
 https://www.mit.edu/people/warlord/
 https://www.mit.edu/people/warlord/RSA129-announce.txt
 https://www.mitre.org/
+https://www.mittag-leffler.se/publications/acta-mathematica/
 https://www.mkw.nrw/hochschule-und-forschung/studium-und-lehre/ueberblick-hochschulen-nrw
 https://www.ml.cmu.edu/
 https://www.mlai.uni-heidelberg.de/en
@@ -34667,6 +34741,7 @@ https://www.nytimes.com/2024/04/05/your-money/paying-for-college/100k-college-co
 https://www.nytimes.com/international/section/books/review
 https://www.nytimes.com/roomfordebate/2015/02/09/are-economists-overrated/overreliance-on-the-pseudo-science-of-economics
 https://www.nytimes.com/wirecutter/
+https://www.oaspa.org/
 https://www.obdev.at/products/littlesnitch/index.html
 https://www.ocf.berkeley.edu/
 https://www.octave.org/
@@ -35843,6 +35918,7 @@ https://www.scirp.org/
 https://www.scirp.org/html/7-9202431_107313.htm
 https://www.scmagazine.com/
 https://www.scmp.com/
+https://www.scopus.com/
 https://www.scottaaronson.com/
 https://www.scribus.net/
 https://www.scrivenerpublishing.com/subject_area.php?id=Mathematics
@@ -35872,6 +35948,7 @@ https://www.seemoo.tu-darmstadt.de/
 https://www.selenium.dev/
 https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/
 https://www.selenium.dev/selenium-ide/
+https://www.semantic-web-journal.net/
 https://www.semanticscholar.org/
 https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776
 https://www.semanticscholar.org/paper/Distributed-Representations-of-Words-and-Phrases-Mikolov-Sutskever/87f40e6f3022adbc1f1905e3e506abad05a9964f
@@ -36320,6 +36397,7 @@ https://www.tandfonline.com/journals/uamm20
 https://www.tandfonline.com/journals/uasa20
 https://www.tandfonline.com/journals/ucha20
 https://www.tandfonline.com/journals/ucry20
+https://www.tandfonline.com/journals/ujgt21
 https://www.tandfonline.com/journals/ujic20
 https://www.tandfonline.com/journals/umho20
 https://www.tandfonline.com/journals/umma20
@@ -36412,6 +36490,7 @@ https://www.techpowerup.com/
 https://www.techradar.com/
 https://www.techradar.com/vpn/best-vpn
 https://www.techrxiv.org/
+https://www.techscience.com/journal/fhmt
 https://www.techspot.com/
 https://www.telepolis.de/
 https://www.telerik.com/
