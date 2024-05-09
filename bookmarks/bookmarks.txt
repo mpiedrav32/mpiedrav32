@@ -2787,6 +2787,7 @@ https://datascience.wisc.edu/
 https://datasciencebox.org/
 https://datasciencetexts.com/subjects/time_series_analysis.html
 https://datasetsearch.research.google.com
+https://datasetsearch.research.google.com/
 https://datasketches.apache.org/
 https://datasketches.apache.org/docs/Background/SketchOrigins.html
 https://datastackshow.com/
@@ -3230,6 +3231,7 @@ https://developers.google.com/optimization/lp/lp_example
 https://developers.google.com/optimization/lp/stigler_diet
 https://developers.google.com/products
 https://developers.google.com/protocol-buffers
+https://developers.google.com/search
 https://developers.google.com/tink
 https://developers.google.com/tink/hybrid
 https://developers.google.com/web
@@ -28732,10 +28734,16 @@ https://research.cs.wisc.edu/htcondor/
 https://research.facebook.com/
 https://research.facebook.com/teams/central-applied-science/
 https://research.google/
+https://research.google/blog/
+https://research.google/blog/english-learners-can-now-practice-speaking-on-search/
+https://research.google/pubs/
 https://research.google/pubs/in-datacenter-performance-analysis-of-a-tensor-processing-unit/
 https://research.google/pubs/procella-unifying-serving-and-analytical-data-at-youtube/
 https://research.google/pubs/pub47851/
 https://research.google/pubs/pub48388/
+https://research.google/resources/
+https://research.google/resources/datasets/
+https://research.google/resources/our-projects/
 https://research.google/teams/
 https://research.google/teams/algorithms-optimization/
 https://research.google/teams/network-systems/
@@ -33616,6 +33624,7 @@ https://www.kaggle.com/kaggleteam/datasets
 https://www.kaggle.com/learn
 https://www.kaggle.com/learn/geospatial-analysis
 https://www.kaggle.com/learn/time-series
+https://www.kaggle.com/organizations/google
 https://www.kaggle.com/organizations/kaggle/datasets
 https://www.kaggle.com/organizations/uciml/datasets
 https://www.kali.org/
