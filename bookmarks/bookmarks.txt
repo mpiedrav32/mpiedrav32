@@ -3384,6 +3384,7 @@ https://dl.acm.org/doi/10.1145/1283920.2949031
 https://dl.acm.org/doi/10.1145/128765.128770
 https://dl.acm.org/doi/10.1145/129712.129746
 https://dl.acm.org/doi/10.1145/1327452.1327478
+https://dl.acm.org/doi/10.1145/1376616.1376672
 https://dl.acm.org/doi/10.1145/1379387.1379398
 https://dl.acm.org/doi/10.1145/1435417.1435432
 https://dl.acm.org/doi/10.1145/1460361.1460381
@@ -3462,6 +3463,7 @@ https://dl.acm.org/doi/10.1145/324133.324266
 https://dl.acm.org/doi/10.1145/3282307
 https://dl.acm.org/doi/10.1145/3285029
 https://dl.acm.org/doi/10.1145/3297858.3304042
+https://dl.acm.org/doi/10.1145/3299869.3320212
 https://dl.acm.org/doi/10.1145/3314221.3314642
 https://dl.acm.org/doi/10.1145/331499.331504
 https://dl.acm.org/doi/10.1145/3315454.3329960
@@ -3552,6 +3554,7 @@ https://dl.acm.org/doi/10.1145/87252.88105
 https://dl.acm.org/doi/10.1145/937503.937505
 https://dl.acm.org/doi/10.1145/948249.948255
 https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735
+https://dl.acm.org/doi/10.14778/2831360.2831362
 https://dl.acm.org/doi/10.5555/1098666
 https://dl.acm.org/doi/10.5555/2534748.2534765
 https://dl.acm.org/doi/10.5555/2665671.2665740
@@ -3571,10 +3574,13 @@ https://dl.acm.org/doi/abs/10.1145/3412439
 https://dl.acm.org/doi/abs/10.1145/3431282
 https://dl.acm.org/doi/abs/10.1145/3445814.3446724
 https://dl.acm.org/doi/abs/10.1145/3505243
+https://dl.acm.org/doi/abs/10.1145/3626717
 https://dl.acm.org/doi/abs/10.1145/37401.37406
 https://dl.acm.org/doi/abs/10.1145/390007.805374
 https://dl.acm.org/doi/abs/10.1145/42411.42415
 https://dl.acm.org/doi/abs/10.1145/77648.77649
+https://dl.acm.org/doi/abs/10.14778/2794367.2794375
+https://dl.acm.org/doi/abs/10.14778/3551793.3551852
 https://dl.acm.org/doi/abs/10.5555/3524938.3525234
 https://dl.acm.org/doi/abs/10.5555/3546258.3546315
 https://dl.acm.org/doi/abs/10.5555/3586210.3586448
@@ -4419,6 +4425,9 @@ https://dspace.mit.edu/handle/1721.1/97690
 https://dtai.cs.kuleuven.be/problog/
 https://dtplyr.tidyverse.org/
 https://duckdb.org/
+https://duckdb.org/news/
+https://duckdb.org/why_duckdb
+https://duckdblabs.com/
 https://duendesoftware.com/products/identityserver
 https://duhkattack.com/
 https://dumps.wikimedia.org/
@@ -9454,6 +9463,7 @@ https://en.wikipedia.org/wiki/Emanuel_Parzen
 https://en.wikipedia.org/wiki/Embankment_dam
 https://en.wikipedia.org/wiki/Embeddable_Common_Lisp
 https://en.wikipedia.org/wiki/Embeddable_Linux_Kernel_Subset
+https://en.wikipedia.org/wiki/Embedded_analytics
 https://en.wikipedia.org/wiki/Embedded_database
 https://en.wikipedia.org/wiki/Embedded_operating_system
 https://en.wikipedia.org/wiki/Embedded_software
@@ -21186,6 +21196,7 @@ https://github.com/AmziLS/AmziProlog
 https://github.com/AndySouth/rworldmap
 https://github.com/angea/pocorgtfo
 https://github.com/Anniepoo/prolog-examples
+https://github.com/anse1/sqlsmith
 https://github.com/ansilove/ansilove
 https://github.com/AnthonyCalandra/modern-cpp-features
 https://github.com/antirez/hping
@@ -21806,6 +21817,7 @@ https://github.com/hwalsuklee/tensorflow-generative-model-collections
 https://github.com/hyperium/hyper
 https://github.com/hyperledger/fabric
 https://github.com/hyperopt/hyperopt-sklearn
+https://github.com/ibireme/yyjson
 https://github.com/ibus/ibus
 https://github.com/icecc/icecream
 https://github.com/ifandelse/machina.js
@@ -22401,6 +22413,7 @@ https://github.com/peterwittek/somoclu
 https://github.com/petgraph/fixedbitset
 https://github.com/petgraph/petgraph
 https://github.com/pFarb/awesome-crypto-papers
+https://github.com/pganalyze/libpg_query
 https://github.com/pgf-tikz/pgf
 https://github.com/pgf-tikz/pgfplots
 https://github.com/pgmpy/pgmpy
@@ -22809,6 +22822,7 @@ https://github.com/spring-projects/spring-framework
 https://github.com/spring-projects/spring-security
 https://github.com/sql-js/sql.js
 https://github.com/sqlalchemy/sqlalchemy
+https://github.com/sqlancer/sqlancer
 https://github.com/squid-cache/squid
 https://github.com/ssdeep-project/ssdeep
 https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices
@@ -28035,6 +28049,7 @@ https://peazip.github.io/
 https://peerj.com/
 https://peerj.com/articles/453/
 https://peers.community/
+https://pelotondb.io/
 https://pentesterlab.com/
 https://people.carleton.edu/~rdobrow/
 https://people.carleton.edu/~rdobrow/Probability/
@@ -29660,6 +29675,7 @@ https://spritely.institute/static/papers/scheme-primer.html
 https://spylab.ai/
 https://sql.js.org
 https://sql.js.org/
+https://sqlite.org/cli.html
 https://sqlitebrowser.org/
 https://sqlzoo.net/wiki/AdventureWorks
 https://squeak.org/
@@ -30137,13 +30153,22 @@ https://themaintainers.org/
 https://themesberg.com/
 https://themis.tidymodels.org/
 https://thenewstack.io/
+https://thenewstack.io/20-postgres-still-sign-times/
+https://thenewstack.io/citus-data-turns-postgres-scalable-distributed-database-system/
+https://thenewstack.io/cockroachdb-unkillable-distributed-sql-database/
+https://thenewstack.io/crate-addresses-database-speed-scaling-standard-sql/
 https://thenewstack.io/data-modeling-part-2-method-for-time-series-databases/
 https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/
 https://thenewstack.io/donald-knuths-christmas-tree-lecture-on-dancing-links-and-organ-music/
+https://thenewstack.io/faunadb-harnesses-serverless-cloud/
+https://thenewstack.io/google-cloud-spanner-view-field/
 https://thenewstack.io/meet-dbos-a-database-alternative-to-kubernetes/
 https://thenewstack.io/rust-in-the-linux-kernel/
+https://thenewstack.io/splice-machine-hybrid-sql-system-fuses-transactions-analytics/
 https://thenewstack.io/the-architects-guide-to-the-modern-data-stack/
+https://thenewstack.io/tidb-brings-distributed-scalability-sql/
 https://thenewstack.io/why-clickhouse-should-be-your-next-database/
+https://thenewstack.io/yugabyte-new-database-solve-sql-vs-nosql-dilemma/
 https://thenextweb.com/
 https://theomagica.com/on-the-nature-of-the-qlippoth
 https://theoreticalminimum.com/home
@@ -30399,6 +30424,7 @@ https://unetbootin.github.io/
 https://ungleich.ch/
 https://uni-freiburg.de/
 https://uni-tuebingen.de/
+https://unicode-org.github.io/icu/
 https://unitedrobotics.group/en/robots/nao
 https://unitedrobotics.group/en/robots/pepper
 https://unix.org/
@@ -30829,6 +30855,7 @@ https://www.acm.org/media-center/2018/march/turing-award-2017
 https://www.acm.org/publications/journals
 https://www.acm.org/special-interest-groups/alphabetical-listing
 https://www.acs.org/
+https://www.actian.com/databases/vector/
 https://www.actionsbyexample.com/
 https://www.activism.net/cypherpunk/
 https://www.activism.net/cypherpunk/crypto-anarchy.html
@@ -31642,6 +31669,7 @@ https://www.christophermiller.net/semiconductors-1
 https://www.chromium.org/Home/
 https://www.chronicle.com/
 https://www.cidr-report.org/as2.0/
+https://www.cidrdb.org/
 https://www.cimpa.info/
 https://www.cimpa.info/en
 https://www.cip-project.org/
@@ -31659,6 +31687,7 @@ https://www.citedrive.com/en/
 https://www.citigroup.com/global/insights/global-insights/the-u-s-china-chip-war-who-dares-to-win
 https://www.cits.ruhr-uni-bochum.de/
 https://www.citusdata.com/
+https://www.citusdata.com/blog
 https://www.citusdata.com/product/community
 https://www.cjas.org/~echen/articles/spring97/05_03b.html
 https://www.cjas.org/~leng/lain.htm
@@ -32034,6 +32063,7 @@ https://www.cve.org/
 https://www.cvxpy.org/
 https://www.cwi.nl/en/
 https://www.cwi.nl/en/about/history/
+https://www.cwi.nl/en/groups/database-architectures/
 https://www.cwi.nl/en/groups/human-centered-data-analytics/
 https://www.cwi.nl/en/groups/human-centered-data-analytics/software/swi-prolog/
 https://www.cwi.nl/en/groups/human-centered-data-analytics/software/swish/
@@ -34091,6 +34121,7 @@ https://www.manning.com/books/designing-deep-learning-systems
 https://www.manning.com/books/practical-probabilistic-programming
 https://www.manning.com/books/r-in-action-third-edition
 https://www.manning.com/books/real-world-cryptography
+https://www.manuelrigger.at/
 https://www.maplesoft.com/
 https://www.maplesoft.com/support/help/AddOns/view.aspx?path=GMP
 https://www.marc-paolella.com/
@@ -34399,6 +34430,7 @@ https://www.monash.edu/news
 https://www.monde-diplomatique.fr/
 https://www.monde-diplomatique.fr/diplo/int/
 https://www.monetdb.org/
+https://www.monetdbsolutions.com/
 https://www.mongodb.com/
 https://www.mongodbtutorial.org/
 https://www.mono-project.com/
@@ -35069,6 +35101,7 @@ https://www.pewresearch.org/short-reads/2023/09/05/who-is-hispanic/
 https://www.pewresearch.org/topic/international-affairs/
 https://www.pgadmin.org/
 https://www.pgdp.net/c/
+https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/
 https://www.pharmaceutical-technology.com/comment/generative-ai-revolutionise-drug-discovery/
 https://www.philosophizethis.org/
 https://www.philosophizethis.org/podcast/deleuze-pt-1
@@ -36237,6 +36270,7 @@ https://www.sqlite.org/
 https://www.sqlite.org/index.html
 https://www.sqlite.org/lang_createtrigger.html
 https://www.sqlite.org/lang.html
+https://www.sqlite.org/sqllogictest/doc/trunk/about.wiki
 https://www.sqlitetutorial.net/
 https://www.sqlservertutorial.net/
 https://www.sqlservertutorial.net/sql-server-indexes/sql-server-clustered-indexes/
@@ -37374,6 +37408,7 @@ https://www.youtube.com/watch?v=JISDHjzgGL4
 https://www.youtube.com/watch?v=jkytxdedxhU
 https://www.youtube.com/watch?v=jRyIGtTGxcE
 https://www.youtube.com/watch?v=JSIj5PUrWL4
+https://www.youtube.com/watch?v=JwjjUT8K7po
 https://www.youtube.com/watch?v=lgSDd6Bkatg
 https://www.youtube.com/watch?v=Lt-Xx2CmuQE
 https://www.youtube.com/watch?v=mGDJO2M7RBg
