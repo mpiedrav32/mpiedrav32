@@ -1,4 +1,3 @@
-
 http://0x80.pl/notesen/2015-12-27-base64-encoding.html
 http://0xeb.net/
 http://9p.cat-v.org/
@@ -10020,6 +10019,7 @@ https://en.wikipedia.org/wiki/Firefox
 https://en.wikipedia.org/wiki/Firewalls_and_Internet_Security
 https://en.wikipedia.org/wiki/Firmware
 https://en.wikipedia.org/wiki/First_Canadian_Place
+https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC
 https://en.wikipedia.org/wiki/First_law_of_thermodynamics
 https://en.wikipedia.org/wiki/First_Persian_invasion_of_Greece
 https://en.wikipedia.org/wiki/First_principle
@@ -11462,6 +11462,7 @@ https://en.wikipedia.org/wiki/Ian_Goldberg
 https://en.wikipedia.org/wiki/Ian_Goodfellow
 https://en.wikipedia.org/wiki/Ian_Stewart_(mathematician)
 https://en.wikipedia.org/wiki/IAPM_(mode)
+https://en.wikipedia.org/wiki/IAS_machine
 https://en.wikipedia.org/wiki/IATA_airport_code
 https://en.wikipedia.org/wiki/IB_affair
 https://en.wikipedia.org/wiki/Iberian_Peninsula
@@ -18472,6 +18473,7 @@ https://en.wikipedia.org/wiki/Stonehenge
 https://en.wikipedia.org/wiki/Stopping_time
 https://en.wikipedia.org/wiki/Storage_area_network
 https://en.wikipedia.org/wiki/Store_and_forward
+https://en.wikipedia.org/wiki/Stored-program_computer
 https://en.wikipedia.org/wiki/Strace
 https://en.wikipedia.org/wiki/Strange_nonchaotic_attractor
 https://en.wikipedia.org/wiki/Strategic_studies
@@ -23526,6 +23528,7 @@ https://gutenberg.org/ebooks/author/987
 https://gwern.net/doc/fiction/science-fiction/frank-herbert/1980-omni-july.pdf
 https://gwern.net/self-decrypting
 https://gwern.net/turing-complete
+https://h01-release.storage.googleapis.com/data.html
 https://h2o.ai/
 https://habr.com/en/feed/
 https://hackaday.com/
@@ -31248,6 +31251,7 @@ https://www.biodigitaljazz.net/blog/littlebraincell.html
 https://www.bioinformaticsalgorithms.org/
 https://www.biomedcentral.com/
 https://www.biorxiv.org/
+https://www.biorxiv.org/content/10.1101/2021.05.29.446289v4
 https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1
 https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1
 https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1
@@ -33088,6 +33092,7 @@ https://www.goodreads.com/book/show/2914066-programming
 https://www.goodreads.com/book/show/29608.The_Codebreakers
 https://www.goodreads.com/book/show/2966978-applied-analysis
 https://www.goodreads.com/book/show/2990382-optimal-statistical-decisions
+https://www.goodreads.com/book/show/299635.Computer_Organization_and_Architecture
 https://www.goodreads.com/book/show/300093.Algorithms_Data_Structures_Programs
 https://www.goodreads.com/book/show/30462852-computer-age-statistical-inference
 https://www.goodreads.com/book/show/3067234-the-algorithm-design-manual
@@ -34566,6 +34571,7 @@ https://www.nature.com/articles/d41586-023-04044-9
 https://www.nature.com/articles/d41586-024-00768-4
 https://www.nature.com/articles/d41586-024-00930-y
 https://www.nature.com/articles/d41586-024-01216-z
+https://www.nature.com/articles/d41586-024-01387-9
 https://www.nature.com/articles/nature13570
 https://www.nature.com/articles/nature14539
 https://www.nature.com/articles/nature16961
@@ -34618,6 +34624,7 @@ https://www.nature.com/articles/s44287-023-00005-6
 https://www.nature.com/articles/srep00725
 https://www.nature.com/natmachintell/
 https://www.nature.com/nature-index/news/ten-most-common-mistakes-with-statistics-and-how-to-avoid-them
+https://www.nature.com/nature/articles?type=news
 https://www.nature.com/nature/collections
 https://www.nature.com/nature/current-issue
 https://www.nature.com/nature/research-articles
@@ -35855,6 +35862,7 @@ https://www.science.org/doi/10.1126/science.ade2574
 https://www.science.org/doi/10.1126/science.adh2586
 https://www.science.org/doi/10.1126/science.adi2336
 https://www.science.org/doi/10.1126/science.adi8474
+https://www.science.org/doi/10.1126/science.adk4858
 https://www.science.org/doi/full/10.1126/sciadv.adm8825
 https://www.science.org/doi/full/10.1126/science.aam9744
 https://www.science.org/journal/sciadv
