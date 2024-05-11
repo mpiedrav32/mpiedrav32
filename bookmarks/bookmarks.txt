@@ -109,6 +109,7 @@ http://onlineprediction.net/?n=Main.KernelMethods
 http://openbox.org/wiki/Main_Page
 http://opencircuitdesign.com/
 http://opencircuitdesign.com/magic/
+http://opentsdb.net/
 http://optimizer.r-forge.r-project.org/
 http://palms.ee.princeton.edu/bit
 http://phrack.org/issues/49/14.html
@@ -708,6 +709,8 @@ https://aps.org/
 https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9
 https://ar5iv.labs.arxiv.org/html/2002.10078
 https://aradaelli.com/blog/why-i-like-d/
+https://arangodb.com/
+https://arangodb.com/community-server/
 https://arblib.org/
 https://arbology.fit.cvut.cz/
 https://arc.aiaa.org/
@@ -1054,6 +1057,7 @@ https://arxiv.org/abs/2312.00752
 https://arxiv.org/abs/2312.04556
 https://arxiv.org/abs/2312.08361
 https://arxiv.org/abs/2312.14688
+https://arxiv.org/abs/2402.09842
 https://arxiv.org/abs/2402.15715
 https://arxiv.org/abs/2403.03998
 https://arxiv.org/abs/cs/0610105
@@ -1718,6 +1722,7 @@ https://catless.ncl.ac.uk/risks/
 https://catless.ncl.ac.uk/Risks/
 https://cats.for.ai/
 https://cayenne.apache.org/
+https://cayley.io/
 https://cb125.github.io/
 https://cbail.github.io/textasdata/word2vec/rmarkdown/word2vec.html
 https://cbm.chessbase.com/
@@ -1823,6 +1828,7 @@ https://cifar.ca/ai/impact/
 https://cifar.ca/cifarnews/2023/09/27/deloitte-report-canada-leads-the-world-in-ai-talent-concentration/
 https://cifar.ca/our-story/
 https://cifar.ca/topics/cifar-pan-canadian-ai-strategy/ai-science/
+https://cilium.io/
 https://cims.nyu.edu/~regev/
 https://ciq.com/
 https://ciq.com/products/rocky-linux/
@@ -2818,6 +2824,8 @@ https://db.cs.cmu.edu/courses/
 https://db.cs.cmu.edu/projects/
 https://dbatools.io/
 https://dbdb.io/
+https://dbdb.io/browse?data-model=graph
+https://dbdb.io/db/agensgraph
 https://dbdb.io/db/arangodb
 https://dbdb.io/db/azure-sql-database
 https://dbdb.io/db/bigquery
@@ -2831,8 +2839,11 @@ https://dbdb.io/db/druid
 https://dbdb.io/db/duckdb
 https://dbdb.io/db/edb-postgres-advanced-server
 https://dbdb.io/db/gaussdb
+https://dbdb.io/db/graphenedb
 https://dbdb.io/db/hana
 https://dbdb.io/db/monetdb
+https://dbdb.io/db/neo4j
+https://dbdb.io/db/orientdb
 https://dbdb.io/db/polardb
 https://dbdb.io/db/redshift
 https://dbdb.io/db/scidb
@@ -6109,6 +6120,7 @@ https://en.wikipedia.org/wiki/Bland%27s_rule
 https://en.wikipedia.org/wiki/BLAST_(biotechnology)
 https://en.wikipedia.org/wiki/Blazor
 https://en.wikipedia.org/wiki/Blekinge_Institute_of_Technology
+https://en.wikipedia.org/wiki/Blend_word
 https://en.wikipedia.org/wiki/Blender_(software)
 https://en.wikipedia.org/wiki/Blender_Foundation
 https://en.wikipedia.org/wiki/Bletchley_Park
@@ -7689,6 +7701,7 @@ https://en.wikipedia.org/wiki/Club_de_Berne
 https://en.wikipedia.org/wiki/Cluster_analysis
 https://en.wikipedia.org/wiki/Cluster_sampling
 https://en.wikipedia.org/wiki/Clustered_file_system
+https://en.wikipedia.org/wiki/Clustrix
 https://en.wikipedia.org/wiki/Clyde_Kruskal
 https://en.wikipedia.org/wiki/Clytemnestra
 https://en.wikipedia.org/wiki/CMA-ES
@@ -8242,6 +8255,7 @@ https://en.wikipedia.org/wiki/Cosmos_DB
 https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage
 https://en.wikipedia.org/wiki/Cost_sharing
 https://en.wikipedia.org/wiki/Costate_equation
+https://en.wikipedia.org/wiki/Couchbase_Server
 https://en.wikipedia.org/wiki/Couenne
 https://en.wikipedia.org/wiki/Coul%C3%A9e_verte_Ren%C3%A9-Dumont
 https://en.wikipedia.org/wiki/Council_on_Foreign_Relations
@@ -13078,6 +13092,7 @@ https://en.wikipedia.org/wiki/List_of_anime_series_by_episode_count
 https://en.wikipedia.org/wiki/List_of_anthropology_journals
 https://en.wikipedia.org/wiki/List_of_antioxidants_in_food
 https://en.wikipedia.org/wiki/List_of_Apache_modules
+https://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects
 https://en.wikipedia.org/wiki/List_of_arbitrary-precision_arithmetic_software
 https://en.wikipedia.org/wiki/List_of_archive_formats
 https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems
@@ -13394,6 +13409,7 @@ https://en.wikipedia.org/wiki/List_of_political_parties_by_region
 https://en.wikipedia.org/wiki/List_of_political_science_journals
 https://en.wikipedia.org/wiki/List_of_polling_organizations
 https://en.wikipedia.org/wiki/List_of_polynomial_topics
+https://en.wikipedia.org/wiki/List_of_portmanteaus
 https://en.wikipedia.org/wiki/List_of_post-rock_bands
 https://en.wikipedia.org/wiki/List_of_power_metal_bands
 https://en.wikipedia.org/wiki/List_of_private_security_companies
@@ -14726,6 +14742,7 @@ https://en.wikipedia.org/wiki/Nearest-neighbor_interpolation
 https://en.wikipedia.org/wiki/Nearly_free_electron_model
 https://en.wikipedia.org/wiki/NEC
 https://en.wikipedia.org/wiki/Needham%E2%80%93Schroeder_protocol
+https://en.wikipedia.org/wiki/Negative_database
 https://en.wikipedia.org/wiki/Negative_feedback
 https://en.wikipedia.org/wiki/Neil_Gaiman
 https://en.wikipedia.org/wiki/Neil_Gershenfeld
@@ -15099,6 +15116,7 @@ https://en.wikipedia.org/wiki/Numinous
 https://en.wikipedia.org/wiki/NumPy
 https://en.wikipedia.org/wiki/Nunavut
 https://en.wikipedia.org/wiki/NUnit
+https://en.wikipedia.org/wiki/NuoDB
 https://en.wikipedia.org/wiki/Nutrient_cycle
 https://en.wikipedia.org/wiki/NuttX
 https://en.wikipedia.org/wiki/Nvidia
@@ -15975,6 +15993,7 @@ https://en.wikipedia.org/wiki/Pirate_Party_(Sweden)
 https://en.wikipedia.org/wiki/PirateBrowser
 https://en.wikipedia.org/wiki/Pitzer_College
 https://en.wikipedia.org/wiki/Pivotal_quantity
+https://en.wikipedia.org/wiki/Pivotal_Software
 https://en.wikipedia.org/wiki/Pixel_aspect_ratio
 https://en.wikipedia.org/wiki/PKCS
 https://en.wikipedia.org/wiki/PKCS_1
@@ -17628,6 +17647,7 @@ https://en.wikipedia.org/wiki/Sequence_database
 https://en.wikipedia.org/wiki/Sequential_logic
 https://en.wikipedia.org/wiki/Sequential_pattern_mining
 https://en.wikipedia.org/wiki/Sequential_quadratic_programming
+https://en.wikipedia.org/wiki/SequoiaDB
 https://en.wikipedia.org/wiki/Seraph
 https://en.wikipedia.org/wiki/Serge_Vaudenay
 https://en.wikipedia.org/wiki/Sergei_Bernstein
@@ -17843,6 +17863,7 @@ https://en.wikipedia.org/wiki/Single-board_microcontroller
 https://en.wikipedia.org/wiki/Single-lens_reflex_camera
 https://en.wikipedia.org/wiki/Single-level_store
 https://en.wikipedia.org/wiki/Single-page_application
+https://en.wikipedia.org/wiki/SingleStore
 https://en.wikipedia.org/wiki/Singular_(software)
 https://en.wikipedia.org/wiki/Singular_control
 https://en.wikipedia.org/wiki/Singular_integral
@@ -18064,6 +18085,7 @@ https://en.wikipedia.org/wiki/Sound_power
 https://en.wikipedia.org/wiki/Source_Code_Pro
 https://en.wikipedia.org/wiki/Source-to-source_compiler
 https://en.wikipedia.org/wiki/SourceForge
+https://en.wikipedia.org/wiki/Sousveillance
 https://en.wikipedia.org/wiki/South_Dakota_School_of_Mines_and_Technology
 https://en.wikipedia.org/wiki/South%E2%80%93South_cooperation
 https://en.wikipedia.org/wiki/Southeast_Asia
@@ -18093,6 +18115,7 @@ https://en.wikipedia.org/wiki/Spanish_language
 https://en.wikipedia.org/wiki/Spanish_National_Research_Council
 https://en.wikipedia.org/wiki/Spanish_Revolution_of_1936
 https://en.wikipedia.org/wiki/Spanish_Steps
+https://en.wikipedia.org/wiki/Spanner_(database)
 https://en.wikipedia.org/wiki/SPARC
 https://en.wikipedia.org/wiki/SPARK_(programming_language)
 https://en.wikipedia.org/wiki/Sparkline
@@ -18565,6 +18588,7 @@ https://en.wikipedia.org/wiki/Surface_power_density
 https://en.wikipedia.org/wiki/Surfactant
 https://en.wikipedia.org/wiki/SURFnet
 https://en.wikipedia.org/wiki/Surfshark
+https://en.wikipedia.org/wiki/SurrealDB
 https://en.wikipedia.org/wiki/Surrogate_data
 https://en.wikipedia.org/wiki/Surrogate_data_testing
 https://en.wikipedia.org/wiki/Survey_(human_research)
@@ -18784,6 +18808,7 @@ https://en.wikipedia.org/wiki/Tensor_rank_decomposition
 https://en.wikipedia.org/wiki/Tensor_sketch
 https://en.wikipedia.org/wiki/TensorFlow
 https://en.wikipedia.org/wiki/Teouma
+https://en.wikipedia.org/wiki/Teradata
 https://en.wikipedia.org/wiki/TERENA
 https://en.wikipedia.org/wiki/Terence
 https://en.wikipedia.org/wiki/Terence_Tao
@@ -19134,6 +19159,7 @@ https://en.wikipedia.org/wiki/Tibetan_Buddhism
 https://en.wikipedia.org/wiki/TIC-80
 https://en.wikipedia.org/wiki/Tic-tac-toe
 https://en.wikipedia.org/wiki/Tidal_force
+https://en.wikipedia.org/wiki/TiDB
 https://en.wikipedia.org/wiki/Tidyverse
 https://en.wikipedia.org/wiki/TiEmu
 https://en.wikipedia.org/wiki/TightVNC
@@ -19200,6 +19226,7 @@ https://en.wikipedia.org/wiki/Todd%E2%80%93Coxeter_algorithm
 https://en.wikipedia.org/wiki/Tohu_and_Tikun
 https://en.wikipedia.org/wiki/Tokenization_(data_security)
 https://en.wikipedia.org/wiki/Tokio_(software)
+https://en.wikipedia.org/wiki/TokuDB
 https://en.wikipedia.org/wiki/Tokugawa_Ieyasu
 https://en.wikipedia.org/wiki/Tokugawa_shogunate
 https://en.wikipedia.org/wiki/Tokyo_Ghoul
@@ -19302,6 +19329,7 @@ https://en.wikipedia.org/wiki/Transitive_closure
 https://en.wikipedia.org/wiki/Translation_(biology)
 https://en.wikipedia.org/wiki/Translation_lookaside_buffer
 https://en.wikipedia.org/wiki/Translator_(computing)
+https://en.wikipedia.org/wiki/TransLattice
 https://en.wikipedia.org/wiki/Transmission_control_unit
 https://en.wikipedia.org/wiki/Transport_layer
 https://en.wikipedia.org/wiki/Transport_Layer_Security
@@ -20276,6 +20304,7 @@ https://en.wikipedia.org/wiki/Yarsanism
 https://en.wikipedia.org/wiki/Yazidis
 https://en.wikipedia.org/wiki/YBC_7289
 https://en.wikipedia.org/wiki/YCSB
+https://en.wikipedia.org/wiki/YDB_(database)
 https://en.wikipedia.org/wiki/Year_2038_problem
 https://en.wikipedia.org/wiki/Yee_Whye_Teh
 https://en.wikipedia.org/wiki/Yellow_Sea
@@ -20297,6 +20326,7 @@ https://en.wikipedia.org/wiki/Younger_Dryas
 https://en.wikipedia.org/wiki/Younger_Futhark
 https://en.wikipedia.org/wiki/YubiKey
 https://en.wikipedia.org/wiki/Yuga
+https://en.wikipedia.org/wiki/YugabyteDB
 https://en.wikipedia.org/wiki/Yukon
 https://en.wikipedia.org/wiki/Yum_(software)
 https://en.wikipedia.org/wiki/Yuri_Andropov
@@ -20709,6 +20739,7 @@ https://ess.r-project.org/
 https://essay.utwente.nl/87568/
 https://essay.utwente.nl/87568/1/ten%20Klooster_BA_EEMCS.pdf
 https://estadistica.ucr.ac.cr/
+https://etcd.io/
 https://ethereal.email/
 https://etherpad.org/
 https://etherpad.wikimedia.org/
@@ -21301,6 +21332,7 @@ https://github.com/carp-lang/Carp
 https://github.com/casadi/casadi
 https://github.com/catboost/catboost
 https://github.com/catchorg/Catch2
+https://github.com/cayleygraph/cayley
 https://github.com/cc65/cc65
 https://github.com/ccache/ccache
 https://github.com/cdesjardins/libedit
@@ -21539,7 +21571,9 @@ https://github.com/esnet
 https://github.com/esnet/iperf
 https://github.com/espressif/arduino-esp32
 https://github.com/espressif/esp-idf
+https://github.com/etcd-io/etcd
 https://github.com/ether/etherpad-lite
+https://github.com/eventql/eventql
 https://github.com/everywall/ladder
 https://github.com/exaexa/EmbedSOM
 https://github.com/exercism/exercism
@@ -21770,6 +21804,7 @@ https://github.com/Humanizr/Humanizer
 https://github.com/huonw/float
 https://github.com/hwalsuklee/tensorflow-generative-model-collections
 https://github.com/hyperium/hyper
+https://github.com/hyperledger/fabric
 https://github.com/hyperopt/hyperopt-sklearn
 https://github.com/ibus/ibus
 https://github.com/icecc/icecream
@@ -21802,6 +21837,7 @@ https://github.com/jamesturk/jellyfish
 https://github.com/janestreet/abstract_algebra
 https://github.com/janestreet/base
 https://github.com/janestreet/magic-trace
+https://github.com/JanusGraph/janusgraph
 https://github.com/jashkenas/backbone
 https://github.com/Jasmine/Jasmine
 https://github.com/jauhien/iron-llvm
@@ -22052,6 +22088,7 @@ https://github.com/MEGA65/open-roms
 https://github.com/mehdihadeli/awesome-software-architecture
 https://github.com/meilisearch/meilisearch
 https://github.com/melpa/melpa
+https://github.com/memgraph/memgraph
 https://github.com/memorysafety/sudo-rs
 https://github.com/mermaid-js/mermaid
 https://github.com/metabrainz
@@ -22249,6 +22286,7 @@ https://github.com/ocaml/ocaml-lsp
 https://github.com/ocaml/opam
 https://github.com/ocaml/tuareg
 https://github.com/ocaml/Zarith
+https://github.com/oceanbase/oceanbase
 https://github.com/ocsigen/lwt
 https://github.com/Octavian-ai/shortest-path
 https://github.com/odoo/odoo
@@ -22299,6 +22337,7 @@ https://github.com/openSUSE/libsolv/
 https://github.com/opentofu
 https://github.com/opentofu/opentofu
 https://github.com/opentripplanner/OpenTripPlanner
+https://github.com/OpenTSDB/opentsdb
 https://github.com/openvinotoolkit/openvino
 https://github.com/OpenVPN
 https://github.com/OpenVPN/openvpn
@@ -22566,6 +22605,7 @@ https://github.com/rpm-software-management/dnf/
 https://github.com/rpm-software-management/dnf5
 https://github.com/rpm-software-management/libdnf
 https://github.com/rpm-software-management/rpm
+https://github.com/rqlite/rqlite
 https://github.com/rr-debugger/rr
 https://github.com/rsc/unix
 https://github.com/rstudio/blastula
@@ -22802,6 +22842,7 @@ https://github.com/suiginsoft/hebimath
 https://github.com/sumatrapdfreader/sumatrapdf
 https://github.com/supabase/postgres_lsp
 https://github.com/supabase/supabase
+https://github.com/surrealdb/surrealdb
 https://github.com/suryakantamangaraj/AwesomeRISC-VResources
 https://github.com/svaksha/Julia.jl
 https://github.com/SWI-Prolog/packages-pengines
@@ -22829,6 +22870,7 @@ https://github.com/tcsh-org/tcsh
 https://github.com/teamhanko/hanko
 https://github.com/TeamHG-Memex/eli5
 https://github.com/temisu/ancient
+https://github.com/Tencent/paxosstore
 https://github.com/Tencent/rapidjson
 https://github.com/tensorflow/gnn
 https://github.com/tensorflow/models
@@ -22876,6 +22918,7 @@ https://github.com/tidyverse/tidyverse
 https://github.com/tidyverts/fable/
 https://github.com/tidyverts/tsibble
 https://github.com/tigertv/BeeNum
+https://github.com/tikv/tikv
 https://github.com/TileDB-Inc/TileDB
 https://github.com/time-rs/time
 https://github.com/timescale/timescaledb
@@ -22985,6 +23028,7 @@ https://github.com/veorq/SipHash
 https://github.com/vercel/next.js
 https://github.com/VerifyTests/Verify
 https://github.com/vertica/DistributedR
+https://github.com/vesoft-inc/nebula
 https://github.com/viatsko/awesome-vscode
 https://github.com/VictorEijkhout/TheArtofHPC_pdfs
 https://github.com/VictoriaMetrics/VictoriaMetrics
@@ -23043,6 +23087,7 @@ https://github.com/ymjing/tabbyssl
 https://github.com/Yubico/java-webauthn-server
 https://github.com/Yubico/libfido2
 https://github.com/Yubico/yubico-pam
+https://github.com/yugabyte/yugabyte-db
 https://github.com/zalandoresearch
 https://github.com/zalandoresearch/fashion-mnist
 https://github.com/zalandoresearch/psgan
@@ -24173,6 +24218,7 @@ https://jami.net/
 https://jamstack.email/
 https://jamstack.org/
 https://janet-lang.org/
+https://janusgraph.org/
 https://japannews.yomiuri.co.jp/
 https://japansociety.org/
 https://japantoday.com/
@@ -26186,6 +26232,7 @@ https://link.springer.com/chapter/10.1007/978-3-642-25385-0_19
 https://link.springer.com/chapter/10.1007/978-3-642-35230-0_14
 https://link.springer.com/chapter/10.1007/978-3-642-54833-8_11
 https://link.springer.com/chapter/10.1007/978-3-642-59281-2_9
+https://link.springer.com/chapter/10.1007/978-3-662-63519-3_1
 https://link.springer.com/chapter/10.1007/978-3-7091-0794-2_5
 https://link.springer.com/chapter/10.1007/978-3-7908-1810-9_11
 https://link.springer.com/chapter/10.1007/978-3-7908-2604-3_16
@@ -26903,6 +26950,7 @@ https://members.loria.fr/pzimmermann/records/rsa.html
 https://membres-ljk.imag.fr/Clement.Pernet/
 https://memcached.org/
 https://memgpt.ai/
+https://memgraph.com/
 https://mendelson.org/wpdos/index.html
 https://merely-useful.tech/py-rse/
 https://merics.org/de
@@ -27693,6 +27741,7 @@ https://orc.mit.edu/
 https://orcca.on.ca/
 https://orfe.princeton.edu/
 https://orgmode.org/
+https://orientdb.org/
 https://orms.mfo.de/
 https://oro.open.ac.uk/22440/
 https://orwell.ru/
@@ -29925,6 +29974,7 @@ https://support.posit.co/hc/en-us/articles/201057987-Quick-list-of-useful-R-pack
 https://surf.sourceforge.net/
 https://surfshark.com/
 https://surpriselib.com/
+https://surrealdb.com/
 https://survey.stackoverflow.co/2023/
 https://svaksha.github.io/Julia.jl/
 https://svelte.dev/
@@ -31609,6 +31659,7 @@ https://www.citedrive.com/en/
 https://www.citigroup.com/global/insights/global-insights/the-u-s-china-chip-war-who-dares-to-win
 https://www.cits.ruhr-uni-bochum.de/
 https://www.citusdata.com/
+https://www.citusdata.com/product/community
 https://www.cjas.org/~echen/articles/spring97/05_03b.html
 https://www.cjas.org/~leng/lain.htm
 https://www.cjr.org/
@@ -35925,6 +35976,7 @@ https://www.scrivenerpublishing.com/subject_area.php?id=Mathematics
 https://www.scryer.pl/
 https://www.scs.fraunhofer.de/de/referenzen/ada-center/mathematische-optimierung.html
 https://www.scs.stanford.edu/~dm/blog/decltype.html
+https://www.scylladb.com/
 https://www.sds2022.ch/1st-international-symposium-on-the-science-of-data-science
 https://www.seafile.com/en/home/
 https://www.sealance.io/
@@ -37374,6 +37426,7 @@ https://www.yubico.com/resources/glossary/fido-u2f/
 https://www.yubico.com/resources/glossary/hsm/
 https://www.yubico.com/resources/glossary/openpgp/
 https://www.yubico.com/solutions/passwordless/
+https://www.yugabyte.com/
 https://www.yunuscengel.com/en/about-me/
 https://www.zabbix.com/
 https://www.zaproxy.org/
@@ -37470,6 +37523,7 @@ https://yardstick.tidymodels.org/
 https://yarnpkg.com/
 https://ycm-core.github.io/YouCompleteMe/
 https://ydata-profiling.ydata.ai/docs/master/index.html
+https://ydb.tech/
 https://yearbook.enerdata.net/total-energy/world-consumption-statistics.html
 https://yehudalindell.com/
 https://yehudalindell.com/introduction-to-modern-cryptography-3rd-edition/
