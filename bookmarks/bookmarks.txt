@@ -1,3 +1,4 @@
+
 http://0x80.pl/notesen/2015-12-27-base64-encoding.html
 http://0xeb.net/
 http://9p.cat-v.org/
@@ -1718,6 +1719,7 @@ https://cassyni.com/events/71M14Ze44CtoAVScffS7vV
 https://cassyni.com/events/7NqCr5NhPJJt6371H6HwuF
 https://cat-v.org/
 https://cat.cr.yp.to/
+https://catalog.data.gov/dataset?q=transport
 https://catalog.hathitrust.org/api/volumes/oclc/10414715.html
 https://catboost.ai/
 https://catless.ncl.ac.uk/risks/
@@ -2778,7 +2780,11 @@ https://data.mlr.press/
 https://data.oecd.org/
 https://data.oecd.org/eduatt/population-with-tertiary-education.htm
 https://data.oecd.org/pisa/mathematics-performance-pisa.htm
+https://data.transportation.gov/
 https://data.unicef.org/
+https://data.world/
+https://data.world/datasets/environment
+https://data.world/datasets/transportation
 https://data.worldbank.org/
 https://databasetheory.org/
 https://databasetheory.org/events
@@ -4779,6 +4785,7 @@ https://en.wikipedia.org/wiki/80_Million_Tiny_Images
 https://en.wikipedia.org/wiki/8086
 https://en.wikipedia.org/wiki/8250_UART
 https://en.wikipedia.org/wiki/9_November_in_German_history
+https://en.wikipedia.org/wiki/96th_Street_(Manhattan)
 https://en.wikipedia.org/wiki/97.5th_percentile_point
 https://en.wikipedia.org/wiki/9P_(protocol)
 https://en.wikipedia.org/wiki/A_Canticle_for_Leibowitz
@@ -6235,6 +6242,7 @@ https://en.wikipedia.org/wiki/Boris_Delaunay
 https://en.wikipedia.org/wiki/Boris_Hagelin
 https://en.wikipedia.org/wiki/Born%E2%80%93Infeld_model
 https://en.wikipedia.org/wiki/Born%E2%80%93Oppenheimer_approximation
+https://en.wikipedia.org/wiki/Boro_taxi
 https://en.wikipedia.org/wiki/Bose_Institute
 https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensate
 https://en.wikipedia.org/wiki/Boson
@@ -18339,6 +18347,7 @@ https://en.wikipedia.org/wiki/Statcheck
 https://en.wikipedia.org/wiki/State_Council_of_the_People%27s_Republic_of_China
 https://en.wikipedia.org/wiki/State_Council_Research_Office
 https://en.wikipedia.org/wiki/State_function
+https://en.wikipedia.org/wiki/State_of_the_City_address
 https://en.wikipedia.org/wiki/State_of_the_Union
 https://en.wikipedia.org/wiki/State_of_the_Union_(European_Union)
 https://en.wikipedia.org/wiki/State_Security_Service_(Belgium)
@@ -20330,6 +20339,7 @@ https://en.wikipedia.org/wiki/YCSB
 https://en.wikipedia.org/wiki/YDB_(database)
 https://en.wikipedia.org/wiki/Year_2038_problem
 https://en.wikipedia.org/wiki/Yee_Whye_Teh
+https://en.wikipedia.org/wiki/Yellow_cab
 https://en.wikipedia.org/wiki/Yellow_Sea
 https://en.wikipedia.org/wiki/Yellowknife
 https://en.wikipedia.org/wiki/Yescrypt
@@ -21228,6 +21238,7 @@ https://github.com/apache/hadoop
 https://github.com/apache/jmeter
 https://github.com/apache/kafka
 https://github.com/apache/lucene
+https://github.com/apache/parquet-mr
 https://github.com/apache/singa
 https://github.com/apache/skywalking
 https://github.com/apache/spark
@@ -24385,6 +24396,7 @@ https://json.nlohmann.me/
 https://jsonforms.io/
 https://jsonlines.org/
 https://juandes.github.io/FuzzyLogic-R/docs/fuzzy_tutorial
+https://juicefs.com/en/
 https://juliabyexample.helpmanual.io/
 https://juliahub.com/
 https://juliahub.com/ui/Packages
@@ -24612,6 +24624,7 @@ https://learn.microsoft.com/en-us/azure/firewall/
 https://learn.microsoft.com/en-us/azure/key-vault/
 https://learn.microsoft.com/en-us/azure/load-testing/overview-what-is-azure-load-testing
 https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2
+https://learn.microsoft.com/en-us/azure/open-datasets/dataset-catalog
 https://learn.microsoft.com/en-us/azure/sentinel/
 https://learn.microsoft.com/en-us/azure/storage/
 https://learn.microsoft.com/en-us/azure/vpn-gateway/
@@ -27143,6 +27156,7 @@ https://moser-isi.ethz.ch/manuals.html
 https://mosh.monaos.org/files/doc/text/About-txt.html
 https://mosh.org/
 https://mosimtec.com/agent-based-modeling-examples/
+https://motherduck.com/
 https://mouha.be/
 https://mouha.be/sha-3-buffer-overflow-part-2/
 https://mouha.be/sha-3-buffer-overflow/
@@ -27674,6 +27688,7 @@ https://opencryptoaudit.org/
 https://opencurve.io/Curve/HOME
 https://opencv.org/
 https://opendata.cern.ch/
+https://opendata.cityofnewyork.us/
 https://opendatadiscovery.org/
 https://opendatascience.com/
 https://opendatastructures.org/
@@ -27747,6 +27762,7 @@ https://openssf.org/
 https://opensslntru.cr.yp.to/
 https://opentitan.org/
 https://opentofu.org/
+https://opentransportdata.swiss/de/dataset
 https://openvas.org/
 https://openvpn.net/
 https://openvpn.net/community/
@@ -27834,6 +27850,7 @@ https://ourworldindata.org/
 https://ourworldindata.org/age-structure
 https://ourworldindata.org/child-mortality
 https://ourworldindata.org/electricity-mix
+https://ourworldindata.org/energy
 https://ourworldindata.org/energy-mix
 https://ourworldindata.org/energy-production-consumption
 https://ourworldindata.org/global-education
@@ -28028,6 +28045,7 @@ https://paperswithcode.com/task/time-series
 https://paperswithcode.com/task/time-series-1
 https://paragonie.com/blog/2016/05/how-generate-secure-random-numbers-in-various-programming-languages
 https://pari.math.u-bordeaux.fr/
+https://parquet.apache.org/
 https://parrotsec.org/
 https://parsnip.tidymodels.org/
 https://pascal.sources.ru/crypt/frog.htm
@@ -29713,6 +29731,7 @@ https://ssl-config.mozilla.org/
 https://st.suckless.org/
 https://sta.li/
 https://stability.ai/
+https://stackable.tech/en/open-source-data-platform/
 https://stackexchange.com/sites
 https://stackoverflow.blog/
 https://stackoverflow.blog/2016/05/03/stack-overflow-how-we-do-deployment-2016-edition/
@@ -31330,6 +31349,7 @@ https://www.bsd.lv/
 https://www.bshm.ac.uk/
 https://www.bsi.bund.de/DE/Home/home_node.html
 https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/kuenstliche-intelligenz_node.html
+https://www.bts.gov/
 https://www.bugzilla.org/
 https://www.buildroot.org/
 https://www.buildyourownlisp.com/
@@ -34115,6 +34135,8 @@ https://www.maa.org/publications/maa-reviews/numerical-analysis-mathematics-of-s
 https://www.maa.org/publications/maa-reviews/the-art-of-computer-programming-volume-1-fundamental-algorithms
 https://www.maa.org/publications/periodicals/convergence/review-of-the-chinese-roots-of-linear-algebra
 https://www.macworld.com/
+https://www.madrona.com/
+https://www.madrona.com/motherduck-jordan-tigani-duckdbs-hannes-muhleisen-partnerships-commercializing-open-source-projects/
 https://www.mageia.org/en/
 https://www.mail-archive.com/linux-security@redhat.com/msg00064.html
 https://www.majorleaguecyber.org/
@@ -34780,6 +34802,9 @@ https://www.npr.org/sections/world/
 https://www.npr.org/transcripts/1192918768
 https://www.nps.gov/subjects/geology/oldest-rocks.htm
 https://www.nrel.gov/analysis/sienna.html
+https://www.nrel.gov/transportation/
+https://www.nrel.gov/transportation/secure-transportation-data/
+https://www.nrel.gov/transportation/secure-transportation-data/tsdc-cleansed-transit-travel-data.html
 https://www.nsa.gov/
 https://www.nsa.gov/History/Cryptologic-History/
 https://www.nsa.gov/History/Cryptologic-History/Center-Cryptologic-History/
@@ -34831,6 +34856,7 @@ https://www.nwo.nl/projecten/612000936-0,Barendregt et al.: Categorical and ALge
 https://www.nxp.com/
 https://www.nybooks.com/
 https://www.nybooks.com/articles/1983/12/08/the-endless-war/
+https://www.nyc.gov/
 https://www.nypublicradio.org/
 https://www.nytimes.com/
 https://www.nytimes.com/2008/11/23/magazine/23Netflix-t.html
@@ -37580,6 +37606,7 @@ https://yarnpkg.com/
 https://ycm-core.github.io/YouCompleteMe/
 https://ydata-profiling.ydata.ai/docs/master/index.html
 https://ydb.tech/
+https://yearbook.enerdata.net/
 https://yearbook.enerdata.net/total-energy/world-consumption-statistics.html
 https://yehudalindell.com/
 https://yehudalindell.com/introduction-to-modern-cryptography-3rd-edition/
