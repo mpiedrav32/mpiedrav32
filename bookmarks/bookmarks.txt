@@ -300,6 +300,8 @@ https://2600.network/
 https://386bsd.org/
 https://3dblox.org/
 https://44con.com/
+https://5gaa.org/
+https://5gaa.org/c-v2x-explained/
 https://80000hours.org/career-reviews/academic-research/
 https://80000hours.org/career-reviews/ai-policy-and-strategy/
 https://80000hours.org/career-reviews/ai-safety-researcher/
@@ -6446,6 +6448,7 @@ https://en.wikipedia.org/wiki/CA_Technologies
 https://en.wikipedia.org/wiki/Cabinet_of_the_United_Kingdom
 https://en.wikipedia.org/wiki/Cable_theory
 https://en.wikipedia.org/wiki/Cache_(computing)
+https://en.wikipedia.org/wiki/Cache_prefetching
 https://en.wikipedia.org/wiki/Cache_replacement_policies
 https://en.wikipedia.org/wiki/Cache-oblivious_algorithm
 https://en.wikipedia.org/wiki/Cadabra_(computer_program)
@@ -8317,6 +8320,7 @@ https://en.wikipedia.org/wiki/CPAN
 https://en.wikipedia.org/wiki/CPLEX
 https://en.wikipedia.org/wiki/CPN_Tools
 https://en.wikipedia.org/wiki/CppUnit
+https://en.wikipedia.org/wiki/CPU_cache
 https://en.wikipedia.org/wiki/CPUID
 https://en.wikipedia.org/wiki/Crackme
 https://en.wikipedia.org/wiki/Cradle_of_civilization
@@ -9054,6 +9058,7 @@ https://en.wikipedia.org/wiki/Dissociative_disorder
 https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union
 https://en.wikipedia.org/wiki/Distance_measure
 https://en.wikipedia.org/wiki/Distcc
+https://en.wikipedia.org/wiki/Distributed_cache
 https://en.wikipedia.org/wiki/Distributed_data_store
 https://en.wikipedia.org/wiki/Distributed_database
 https://en.wikipedia.org/wiki/Distributed_Denial_of_Secrets
@@ -11052,6 +11057,7 @@ https://en.wikipedia.org/wiki/Harris_corner_detector
 https://en.wikipedia.org/wiki/Harry_Dexter_White
 https://en.wikipedia.org/wiki/Hartley_function
 https://en.wikipedia.org/wiki/Hartree%E2%80%93Fock_method
+https://en.wikipedia.org/wiki/Harvard_architecture
 https://en.wikipedia.org/wiki/Harvard_Institute_of_Politics
 https://en.wikipedia.org/wiki/Harvard_Law_School
 https://en.wikipedia.org/wiki/Harvard_Political_Review
@@ -13540,6 +13546,7 @@ https://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience
 https://en.wikipedia.org/wiki/List_of_tourist_attractions_in_Rome
 https://en.wikipedia.org/wiki/List_of_trade_magazines
 https://en.wikipedia.org/wiki/List_of_transforms
+https://en.wikipedia.org/wiki/List_of_transistorized_computers
 https://en.wikipedia.org/wiki/List_of_triangle_inequalities
 https://en.wikipedia.org/wiki/List_of_trigonometric_identities
 https://en.wikipedia.org/wiki/List_of_Twin_Peaks_episodes
@@ -14442,6 +14449,7 @@ https://en.wikipedia.org/wiki/Modern_Quantum_Mechanics
 https://en.wikipedia.org/wiki/Modern_Standard_Arabic
 https://en.wikipedia.org/wiki/Modes_of_variation
 https://en.wikipedia.org/wiki/Modified_frequency_modulation
+https://en.wikipedia.org/wiki/Modified_Harvard_architecture
 https://en.wikipedia.org/wiki/Modifier_key
 https://en.wikipedia.org/wiki/Modula
 https://en.wikipedia.org/wiki/Modula-2
@@ -19775,6 +19783,7 @@ https://en.wikipedia.org/wiki/V%C3%A1clav_E._Bene%C5%A1
 https://en.wikipedia.org/wiki/V2_word_order
 https://en.wikipedia.org/wiki/V8_(JavaScript_engine)
 https://en.wikipedia.org/wiki/V850
+https://en.wikipedia.org/wiki/Vacuum_tube
 https://en.wikipedia.org/wiki/Vaishnavism
 https://en.wikipedia.org/wiki/Val%C3%A9ry_Giscard_d%27Estaing
 https://en.wikipedia.org/wiki/Valencian_language
@@ -23925,6 +23934,7 @@ https://ieeexplore.ieee.org/document/1672377
 https://ieeexplore.ieee.org/document/1695817
 https://ieeexplore.ieee.org/document/1702802
 https://ieeexplore.ieee.org/document/1870
+https://ieeexplore.ieee.org/document/194088/
 https://ieeexplore.ieee.org/document/2021
 https://ieeexplore.ieee.org/document/232589
 https://ieeexplore.ieee.org/document/256541
@@ -24030,6 +24040,7 @@ https://ieeexplore.ieee.org/document/8280025
 https://ieeexplore.ieee.org/document/832648
 https://ieeexplore.ieee.org/document/8347162
 https://ieeexplore.ieee.org/document/8429400
+https://ieeexplore.ieee.org/document/84879/
 https://ieeexplore.ieee.org/document/8490883
 https://ieeexplore.ieee.org/document/8533506
 https://ieeexplore.ieee.org/document/8585501
@@ -24059,6 +24070,7 @@ https://ieeexplore.ieee.org/document/9630142
 https://ieeexplore.ieee.org/document/963463
 https://ieeexplore.ieee.org/document/9709524
 https://ieeexplore.ieee.org/document/9730316
+https://ieeexplore.ieee.org/document/9779481/
 https://ieeexplore.ieee.org/document/9806142
 https://ieeexplore.ieee.org/document/9810097
 https://ieeexplore.ieee.org/document/9816655
@@ -24068,6 +24080,7 @@ https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18
 https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40
 https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639
 https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013
+https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=85
 https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=99
 https://ig.ft.com/sites/business-book-award/
 https://ig.ft.com/sites/business-book-award/books/2022/winner/chip-war-by-chris-miller/
