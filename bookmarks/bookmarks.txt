@@ -1030,6 +1030,7 @@ https://arxiv.org/abs/2306.02707
 https://arxiv.org/abs/2306.05836
 https://arxiv.org/abs/2306.06079
 https://arxiv.org/abs/2307.03759
+https://arxiv.org/abs/2307.04912
 https://arxiv.org/abs/2308.00352
 https://arxiv.org/abs/2308.01899
 https://arxiv.org/abs/2308.04889
@@ -1358,6 +1359,7 @@ https://blog.cloudflare.com/rfc-8446-aka-tls-1-3/
 https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb
 https://blog.codeberg.org/
 https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/
+https://blog.computationalcomplexity.org/?m=1
 https://blog.cr.yp.to/
 https://blog.cr.yp.to/index.html
 https://blog.cryptographyengineering.com/
@@ -2593,6 +2595,8 @@ https://cs.uwaterloo.ca/~kogeddes/
 https://cs.uwaterloo.ca/~mwg/
 https://cs.uwaterloo.ca/~shallit/
 https://cs.uwaterloo.ca/~smwatt/
+https://cs.uwaterloo.ca/journals/JIS/VOL15/Kovic/kovic4.pdf
+https://cs.uwaterloo.ca/journals/JIS/VOL6/Ufnarovski/ufnarovski.pdf
 https://cs.uwaterloo.ca/research/research-areas/computer-algebra-and-symbolic-computation
 https://cs155.stanford.edu/
 https://cs155.stanford.edu/syllabus.html
@@ -5092,6 +5096,7 @@ https://en.wikipedia.org/wiki/Alfred_Tarski
 https://en.wikipedia.org/wiki/Algebraic_combinatorics
 https://en.wikipedia.org/wiki/Algebraic_curve
 https://en.wikipedia.org/wiki/Algebraic_data_type
+https://en.wikipedia.org/wiki/Algebraic_differential_equation
 https://en.wikipedia.org/wiki/Algebraic_equation
 https://en.wikipedia.org/wiki/Algebraic_expression
 https://en.wikipedia.org/wiki/Algebraic_function
@@ -5677,6 +5682,7 @@ https://en.wikipedia.org/wiki/Atomic_spies
 https://en.wikipedia.org/wiki/Atomic_theory
 https://en.wikipedia.org/wiki/Atomic,_molecular,_and_optical_physics
 https://en.wikipedia.org/wiki/Atomicity_(database_systems)
+https://en.wikipedia.org/wiki/Atomism
 https://en.wikipedia.org/wiki/Attack_model
 https://en.wikipedia.org/wiki/Attack_on_Titan
 https://en.wikipedia.org/wiki/Attack_on_Titan_(TV_series)
@@ -8805,6 +8811,7 @@ https://en.wikipedia.org/wiki/Demarcation_problem
 https://en.wikipedia.org/wiki/Demis_Hassabis
 https://en.wikipedia.org/wiki/Democracy_and_Education
 https://en.wikipedia.org/wiki/Democratic_peace_theory
+https://en.wikipedia.org/wiki/Democritus
 https://en.wikipedia.org/wiki/Demographic_statistics
 https://en.wikipedia.org/wiki/Demographics_of_atheism
 https://en.wikipedia.org/wiki/Demography
@@ -8835,6 +8842,7 @@ https://en.wikipedia.org/wiki/Deputy_Director_of_the_Federal_Bureau_of_Investiga
 https://en.wikipedia.org/wiki/Der_Spiegel_(online)
 https://en.wikipedia.org/wiki/Derealization
 https://en.wikipedia.org/wiki/Deriche_edge_detector
+https://en.wikipedia.org/wiki/Derivation_(differential_algebra)
 https://en.wikipedia.org/wiki/Derivative_test
 https://en.wikipedia.org/wiki/Derivative-free_optimization
 https://en.wikipedia.org/wiki/Derive_(computer_algebra_system)
@@ -12899,6 +12907,7 @@ https://en.wikipedia.org/wiki/Lesser_Poland
 https://en.wikipedia.org/wiki/Letter_frequency
 https://en.wikipedia.org/wiki/Letter_on_the_Blind
 https://en.wikipedia.org/wiki/Letterboxing_(hobby)
+https://en.wikipedia.org/wiki/Leucippus
 https://en.wikipedia.org/wiki/Lev_Pontryagin
 https://en.wikipedia.org/wiki/Level_of_measurement
 https://en.wikipedia.org/wiki/Level_set
@@ -13872,6 +13881,7 @@ https://en.wikipedia.org/wiki/Marcel_Mauss
 https://en.wikipedia.org/wiki/Marcelo_Viana
 https://en.wikipedia.org/wiki/March_1989_geomagnetic_storm
 https://en.wikipedia.org/wiki/March_equinox
+https://en.wikipedia.org/wiki/March_on_Rome_(88_BC)
 https://en.wikipedia.org/wiki/Marche_Polytechnic_University
 https://en.wikipedia.org/wiki/Marconi_Union
 https://en.wikipedia.org/wiki/Marcus_Aurelius
@@ -15584,6 +15594,7 @@ https://en.wikipedia.org/wiki/Oxygene_(programming_language)
 https://en.wikipedia.org/wiki/Oz_(programming_language)
 https://en.wikipedia.org/wiki/P-adic_number
 https://en.wikipedia.org/wiki/P-code_machine
+https://en.wikipedia.org/wiki/P-derivation
 https://en.wikipedia.org/wiki/P-matrix
 https://en.wikipedia.org/wiki/P-value
 https://en.wikipedia.org/wiki/P%C3%A1l_Tur%C3%A1n
@@ -17080,6 +17091,7 @@ https://en.wikipedia.org/wiki/Richard_Feynman
 https://en.wikipedia.org/wiki/Richard_Gregory
 https://en.wikipedia.org/wiki/Richard_Hamming
 https://en.wikipedia.org/wiki/Richard_Leibler
+https://en.wikipedia.org/wiki/Richard_Lipton
 https://en.wikipedia.org/wiki/Richard_M._Karp
 https://en.wikipedia.org/wiki/Richard_P._Brent
 https://en.wikipedia.org/wiki/Richard_P._Stanley
@@ -17467,6 +17479,7 @@ https://en.wikipedia.org/wiki/Schreier%E2%80%93Sims_algorithm
 https://en.wikipedia.org/wiki/Schulze_method
 https://en.wikipedia.org/wiki/Schwartz_kernel_theorem
 https://en.wikipedia.org/wiki/Schwartz_space
+https://en.wikipedia.org/wiki/Schwarzian_derivative
 https://en.wikipedia.org/wiki/Sci-Hub
 https://en.wikipedia.org/wiki/SciDB
 https://en.wikipedia.org/wiki/SciELO
@@ -26874,6 +26887,7 @@ https://mathworld.wolfram.com/Augmentation.html
 https://mathworld.wolfram.com/CirculantMatrix.html
 https://mathworld.wolfram.com/CombinatorialMatrixTheory.html
 https://mathworld.wolfram.com/deMoivresIdentity.html
+https://mathworld.wolfram.com/DifferentialAlgebra.html
 https://mathworld.wolfram.com/Double-AngleFormulas.html
 https://mathworld.wolfram.com/EulerFormula.html
 https://mathworld.wolfram.com/FrobeniusMethod.html
@@ -27547,8 +27561,10 @@ https://oeis.org/
 https://oeis.org/A000040
 https://oeis.org/A000108
 https://oeis.org/A003313
+https://oeis.org/A003415
 https://oeis.org/A261545
 https://oeis.org/A280318
+https://oeis.org/wiki/Arithmetic_derivative
 https://ogdf.uos.de/
 https://ohmjs.org/
 https://ohmygit.org/
@@ -28902,6 +28918,7 @@ https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=12635
 https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=739704
 https://resources.system-analysis.cadence.com/blog/how-designers-are-building-ultra-low-power-ai-chips
 https://resources.system-analysis.cadence.com/blog/msa2022-3d-ics-and-the-importance-of-heat-transfer-models
+https://resources.wolframcloud.com/FunctionRepository/resources/ArithmeticD/
 https://resourcium.org/
 https://restofworld.org/
 https://restofworld.org/2021/beyond-silicon-valley/
@@ -28962,6 +28979,7 @@ https://risingwave.com/blog/a-comprehensive-overview-of-top-8-real-time-olap-dat
 https://risingwave.com/blog/real-time-analytics-how-is-olap-different-from-stream-processing/
 https://ristretto.group/
 https://rizin.re/
+https://rjlipton.com/2014/08/19/the-derivative-of-a-number/
 https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/
 https://rkward.kde.org/
 https://rlang.r-lib.org/
@@ -31430,6 +31448,7 @@ https://www.cambridge.org/core/browse-subjects/statistics-and-probability/applie
 https://www.cambridge.org/core/browse-subjects/statistics-and-probability/computational-statistics-machine-learning-and-information-science
 https://www.cambridge.org/core/browse-subjects/statistics-and-probability/probability-theory-and-stochastic-processes
 https://www.cambridge.org/core/browse-subjects/statistics-and-probability/statistical-theory-and-methods
+https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/remarks-on-an-arithmetic-derivative/1FD7F09AD3972692FC97BB23A21D0BD8
 https://www.cambridge.org/core/journals/combinatorics-probability-and-computing
 https://www.cambridge.org/core/journals/environmental-data-science
 https://www.cambridge.org/core/journals/forum-of-mathematics-pi
@@ -36459,6 +36478,7 @@ https://www.tandfonline.com/doi/abs/10.1080/07408170802322713
 https://www.tandfonline.com/doi/abs/10.1080/09332480.2010.10739787
 https://www.tandfonline.com/doi/abs/10.1080/14786440109462720
 https://www.tandfonline.com/doi/abs/10.1198/jcgs.2009.07098
+https://www.tandfonline.com/doi/abs/10.4169/074683409X475661
 https://www.tandfonline.com/doi/full/10.1080/01611190902742467
 https://www.tandfonline.com/doi/full/10.1080/01611194.2012.713804
 https://www.tandfonline.com/doi/full/10.1080/01611194.2017.1357983
@@ -36482,6 +36502,7 @@ https://www.tandfonline.com/journals/rwrd20
 https://www.tandfonline.com/journals/uamm20
 https://www.tandfonline.com/journals/uasa20
 https://www.tandfonline.com/journals/ucha20
+https://www.tandfonline.com/journals/ucmj20
 https://www.tandfonline.com/journals/ucry20
 https://www.tandfonline.com/journals/ujgt21
 https://www.tandfonline.com/journals/ujic20
