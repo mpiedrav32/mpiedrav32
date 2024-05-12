@@ -29532,6 +29532,7 @@ https://solarsystem.nasa.gov/solar-system/sun/overview/
 https://solr.apache.org/
 https://solutions.posit.co/
 https://solutions.posit.co/connections/
+https://solutions.posit.co/connections/db/
 https://solutions.posit.co/connections/db/r-packages/odbc/
 https://solvers.battelle.org/cyber-challenge/cyber-challenge
 https://solverstack.gitlabpages.inria.fr/pastix/
