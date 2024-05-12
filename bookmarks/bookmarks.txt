@@ -21569,6 +21569,7 @@ https://github.com/duo-labs/py_webauthn
 https://github.com/duo-labs/webauthn.io
 https://github.com/Dyalog/Jarvis/
 https://github.com/Dyalog/TryAPL
+https://github.com/eagleusb/awesome-repositories?tab=readme-ov-file
 https://github.com/earthly/earthly
 https://github.com/EasyCrypt/easycrypt
 https://github.com/easystats/easystats
@@ -26795,6 +26796,8 @@ https://markusthill.github.io/ml/programming/zalandos-fashion-mnist-dataset/
 https://martin-gardner.org/MGSAindex.html
 https://martin.kleppmann.com/
 https://martinfowler.com/articles/collection-pipeline/
+https://martinfowler.com/articles/patterns-of-distributed-systems/
+https://martinfowler.com/articles/patterns-of-distributed-systems/hybrid-clock.html
 https://martinfowler.com/articles/web-security-basics.html
 https://martinfowler.com/bliki/AnemicDomainModel.html
 https://martinfowler.com/bliki/PageObject.html
@@ -27363,6 +27366,7 @@ https://news.ycombinator.com/item?id=31533041
 https://news.ycombinator.com/item?id=35945134
 https://news.ycombinator.com/item?id=36845943
 https://news.ycombinator.com/item?id=36851180
+https://news.ycombinator.com/item?id=38914764
 https://news.ycombinator.com/item?id=6336178
 https://newsarchive.berkeley.edu/news/media/releases/2008/10/20_freedman.shtml
 https://newsboat.org/
@@ -30217,6 +30221,7 @@ https://thenewstack.io/citus-data-turns-postgres-scalable-distributed-database-s
 https://thenewstack.io/cockroachdb-unkillable-distributed-sql-database/
 https://thenewstack.io/crate-addresses-database-speed-scaling-standard-sql/
 https://thenewstack.io/data-modeling-part-2-method-for-time-series-databases/
+https://thenewstack.io/data/
 https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/
 https://thenewstack.io/donald-knuths-christmas-tree-lecture-on-dancing-links-and-organ-music/
 https://thenewstack.io/faunadb-harnesses-serverless-cloud/
@@ -31751,6 +31756,7 @@ https://www.citigroup.com/global/insights/global-insights/the-u-s-china-chip-war
 https://www.cits.ruhr-uni-bochum.de/
 https://www.citusdata.com/
 https://www.citusdata.com/blog
+https://www.citusdata.com/blog/2023/08/04/understanding-partitioning-and-sharding-in-postgres-and-citus/
 https://www.citusdata.com/product/community
 https://www.cjas.org/~echen/articles/spring97/05_03b.html
 https://www.cjas.org/~leng/lain.htm
@@ -31941,6 +31947,8 @@ https://www.crummy.com/
 https://www.crummy.com/software/BeautifulSoup/
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 https://www.crunchbangplusplus.org/
+https://www.crunchydata.com/
+https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures
 https://www.crypto-dictionary.com/
 https://www.crypto-it.net/eng/
 https://www.crypto-it.net/eng/attacks/chosen-plaintext.html
@@ -32151,6 +32159,7 @@ https://www.darkreading.com/vulnerabilities-threats/why-i-pulled-out-of-the-rsa-
 https://www.darpa.mil/
 https://www.dartmouth.edu/its-tools/archive/history/timeline/early.html
 https://www.darwinsys.com/file/
+https://www.dasca.org/
 https://www.daserste.de/
 https://www.dask.org/
 https://www.daskeyboard.com/
@@ -32187,6 +32196,7 @@ https://www.datacamp.com/tutorial/pca-analysis-r
 https://www.datacamp.com/tutorial/r-data-import-tutorial
 https://www.datacamp.com/tutorial/tutorial-time-series-forecasting
 https://www.datacenterdynamics.com/en/
+https://www.dataengineeringdigest.com/
 https://www.dataengineeringpodcast.com/
 https://www.dataiku.com/
 https://www.datamesh-architecture.com/
@@ -32207,6 +32217,7 @@ https://www.db2tutorial.com/
 https://www.dbos.dev/
 https://www.dbos.dev/blog/announcing-dbos
 https://www.dbpedia.org/about/
+https://www.dbta.com/
 https://www.dcc.fc.up.pt/~vsc/yap/
 https://www.dcode.fr/cipher-identifier
 https://www.dcode.fr/en
@@ -33644,6 +33655,7 @@ https://www.infosecurity-magazine.com/
 https://www.infosecurity-magazine.com/reviews/review-serious-cryptography/
 https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.html
 https://www.infoworld.com/article/3714401/c-plus-plus-creator-rebuts-white-house-warning.html
+https://www.infoworld.com/category/database/
 https://www.infradead.org/openconnect/
 https://www.inkandswitch.com/
 https://www.inkandswitch.com/local-first/
@@ -35174,6 +35186,7 @@ https://www.pewresearch.org/short-reads/2023/09/05/who-is-hispanic/
 https://www.pewresearch.org/topic/international-affairs/
 https://www.pgadmin.org/
 https://www.pgdp.net/c/
+https://www.pgedge.com/
 https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/
 https://www.pharmaceutical-technology.com/comment/generative-ai-revolutionise-drug-discovery/
 https://www.philosophizethis.org/
@@ -35249,8 +35262,11 @@ https://www.populationassociation.org/home
 https://www.port389.org/
 https://www.portico.org/
 https://www.postfix.org/
+https://www.postgresql.eu/events/pgconfeu2023/sessions/session/4826/slides/416/Distributed%20PostgreSQL%202023.pdf
 https://www.postgresql.org/
+https://www.postgresql.org/about/news/pgedge-redefines-distributed-postgresql-with-the-launch-of-pgedge-cloud-developer-edition-2796/
 https://www.postgresql.org/docs/current/cube.html
+https://www.postgresql.org/docs/current/ddl-partitioning.html
 https://www.postgresql.org/docs/current/index.html
 https://www.postgresql.org/docs/current/mvcc.html
 https://www.postgresql.org/docs/current/sql-vacuum.html
@@ -37539,6 +37555,7 @@ https://www.yubico.com/resources/glossary/hsm/
 https://www.yubico.com/resources/glossary/openpgp/
 https://www.yubico.com/solutions/passwordless/
 https://www.yugabyte.com/
+https://www.yugabyte.com/postgresql/postgresql-high-availability/
 https://www.yunuscengel.com/en/about-me/
 https://www.zabbix.com/
 https://www.zaproxy.org/
