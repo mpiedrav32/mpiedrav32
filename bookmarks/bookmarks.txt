@@ -294,6 +294,7 @@ https://12factor.net/
 https://12ft.io/
 https://15445.courses.cs.cmu.edu/spring2024/
 https://15721.courses.cs.cmu.edu/spring2024/
+https://16years.secvuln.info/
 https://1password.com/
 https://2600.com/
 https://2600.network/
@@ -24487,6 +24488,7 @@ https://kimialab.uwaterloo.ca/kimia/
 https://kimmo.suominen.com/
 https://kit.svelte.dev/
 https://kiwix.org/en/
+https://kmicinski.com/modern-deduction/2024/05/11/post-1.html
 https://knopper.net/knoppix/index-en.html
 https://knowablemagazine.org/
 https://kobra.uni-kassel.de/handle/123456789/13612
