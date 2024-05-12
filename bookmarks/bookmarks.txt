@@ -2773,6 +2773,7 @@ https://dash.harvard.edu/handle/1/26506434
 https://dash.plotly.com/
 https://dasp.co/
 https://data-explorer.oecd.org/
+https://data.cityofnewyork.us/Transportation/2020-High-Volume-FHV-Trip-Records/yrt9-58g8/about_data
 https://data.europa.eu/en
 https://data.fivethirtyeight.com/
 https://data.gov/
@@ -24519,6 +24520,7 @@ https://kwarc.info/
 https://kylin.apache.org/
 https://la.wikipedia.org/wiki/Hans_Henning_%C3%98rberg
 https://la.wikipedia.org/wiki/Lingua_Latina_per_se_illustrata
+https://labor.ucla.edu/publications/for-hire-vehicle-data-new-york-city/
 https://labs.fedoraproject.org/en/python-classroom/
 https://labs.fedoraproject.org/en/scientific/
 https://labs.fedoraproject.org/en/security/
@@ -27173,6 +27175,7 @@ https://mosh.monaos.org/files/doc/text/About-txt.html
 https://mosh.org/
 https://mosimtec.com/agent-based-modeling-examples/
 https://motherduck.com/
+https://motherduck.com/blog/big-data-is-dead/
 https://mouha.be/
 https://mouha.be/sha-3-buffer-overflow-part-2/
 https://mouha.be/sha-3-buffer-overflow/
@@ -31194,6 +31197,7 @@ https://www.awi.de/
 https://www.awk.dev/
 https://www.axios.com/
 https://www.b-it-center.de/
+https://www.bacalhau.org/
 https://www.backblaze.com/
 https://www.backblaze.com/blog/
 https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2023/
@@ -33820,6 +33824,7 @@ https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 https://www.kaggle.com/datasets/benhamner/nips-papers
 https://www.kaggle.com/datasets/Cornell-University/arxiv
 https://www.kaggle.com/datasets/crawford/emnist
+https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city
 https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data
 https://www.kaggle.com/datasets/rmisra/politifact-fact-check-dataset
@@ -36055,6 +36060,7 @@ https://www.scientificamerican.com/article/mathematicians-are-trying-to-lsquo-he
 https://www.scientificamerican.com/article/mathematics-in-the-modern-world/
 https://www.scientificamerican.com/article/see-how-humans-around-the-world-spend-the-24-hours-in-a-day1/
 https://www.scientificamerican.com/article/six-planet-system-in-perfect-harmony-shocks-scientists/
+https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/
 https://www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/
 https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/
 https://www.scientificamerican.com/issue/sa/1964/09-01/
