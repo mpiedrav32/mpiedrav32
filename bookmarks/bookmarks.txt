@@ -1805,6 +1805,7 @@ https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sh
 https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html
 https://ches.iacr.org/
 https://china.diplo.de/
+https://chinabooksreview.com/
 https://chip-8.github.io/links/
 https://chipsandcheese.com/
 https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/
@@ -3396,6 +3397,7 @@ https://dl.acm.org/doi/10.1145/12130.12142
 https://dl.acm.org/doi/10.1145/1283920.2949031
 https://dl.acm.org/doi/10.1145/128765.128770
 https://dl.acm.org/doi/10.1145/129712.129746
+https://dl.acm.org/doi/10.1145/129888.129894
 https://dl.acm.org/doi/10.1145/1327452.1327478
 https://dl.acm.org/doi/10.1145/1376616.1376672
 https://dl.acm.org/doi/10.1145/1379387.1379398
@@ -6722,6 +6724,7 @@ https://en.wikipedia.org/wiki/Category:Computational_mathematics
 https://en.wikipedia.org/wiki/Category:Computational_number_theory
 https://en.wikipedia.org/wiki/Category:Computational_problems
 https://en.wikipedia.org/wiki/Category:Computational_problems_in_graph_theory
+https://en.wikipedia.org/wiki/Category:Computational_resources
 https://en.wikipedia.org/wiki/Category:Computational_statistics
 https://en.wikipedia.org/wiki/Category:Computational_topology
 https://en.wikipedia.org/wiki/Category:Computer_algebra
@@ -7255,6 +7258,7 @@ https://en.wikipedia.org/wiki/Category:Transport_phenomena
 https://en.wikipedia.org/wiki/Category:Turing_machine
 https://en.wikipedia.org/wiki/Category:Type_inference
 https://en.wikipedia.org/wiki/Category:Type_theory
+https://en.wikipedia.org/wiki/Category:Types_of_databases
 https://en.wikipedia.org/wiki/Category:Types_of_functions
 https://en.wikipedia.org/wiki/Category:Unification_(computer_science)
 https://en.wikipedia.org/wiki/Category:Unit_testing_frameworks
@@ -7717,6 +7721,7 @@ https://en.wikipedia.org/wiki/Closest_pair_of_points_problem
 https://en.wikipedia.org/wiki/Closure_(computer_programming)
 https://en.wikipedia.org/wiki/Closure_operator
 https://en.wikipedia.org/wiki/Closure/Continuation
+https://en.wikipedia.org/wiki/Cloud_computing
 https://en.wikipedia.org/wiki/Cloud_computing_security
 https://en.wikipedia.org/wiki/Cloud_robotics
 https://en.wikipedia.org/wiki/Cloudflare
@@ -8029,6 +8034,7 @@ https://en.wikipedia.org/wiki/Computational_particle_physics
 https://en.wikipedia.org/wiki/Computational_phylogenetics
 https://en.wikipedia.org/wiki/Computational_physics
 https://en.wikipedia.org/wiki/Computational_problem
+https://en.wikipedia.org/wiki/Computational_resource
 https://en.wikipedia.org/wiki/Computational_science
 https://en.wikipedia.org/wiki/Computational_sociology
 https://en.wikipedia.org/wiki/Computational_statistics
@@ -15678,6 +15684,7 @@ https://en.wikipedia.org/wiki/Paradox_of_thrift
 https://en.wikipedia.org/wiki/Parag_Khanna
 https://en.wikipedia.org/wiki/Parallel_Colt
 https://en.wikipedia.org/wiki/Parallel_computing
+https://en.wikipedia.org/wiki/Parallel_database
 https://en.wikipedia.org/wiki/Parallel_Extensions
 https://en.wikipedia.org/wiki/Parallel_RAM
 https://en.wikipedia.org/wiki/Parallel_state
@@ -17760,6 +17767,8 @@ https://en.wikipedia.org/wiki/Shared_memory
 https://en.wikipedia.org/wiki/Shared_secret
 https://en.wikipedia.org/wiki/Shared_Source_Initiative
 https://en.wikipedia.org/wiki/Shared_Variables
+https://en.wikipedia.org/wiki/Shared-disk_architecture
+https://en.wikipedia.org/wiki/Shared-nothing_architecture
 https://en.wikipedia.org/wiki/SHARK
 https://en.wikipedia.org/wiki/Sharp_MZ
 https://en.wikipedia.org/wiki/Shaul_Foguel
@@ -19770,6 +19779,7 @@ https://en.wikipedia.org/wiki/UTC%E2%88%9212:00
 https://en.wikipedia.org/wiki/UTF-8
 https://en.wikipedia.org/wiki/Utilitarianism
 https://en.wikipedia.org/wiki/Utility
+https://en.wikipedia.org/wiki/Utility_computing
 https://en.wikipedia.org/wiki/UTM_theorem
 https://en.wikipedia.org/wiki/Uttar_Pradesh
 https://en.wikipedia.org/wiki/UVa_Online_Judge
@@ -35900,6 +35910,7 @@ https://www.science.org/doi/10.1126/science.adh2586
 https://www.science.org/doi/10.1126/science.adi2336
 https://www.science.org/doi/10.1126/science.adi8474
 https://www.science.org/doi/10.1126/science.adk4858
+https://www.science.org/doi/10.1126/science.adm7168
 https://www.science.org/doi/full/10.1126/sciadv.adm8825
 https://www.science.org/doi/full/10.1126/science.aam9744
 https://www.science.org/journal/sciadv
