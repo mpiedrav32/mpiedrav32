@@ -1595,6 +1595,7 @@ https://bouncycastle.org/
 https://box2d.org/
 https://bqplot.github.io/bqplot/
 https://brain.js.org
+https://brandur.org/notifier
 https://breandan.net/2020/06/30/graph-computation/
 https://brenocon.com/
 https://brenocon.com/blog/
@@ -4509,6 +4510,7 @@ https://easychair.org/cfp/provsec2023
 https://easychair.org/publications/paper/Q4lW
 https://easyeda.com/
 https://easystats.github.io/easystats/
+https://easystats.github.io/insight/
 https://eatcs.org/
 https://eater.net/
 https://eater.net/6502
@@ -5991,6 +5993,7 @@ https://en.wikipedia.org/wiki/Bernard_Vauquois
 https://en.wikipedia.org/wiki/Berndt%E2%80%93Hall%E2%80%93Hall%E2%80%93Hausman_algorithm
 https://en.wikipedia.org/wiki/Bernhard_Sch%C3%B6lkopf
 https://en.wikipedia.org/wiki/Bernoulli_differential_equation
+https://en.wikipedia.org/wiki/Bernoulli_distribution
 https://en.wikipedia.org/wiki/Bernoulli_family
 https://en.wikipedia.org/wiki/Bernoulli_process
 https://en.wikipedia.org/wiki/Bernoulli_scheme
@@ -6642,6 +6645,7 @@ https://en.wikipedia.org/wiki/Category:American_women_statisticians
 https://en.wikipedia.org/wiki/Category:Amortized_data_structures
 https://en.wikipedia.org/wiki/Category:Analog_circuits
 https://en.wikipedia.org/wiki/Category:Analog_computers
+https://en.wikipedia.org/wiki/Category:Analysis_of_variance
 https://en.wikipedia.org/wiki/Category:Analytic_geometry
 https://en.wikipedia.org/wiki/Category:Anarchist_newspapers
 https://en.wikipedia.org/wiki/Category:APL_programming_language_family
@@ -8212,6 +8216,7 @@ https://en.wikipedia.org/wiki/Continuous_function
 https://en.wikipedia.org/wiki/Continuous_linear_operator
 https://en.wikipedia.org/wiki/Continuous_optimization
 https://en.wikipedia.org/wiki/Continuous_test-driven_development
+https://en.wikipedia.org/wiki/Continuous_uniform_distribution
 https://en.wikipedia.org/wiki/Continuous-time_Markov_chain
 https://en.wikipedia.org/wiki/Continuous-time_stochastic_process
 https://en.wikipedia.org/wiki/Continuum_mechanics
@@ -10550,6 +10555,7 @@ https://en.wikipedia.org/wiki/Geographical_midpoint_of_Europe
 https://en.wikipedia.org/wiki/Geoid
 https://en.wikipedia.org/wiki/Geometric_algebra
 https://en.wikipedia.org/wiki/Geometric_analysis
+https://en.wikipedia.org/wiki/Geometric_distribution
 https://en.wikipedia.org/wiki/Geometric_function_theory
 https://en.wikipedia.org/wiki/Geometric_mean
 https://en.wikipedia.org/wiki/Geometric_phase
@@ -15306,6 +15312,7 @@ https://en.wikipedia.org/wiki/One-key_MAC
 https://en.wikipedia.org/wiki/One-liner_program
 https://en.wikipedia.org/wiki/One-time_pad
 https://en.wikipedia.org/wiki/One-time_password
+https://en.wikipedia.org/wiki/One-way_analysis_of_variance
 https://en.wikipedia.org/wiki/One-way_compression_function
 https://en.wikipedia.org/wiki/One-way_function
 https://en.wikipedia.org/wiki/One-way_speed_of_light
@@ -15735,6 +15742,7 @@ https://en.wikipedia.org/wiki/Parc_Kellermann
 https://en.wikipedia.org/wiki/Parc_Monceau
 https://en.wikipedia.org/wiki/Parc_Montsouris
 https://en.wikipedia.org/wiki/Pareto_chart
+https://en.wikipedia.org/wiki/Pareto_distribution
 https://en.wikipedia.org/wiki/Pareto_principle
 https://en.wikipedia.org/wiki/PARI/GP
 https://en.wikipedia.org/wiki/Paris_1_Panth%C3%A9on-Sorbonne_University
@@ -21615,6 +21623,7 @@ https://github.com/eagleusb/awesome-repositories?tab=readme-ov-file
 https://github.com/earthly/earthly
 https://github.com/EasyCrypt/easycrypt
 https://github.com/easystats/easystats
+https://github.com/easystats/insight
 https://github.com/ebrahimpichka/awesome-optimization
 https://github.com/eclipse-corrosion/corrosion
 https://github.com/eclipse-theia/theia
@@ -22993,8 +23002,11 @@ https://github.com/tiangolo/fastapi
 https://github.com/tidymodels
 https://github.com/tidymodels/broom
 https://github.com/tidymodels/corrr
+https://github.com/tidymodels/infer
 https://github.com/tidymodels/parsnip
+https://github.com/tidymodels/tidymodels
 https://github.com/tidymodels/TMwR
+https://github.com/tidymodels/yardstick
 https://github.com/tidyverse/dplyr
 https://github.com/tidyverse/dsbox
 https://github.com/tidyverse/dtplyr
@@ -24424,6 +24436,7 @@ https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.85.2208
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.88.237901
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033312
 https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031020
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.021026
 https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.51.447
 https://journals.bmj.com/home
 https://journals.openedition.org/rfcb/1662
@@ -26979,6 +26992,7 @@ https://mathworld.wolfram.com/ProsthaphaeresisFormulas.html
 https://mathworld.wolfram.com/RhombicHexecontahedron.html
 https://mathworld.wolfram.com/StationaryIterativeMethod.html
 https://mathworld.wolfram.com/Stellation.html
+https://mathworld.wolfram.com/Tilde.html
 https://mathworld.wolfram.com/TrigonometricAdditionFormulas.html
 https://matlab.mathworks.com/
 https://matplotlib.org/
@@ -28130,6 +28144,7 @@ https://pastglobalchanges.org/
 https://pastglobalchanges.org/science/wg/2k-network/intro
 https://patchwork.kernel.org/
 https://pathelland.substack.com/
+https://patternlanguage.cc/
 https://paulgraham.com/acl.html
 https://paulgraham.com/onlisp.html
 https://paulkocher.com/
@@ -35871,6 +35886,8 @@ https://www.sans.org/cyber-ranges/
 https://www.sans.org/cyber-security-courses/
 https://www.sans.org/newsletters/
 https://www.sans.org/newsletters/newsbites/
+https://www.santafe.edu/news-center/news
+https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation
 https://www.santafe.edu/research/projects/thermodynamics-computation
 https://www.santafe.edu/research/results/working-papers/no-free-lunch-theorems-for-search
 https://www.sap.com/products/technology-platform/crystal-reports.html
