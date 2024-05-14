@@ -5437,6 +5437,7 @@ https://en.wikipedia.org/wiki/Apache_MXNet
 https://en.wikipedia.org/wiki/Apache_Mynewt
 https://en.wikipedia.org/wiki/Apache_OpenJPA
 https://en.wikipedia.org/wiki/Apache_ORC
+https://en.wikipedia.org/wiki/Apache_Parquet
 https://en.wikipedia.org/wiki/Apache_Pig
 https://en.wikipedia.org/wiki/Apache_Pinot
 https://en.wikipedia.org/wiki/Apache_SINGA
@@ -7870,6 +7871,8 @@ https://en.wikipedia.org/wiki/Commodore_International
 https://en.wikipedia.org/wiki/Commodore_PET
 https://en.wikipedia.org/wiki/Common_cause_and_special_cause_(statistics)
 https://en.wikipedia.org/wiki/Common_Crawl
+https://en.wikipedia.org/wiki/Common_Data_Format
+https://en.wikipedia.org/wiki/Common_data_model
 https://en.wikipedia.org/wiki/Common_Development_and_Distribution_License
 https://en.wikipedia.org/wiki/Common_Foreign_and_Security_Policy
 https://en.wikipedia.org/wiki/Common_Gateway_Interface
@@ -10061,6 +10064,7 @@ https://en.wikipedia.org/wiki/Fisherian_runaway
 https://en.wikipedia.org/wiki/Fissile_material
 https://en.wikipedia.org/wiki/Fitch_Ratings
 https://en.wikipedia.org/wiki/Fitness_function
+https://en.wikipedia.org/wiki/FITS
 https://en.wikipedia.org/wiki/FitzHugh%E2%80%93Nagumo_model
 https://en.wikipedia.org/wiki/Five_Eyes
 https://en.wikipedia.org/wiki/Five-point_stencil
@@ -11217,6 +11221,7 @@ https://en.wikipedia.org/wiki/Hibernate_(framework)
 https://en.wikipedia.org/wiki/Hidden_Markov_model
 https://en.wikipedia.org/wiki/Hidden_transformation
 https://en.wikipedia.org/wiki/Hierarchical_clustering
+https://en.wikipedia.org/wiki/Hierarchical_Data_Format
 https://en.wikipedia.org/wiki/Hierarchical_Dirichlet_process
 https://en.wikipedia.org/wiki/Hierarchical_INTegration
 https://en.wikipedia.org/wiki/Hierarchical_temporal_memory
@@ -20966,6 +20971,7 @@ https://fires.im/
 https://firmwaresecurity.com/
 https://fiscaldata.treasury.gov/
 https://fishshell.com/
+https://fits.gsfc.nasa.gov/
 https://fivebooks.com/
 https://fivebooks.com/best-books/anarchism-ruth-kinna/
 https://fivebooks.com/best-books/ancient-greece-christopher-pelling/
@@ -27155,7 +27161,9 @@ https://mjos.fi/doc/20230629-rvi-tech-session.pdf
 https://mjskay.github.io/tidybayes/
 https://ml-cheatsheet.readthedocs.io/en/latest/glossary.html
 https://ml-ops.org/
+https://mlcommons.org/
 https://mlcommons.org/en/
+https://mlcommons.org/working-groups/data/croissant/
 https://mlcontests.com/
 https://mlg.eng.cam.ac.uk/carl/
 https://mlg.eng.cam.ac.uk/zoubin/
@@ -28108,6 +28116,7 @@ https://paperswithcode.com/task/time-series-1
 https://paragonie.com/blog/2016/05/how-generate-secure-random-numbers-in-various-programming-languages
 https://pari.math.u-bordeaux.fr/
 https://parquet.apache.org/
+https://parquet.apache.org/docs/
 https://parrotsec.org/
 https://parsnip.tidymodels.org/
 https://pascal.sources.ru/crypt/frog.htm
@@ -33443,6 +33452,8 @@ https://www.hathitrust.org/
 https://www.haystack.mit.edu/
 https://www.haystack.mit.edu/astronomy/astronomy-projects/event-horizon-telescope/
 https://www.hboehm.info/gc/
+https://www.hdfgroup.org/
+https://www.hdfgroup.org/solutions/hdf5
 https://www.he.net/
 https://www.heatherturner.net/
 https://www.heidelberg-laureate-forum.org/
