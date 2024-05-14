@@ -4442,6 +4442,10 @@ https://dspace.mit.edu/handle/1721.1/97690
 https://dtai.cs.kuleuven.be/problog/
 https://dtplyr.tidyverse.org/
 https://duckdb.org/
+https://duckdb.org/2021/06/25/querying-parquet
+https://duckdb.org/docs/extensions/httpfs/https
+https://duckdb.org/docs/guides/file_formats/query_parquet
+https://duckdb.org/docs/guides/overview
 https://duckdb.org/docs/sql/aggregates
 https://duckdb.org/news/
 https://duckdb.org/why_duckdb
@@ -5640,6 +5644,7 @@ https://en.wikipedia.org/wiki/Association_rule_learning
 https://en.wikipedia.org/wiki/Associative_array
 https://en.wikipedia.org/wiki/Assuwa
 https://en.wikipedia.org/wiki/Assyrian_people
+https://en.wikipedia.org/wiki/Asteroid_impact_avoidance
 https://en.wikipedia.org/wiki/Astra_(weapon)
 https://en.wikipedia.org/wiki/Astrometry
 https://en.wikipedia.org/wiki/Astronomer
@@ -10228,6 +10233,7 @@ https://en.wikipedia.org/wiki/Frankfurt
 https://en.wikipedia.org/wiki/Frankfurt_School
 https://en.wikipedia.org/wiki/Franz_Lisp
 https://en.wikipedia.org/wiki/Franz_Schubert
+https://en.wikipedia.org/wiki/Fraunhofer_Institute_for_High-Speed_Dynamics
 https://en.wikipedia.org/wiki/Fravia
 https://en.wikipedia.org/wiki/Freddy_II
 https://en.wikipedia.org/wiki/Frederick_Mosteller
@@ -14466,6 +14472,7 @@ https://en.wikipedia.org/wiki/Mode_(statistics)
 https://en.wikipedia.org/wiki/Model_F_keyboard
 https://en.wikipedia.org/wiki/Model_M_keyboard
 https://en.wikipedia.org/wiki/Model_of_computation
+https://en.wikipedia.org/wiki/Model_order_reduction
 https://en.wikipedia.org/wiki/Model_predictive_control
 https://en.wikipedia.org/wiki/Model_selection
 https://en.wikipedia.org/wiki/Model_transformation
@@ -25877,6 +25884,7 @@ https://link.springer.com/book/10.1007/978-3-030-76124-0
 https://link.springer.com/book/10.1007/978-3-030-76275-9
 https://link.springer.com/book/10.1007/978-3-030-78017-3
 https://link.springer.com/book/10.1007/978-3-030-80507-4
+https://link.springer.com/book/10.1007/978-3-030-81455-7
 https://link.springer.com/book/10.1007/978-3-030-81979-8
 https://link.springer.com/book/10.1007/978-3-030-83274-2
 https://link.springer.com/book/10.1007/978-3-030-83411-1
@@ -26999,6 +27007,7 @@ https://matplotlib.org/
 https://matplotlib.org/stable/
 https://matplotlib.org/stable/gallery/mplot3d/lorenz_attractor.html
 https://matplotlib.org/stable/users/index.html
+https://matpower.org/
 https://matrix.org/
 https://matsud224.github.io/
 https://matt.might.net/articles/sql-in-the-shell/
@@ -28688,6 +28697,7 @@ https://psycnet.apa.org/home
 https://psycnet.apa.org/record/1951-02887-001
 https://psycnet.apa.org/record/1959-09865-001
 https://pt.mondediplo.com/
+https://publica.fraunhofer.de/entities/publication/effc2d8c-8a56-4785-a0d3-e8ab4f575ecd/details
 https://publicdomainreview.org/
 https://publicdomainreview.org/essay/agrippa-occult-philosophy/
 https://publikationen.bibliothek.kit.edu/1000146422
@@ -32585,6 +32595,7 @@ https://www.embeddedrelated.com/
 https://www.embeddedrelated.com/showarticle/1453.php
 https://www.emerald.com/insight/content/doi/10.1108/02640471111156777/full/html
 https://www.emergencity.de/
+https://www.emi.fraunhofer.de/en.html
 https://www.emis.de/journals/SAT/
 https://www.emsisoft.com/
 https://www.emva.org/
@@ -32795,6 +32806,7 @@ https://www.france24.com/en/live
 https://www.france24.com/en/tag/features/
 https://www.francetvinfo.fr/
 https://www.francetvinfo.fr/en-direct/tv.html
+https://www.fraunhofer.de/en/institutes/institutes-and-research-establishments-in-germany/fraunhofer-alliances/energy.html
 https://www.freebsd.org/
 https://www.freecad.org/
 https://www.freedesktop.org/software/PackageKit/
@@ -33582,6 +33594,8 @@ https://www.iea.org/data-and-statistics
 https://www.iea.org/energy-system/buildings/data-centres-and-data-transmission-networks
 https://www.iec.ch/homepage
 https://www.iecc.com/linker/
+https://www.iee.fraunhofer.de/en.html
+https://www.iee.fraunhofer.de/en/research-fields.html
 https://www.ieee-security.org/
 https://www.ieee-security.org/cipher.html
 https://www.ieee-security.org/Cipher/BookReviews.html
@@ -35162,6 +35176,7 @@ https://www.oxfordscholarlyeditions.com/nos
 https://www.packtpub.com/product/privilege-escalation-techniques/9781801078870
 https://www.pacm.princeton.edu/
 https://www.palgrave.com/
+https://www.pandapower.org/
 https://www.panix.com/
 https://www.paperdigest.org/
 https://www.paperdigest.org/best-paper-digest/
@@ -36389,6 +36404,7 @@ https://www.springer.com/series/417
 https://www.springer.com/series/4175
 https://www.springer.com/series/4190
 https://www.springer.com/series/4467
+https://www.springer.com/series/4650
 https://www.springer.com/series/4672
 https://www.springer.com/series/4672/books
 https://www.springer.com/series/4738
