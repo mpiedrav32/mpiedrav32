@@ -1880,6 +1880,7 @@ https://clickhouse.com/cloud/clickpipes
 https://clickhouse.com/docs
 https://clickhouse.com/docs/en/integrations
 https://clickhouse.com/docs/en/intro
+https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference
 https://clickhouse.com/use-cases
 https://climate.nasa.gov/
 https://climate.nasa.gov/effects/
@@ -4440,6 +4441,7 @@ https://dspace.mit.edu/handle/1721.1/97690
 https://dtai.cs.kuleuven.be/problog/
 https://dtplyr.tidyverse.org/
 https://duckdb.org/
+https://duckdb.org/docs/sql/aggregates
 https://duckdb.org/news/
 https://duckdb.org/why_duckdb
 https://duckdblabs.com/
@@ -5014,6 +5016,7 @@ https://en.wikipedia.org/wiki/Agency_(novel)
 https://en.wikipedia.org/wiki/Agent-based_computational_economics
 https://en.wikipedia.org/wiki/Agent-based_model
 https://en.wikipedia.org/wiki/Agenzia_Nazionale_Stampa_Associata
+https://en.wikipedia.org/wiki/Aggregate_data
 https://en.wikipedia.org/wiki/Aggregate_function
 https://en.wikipedia.org/wiki/Agile_software_development
 https://en.wikipedia.org/wiki/Aging_of_China
@@ -5481,6 +5484,7 @@ https://en.wikipedia.org/wiki/Application-specific_instruction_set_processor
 https://en.wikipedia.org/wiki/Application-specific_integrated_circuit
 https://en.wikipedia.org/wiki/Applications_architecture
 https://en.wikipedia.org/wiki/Applications_of_randomness
+https://en.wikipedia.org/wiki/Applied_economics
 https://en.wikipedia.org/wiki/Applied_mathematics
 https://en.wikipedia.org/wiki/Applied_mechanics
 https://en.wikipedia.org/wiki/Applied_ontology
@@ -5629,6 +5633,7 @@ https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Inte
 https://en.wikipedia.org/wiki/Association_fran%C3%A7aise_pour_le_nommage_Internet_en_coop%C3%A9ration
 https://en.wikipedia.org/wiki/Association_of_American_Universities
 https://en.wikipedia.org/wiki/Association_of_College_and_Research_Libraries
+https://en.wikipedia.org/wiki/Association_rule_learning
 https://en.wikipedia.org/wiki/Associative_array
 https://en.wikipedia.org/wiki/Assuwa
 https://en.wikipedia.org/wiki/Assyrian_people
@@ -7779,6 +7784,7 @@ https://en.wikipedia.org/wiki/CodinGame
 https://en.wikipedia.org/wiki/Coefficient_of_determination
 https://en.wikipedia.org/wiki/Coefficient_of_variation
 https://en.wikipedia.org/wiki/Coercive_citation
+https://en.wikipedia.org/wiki/Coercive_monopoly
 https://en.wikipedia.org/wiki/COFF
 https://en.wikipedia.org/wiki/CoffeeScript
 https://en.wikipedia.org/wiki/Coffman%E2%80%93Graham_algorithm
@@ -8574,6 +8580,7 @@ https://en.wikipedia.org/wiki/Data_blending
 https://en.wikipedia.org/wiki/Data_center
 https://en.wikipedia.org/wiki/Data_center_infrastructure_efficiency
 https://en.wikipedia.org/wiki/Data_center_network_architectures
+https://en.wikipedia.org/wiki/Data_classification_(business_intelligence)
 https://en.wikipedia.org/wiki/Data_cleansing
 https://en.wikipedia.org/wiki/Data_Colada
 https://en.wikipedia.org/wiki/Data_collection
@@ -8589,6 +8596,7 @@ https://en.wikipedia.org/wiki/Data_degradation
 https://en.wikipedia.org/wiki/Data_dependency
 https://en.wikipedia.org/wiki/Data_differencing
 https://en.wikipedia.org/wiki/Data_dredging
+https://en.wikipedia.org/wiki/Data_drilling
 https://en.wikipedia.org/wiki/Data_editing
 https://en.wikipedia.org/wiki/Data_Encryption_Standard
 https://en.wikipedia.org/wiki/Data_engineering
@@ -9301,6 +9309,7 @@ https://en.wikipedia.org/wiki/ECMAScript
 https://en.wikipedia.org/wiki/Ecole_Polytechnique_de_l%27Universit%C3%A9_d%27Orl%C3%A9ans
 https://en.wikipedia.org/wiki/Econometric_model
 https://en.wikipedia.org/wiki/Econometrics
+https://en.wikipedia.org/wiki/Economic_efficiency
 https://en.wikipedia.org/wiki/Economic_forecasting
 https://en.wikipedia.org/wiki/Economic_inequality
 https://en.wikipedia.org/wiki/Economic_interdependence
@@ -9308,7 +9317,11 @@ https://en.wikipedia.org/wiki/Economic_interventionism
 https://en.wikipedia.org/wiki/Economic_liberalism
 https://en.wikipedia.org/wiki/Economic_model
 https://en.wikipedia.org/wiki/Economic_security
+https://en.wikipedia.org/wiki/Economics
 https://en.wikipedia.org/wiki/Economics_of_religion
+https://en.wikipedia.org/wiki/Economies_of_density
+https://en.wikipedia.org/wiki/Economies_of_scale
+https://en.wikipedia.org/wiki/Economies_of_scope
 https://en.wikipedia.org/wiki/Econophysics
 https://en.wikipedia.org/wiki/ECos
 https://en.wikipedia.org/wiki/ECRYPT
@@ -10051,6 +10064,7 @@ https://en.wikipedia.org/wiki/Fitness_function
 https://en.wikipedia.org/wiki/FitzHugh%E2%80%93Nagumo_model
 https://en.wikipedia.org/wiki/Five_Eyes
 https://en.wikipedia.org/wiki/Five-point_stencil
+https://en.wikipedia.org/wiki/Fixed_cost
 https://en.wikipedia.org/wiki/Fixed_point_(mathematics)
 https://en.wikipedia.org/wiki/Fixed-point_iteration
 https://en.wikipedia.org/wiki/Fixed-point_logic
@@ -10911,6 +10925,7 @@ https://en.wikipedia.org/wiki/Groningen
 https://en.wikipedia.org/wiki/Grothendieck%27s_T%C3%B4hoku_paper
 https://en.wikipedia.org/wiki/Ground_expression
 https://en.wikipedia.org/wiki/Group_action
+https://en.wikipedia.org/wiki/Group_by_(SQL)
 https://en.wikipedia.org/wiki/Group_method_of_data_handling
 https://en.wikipedia.org/wiki/Group_theory
 https://en.wikipedia.org/wiki/Grouped_data
@@ -12311,6 +12326,7 @@ https://en.wikipedia.org/wiki/John_Wycliffe
 https://en.wikipedia.org/wiki/Johns_Hopkins_University
 https://en.wikipedia.org/wiki/Johnson%E2%80%93Nyquist_noise
 https://en.wikipedia.org/wiki/Join_(SQL)
+https://en.wikipedia.org/wiki/Joint_cost
 https://en.wikipedia.org/wiki/Joint_entropy
 https://en.wikipedia.org/wiki/Joint_European_Union_Intelligence_School
 https://en.wikipedia.org/wiki/Joint_probability_distribution
@@ -13915,6 +13931,7 @@ https://en.wikipedia.org/wiki/Marek_Karpinski
 https://en.wikipedia.org/wiki/Margaret_Gurney
 https://en.wikipedia.org/wiki/Margaret_Mitchell_(scientist)
 https://en.wikipedia.org/wiki/Margin_of_error
+https://en.wikipedia.org/wiki/Marginal_cost
 https://en.wikipedia.org/wiki/Marginal_distribution
 https://en.wikipedia.org/wiki/Marginal_likelihood
 https://en.wikipedia.org/wiki/Maria_Montessori
@@ -13982,6 +13999,7 @@ https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
 https://en.wikipedia.org/wiki/Mason_%26_Dixon
 https://en.wikipedia.org/wiki/Masoretic_Text
 https://en.wikipedia.org/wiki/Mass_balance
+https://en.wikipedia.org/wiki/Mass_customization
 https://en.wikipedia.org/wiki/Mass_diffusivity
 https://en.wikipedia.org/wiki/Mass_in_special_relativity
 https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_Kingdom
@@ -14497,6 +14515,7 @@ https://en.wikipedia.org/wiki/MongoDB
 https://en.wikipedia.org/wiki/Mongoose-V
 https://en.wikipedia.org/wiki/Moni_Naor
 https://en.wikipedia.org/wiki/Monitor_(synchronization)
+https://en.wikipedia.org/wiki/Monopoly
 https://en.wikipedia.org/wiki/Monotone_likelihood_ratio
 https://en.wikipedia.org/wiki/Monotonicity_of_entailment
 https://en.wikipedia.org/wiki/Monster_(manga)
@@ -14753,6 +14772,7 @@ https://en.wikipedia.org/wiki/Natural_History_(Pliny)
 https://en.wikipedia.org/wiki/Natural_language_processing
 https://en.wikipedia.org/wiki/Natural_logarithm
 https://en.wikipedia.org/wiki/Natural_logarithm_of_2
+https://en.wikipedia.org/wiki/Natural_monopoly
 https://en.wikipedia.org/wiki/Natural_neighbor_interpolation
 https://en.wikipedia.org/wiki/Natural_philosophy
 https://en.wikipedia.org/wiki/Natural_Sciences_and_Engineering_Research_Council
@@ -15424,6 +15444,7 @@ https://en.wikipedia.org/wiki/Operation_Sundevil
 https://en.wikipedia.org/wiki/Operational_amplifier
 https://en.wikipedia.org/wiki/Operational_calculus
 https://en.wikipedia.org/wiki/Operational_data_store
+https://en.wikipedia.org/wiki/Operational_reporting
 https://en.wikipedia.org/wiki/Operational_semantics
 https://en.wikipedia.org/wiki/Operational_system
 https://en.wikipedia.org/wiki/Operations_research
@@ -16039,6 +16060,7 @@ https://en.wikipedia.org/wiki/Pirate_Party
 https://en.wikipedia.org/wiki/Pirate_Party_(Sweden)
 https://en.wikipedia.org/wiki/PirateBrowser
 https://en.wikipedia.org/wiki/Pitzer_College
+https://en.wikipedia.org/wiki/Pivot_table
 https://en.wikipedia.org/wiki/Pivotal_quantity
 https://en.wikipedia.org/wiki/Pivotal_Software
 https://en.wikipedia.org/wiki/Pixel_aspect_ratio
@@ -16132,6 +16154,7 @@ https://en.wikipedia.org/wiki/Polish-Lithuanian_identity
 https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth
 https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet_War
 https://en.wikipedia.org/wiki/Political_culture
+https://en.wikipedia.org/wiki/Political_economy
 https://en.wikipedia.org/wiki/Political_fiction
 https://en.wikipedia.org/wiki/Political_philosophy
 https://en.wikipedia.org/wiki/Political_science
@@ -18130,6 +18153,7 @@ https://en.wikipedia.org/wiki/Sorbonne_Paris_North_University
 https://en.wikipedia.org/wiki/Sorbonne_University
 https://en.wikipedia.org/wiki/Sorcery_(goetia)
 https://en.wikipedia.org/wiki/Sort-merge_join
+https://en.wikipedia.org/wiki/Sorting
 https://en.wikipedia.org/wiki/Sorting_algorithm
 https://en.wikipedia.org/wiki/Sortition
 https://en.wikipedia.org/wiki/Sound_power
@@ -19124,6 +19148,7 @@ https://en.wikipedia.org/wiki/Theory_of_computation
 https://en.wikipedia.org/wiki/Theory_of_Computing
 https://en.wikipedia.org/wiki/Theory_of_equations
 https://en.wikipedia.org/wiki/Theory_of_relativity
+https://en.wikipedia.org/wiki/Theory_of_the_firm
 https://en.wikipedia.org/wiki/Theosophical_Society
 https://en.wikipedia.org/wiki/Theosophy
 https://en.wikipedia.org/wiki/Theravada
@@ -19780,6 +19805,7 @@ https://en.wikipedia.org/wiki/UTF-8
 https://en.wikipedia.org/wiki/Utilitarianism
 https://en.wikipedia.org/wiki/Utility
 https://en.wikipedia.org/wiki/Utility_computing
+https://en.wikipedia.org/wiki/Utility_functions_on_indivisible_goods
 https://en.wikipedia.org/wiki/UTM_theorem
 https://en.wikipedia.org/wiki/Uttar_Pradesh
 https://en.wikipedia.org/wiki/UVa_Online_Judge
@@ -24877,6 +24903,7 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
 https://learn.microsoft.com/en-us/sql/sql-server/educational-sql-resources?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver16
+https://learn.microsoft.com/en-us/sql/t-sql/functions/aggregate-functions-transact-sql?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/t-sql/language-elements/transaction-isolation-levels?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/t-sql/language-elements/try-catch-transact-sql?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/t-sql/statements/set-transaction-isolation-level-transact-sql?view=sql-server-ver16
@@ -33580,6 +33607,7 @@ https://www.imf.org/en/Publications
 https://www.imf.org/en/Publications/fandd
 https://www.imf.org/en/Publications/fandd/issues/2019/09/dark-side-of-the-global-economy-lipton
 https://www.imf.org/en/Publications/fandd/issues/2023/12/History-inflation-lessons-Ari-Ratnovski
+https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/Micro-and-Macro
 https://www.imf.org/en/Topics/fintech/central-bank-digital-currency/virtual-handbook
 https://www.imperial.ac.uk/physics/
 https://www.imperial.ac.uk/statistics/
@@ -35277,6 +35305,7 @@ https://www.postgresql.org/
 https://www.postgresql.org/about/news/pgedge-redefines-distributed-postgresql-with-the-launch-of-pgedge-cloud-developer-edition-2796/
 https://www.postgresql.org/docs/current/cube.html
 https://www.postgresql.org/docs/current/ddl-partitioning.html
+https://www.postgresql.org/docs/current/functions-aggregate.html
 https://www.postgresql.org/docs/current/index.html
 https://www.postgresql.org/docs/current/mvcc.html
 https://www.postgresql.org/docs/current/sql-vacuum.html
