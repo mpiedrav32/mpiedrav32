@@ -5093,6 +5093,7 @@ https://en.wikipedia.org/wiki/Aleister_Crowley
 https://en.wikipedia.org/wiki/Aleksander_Rajchman
 https://en.wikipedia.org/wiki/Aleksandr_Khinchin
 https://en.wikipedia.org/wiki/Aleksandr_Lyapunov
+https://en.wikipedia.org/wiki/Alekseev%E2%80%93Gr%C3%B6bner_formula
 https://en.wikipedia.org/wiki/Alessandra_Celletti_(mathematician)
 https://en.wikipedia.org/wiki/Alex_Graves_(computer_scientist)
 https://en.wikipedia.org/wiki/Alex_Krizhevsky
@@ -8305,6 +8306,7 @@ https://en.wikipedia.org/wiki/Cosmological_constant
 https://en.wikipedia.org/wiki/Cosmology_(book)
 https://en.wikipedia.org/wiki/Cosmos_DB
 https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage
+https://en.wikipedia.org/wiki/Cost_of_electricity_by_source
 https://en.wikipedia.org/wiki/Cost_sharing
 https://en.wikipedia.org/wiki/Costate_equation
 https://en.wikipedia.org/wiki/Couchbase_Server
@@ -9320,6 +9322,7 @@ https://en.wikipedia.org/wiki/Ecliptic_coordinate_system
 https://en.wikipedia.org/wiki/Ecma_International
 https://en.wikipedia.org/wiki/ECMAScript
 https://en.wikipedia.org/wiki/Ecole_Polytechnique_de_l%27Universit%C3%A9_d%27Orl%C3%A9ans
+https://en.wikipedia.org/wiki/Ecological_economics
 https://en.wikipedia.org/wiki/Econometric_model
 https://en.wikipedia.org/wiki/Econometrics
 https://en.wikipedia.org/wiki/Economic_efficiency
@@ -9559,6 +9562,7 @@ https://en.wikipedia.org/wiki/Energy_density
 https://en.wikipedia.org/wiki/Energy_distance
 https://en.wikipedia.org/wiki/Energy_drift
 https://en.wikipedia.org/wiki/Energy_economics
+https://en.wikipedia.org/wiki/Energy_Economics_(journal)
 https://en.wikipedia.org/wiki/Energy_functional
 https://en.wikipedia.org/wiki/Energy_level
 https://en.wikipedia.org/wiki/Energy_modeling
@@ -16154,7 +16158,7 @@ https://en.wikipedia.org/wiki/Poisson_regression
 https://en.wikipedia.org/wiki/Poland
 https://en.wikipedia.org/wiki/Polar_decomposition
 https://en.wikipedia.org/wiki/Polarization_(waves)
-https://en.wikipedia.org/wiki/Polarizer#Malus's_law_and_other_properties
+https://en.wikipedia.org/wiki/Polarizer
 https://en.wikipedia.org/wiki/Polesia
 https://en.wikipedia.org/wiki/Police_state
 https://en.wikipedia.org/wiki/Polis
@@ -19019,6 +19023,7 @@ https://en.wikipedia.org/wiki/The_Elements_of_Style
 https://en.wikipedia.org/wiki/The_Emperor%27s_New_Mind
 https://en.wikipedia.org/wiki/The_End_of_Eternity
 https://en.wikipedia.org/wiki/The_End_of_Evangelion
+https://en.wikipedia.org/wiki/The_Energy_Journal
 https://en.wikipedia.org/wiki/The_Fable_of_the_Bees
 https://en.wikipedia.org/wiki/The_Faerie_Queene
 https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics
@@ -19466,7 +19471,6 @@ https://en.wikipedia.org/wiki/Tridiagonal_matrix
 https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm
 https://en.wikipedia.org/wiki/Trigonometric_functions
 https://en.wikipedia.org/wiki/Trigonometric_functions_of_matrices
-https://en.wikipedia.org/wiki/Trigonometric_functions#tangent
 https://en.wikipedia.org/wiki/Trigonometric_integral
 https://en.wikipedia.org/wiki/Trigonometric_polynomial
 https://en.wikipedia.org/wiki/Trigonometric_series
@@ -24216,6 +24220,7 @@ https://inria.hal.science/inria-00609399
 https://inroads.acm.org/
 https://insecure.org/sploits.html
 https://insidebigdata.com/
+https://insidebigdata.com/2023/09/20/26-years-since-its-inception-postgres-is-just-getting-started/
 https://insidehpc.com/
 https://insightfellows.com/data-engineering
 https://insightmaker.com/
@@ -28309,6 +28314,8 @@ https://picoctf.org/
 https://picos-api.gitlab.io/picos/
 https://picsum.photos/
 https://pidgin.im/
+https://pigsty.io/
+https://pigsty.io/blog/pg/pg-eat-db-world/
 https://pijul.org/
 https://pikvm.org/
 https://pillow.readthedocs.io/en/stable/
@@ -28499,6 +28506,7 @@ https://posit.co/resources/videos/vctrs-creating-custom-vector-classes-with-the-
 https://postcss.org/
 https://postgis.net/
 https://postgresweekly.com/
+https://postgresweekly.com/issues/554
 https://postmarketos.org/
 https://posts.voronoiapp.com/technology/Taiwans-Dominance-in-Advanced-Semiconductors-is-Expected-to-Shrink-745
 https://potassco.org/
@@ -30258,6 +30266,7 @@ https://theartofhpc.com/carpentry.html
 https://theartofhpc.com/isp.html
 https://theartofhpc.com/istc.html
 https://theartofhpc.com/pcse.html
+https://theartofpostgresql.com/
 https://thebulletin.org/
 https://thebulletin.org/doomsday-clock/
 https://thebulletin.org/magazine/2023-07/
@@ -31069,6 +31078,7 @@ https://www.allwinnertech.com/
 https://www.alpinelinux.org/
 https://www.alsa-project.org/wiki/Main_Page
 https://www.altmetric.com/
+https://www.amazingcto.com/postgres-for-everything/
 https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721
 https://www.amazon.com/Chip-War/dp/1398504106
 https://www.amazon.com/Classical-Electrodynamics-Third-David-Jackson/dp/047130932X
@@ -33558,6 +33568,8 @@ https://www.iacr.org/schools/
 https://www.iadb.org/en
 https://www.iadb.org/en/story/most-unexpected-effect-climate-change
 https://www.iaea.org/
+https://www.iaee.org/
+https://www.iaee.org/en/publications/scope.aspx
 https://www.iana.org/assignments/cose/cose.xhtml
 https://www.iana.org/assignments/jose/jose.xhtml
 https://www.iana.org/assignments/version-numbers/version-numbers.xhtml
@@ -33590,6 +33602,7 @@ https://www.ids-mannheim.de/
 https://www.ids-mannheim.de/en/digspra/corpus-linguistics/projects/corpus-development/
 https://www.idsr.uni-stuttgart.de/en/research/
 https://www.iea.org/
+https://www.iea.org/countries/costa-rica/energy-mix
 https://www.iea.org/data-and-statistics
 https://www.iea.org/energy-system/buildings/data-centres-and-data-transmission-networks
 https://www.iec.ch/homepage
@@ -36047,6 +36060,7 @@ https://www.sciencedirect.com/handbook/handbook-of-statistics
 https://www.sciencedirect.com/handbook/handbooks-in-operations-research-and-management-science
 https://www.sciencedirect.com/handbook/handbooks-in-operations-research-and-management-science/vol/13/suppl/C
 https://www.sciencedirect.com/journal/applied-soft-computing
+https://www.sciencedirect.com/journal/energy-economics
 https://www.sciencedirect.com/journal/historia-mathematica
 https://www.sciencedirect.com/journal/information-and-control
 https://www.sciencedirect.com/journal/journal-of-complexity
