@@ -2910,6 +2910,7 @@ https://dconf.org/2023/index.html
 https://dd-wrt.com/
 https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets
 https://de-crypt.org/
+https://de.wikipedia.org/wiki/%C3%96ffentlich-rechtlicher_Rundfunk
 https://de.wikipedia.org/wiki/%C3%96ffentlichkeit
 https://de.wikipedia.org/wiki/%C3%9Cber_die_spezielle_und_die_allgemeine_Relativit%C3%A4tstheorie
 https://de.wikipedia.org/wiki/Aachen
@@ -3013,6 +3014,7 @@ https://de.wikipedia.org/wiki/Klaus_Schmeh
 https://de.wikipedia.org/wiki/Knowledge_Discovery_in_Databases
 https://de.wikipedia.org/wiki/Konrad_Adenauer
 https://de.wikipedia.org/wiki/L%C3%BCbisches_Recht
+https://de.wikipedia.org/wiki/Landesrundfunkanstalt
 https://de.wikipedia.org/wiki/Leibniz-Gemeinschaft
 https://de.wikipedia.org/wiki/Leibniz-Institut_f%C3%BCr_Europ%C3%A4ische_Geschichte
 https://de.wikipedia.org/wiki/Lernmatrix
@@ -5751,6 +5753,7 @@ https://en.wikipedia.org/wiki/Autocorrelation
 https://en.wikipedia.org/wiki/Autoencoder
 https://en.wikipedia.org/wiki/AutoLISP
 https://en.wikipedia.org/wiki/Automata_theory
+https://en.wikipedia.org/wiki/Automata-based_programming
 https://en.wikipedia.org/wiki/Automated_machine_learning
 https://en.wikipedia.org/wiki/Automated_planning_and_scheduling
 https://en.wikipedia.org/wiki/Automated_reasoning
@@ -6307,6 +6310,7 @@ https://en.wikipedia.org/wiki/Branch_and_bound
 https://en.wikipedia.org/wiki/Branch_and_cut
 https://en.wikipedia.org/wiki/Branch_and_price
 https://en.wikipedia.org/wiki/Branch_predictor
+https://en.wikipedia.org/wiki/Branch_table
 https://en.wikipedia.org/wiki/Branch_target_predictor
 https://en.wikipedia.org/wiki/Branching_(version_control)
 https://en.wikipedia.org/wiki/Brand_Indicators_for_Message_Identification
@@ -8240,6 +8244,7 @@ https://en.wikipedia.org/wiki/Control_loop
 https://en.wikipedia.org/wiki/Control_of_chaos
 https://en.wikipedia.org/wiki/Control_plane
 https://en.wikipedia.org/wiki/Control_system
+https://en.wikipedia.org/wiki/Control_table
 https://en.wikipedia.org/wiki/Control_theory
 https://en.wikipedia.org/wiki/Control-flow_graph
 https://en.wikipedia.org/wiki/Control-flow_integrity
@@ -10024,6 +10029,7 @@ https://en.wikipedia.org/wiki/Field_of_fractions
 https://en.wikipedia.org/wiki/Fields_Institute
 https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)
 https://en.wikipedia.org/wiki/Fifth_Generation_Computer_Systems
+https://en.wikipedia.org/wiki/Figshare
 https://en.wikipedia.org/wiki/Figure_of_the_Earth
 https://en.wikipedia.org/wiki/Fiji_(software)
 https://en.wikipedia.org/wiki/File_Commander
@@ -14827,6 +14833,7 @@ https://en.wikipedia.org/wiki/Nearest_neighbor_graph
 https://en.wikipedia.org/wiki/Nearest_neighbor_search
 https://en.wikipedia.org/wiki/Nearest-neighbor_interpolation
 https://en.wikipedia.org/wiki/Nearly_free_electron_model
+https://en.wikipedia.org/wiki/Nebular_hypothesis
 https://en.wikipedia.org/wiki/NEC
 https://en.wikipedia.org/wiki/Needham%E2%80%93Schroeder_protocol
 https://en.wikipedia.org/wiki/Negative_database
@@ -19973,6 +19980,7 @@ https://en.wikipedia.org/wiki/Virtual_inheritance
 https://en.wikipedia.org/wiki/Virtual_machine
 https://en.wikipedia.org/wiki/Virtual_memory
 https://en.wikipedia.org/wiki/Virtual_memory_compression
+https://en.wikipedia.org/wiki/Virtual_method_table
 https://en.wikipedia.org/wiki/Virtual_Network_Computing
 https://en.wikipedia.org/wiki/Virtual_private_network
 https://en.wikipedia.org/wiki/Virtual_queue
@@ -28293,6 +28301,7 @@ https://phys.org/physics-news/quantum-physics/
 https://physics.aps.org/
 https://physics.aps.org/articles/v16/148
 https://physics.aps.org/articles/v17/52
+https://physics.aps.org/story/v9/st27
 https://physics.berkeley.edu/
 https://physics.cornell.edu/
 https://physics.cornell.edu/paul-ginsparg
@@ -31019,6 +31028,7 @@ https://www.afp.com/
 https://www.ageofempires.com/games/aoe/
 https://www.agner.org/optimize/
 https://www.agner.org/optimize/microarchitecture.pdf
+https://www.agner.org/optimize/optimizing_assembly.pdf
 https://www.agner.org/random/
 https://www.agu.org/
 https://www.ai4science.caltech.edu/
@@ -37165,6 +37175,7 @@ https://www.visualcapitalist.com/sp/artificial-intelligence-of-things/
 https://www.visualcapitalist.com/top-10-semiconductor-companies-by-market-share/
 https://www.visualcapitalist.com/worlds-biggest-cloud-computing-service-providers/
 https://www.visualcinnamon.com/2013/07/on-creation-of-extended-self-organizing/
+https://www.vldb.org/pvldb/vol17/p148-zeng.pdf
 https://www.vmware.com/
 https://www.voanews.com/
 https://www.vogons.org/
