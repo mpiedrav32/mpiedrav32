@@ -4811,6 +4811,7 @@ https://en.wikipedia.org/wiki/96th_Street_(Manhattan)
 https://en.wikipedia.org/wiki/97.5th_percentile_point
 https://en.wikipedia.org/wiki/9P_(protocol)
 https://en.wikipedia.org/wiki/A_Canticle_for_Leibowitz
+https://en.wikipedia.org/wiki/A_Clockwork_Orange_(novel)
 https://en.wikipedia.org/wiki/A_Contract_with_God
 https://en.wikipedia.org/wiki/A_Course_of_Modern_Analysis
 https://en.wikipedia.org/wiki/A_Course_of_Pure_Mathematics
@@ -5718,6 +5719,7 @@ https://en.wikipedia.org/wiki/Atomic_theory
 https://en.wikipedia.org/wiki/Atomic,_molecular,_and_optical_physics
 https://en.wikipedia.org/wiki/Atomicity_(database_systems)
 https://en.wikipedia.org/wiki/Atomism
+https://en.wikipedia.org/wiki/Atonement_(novel)
 https://en.wikipedia.org/wiki/Attack_model
 https://en.wikipedia.org/wiki/Attack_on_Titan
 https://en.wikipedia.org/wiki/Attack_on_Titan_(TV_series)
@@ -6250,6 +6252,7 @@ https://en.wikipedia.org/wiki/Book_of_the_Dead
 https://en.wikipedia.org/wiki/Book_on_Numbers_and_Computation
 https://en.wikipedia.org/wiki/Book_review
 https://en.wikipedia.org/wiki/BookBrowse
+https://en.wikipedia.org/wiki/Bookforum
 https://en.wikipedia.org/wiki/Booklist
 https://en.wikipedia.org/wiki/Books_on_cryptography
 https://en.wikipedia.org/wiki/Boole%27s_inequality
@@ -6435,6 +6438,7 @@ https://en.wikipedia.org/wiki/Bydgoszcz
 https://en.wikipedia.org/wiki/Byte_Sieve
 https://en.wikipedia.org/wiki/Bytecode
 https://en.wikipedia.org/wiki/ByteDance
+https://en.wikipedia.org/wiki/Byzantine_Empire
 https://en.wikipedia.org/wiki/Byzantine_fault
 https://en.wikipedia.org/wiki/Bzip2
 https://en.wikipedia.org/wiki/C_(programming_language)
@@ -8190,6 +8194,7 @@ https://en.wikipedia.org/wiki/Constant-recursive_sequence
 https://en.wikipedia.org/wiki/Constantin_Carath%C3%A9odory
 https://en.wikipedia.org/wiki/Constantine_(comic_book)
 https://en.wikipedia.org/wiki/Constantine_(film)
+https://en.wikipedia.org/wiki/Constantinople
 https://en.wikipedia.org/wiki/Constitution_of_India
 https://en.wikipedia.org/wiki/Constitutional_right
 https://en.wikipedia.org/wiki/Constitutionalism
@@ -9226,6 +9231,7 @@ https://en.wikipedia.org/wiki/Dual_power
 https://en.wikipedia.org/wiki/Dual_space
 https://en.wikipedia.org/wiki/Duality_(optimization)
 https://en.wikipedia.org/wiki/Dublin_Institute_of_Technology
+https://en.wikipedia.org/wiki/Dublin_Review_of_Books
 https://en.wikipedia.org/wiki/Dublin%E2%80%93Belfast_corridor
 https://en.wikipedia.org/wiki/Duchy_of_Warsaw
 https://en.wikipedia.org/wiki/Duff%27s_device
@@ -12757,6 +12763,7 @@ https://en.wikipedia.org/wiki/Lactic_acid
 https://en.wikipedia.org/wiki/Lactose
 https://en.wikipedia.org/wiki/Lacuna_Coil
 https://en.wikipedia.org/wiki/Ladislaus_Bortkiewicz
+https://en.wikipedia.org/wiki/Lady_Chatterley%27s_Lover
 https://en.wikipedia.org/wiki/Ladyhawke_(musician)
 https://en.wikipedia.org/wiki/Ladytron
 https://en.wikipedia.org/wiki/Ladytron_(album)
@@ -16029,6 +16036,7 @@ https://en.wikipedia.org/wiki/Phosgene
 https://en.wikipedia.org/wiki/Phosgene_oxime
 https://en.wikipedia.org/wiki/Phosphorus_cycle
 https://en.wikipedia.org/wiki/Phosphorylation
+https://en.wikipedia.org/wiki/Photios_I_of_Constantinople
 https://en.wikipedia.org/wiki/Photoelectric_effect
 https://en.wikipedia.org/wiki/Photolithography
 https://en.wikipedia.org/wiki/Photon
@@ -16948,6 +16956,7 @@ https://en.wikipedia.org/wiki/Realtek
 https://en.wikipedia.org/wiki/Rearrangement_inequality
 https://en.wikipedia.org/wiki/Reason
 https://en.wikipedia.org/wiki/Reasoning_system
+https://en.wikipedia.org/wiki/Rebecca_(novel)
 https://en.wikipedia.org/wiki/Rebol
 https://en.wikipedia.org/wiki/Rebound_attack
 https://en.wikipedia.org/wiki/Rebuild_of_Evangelion
@@ -18993,7 +19002,9 @@ https://en.wikipedia.org/wiki/The_Art_of_Intrusion
 https://en.wikipedia.org/wiki/The_Atlantic
 https://en.wikipedia.org/wiki/The_AWK_Programming_Language
 https://en.wikipedia.org/wiki/The_Beast_(Revelation)
+https://en.wikipedia.org/wiki/The_Bell_Jar
 https://en.wikipedia.org/wiki/The_Bertrand_Russell_Case
+https://en.wikipedia.org/wiki/The_Book_Club_Bible
 https://en.wikipedia.org/wiki/The_Book_of_Abramelin
 https://en.wikipedia.org/wiki/The_Book_of_Five_Rings
 https://en.wikipedia.org/wiki/The_Book_of_the_Law
@@ -19093,6 +19104,8 @@ https://en.wikipedia.org/wiki/The_Name_of_the_Rose
 https://en.wikipedia.org/wiki/The_Nation
 https://en.wikipedia.org/wiki/The_Network_is_the_Computer
 https://en.wikipedia.org/wiki/The_New_York_Review_of_Books
+https://en.wikipedia.org/wiki/The_New_York_Times_Book_Review
+https://en.wikipedia.org/wiki/The_New_Yorker
 https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art
 https://en.wikipedia.org/wiki/The_Ninth_Gate
 https://en.wikipedia.org/wiki/The_Norton_Anthology_of_English_Literature
@@ -19138,7 +19151,9 @@ https://en.wikipedia.org/wiki/The_Technological_Society
 https://en.wikipedia.org/wiki/The_Theoretical_Minimum
 https://en.wikipedia.org/wiki/The_Third_Culture
 https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
+https://en.wikipedia.org/wiki/The_Time_Traveler%27s_Wife
 https://en.wikipedia.org/wiki/The_Times_Group
+https://en.wikipedia.org/wiki/The_Times_Literary_Supplement
 https://en.wikipedia.org/wiki/The_Times_of_India
 https://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)
 https://en.wikipedia.org/wiki/The_Trojan_War_Will_Not_Take_Place
@@ -31427,7 +31442,9 @@ https://www.bodleian.ox.ac.uk/csb
 https://www.bookbrowse.com/
 https://www.bookbub.com/
 https://www.bookbub.com/blog/best-book-series-publishers-blurbs
+https://www.bookcritics.org/
 https://www.bookcrossing.com/
+https://www.bookforum.com/
 https://www.booklistonline.com/
 https://www.boost.org/
 https://www.boost.org/doc/libs/1_79_0/doc/html/boost_asio.html,Boost.Asio
@@ -34861,6 +34878,7 @@ https://www.newline.co/security-from-zero
 https://www.newscientist.com/
 https://www.newstatesman.com/
 https://www.newsweek.com/
+https://www.newyorker.com/
 https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai
 https://www.newyorker.com/cartoon/a16995
 https://www.newyorker.com/culture/annals-of-inquiry/the-personal-political-art-of-board-game-design
@@ -35034,6 +35052,7 @@ https://www.nytimes.com/2023/10/10/climate/ai-could-soon-need-as-much-electricit
 https://www.nytimes.com/2024/04/05/your-money/paying-for-college/100k-college-cost-vanderbilt.html
 https://www.nytimes.com/international/section/books/review
 https://www.nytimes.com/roomfordebate/2015/02/09/are-economists-overrated/overreliance-on-the-pseudo-science-of-economics
+https://www.nytimes.com/section/books/review
 https://www.nytimes.com/wirecutter/
 https://www.oaspa.org/
 https://www.obdev.at/products/littlesnitch/index.html
@@ -36828,6 +36847,8 @@ https://www.textualize.io/
 https://www.thalesgroup.com/en
 https://www.thalesgroup.com/en/market-specific-solutions/tss/cryptography/public-key-cryptographic-library
 https://www.the-scientist.com/
+https://www.the-tls.co.uk/
+https://www.the-tls.co.uk/articles/john-milton-annotated-holinshed-chronicles-commentary/
 https://www.theacsi.org/
 https://www.theatlantic.com/books/archive/2024/03/jacob-heilbrunn-america-last-trump-putin/677609/
 https://www.theatlantic.com/education/archive/2018/09/why-is-college-so-expensive-in-america/569884/
@@ -36880,6 +36901,7 @@ https://www.themarginalian.org/2024/01/04/brian-wildsmith-birds-company-terms/
 https://www.themarginalian.org/tag/books/
 https://www.themathconsortium.in/
 https://www.themoviedb.org/
+https://www.thenation.com/
 https://www.theneweuropean.co.uk/
 https://www.theoj.org/
 https://www.theparisreview.org/
