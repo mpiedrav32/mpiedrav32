@@ -457,6 +457,7 @@ https://ai4sciencecommunity.github.io/
 https://aibestpape.rs/
 https://aibestpape.rs/?sub=RO,AI,ML,CV,NLP,CG
 https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.690370209
+https://aid-magazin.de/
 https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI
 https://aiei.ch/atari/
 https://aiindex.stanford.edu/
@@ -2916,6 +2917,7 @@ https://de.wikipedia.org/wiki/%C3%96ffentlichkeit
 https://de.wikipedia.org/wiki/%C3%9Cber_die_spezielle_und_die_allgemeine_Relativit%C3%A4tstheorie
 https://de.wikipedia.org/wiki/Aachen
 https://de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie
+https://de.wikipedia.org/wiki/An-Institut
 https://de.wikipedia.org/wiki/Antike
 https://de.wikipedia.org/wiki/Antikes_Griechenland
 https://de.wikipedia.org/wiki/ARD
@@ -2973,6 +2975,7 @@ https://de.wikipedia.org/wiki/Elonka_Dunin
 https://de.wikipedia.org/wiki/Erich_Kamke
 https://de.wikipedia.org/wiki/European_Center_for_Security_and_Privacy_by_Design
 https://de.wikipedia.org/wiki/Fachgesellschaft
+https://de.wikipedia.org/wiki/Fachkr%C3%A4ftemangel
 https://de.wikipedia.org/wiki/Fefes_Blog
 https://de.wikipedia.org/wiki/Forschungszentrum_J%C3%BClich
 https://de.wikipedia.org/wiki/Frankfurt_am_Main
@@ -3000,6 +3003,7 @@ https://de.wikipedia.org/wiki/Heinrich_B%C3%B6ll
 https://de.wikipedia.org/wiki/Heinrich-B%C3%B6ll-Stiftung
 https://de.wikipedia.org/wiki/Hellenismus
 https://de.wikipedia.org/wiki/Hessen
+https://de.wikipedia.org/wiki/Ifo_Institut_f%C3%BCr_Wirtschaftsforschung
 https://de.wikipedia.org/wiki/Information_Retrieval
 https://de.wikipedia.org/wiki/Informationssicherheit
 https://de.wikipedia.org/wiki/Internationale_Beziehungen
@@ -3090,6 +3094,7 @@ https://de.wikipedia.org/wiki/Universit%C3%A4t_Siegen
 https://de.wikipedia.org/wiki/Universit%C3%A4t_zu_K%C3%B6ln
 https://de.wikipedia.org/wiki/Universit%C3%A4tsstadt
 https://de.wikipedia.org/wiki/Uranprojekt
+https://de.wikipedia.org/wiki/Verein_Deutscher_Ingenieure
 https://de.wikipedia.org/wiki/Vereinte_Dienstleistungsgewerkschaft
 https://de.wikipedia.org/wiki/Verfassungsschutz
 https://de.wikipedia.org/wiki/Vergleichende_Politikwissenschaft
@@ -21036,6 +21041,7 @@ https://fmt.dev/latest/index.html
 https://foc.ethz.ch/
 https://focm-society.org/
 https://focm-society.org/links.php
+https://focus.de/politik/der-china-versteher/analyse-vom-china-versteher-frieden-in-der-ukraine-jetzt-wird-klar-welches-spiel-xi-wirklich-spielt_id_259952939.html
 https://fontforge.org/en-US/
 https://fonts.adobe.com/
 https://fonts.google.com/
@@ -31413,6 +31419,8 @@ https://www.bls.gov/data/inflation_calculator.htm
 https://www.bma.org.uk/
 https://www.bmbf.de/bmbf/de/home/home_node.html
 https://www.bmj.com/
+https://www.bmwk.de/Navigation/DE/Home/home.html
+https://www.bmwk.de/Redaktion/DE/Dossier/fachkraeftesicherung.html
 https://www.bnf.fr/fr
 https://www.boazbarak.org/
 https://www.bodleian.ox.ac.uk/csb
@@ -31438,6 +31446,8 @@ https://www.boxentriq.com/
 https://www.bpb.de/
 https://www.bpb.de/en
 https://www.bpb.de/shop/buecher/schriftenreihe/136221/deutsche-geschichte/
+https://www.bpb.de/themen/migration-integration/kurzdossiers/57450/braucht-deutschland-die-zuwanderung-von-arbeitskraeften-aus-dem-ausland/
+https://www.bpb.de/themen/migration-integration/kurzdossiers/57457/wie-akut-ist-der-mangel-an-arbeitskraeften-auf-dem-deutschen-arbeitsmarkt/
 https://www.bps.org.uk/psychologist/slowness-essence-knowledge
 https://www.br.de/
 https://www.brechtdepoortere.com/rankings
@@ -31832,6 +31842,7 @@ https://www.chosenplaintext.ca/blog/
 https://www.christophermiller.net/semiconductors-1
 https://www.chromium.org/Home/
 https://www.chronicle.com/
+https://www.cicero.de/
 https://www.cidr-report.org/as2.0/
 https://www.cidrdb.org/
 https://www.cimpa.info/
@@ -32388,6 +32399,7 @@ https://www.deutsches-klima-konsortium.de/de/bildung/klima-im-beruf/stellenangeb
 https://www.deutsches-klima-konsortium.de/startseite.html
 https://www.deutschland.de/de
 https://www.deutschlandfunk.de/
+https://www.deutschlandfunk.de/arbeitsmarkt-fachkraeftemangel-zuwanderung-arbeitslosigkeit-deutschland-100.html
 https://www.deutschlandfunkkultur.de/
 https://www.deutschlandfunknova.de/
 https://www.deutschlandradio.de/
@@ -32424,6 +32436,7 @@ https://www.digitalresearch.biz/CPM.HTM
 https://www.digitaltrends.com/
 https://www.dimensions.ai/
 https://www.diplomacy.edu/
+https://www.diplomatisches-magazin.de/
 https://www.discogs.com/
 https://www.discogs.com/artist/1809522-Void-Vision
 https://www.discogs.com/artist/3628139-Minuit-Machine
@@ -32530,7 +32543,9 @@ https://www.ecmwf.int/en/about/what-we-do/severe-weather-prediction
 https://www.ecmwf.int/en/forecasts/dataset/machine-learning-model-data
 https://www.ecmwf.int/en/forecasts/documentation-and-support/changes-ecmwf-model
 https://www.ecmwf.int/en/forecasts/documentation-and-support/medium-range-forecasts
+https://www.econ.lmu.de/de/
 https://www.economist.com/culture/2022/10/13/chip-war-traces-the-evolution-of-the-semiconductor-industry
+https://www.econpol.eu/
 https://www.ecrypt.eu.org/
 https://www.ecrypt.eu.org/stream/e2-trivium.html
 https://www.ecrypt.eu.org/stream/triviumpf.html
@@ -32902,6 +32917,7 @@ https://www.geany.org/
 https://www.genealogy.math.ndsu.nodak.edu/
 https://www.genealogy.math.ndsu.nodak.edu/id.php?id=4319
 https://www.gentoo.org/
+https://www.geo.de/
 https://www.geocaching.com/play
 https://www.geogebra.org/
 https://www.geometrictools.com/
@@ -33638,8 +33654,11 @@ https://www.ieee.org/
 https://www.ieee.org/conferences/publishing/templates.html
 https://www.ietf.org/
 https://www.ifo.de/
+https://www.ifo.de/fakten/2023-08-16/mangel-fachkraeften-hat-leicht-zugenommen
+https://www.ifo.de/news/2024-03-20/mangel-fachkraeften-leicht-abgenommen
 https://www.ifri.org/
 https://www.ifri.org/?a=b&lang=uk
+https://www.ifri.org/de/publications/etudes-de-lifri/mangel-arbeitskraeften-deutschland-zwischen-demografischer-realitaet
 https://www.ifw-kiel.de/
 https://www.ifw-kiel.de/publications/german-exports-challenged-china-replaces-made-in-germany-31897/
 https://www.ign.com/
@@ -34064,6 +34083,7 @@ https://www.learn-c.org/
 https://www.learnbyexample.org/
 https://www.learningtheory.org/
 https://www.learnlatex.org/en/
+https://www.leibniz-gemeinschaft.de/
 https://www.lemoda.net/c/cgi-libraries/
 https://www.lemon64.com/
 https://www.lemonde.fr/
@@ -36565,6 +36585,7 @@ https://www.statsmodels.org/stable/index.html
 https://www.statsmodels.org/stable/user-guide.html
 https://www.statssa.gov.za/
 https://www.stephendiehl.com/posts/exotic02.html
+https://www.stern.de/
 https://www.stevens.edu/profile/dduggan
 https://www.stewartcalculus.com/
 https://www.stochasticlifestyle.com/
@@ -37679,6 +37700,7 @@ https://www.zabbix.com/
 https://www.zaproxy.org/
 https://www.zdf.de/
 https://www.zdf.de/dokumentation/terra-x/die-deutschen-140.html
+https://www.zdf.de/nachrichten
 https://www.zdnet.com/article/best-vpn/
 https://www.zdnet.com/article/chinese-government-to-replace-foreign-hardware-and-software-within-three-years/
 https://www.zdnet.com/article/dragonbridge-hackers-target-rare-earth-miners-encourages-protests-to-disrupt-production/
@@ -37692,6 +37714,7 @@ https://www.zdnet.com/topic/china/
 https://www.zdnet.com/topic/linux/
 https://www.zdnet.com/topic/security/
 https://www.zebrapuzzles.com/
+https://www.zeit.de/arbeit/2022-07/fachkraeftemangel-hilfskraefte-arbeitskraefte-personalmangel
 https://www.zeit.de/index
 https://www.zephyrproject.org/
 https://www.zerodayinitiative.com/
