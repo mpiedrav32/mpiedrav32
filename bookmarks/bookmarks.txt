@@ -766,6 +766,7 @@ https://arstechnica.com/gadgets/2023/06/lenovo-thinkpad-x1-carbon-gen-11-review-
 https://arstechnica.com/gadgets/2023/11/bbc-basic-keeps-evolving-and-now-you-can-run-it-on-nearly-any-platform/
 https://arstechnica.com/gadgets/2024/01/what-i-learned-from-using-a-raspberry-pi-5-as-my-main-computer-for-two-weeks/
 https://arstechnica.com/gadgets/2024/01/why-i-hope-the-atari-400-mini-will-bring-respect-to-ataris-most-underrated-platform/
+https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/
 https://arstechnica.com/gaming/2015/06/how-an-early-90s-windows-gaming-classic-was-unearthed-after-years-in-limbo/
 https://arstechnica.com/gaming/2023/11/infocoms-ingenious-code-porting-tools-for-zork-and-other-games-have-been-found/
 https://arstechnica.com/information-technology/2016/12/op-ed-im-giving-up-on-pgp/
@@ -4417,6 +4418,7 @@ https://drb.ie/
 https://drenigma.org/
 https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html
 https://drill.apache.org/
+https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2022.34
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2016.109
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SNAPL.2019.4
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2020.3
@@ -8322,6 +8324,7 @@ https://en.wikipedia.org/wiki/Count_data
 https://en.wikipedia.org/wiki/Count_sketch
 https://en.wikipedia.org/wiki/Count_Zero
 https://en.wikipedia.org/wiki/Count-distinct_problem
+https://en.wikipedia.org/wiki/Count%E2%80%93min_sketch
 https://en.wikipedia.org/wiki/Counter_machine
 https://en.wikipedia.org/wiki/Counter-machine_model
 https://en.wikipedia.org/wiki/Counterculture
@@ -28167,6 +28170,7 @@ https://pastglobalchanges.org/science/wg/2k-network/intro
 https://patchwork.kernel.org/
 https://pathelland.substack.com/
 https://patternlanguage.cc/
+https://paulbourke.net/fractals/lyapunov/
 https://paulgraham.com/acl.html
 https://paulgraham.com/onlisp.html
 https://paulkocher.com/
@@ -30968,6 +30972,7 @@ https://wwnorton.com/catalog/textbooks
 https://www-apr.lip6.fr/~tasson/
 https://www-cs-faculty.stanford.edu/~knuth/
 https://www-cs-faculty.stanford.edu/~knuth/chatGPT20.txt
+https://www-cs-faculty.stanford.edu/~knuth/papers/cvm-note.pdf
 https://www-cs-faculty.stanford.edu/~knuth/taocp.html
 https://www-formal.stanford.edu/jmc/reviews/lighthill/lighthill.html
 https://www-formal.stanford.edu/leora/commonsense/
@@ -35479,6 +35484,7 @@ https://www.quantamagazine.org/a-mathematicians-adventure-through-the-physical-w
 https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/
 https://www.quantamagazine.org/chaos-theory-in-ecology-predicts-future-populations-20151013/
 https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/
+https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/
 https://www.quantamagazine.org/computer-scientists-prove-certain-problems-are-truly-hard-20220511/
 https://www.quantamagazine.org/cryptographers-achieve-perfect-secrecy-with-imperfect-devices-20220225/
 https://www.quantamagazine.org/cryptographys-future-will-be-quantum-safe-heres-how-it-will-work-20221109/
@@ -37506,6 +37512,7 @@ https://www.youtube.com/@PracticalEngineeringChannel
 https://www.youtube.com/@RoyksoppMusic
 https://www.youtube.com/@stacksmashing
 https://www.youtube.com/@TheB1M
+https://www.youtube.com/@theserialport
 https://www.youtube.com/@TomorrowsBuild
 https://www.youtube.com/@USENIXEnigmaConference
 https://www.youtube.com/@UsenixOrg
@@ -37586,8 +37593,10 @@ https://www.youtube.com/watch?v=C_0XEIFGK5o
 https://www.youtube.com/watch?v=CH4tX_MVLh0
 https://www.youtube.com/watch?v=CS01Hmjv1pQ
 https://www.youtube.com/watch?v=CSyJBh8BB44
+https://www.youtube.com/watch?v=CUwR9xdEuZI
 https://www.youtube.com/watch?v=cW-epEUCIcE
 https://www.youtube.com/watch?v=CwdUwevayRU
+https://www.youtube.com/watch?v=d149l7SLLXA
 https://www.youtube.com/watch?v=eRuca6eAdFM
 https://www.youtube.com/watch?v=EVy4KEj9kZg
 https://www.youtube.com/watch?v=FwDo7MdaxhA
