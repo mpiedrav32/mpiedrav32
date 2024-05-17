@@ -382,3 +382,23 @@ In my heart of hearts, I generalize my pessimism and personally advocate volunta
 I tried myself in August-September 2005, but I guess I'll have to wait for an opportunity to become extinct myself.
 In fact, my very existence might be a threat to other humans, due to my deeply ingrained pessimism
 and bleak perspective about life and existence.
+
+# Design of experiments
+
+I felt particularly worthless while waiting for our turn for presenting a project proposal in design of experiments.
+Suddenly, I perceived the perversion and wickedness of what higher education in computer science actually means.
+
+By themselves, theoretical aspects and practical applications of statistics seem like a reasonable foundation for every
+future engineer. However, in the real world, an experiment proposal is a high-yield weapon against their creators.
+Every methodological error, every missing consideration, every mishap, every typo or wrong equation term is a trigger.
+
+Professors often advise that external criticism about one own's academic work is not to be taken personally.
+But I could perceive raw evil seeping through every observation: an abstract eugenics program to root out
+potential graduates unsuitable for real-world capitalism.
+
+The suicide crisis in academia is completely understandable to me. Triggering events during a term make me ponder about
+how to effectively kill myself: what kind of knife to use to stab my heart, how to handle the blade to slit my throat
+wide open, how to avoid being rescued before my brain runs out of oxygen.
+
+But it's only a collateral damage in the academic-industry complex. Suicides are mourned and promptly forgotten, as the
+pipeline of suitable graduates must keep running. Humans are merely a disposable tool for industrial production.
