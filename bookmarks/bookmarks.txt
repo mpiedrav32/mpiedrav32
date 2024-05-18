@@ -8867,6 +8867,7 @@ https://en.wikipedia.org/wiki/Delphic_maxims
 https://en.wikipedia.org/wiki/Delta_encoding
 https://en.wikipedia.org/wiki/Delta_operator
 https://en.wikipedia.org/wiki/Delta-v
+https://en.wikipedia.org/wiki/Demand_response
 https://en.wikipedia.org/wiki/Demarcation_problem
 https://en.wikipedia.org/wiki/Demis_Hassabis
 https://en.wikipedia.org/wiki/Democracy_and_Education
@@ -9455,6 +9456,7 @@ https://en.wikipedia.org/wiki/Electric_Fence
 https://en.wikipedia.org/wiki/Electric_machine
 https://en.wikipedia.org/wiki/Electric_Pencil
 https://en.wikipedia.org/wiki/Electric_power_distribution
+https://en.wikipedia.org/wiki/Electric_power_system
 https://en.wikipedia.org/wiki/Electric_power_transmission
 https://en.wikipedia.org/wiki/Electrical_element
 https://en.wikipedia.org/wiki/Electrical_engineering
@@ -11893,6 +11895,7 @@ https://en.wikipedia.org/wiki/Inter-American_Development_Bank
 https://en.wikipedia.org/wiki/Interaction_(statistics)
 https://en.wikipedia.org/wiki/Interactive_fiction
 https://en.wikipedia.org/wiki/Interactive_proof_system
+https://en.wikipedia.org/wiki/Interconnector
 https://en.wikipedia.org/wiki/Interface_(object-oriented_programming)
 https://en.wikipedia.org/wiki/Interface_Message_Processor
 https://en.wikipedia.org/wiki/Interferometry
@@ -16346,6 +16349,7 @@ https://en.wikipedia.org/wiki/Power_of_a_test
 https://en.wikipedia.org/wiki/Power_politics
 https://en.wikipedia.org/wiki/Power_series
 https://en.wikipedia.org/wiki/Power_series_solution_of_differential_equations
+https://en.wikipedia.org/wiki/Power_station
 https://en.wikipedia.org/wiki/Power_system_simulation
 https://en.wikipedia.org/wiki/Power_transform
 https://en.wikipedia.org/wiki/Power_usage_effectiveness
@@ -20997,6 +21001,8 @@ https://fetch.spec.whatwg.org/
 https://feynarts.de/cuba/
 https://ffmpeg.org/
 https://fg-krypto.gi.de/
+https://fias.institute/
+https://fias.institute/de/projekte/condynet/
 https://fido2-net-lib.passwordless.dev/
 https://fidoalliance.org/
 https://fidoalliance.org/specifications/
@@ -21408,6 +21414,7 @@ https://github.com/benedekrozemberczki/awesome-fraud-detection-papers
 https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers
 https://github.com/benedekrozemberczki/awesome-graph-classification
 https://github.com/berthubert
+https://github.com/best-of-lists/best-of
 https://github.com/bettercap/bettercap
 https://github.com/beyondgrep/ack3
 https://github.com/bilelmoussaoui/ashpd
@@ -21592,6 +21599,7 @@ https://github.com/davidagraf/doi2bib2
 https://github.com/davidchisnall
 https://github.com/davisking/dlib
 https://github.com/daya6489/SmartEDA/
+https://github.com/ddsjoberg/gtsummary
 https://github.com/decalage2/awesome-security-hardening
 https://github.com/deepchem/deepchem
 https://github.com/deeplearning4j/deeplearning4j
@@ -22016,6 +22024,7 @@ https://github.com/jestjs/jest
 https://github.com/JetBrains/intellij-community
 https://github.com/jgrahamc
 https://github.com/jimblandy
+https://github.com/jinningwang/best-of-ps
 https://github.com/jitsi/jitsi
 https://github.com/jlaurens/synctex
 https://github.com/jMetal/jMetal
@@ -22300,6 +22309,10 @@ https://github.com/mitsuhiko/rye
 https://github.com/mjebrahimi/Awesome-Microservices-DotNet
 https://github.com/mjskay/tidybayes
 https://github.com/ML-KULeuven/deepproblog
+https://github.com/ml-tooling/best-of-jupyter
+https://github.com/ml-tooling/best-of-ml-python
+https://github.com/ml-tooling/best-of-python
+https://github.com/ml-tooling/best-of-python-dev
 https://github.com/mljs/ml
 https://github.com/mlpack/ensmallen
 https://github.com/mlpack/mlpack
@@ -22611,6 +22624,7 @@ https://github.com/pyodide/pyodide
 https://github.com/Pyomo/pyomo
 https://github.com/Pyomo/PyomoGallery
 https://github.com/Pyomo/PyomoGallery/wiki
+https://github.com/PyPSA/PyPSA
 https://github.com/pypy/pypy
 https://github.com/pyqtgraph/pyqtgraph
 https://github.com/pyscaffold/pyscaffold
@@ -28828,6 +28842,7 @@ https://pypi.org/project/gmpy2/
 https://pypi.org/project/samplics/
 https://pypi.org/project/torch/
 https://pypl.github.io/PYPL.html
+https://pypsa.readthedocs.io/en/latest/
 https://pyro.ai/
 https://pyscaffold.org/en/stable/
 https://pystatgen.github.io/sgkit/latest/
@@ -32272,6 +32287,7 @@ https://www.cypress.io/
 https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/03411
 https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/23251
 https://www.damninteresting.com/
+https://www.danieldsjoberg.com/gtsummary/
 https://www.danosproject.org/
 https://www.darkreading.com/
 https://www.darkreading.com/attacks-breaches
@@ -32660,6 +32676,7 @@ https://www.enargus.de/
 https://www.enargus.de/pub/bscw.cgi/d3272-2/*/*/Energiesystemmodellierung.html?op=Wiki.getwiki
 https://www.endjin.com/
 https://www.enerdata.net/
+https://www.energiesystem-forschung.de/
 https://www.energy.gov/
 https://www.energy.gov/articles/history-electric-car
 https://www.energy.gov/eere/articles/how-much-power-1-gigawatt
@@ -33545,6 +33562,7 @@ https://www.heidelberg-laureate-forum.org/
 https://www.heise.de/
 https://www.heise.de/news/Bundesregierung-foerdert-Open-Source-24110.html
 https://www.heise.de/security/
+https://www.helmholtz.de/
 https://www.helpnetsecurity.com/
 https://www.helpnetsecurity.com/2019/11/19/review-foundations-of-information-security/
 https://www.helsinki.fi/en
@@ -33618,6 +33636,7 @@ https://www.iadb.org/en/story/most-unexpected-effect-climate-change
 https://www.iaea.org/
 https://www.iaee.org/
 https://www.iaee.org/en/publications/scope.aspx
+https://www.iai.kit.edu/
 https://www.iana.org/assignments/cose/cose.xhtml
 https://www.iana.org/assignments/jose/jose.xhtml
 https://www.iana.org/assignments/version-numbers/version-numbers.xhtml
@@ -37073,6 +37092,7 @@ https://www.ttmath.org/
 https://www.tu-berlin.de/
 https://www.tu-braunschweig.de/mo
 https://www.tu.berlin/
+https://www.tu.berlin/ensys
 https://www.tu.berlin/math
 https://www.tudelft.nl/citg/over-faculteit/afdelingen/hydraulic-engineering/sections/environmental-fluid-mechanics/research/swan
 https://www.tue.nl/en/research/research-groups/mathematics/statistics-probability-and-operations-research/combinatorial-optimization-1/
