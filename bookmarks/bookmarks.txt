@@ -351,6 +351,8 @@ https://academic.oup.com/
 https://academic.oup.com/bib/article-abstract/22/6/bbab344/6355420
 https://academic.oup.com/biomet
 https://academic.oup.com/book/2748
+https://academic.oup.com/book/27808
+https://academic.oup.com/book/27808/chapter-abstract/198075448
 https://academic.oup.com/book/39769
 https://academic.oup.com/book/4105
 https://academic.oup.com/book/4105/chapter-abstract/145819666
@@ -2984,6 +2986,7 @@ https://de.wikipedia.org/wiki/Freiburg_im_Breisgau
 https://de.wikipedia.org/wiki/Fundstellennachweis
 https://de.wikipedia.org/wiki/Gegen%C3%B6ffentlichkeit
 https://de.wikipedia.org/wiki/Georg-August-Universit%C3%A4t_G%C3%B6ttingen
+https://de.wikipedia.org/wiki/German_Institute_for_Global_and_Area_Studies
 https://de.wikipedia.org/wiki/Gesamtgenealogie_der_griechisch-mediterranen_Mythologie
 https://de.wikipedia.org/wiki/Geschichte_der_Wahrscheinlichkeitsrechnung
 https://de.wikipedia.org/wiki/Geschichte_Deutschlands
@@ -3037,6 +3040,7 @@ https://de.wikipedia.org/wiki/Magdeburger_Recht
 https://de.wikipedia.org/wiki/Marburg
 https://de.wikipedia.org/wiki/Martin_Vogt_(Historiker)
 https://de.wikipedia.org/wiki/Mathematische_Statistik
+https://de.wikipedia.org/wiki/Mercator_Institute_for_China_Studies
 https://de.wikipedia.org/wiki/Metropolregion_Rhein-Ruhr
 https://de.wikipedia.org/wiki/Milit%C3%A4rischer_Abschirmdienst
 https://de.wikipedia.org/wiki/MuLISP
@@ -3377,6 +3381,7 @@ https://dl.acm.org/conference/chi
 https://dl.acm.org/conference/cikm
 https://dl.acm.org/conference/comm
 https://dl.acm.org/conference/ec
+https://dl.acm.org/conference/facct
 https://dl.acm.org/conference/foga
 https://dl.acm.org/conference/gecco
 https://dl.acm.org/conference/imc
@@ -9347,6 +9352,7 @@ https://en.wikipedia.org/wiki/Econometric_model
 https://en.wikipedia.org/wiki/Econometrics
 https://en.wikipedia.org/wiki/Economic_efficiency
 https://en.wikipedia.org/wiki/Economic_forecasting
+https://en.wikipedia.org/wiki/Economic_Freedom_of_the_World
 https://en.wikipedia.org/wiki/Economic_inequality
 https://en.wikipedia.org/wiki/Economic_interdependence
 https://en.wikipedia.org/wiki/Economic_interventionism
@@ -10259,6 +10265,7 @@ https://en.wikipedia.org/wiki/Frankfurt
 https://en.wikipedia.org/wiki/Frankfurt_School
 https://en.wikipedia.org/wiki/Franz_Lisp
 https://en.wikipedia.org/wiki/Franz_Schubert
+https://en.wikipedia.org/wiki/Fraser_Institute
 https://en.wikipedia.org/wiki/Fraunhofer_Institute_for_High-Speed_Dynamics
 https://en.wikipedia.org/wiki/Fravia
 https://en.wikipedia.org/wiki/Freddy_II
@@ -10283,6 +10290,7 @@ https://en.wikipedia.org/wiki/FreeBSD
 https://en.wikipedia.org/wiki/Freedesktop.org
 https://en.wikipedia.org/wiki/Freedom_Downtime
 https://en.wikipedia.org/wiki/Freedom_House
+https://en.wikipedia.org/wiki/Freedom_in_the_World
 https://en.wikipedia.org/wiki/Freedom_of_the_Press_(report)
 https://en.wikipedia.org/wiki/Freedom_of_the_Press_Foundation
 https://en.wikipedia.org/wiki/FreeDOS
@@ -11693,6 +11701,7 @@ https://en.wikipedia.org/wiki/Index_calculus_algorithm
 https://en.wikipedia.org/wiki/Index_of_coincidence
 https://en.wikipedia.org/wiki/Index_of_dispersion
 https://en.wikipedia.org/wiki/Index_of_DOS_games
+https://en.wikipedia.org/wiki/Index_of_Economic_Freedom
 https://en.wikipedia.org/wiki/Indexed_grammar
 https://en.wikipedia.org/wiki/Indexed_language
 https://en.wikipedia.org/wiki/India_and_weapons_of_mass_destruction
@@ -16217,6 +16226,7 @@ https://en.wikipedia.org/wiki/Politics_of_Norway
 https://en.wikipedia.org/wiki/Politiken
 https://en.wikipedia.org/wiki/Politique_internationale
 https://en.wikipedia.org/wiki/Polity
+https://en.wikipedia.org/wiki/Polity_data_series
 https://en.wikipedia.org/wiki/Polkit
 https://en.wikipedia.org/wiki/Pollard%27s_kangaroo_algorithm
 https://en.wikipedia.org/wiki/Pollard%27s_p_%E2%88%92_1_algorithm
