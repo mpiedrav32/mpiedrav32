@@ -3171,6 +3171,7 @@ https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/
 https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/
 https://devblogs.microsoft.com/nuget/
 https://devblogs.microsoft.com/oldnewthing/
+https://devblogs.microsoft.com/oldnewthing/20180416-00/?p=98515
 https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704
 https://devblogs.microsoft.com/oldnewthing/20240105-00/?p=109242
 https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599
@@ -23573,6 +23574,7 @@ https://guides.loc.gov/finding-book-reviews/online-sources-and-databases
 https://guix.gnu.org/
 https://gunkies.org/wiki/Installing_v7_on_SIMH
 https://gunkies.org/wiki/Main_Page
+https://gunkies.org/wiki/MIPS_R4000
 https://gunkies.org/wiki/MOS_Technology_6502
 https://gunkies.org/wiki/MS-DOS
 https://gunkies.org/wiki/PC-DOS
@@ -24067,6 +24069,7 @@ https://ieeexplore.ieee.org/document/1176287
 https://ieeexplore.ieee.org/document/1180543
 https://ieeexplore.ieee.org/document/1212712
 https://ieeexplore.ieee.org/document/1265128
+https://ieeexplore.ieee.org/document/127580
 https://ieeexplore.ieee.org/document/128057
 https://ieeexplore.ieee.org/document/1311138
 https://ieeexplore.ieee.org/document/1455525
@@ -28525,6 +28528,8 @@ https://playclassic.games/
 https://playclassic.games/games/first-person-shooter-dos-games-online/play-descent-ii-online/
 https://playclassic.games/games/first-person-shooter-dos-games-online/play-descent-online/
 https://playwright.dev/
+https://pldb.io/index.html
+https://pldb.io/posts/age.html
 https://plocate.sesse.net/
 https://plone.org/
 https://plone.org/foundation/
