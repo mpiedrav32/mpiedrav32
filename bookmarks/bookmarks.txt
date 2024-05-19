@@ -350,6 +350,7 @@ https://ac.cs.princeton.edu/home/
 https://academic.oup.com/
 https://academic.oup.com/bib/article-abstract/22/6/bbab344/6355420
 https://academic.oup.com/biomet
+https://academic.oup.com/biomet/article-abstract/34/1-2/28/210174
 https://academic.oup.com/book/2748
 https://academic.oup.com/book/27808
 https://academic.oup.com/book/27808/chapter-abstract/198075448
@@ -2196,6 +2197,7 @@ https://cran.r-project.org/web/packages/crassmat/index.html
 https://cran.r-project.org/web/packages/crayon/index.html
 https://cran.r-project.org/web/packages/curl/index.html
 https://cran.r-project.org/web/packages/data.table/index.html
+https://cran.r-project.org/web/packages/datasauRus/
 https://cran.r-project.org/web/packages/dataset/index.html
 https://cran.r-project.org/web/packages/deepnet/index.html
 https://cran.r-project.org/web/packages/demography/index.html
@@ -3470,6 +3472,7 @@ https://dl.acm.org/doi/10.1145/289.291
 https://dl.acm.org/doi/10.1145/2908080.2908081
 https://dl.acm.org/doi/10.1145/2966986.2967045
 https://dl.acm.org/doi/10.1145/2976758
+https://dl.acm.org/doi/10.1145/3025453.3025912
 https://dl.acm.org/doi/10.1145/3037697.3037725
 https://dl.acm.org/doi/10.1145/3065386
 https://dl.acm.org/doi/10.1145/3077136.3080789
@@ -7228,6 +7231,7 @@ https://en.wikipedia.org/wiki/Category:Squares_in_number_theory
 https://en.wikipedia.org/wiki/Category:Stack-based_virtual_machines
 https://en.wikipedia.org/wiki/Category:Stanford_University_Department_of_Statistics_faculty
 https://en.wikipedia.org/wiki/Category:Statistical_analysis
+https://en.wikipedia.org/wiki/Category:Statistical_approximations
 https://en.wikipedia.org/wiki/Category:Statistical_classification
 https://en.wikipedia.org/wiki/Category:Statistical_data_sets
 https://en.wikipedia.org/wiki/Category:Statistical_distance
@@ -7791,6 +7795,8 @@ https://en.wikipedia.org/wiki/Co-occurrence_matrix
 https://en.wikipedia.org/wiki/Coalition_for_Epidemic_Preparedness_Innovations
 https://en.wikipedia.org/wiki/Coarray_Fortran
 https://en.wikipedia.org/wiki/COBOL
+https://en.wikipedia.org/wiki/Cochran%27s_Q_test
+https://en.wikipedia.org/wiki/Cochran%27s_theorem
 https://en.wikipedia.org/wiki/Cochran%E2%80%93Mantel%E2%80%93Haenszel_statistics
 https://en.wikipedia.org/wiki/CoCoA
 https://en.wikipedia.org/wiki/COCOMO
@@ -8251,6 +8257,7 @@ https://en.wikipedia.org/wiki/Contour_advection
 https://en.wikipedia.org/wiki/Contour_integration
 https://en.wikipedia.org/wiki/Contour_line
 https://en.wikipedia.org/wiki/Contract_bridge
+https://en.wikipedia.org/wiki/Contrast_(statistics)
 https://en.wikipedia.org/wiki/Control_(video_game)
 https://en.wikipedia.org/wiki/Control_character
 https://en.wikipedia.org/wiki/Control_chart
@@ -8711,6 +8718,7 @@ https://en.wikipedia.org/wiki/Dataflow
 https://en.wikipedia.org/wiki/Datagram_Transport_Layer_Security
 https://en.wikipedia.org/wiki/Datalog
 https://en.wikipedia.org/wiki/DataOps
+https://en.wikipedia.org/wiki/Datasaurus_dozen
 https://en.wikipedia.org/wiki/Dataverse
 https://en.wikipedia.org/wiki/Datenschleuder
 https://en.wikipedia.org/wiki/David_A._Freedman
@@ -10727,6 +10735,7 @@ https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics
 https://en.wikipedia.org/wiki/Glossary_of_chemical_formulae
 https://en.wikipedia.org/wiki/Glossary_of_computer_graphics
 https://en.wikipedia.org/wiki/Glossary_of_Dune_(franchise)_terminology
+https://en.wikipedia.org/wiki/Glossary_of_experimental_design
 https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin
 https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics
 https://en.wikipedia.org/wiki/Glottolog
@@ -11429,6 +11438,7 @@ https://en.wikipedia.org/wiki/Horror_aequi
 https://en.wikipedia.org/wiki/Horse_latitudes
 https://en.wikipedia.org/wiki/Horst_Feistel
 https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system_comparison
+https://en.wikipedia.org/wiki/Hotelling%27s_T-squared_distribution
 https://en.wikipedia.org/wiki/HotSpot_(virtual_machine)
 https://en.wikipedia.org/wiki/Hotspot_Shield
 https://en.wikipedia.org/wiki/Hough_transform
@@ -12723,6 +12733,7 @@ https://en.wikipedia.org/wiki/Kruskal%27s_algorithm
 https://en.wikipedia.org/wiki/Kruskal%27s_tree_theorem
 https://en.wikipedia.org/wiki/Kruskal%E2%80%93Szekeres_coordinates
 https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance
+https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_test
 https://en.wikipedia.org/wiki/Kryptos
 https://en.wikipedia.org/wiki/KTH_Royal_Institute_of_Technology
 https://en.wikipedia.org/wiki/KU_Leuven
@@ -13112,6 +13123,7 @@ https://en.wikipedia.org/wiki/Linear_model
 https://en.wikipedia.org/wiki/Linear_motor
 https://en.wikipedia.org/wiki/Linear_multistep_method
 https://en.wikipedia.org/wiki/Linear_prediction
+https://en.wikipedia.org/wiki/Linear_predictor_function
 https://en.wikipedia.org/wiki/Linear_programming
 https://en.wikipedia.org/wiki/Linear_programming_relaxation
 https://en.wikipedia.org/wiki/Linear_recurrence_with_constant_coefficients
@@ -14036,6 +14048,7 @@ https://en.wikipedia.org/wiki/Martin_Heidegger
 https://en.wikipedia.org/wiki/Martin_Heidegger_and_Nazism
 https://en.wikipedia.org/wiki/Martin_Hellman
 https://en.wikipedia.org/wiki/Martin_Kutta
+https://en.wikipedia.org/wiki/Martin_Wilk
 https://en.wikipedia.org/wiki/Martingale_(probability_theory)
 https://en.wikipedia.org/wiki/Marvell_Technology
 https://en.wikipedia.org/wiki/Marvin_Minsky
@@ -14209,6 +14222,7 @@ https://en.wikipedia.org/wiki/Medea
 https://en.wikipedia.org/wiki/Medea_(play)
 https://en.wikipedia.org/wiki/Median
 https://en.wikipedia.org/wiki/Median_absolute_deviation
+https://en.wikipedia.org/wiki/Median_test
 https://en.wikipedia.org/wiki/MediaTek
 https://en.wikipedia.org/wiki/Medical_statistics
 https://en.wikipedia.org/wiki/Medicine_(Lippincott_Williams_%26_Wilkins_journal)
@@ -15569,6 +15583,7 @@ https://en.wikipedia.org/wiki/Orders_of_magnitude_(energy)
 https://en.wikipedia.org/wiki/Orders_of_magnitude_(probability)
 https://en.wikipedia.org/wiki/Orders_of_magnitude_(time)
 https://en.wikipedia.org/wiki/Ordinal_analysis
+https://en.wikipedia.org/wiki/Ordinal_data
 https://en.wikipedia.org/wiki/Ordinary_differential_equation
 https://en.wikipedia.org/wiki/Ordinary_least_squares
 https://en.wikipedia.org/wiki/Ordination_(statistics)
@@ -15607,6 +15622,7 @@ https://en.wikipedia.org/wiki/Orthogonal_functions
 https://en.wikipedia.org/wiki/Orthogonal_matrix
 https://en.wikipedia.org/wiki/Orthogonal_polynomials
 https://en.wikipedia.org/wiki/Orthogonal_Procrustes_problem
+https://en.wikipedia.org/wiki/Orthogonality
 https://en.wikipedia.org/wiki/Orthographic_depth
 https://en.wikipedia.org/wiki/Orthonormal_basis
 https://en.wikipedia.org/wiki/Oscar_Zariski
@@ -15703,6 +15719,7 @@ https://en.wikipedia.org/wiki/P-value
 https://en.wikipedia.org/wiki/P%C3%A1l_Tur%C3%A1n
 https://en.wikipedia.org/wiki/P%C3%B3lya_urn_model
 https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini
+https://en.wikipedia.org/wiki/P%E2%80%93P_plot
 https://en.wikipedia.org/wiki/P4-metric
 https://en.wikipedia.org/wiki/PA-RISC
 https://en.wikipedia.org/wiki/PACELC_theorem
@@ -17427,6 +17444,8 @@ https://en.wikipedia.org/wiki/Rufus_Bowen
 https://en.wikipedia.org/wiki/Rugg/Feldman_benchmarks
 https://en.wikipedia.org/wiki/Ruhr_University_Bochum
 https://en.wikipedia.org/wiki/Rule_of_inference
+https://en.wikipedia.org/wiki/Rule_of_succession
+https://en.wikipedia.org/wiki/Rule_of_three_(statistics)
 https://en.wikipedia.org/wiki/Rule_of_Three_(Wicca)
 https://en.wikipedia.org/wiki/Rule-based_system
 https://en.wikipedia.org/wiki/Rules_of_Go
@@ -17901,6 +17920,7 @@ https://en.wikipedia.org/wiki/SiCortex
 https://en.wikipedia.org/wiki/Side_chain
 https://en.wikipedia.org/wiki/Side-channel_attack
 https://en.wikipedia.org/wiki/Sidon
+https://en.wikipedia.org/wiki/Siegel%E2%80%93Tukey_test
 https://en.wikipedia.org/wiki/Siemens
 https://en.wikipedia.org/wiki/Siemens_Nixdorf
 https://en.wikipedia.org/wiki/Sieve_theory
@@ -20484,6 +20504,7 @@ https://en.wikipedia.org/wiki/Yuri_Andropov
 https://en.wikipedia.org/wiki/Yuval_Ne%27eman
 https://en.wikipedia.org/wiki/YYZ_(song)
 https://en.wikipedia.org/wiki/Z_shell
+https://en.wikipedia.org/wiki/Z-factor
 https://en.wikipedia.org/wiki/Z-Library
 https://en.wikipedia.org/wiki/Z-machine
 https://en.wikipedia.org/wiki/Z-matrix_(mathematics)
