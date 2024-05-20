@@ -402,3 +402,14 @@ wide open, how to avoid being rescued before my brain runs out of oxygen.
 
 But it's only a collateral damage in the academic-industry complex. Suicides are mourned and promptly forgotten, as the
 pipeline of suitable graduates must keep running. Humans are merely a disposable tool for industrial production.
+
+# Effectiveness
+
+In my heart of hearts, I advocate for abortion whenever reasonable, suicide whenever feasible,
+euthanasia whenever applicable. There's no point in living, really.
+
+People in favor of life are deeply delusional, in that they state that life is worth living. It never ever is.
+There's absolutely nothing in human existence that is worth the pain and suffering of being conscious.
+
+I'm still alive because I'm too lazy to kill myself properly. Effective suicide in practice is harder than it seems.
+Disappointingly, there's a myriad of ways a suicide attempt can fail.
