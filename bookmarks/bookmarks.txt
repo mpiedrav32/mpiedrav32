@@ -22105,6 +22105,8 @@ https://github.com/jsoftware/jsource
 https://github.com/jstedfast/MailKit
 https://github.com/jstedfast/MimeKit
 https://github.com/juice-shop/juice-shop
+https://github.com/JuliaIntervals/IntervalArithmetic.jl
+https://github.com/JuliaIntervals/ValidatedNumerics.jl
 https://github.com/JuliaLang/julia
 https://github.com/JuliaMath/openlibm
 https://github.com/JuliaMath/SpecialFunctions.jl
@@ -31225,6 +31227,7 @@ https://www.amazon.science/blog/whats-next-for-deep-learning
 https://www.amcs.upenn.edu/
 https://www.amd.com/en/graphics/servers-solutions-rocm
 https://www.americanscientist.org/
+https://www.americanscientist.org/article/a-lucid-interval
 https://www.americanscientist.org/article/fifty-years-of-earth-observation-satellites
 https://www.ametsoc.org/index.cfm/ams/
 https://www.ametsoc.org/index.cfm/ams/about-ams/ams-awards-honors/awards/awards-for-outstanding-contributions/the-syukuro-manabe-climate-research-award/
