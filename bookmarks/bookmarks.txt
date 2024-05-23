@@ -5244,10 +5244,13 @@ https://en.wikipedia.org/wiki/Amazon_(company)
 https://en.wikipedia.org/wiki/Amazon_Aurora
 https://en.wikipedia.org/wiki/Amazon_DocumentDB
 https://en.wikipedia.org/wiki/Amazon_DynamoDB
+https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud
+https://en.wikipedia.org/wiki/Amazon_Machine_Image
 https://en.wikipedia.org/wiki/Amazon_Neptune
 https://en.wikipedia.org/wiki/Amazon_Redshift
 https://en.wikipedia.org/wiki/Amazon_SageMaker
 https://en.wikipedia.org/wiki/Amazon_SimpleDB
+https://en.wikipedia.org/wiki/Amazon_Web_Services
 https://en.wikipedia.org/wiki/AMD
 https://en.wikipedia.org/wiki/AMD_Am29000
 https://en.wikipedia.org/wiki/AMD%E2%80%93Chinese_joint_venture
@@ -5660,6 +5663,7 @@ https://en.wikipedia.org/wiki/Ascii85
 https://en.wikipedia.org/wiki/AsciiDoc
 https://en.wikipedia.org/wiki/Ashcroft_and_Mermin
 https://en.wikipedia.org/wiki/Ashish_Vaswani
+https://en.wikipedia.org/wiki/Asianux
 https://en.wikipedia.org/wiki/ASN.1
 https://en.wikipedia.org/wiki/Asociality
 https://en.wikipedia.org/wiki/ASP.NET
@@ -7733,6 +7737,7 @@ https://en.wikipedia.org/wiki/Clean_room_design
 https://en.wikipedia.org/wiki/Cleaning_agent
 https://en.wikipedia.org/wiki/Cleanroom_software_engineering
 https://en.wikipedia.org/wiki/Clearing_the_neighbourhood
+https://en.wikipedia.org/wiki/ClearOS
 https://en.wikipedia.org/wiki/Clef
 https://en.wikipedia.org/wiki/Clenshaw_algorithm
 https://en.wikipedia.org/wiki/Cleve_Moler
@@ -7781,6 +7786,7 @@ https://en.wikipedia.org/wiki/Closure/Continuation
 https://en.wikipedia.org/wiki/Cloud_computing
 https://en.wikipedia.org/wiki/Cloud_computing_security
 https://en.wikipedia.org/wiki/Cloud_robotics
+https://en.wikipedia.org/wiki/Cloud-computing_comparison
 https://en.wikipedia.org/wiki/Cloudflare
 https://en.wikipedia.org/wiki/Clozure_CL
 https://en.wikipedia.org/wiki/CLP(R)
@@ -13266,6 +13272,7 @@ https://en.wikipedia.org/wiki/List_of_cognitive_biases
 https://en.wikipedia.org/wiki/List_of_column-oriented_DBMSes
 https://en.wikipedia.org/wiki/List_of_combinatorial_computational_geometry_topics
 https://en.wikipedia.org/wiki/List_of_command-line_interpreters
+https://en.wikipedia.org/wiki/List_of_commercial_products_based_on_Red_Hat_Enterprise_Linux
 https://en.wikipedia.org/wiki/List_of_common_microcontrollers
 https://en.wikipedia.org/wiki/List_of_common_resolutions
 https://en.wikipedia.org/wiki/List_of_complex_analysis_topics
@@ -14485,6 +14492,7 @@ https://en.wikipedia.org/wiki/MIPS-3D
 https://en.wikipedia.org/wiki/MIPS-X
 https://en.wikipedia.org/wiki/Mir_Publishers
 https://en.wikipedia.org/wiki/Mira_Aroyo
+https://en.wikipedia.org/wiki/Miracle_Linux
 https://en.wikipedia.org/wiki/Mirai_(malware)
 https://en.wikipedia.org/wiki/Miranda_(programming_language)
 https://en.wikipedia.org/wiki/Mirror_descent
@@ -15424,6 +15432,7 @@ https://en.wikipedia.org/wiki/Open_Babel
 https://en.wikipedia.org/wiki/Open_Bioinformatics_Foundation
 https://en.wikipedia.org/wiki/Open_Chemistry
 https://en.wikipedia.org/wiki/Open_collector
+https://en.wikipedia.org/wiki/Open_Container_Initiative
 https://en.wikipedia.org/wiki/Open_data
 https://en.wikipedia.org/wiki/Open_Database_Connectivity
 https://en.wikipedia.org/wiki/Open_Energy_Modelling_Initiative
@@ -17643,6 +17652,7 @@ https://en.wikipedia.org/wiki/Scientific_calculator
 https://en.wikipedia.org/wiki/Scientific_communication
 https://en.wikipedia.org/wiki/Scientific_control
 https://en.wikipedia.org/wiki/Scientific_journal
+https://en.wikipedia.org/wiki/Scientific_Linux
 https://en.wikipedia.org/wiki/Scientific_literature
 https://en.wikipedia.org/wiki/Scientific_method
 https://en.wikipedia.org/wiki/Scientific_programming_language
@@ -27883,6 +27893,7 @@ https://openbabel.org/wiki/Main_Page
 https://openbsd.amsterdam/
 https://openbsd.amsterdam/blog/
 https://openbsdrouterguide.net/
+https://opencontainers.org/
 https://opencores.org/
 https://opencryptoaudit.org/
 https://opencurve.io/Curve/HOME
@@ -28041,6 +28052,7 @@ https://osmc.tv/
 https://osmfoundation.org/
 https://osmocom.org/
 https://osqp.org/
+https://oss.oracle.com/
 https://ossrs.io/lts/en-us/
 https://ostreedev.github.io/ostree/
 https://otexts.com/fpp3/
