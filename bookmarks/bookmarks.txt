@@ -20677,6 +20677,7 @@ https://energyeducation.ca/encyclopedia/Main_Page
 https://eng.vt.edu/magazine/stories/spring-2020/the-new-cryptographers.html
 https://engineering.jhu.edu/ams/
 https://engineering.mit.edu/
+https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/
 https://engineering.stanford.edu/people/mary-wootters
 https://engineering.tufts.edu/cee/people/faculty/steven-chapra
 https://engineeringmedia.com/books
@@ -26545,6 +26546,7 @@ https://little-book-of-r-for-multivariate-analysis.readthedocs.io/en/latest/inde
 https://livefreeordichotomize.com/
 https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html
 https://liveoverflow.com/
+https://livesql.oracle.com/
 https://lkml.org/
 https://lkrg.org/
 https://lld.llvm.org/
@@ -35263,6 +35265,9 @@ https://www.optil.io/optilion/home
 https://www.opus-codec.org/
 https://www.or.rwth-aachen.de/en/
 https://www.oracle.com/
+https://www.oracle.com/applications/
+https://www.oracle.com/cloud/
+https://www.oracle.com/database/
 https://www.oracle.com/database/technologies/
 https://www.oracle.com/database/technologies/flashback/
 https://www.oracle.com/database/technologies/related/berkeleydb-downloads.html
@@ -35271,7 +35276,9 @@ https://www.oracle.com/java/technologies/
 https://www.oracle.com/java/technologies/java-se-support-roadmap.html
 https://www.oracle.com/java/technologies/javase/seccodeguide.html
 https://www.oracle.com/linux/
+https://www.oracle.com/mysql/
 https://www.oracle.com/mysql/enterprise/
+https://www.oracle.com/products/
 https://www.oracletutorial.com/
 https://www.orcad.com/
 https://www.oreilly.com/
