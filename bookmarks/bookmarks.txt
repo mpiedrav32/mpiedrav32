@@ -585,7 +585,11 @@ https://aosabook.org/en/index.html
 https://aosabook.org/en/v1/llvm.html
 https://aosc.io/
 https://apache.org/
+https://apastyle.apa.org/
+https://apastyle.apa.org/products/concise-guide
+https://apastyle.apa.org/products/mastering-apa-style
 https://apastyle.apa.org/products/publication-manual-7th-edition
+https://apastyle.apa.org/products/publication-manual-7th-edition-spiral
 https://aperiodical.com/
 https://aperiodical.com/2017/04/video-how-to-draw-an-egg/
 https://apisecurity.io/
@@ -28135,6 +28139,8 @@ https://owasp.org/www-project-vulnerable-web-applications-directory/
 https://owasp.org/www-project-web-security-testing-guide/
 https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/09-Testing_for_Weak_Password_Change_or_Reset_Functionalities
 https://owasp.org/www-project-webgoat/
+https://owl.purdue.edu/
+https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html
 https://owlink.org/
 https://oxfordworldsclassics.com/
 https://oxide.computer/
@@ -29713,6 +29719,7 @@ https://sites.google.com/ycp.edu/craigbauer
 https://sites.math.washington.edu/~rothvoss/
 https://sites.research.google/weatherbench/
 https://sites.stat.washington.edu/mmp/courses/535/fall22/resources.html
+https://sites.utexas.edu/sos/methods/
 https://sjgiorgi.github.io/
 https://skerritt.blog/
 https://skia.org/
@@ -31355,6 +31362,8 @@ https://www.antipope.org/charlie/blog-static/2007/05/shaping-the-future.html
 https://www.antipope.org/charlie/blog-static/2013/12/metaphor-for-the-day.html
 https://www.antipope.org/charlie/blog-static/index.html
 https://www.ap.org/
+https://www.apa.org/
+https://www.apa.org/pubs/databases/academic-writer
 https://www.apachefriends.org/
 https://www.apam.columbia.edu/
 https://www.apem-journal.org/
