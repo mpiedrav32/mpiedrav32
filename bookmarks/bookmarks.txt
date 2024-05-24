@@ -357,6 +357,8 @@ https://academic.oup.com/book/27808/chapter-abstract/198075448
 https://academic.oup.com/book/39769
 https://academic.oup.com/book/4105
 https://academic.oup.com/book/4105/chapter-abstract/145819666
+https://academic.oup.com/book/41694
+https://academic.oup.com/book/41694/chapter-abstract/353936888
 https://academic.oup.com/comjnl
 https://academic.oup.com/comjnl/article-abstract/66/10/2480/6645489
 https://academic.oup.com/comjnl/article/15/3/222/480588
@@ -2769,6 +2771,7 @@ https://d-nb.info/1052292569/34
 https://d2l.ai/
 https://d3js.org/
 https://daily.jstor.org/
+https://daily.jstor.org/how-19th-century-scientists-predicted-global-warming/
 https://daily.jstor.org/how-plate-tectonics-shook-life-into-existence/
 https://daily.jstor.org/polish-codebreakers/
 https://daily.jstor.org/the-carrington-event-of-1859-disrupted-telegraph-lines/
@@ -3536,6 +3539,7 @@ https://dl.acm.org/doi/10.1145/3475965.3480470
 https://dl.acm.org/doi/10.1145/3513259
 https://dl.acm.org/doi/10.1145/3539618.3592055
 https://dl.acm.org/doi/10.1145/355604.361593
+https://dl.acm.org/doi/10.1145/356580.356581
 https://dl.acm.org/doi/10.1145/356678.356680
 https://dl.acm.org/doi/10.1145/356689.356692
 https://dl.acm.org/doi/10.1145/357172.357176
@@ -4450,10 +4454,10 @@ https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html
 https://drill.apache.org/
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2022.34
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2016.109
+https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2019.24
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SNAPL.2019.4
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2020.3
 https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2024.20
-https://drops.dagstuhl.de/storage/00lipics/lipics-vol154-stacs2020/LIPIcs.STACS.2020.3/LIPIcs.STACS.2020.3.pdf
 https://dropshare.cloud/
 https://drpress.org/ojs/index.php/HSET/article/view/14620
 https://druid.apache.org/
@@ -27075,6 +27079,7 @@ https://mathshistory.st-andrews.ac.uk/Biographies/Box/
 https://mathshistory.st-andrews.ac.uk/Biographies/Feller/
 https://mathshistory.st-andrews.ac.uk/Biographies/Fermat/
 https://mathshistory.st-andrews.ac.uk/Biographies/Forsythe/
+https://mathshistory.st-andrews.ac.uk/Biographies/Fourier/
 https://mathshistory.st-andrews.ac.uk/Biographies/Hadamard/quotations/
 https://mathshistory.st-andrews.ac.uk/Biographies/Mazurkiewicz/
 https://mathshistory.st-andrews.ac.uk/Biographies/Poincare/quotations/
@@ -27108,6 +27113,7 @@ https://mathworld.wolfram.com/DifferentialAlgebra.html
 https://mathworld.wolfram.com/Double-AngleFormulas.html
 https://mathworld.wolfram.com/EulerFormula.html
 https://mathworld.wolfram.com/FrobeniusMethod.html
+https://mathworld.wolfram.com/HeavisideStepFunction.html
 https://mathworld.wolfram.com/IntegralEquation.html
 https://mathworld.wolfram.com/LogarithmicIntegral.html
 https://mathworld.wolfram.com/LorenzAttractor.html
@@ -33721,6 +33727,7 @@ https://www.ias.edu/scholars/robert-j-vanderbei
 https://www.ias.tum.de/ias/research-areas/advanced-computation-and-modeling/scientific-machine-learning/
 https://www.iau-aiu.net/
 https://www.iau.org/
+https://www.ibm.com/blog/climate-change-history/
 https://www.ibm.com/history
 https://www.ibm.com/history/ctr-and-ibm
 https://www.ibm.com/products/db2
@@ -34572,6 +34579,7 @@ https://www.mathworks.com/help/matlab/referencelist.html
 https://www.mathworks.com/help/optim/solver-based-nonlinear-optimization.html
 https://www.mathworks.com/help/optim/ug/linear-programming-algorithms.html
 https://www.mathworks.com/help/reinforcement-learning/ug/what-is-reinforcement-learning.html
+https://www.mathworks.com/help/symbolic/heaviside.html
 https://www.mathworks.com/help/symbolic/sym.functionalderivative.html
 https://www.mathworks.com/matlabcentral/
 https://www.mathworks.com/matlabcentral/fileexchange/37976-numerical-computing-with-matlab
@@ -34812,6 +34820,7 @@ https://www.nationalgeographic.com/
 https://www.nature.com/
 https://www.nature.com/articles/323533a0
 https://www.nature.com/articles/35023282
+https://www.nature.com/articles/432677a
 https://www.nature.com/articles/432823a
 https://www.nature.com/articles/476145a
 https://www.nature.com/articles/d41586-021-02134-0
@@ -36250,6 +36259,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0026269215001664
 https://www.sciencedirect.com/science/article/abs/pii/S0026269218307675
 https://www.sciencedirect.com/science/article/abs/pii/S0031320301001789
 https://www.sciencedirect.com/science/article/abs/pii/S0065245808602697
+https://www.sciencedirect.com/science/article/abs/pii/S0160932799012107
 https://www.sciencedirect.com/science/article/abs/pii/S0165011405002794
 https://www.sciencedirect.com/science/article/abs/pii/S0167278908001243
 https://www.sciencedirect.com/science/article/abs/pii/S0169023X07001401
