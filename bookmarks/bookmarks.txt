@@ -1175,6 +1175,7 @@ https://automatetheboringstuff.com/
 https://automl.github.io/auto-sklearn/master/
 https://avoautomation.ai/why-avo
 https://avogadro.cc/
+https://avro.apache.org/
 https://awards.acm.org/
 https://awards.acm.org/latest-award-winners
 https://awards.acm.org/software-system
@@ -4762,6 +4763,7 @@ https://en.wikipedia.org/wiki/.ru
 https://en.wikipedia.org/wiki/.sh
 https://en.wikipedia.org/wiki/.uk
 https://en.wikipedia.org/wiki/.us
+https://en.wikipedia.org/wiki/*-algebra
 https://en.wikipedia.org/wiki//boot/
 https://en.wikipedia.org/wiki//dev/random
 https://en.wikipedia.org/wiki/%27Ndrangheta
@@ -5246,6 +5248,7 @@ https://en.wikipedia.org/wiki/Altera
 https://en.wikipedia.org/wiki/Altered_state_of_consciousness
 https://en.wikipedia.org/wiki/Alternating_series_test
 https://en.wikipedia.org/wiki/Alternating_Turing_machine
+https://en.wikipedia.org/wiki/Alternating-direction_implicit_method
 https://en.wikipedia.org/wiki/Alternative_hypothesis
 https://en.wikipedia.org/wiki/Alternative_metal
 https://en.wikipedia.org/wiki/AltGr_key
@@ -5474,6 +5477,7 @@ https://en.wikipedia.org/wiki/Ap%C3%A9ry%27s_constant
 https://en.wikipedia.org/wiki/APA_style
 https://en.wikipedia.org/wiki/Apache_Accumulo
 https://en.wikipedia.org/wiki/Apache_Allura
+https://en.wikipedia.org/wiki/Apache_Avro
 https://en.wikipedia.org/wiki/Apache_Camel
 https://en.wikipedia.org/wiki/Apache_Cassandra
 https://en.wikipedia.org/wiki/Apache_Cayenne
@@ -5932,6 +5936,7 @@ https://en.wikipedia.org/wiki/Bareiss_algorithm
 https://en.wikipedia.org/wiki/BARK_(computer)
 https://en.wikipedia.org/wiki/Barometric_formula
 https://en.wikipedia.org/wiki/BARON
+https://en.wikipedia.org/wiki/Barrelled_space
 https://en.wikipedia.org/wiki/Bart_Preneel
 https://en.wikipedia.org/wiki/Baruch_Spinoza
 https://en.wikipedia.org/wiki/Barycentric_and_geocentric_celestial_reference_systems
@@ -6458,6 +6463,7 @@ https://en.wikipedia.org/wiki/Bulletin_of_the_Atomic_Scientists
 https://en.wikipedia.org/wiki/Bullrun_(decryption_program)
 https://en.wikipedia.org/wiki/Bump_function
 https://en.wikipedia.org/wiki/Bureau_of_Labor_Statistics
+https://en.wikipedia.org/wiki/Burgers%27_equation
 https://en.wikipedia.org/wiki/Burgrecht
 https://en.wikipedia.org/wiki/Burlington,_Vermont
 https://en.wikipedia.org/wiki/Burning_Chrome
@@ -7318,6 +7324,7 @@ https://en.wikipedia.org/wiki/Category:Textbook_writers
 https://en.wikipedia.org/wiki/Category:Theorem_proving_software_systems
 https://en.wikipedia.org/wiki/Category:Theorems_in_complex_analysis
 https://en.wikipedia.org/wiki/Category:Theorems_in_computational_complexity_theory
+https://en.wikipedia.org/wiki/Category:Theorems_in_functional_analysis
 https://en.wikipedia.org/wiki/Category:Theorems_in_plane_geometry
 https://en.wikipedia.org/wiki/Category:Theorems_involving_convexity
 https://en.wikipedia.org/wiki/Category:Theoretical_computer_scientists
@@ -8691,6 +8698,7 @@ https://en.wikipedia.org/wiki/Data_engineering
 https://en.wikipedia.org/wiki/Data_erasure
 https://en.wikipedia.org/wiki/Data_extraction
 https://en.wikipedia.org/wiki/Data_farming
+https://en.wikipedia.org/wiki/Data_Format_Description_Language
 https://en.wikipedia.org/wiki/Data_format_management
 https://en.wikipedia.org/wiki/Data_fusion
 https://en.wikipedia.org/wiki/Data_governance
@@ -9606,6 +9614,7 @@ https://en.wikipedia.org/wiki/Embedded_system
 https://en.wikipedia.org/wiki/Embedding
 https://en.wikipedia.org/wiki/Ember.js
 https://en.wikipedia.org/wiki/EMBOSS
+https://en.wikipedia.org/wiki/EMC_NetWorker
 https://en.wikipedia.org/wiki/Emergentism
 https://en.wikipedia.org/wiki/Emerging_technologies
 https://en.wikipedia.org/wiki/Emil_Artin
@@ -9933,6 +9942,7 @@ https://en.wikipedia.org/wiki/Extended_precision
 https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language
 https://en.wikipedia.org/wiki/Exterior_algebra
 https://en.wikipedia.org/wiki/Exterior_derivative
+https://en.wikipedia.org/wiki/External_Data_Representation
 https://en.wikipedia.org/wiki/External_memory_algorithm
 https://en.wikipedia.org/wiki/External_sorting
 https://en.wikipedia.org/wiki/Externality
@@ -10130,6 +10140,7 @@ https://en.wikipedia.org/wiki/Finite_group
 https://en.wikipedia.org/wiki/Finite_impulse_response
 https://en.wikipedia.org/wiki/Finite_ring
 https://en.wikipedia.org/wiki/Finite_volume_method
+https://en.wikipedia.org/wiki/Finite-difference_time-domain_method
 https://en.wikipedia.org/wiki/Finite-state_machine
 https://en.wikipedia.org/wiki/Finitely_generated_group
 https://en.wikipedia.org/wiki/Finnish_Meteorological_Institute
@@ -10139,6 +10150,7 @@ https://en.wikipedia.org/wiki/FIPS_140-2
 https://en.wikipedia.org/wiki/FIPS_140-3
 https://en.wikipedia.org/wiki/Fira_(typeface)
 https://en.wikipedia.org/wiki/Firebase
+https://en.wikipedia.org/wiki/Firebird_(database_server)
 https://en.wikipedia.org/wiki/Firefox
 https://en.wikipedia.org/wiki/Firewalls_and_Internet_Security
 https://en.wikipedia.org/wiki/Firmware
@@ -10404,6 +10416,7 @@ https://en.wikipedia.org/wiki/Front_panel
 https://en.wikipedia.org/wiki/Frontiers_in_Heat_and_Mass_Transfer
 https://en.wikipedia.org/wiki/FROSTBURG
 https://en.wikipedia.org/wiki/Fruitarianism
+https://en.wikipedia.org/wiki/FTCS_scheme
 https://en.wikipedia.org/wiki/FTDI
 https://en.wikipedia.org/wiki/Fuchs%27_theorem
 https://en.wikipedia.org/wiki/Fuchsia_(operating_system)
@@ -10512,6 +10525,7 @@ https://en.wikipedia.org/wiki/Gamma_matrices
 https://en.wikipedia.org/wiki/Gamma_ray
 https://en.wikipedia.org/wiki/Gamma-ray_burst
 https://en.wikipedia.org/wiki/Ganesha
+https://en.wikipedia.org/wiki/Ganglia_(software)
 https://en.wikipedia.org/wiki/Gaokao
 https://en.wikipedia.org/wiki/GAP_(computer_algebra_system)
 https://en.wikipedia.org/wiki/Gap_buffer
@@ -10536,6 +10550,7 @@ https://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm
 https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method
 https://en.wikipedia.org/wiki/Gaussian_filter
 https://en.wikipedia.org/wiki/Gaussian_function
+https://en.wikipedia.org/wiki/Gaussian_grid
 https://en.wikipedia.org/wiki/Gaussian_integral
 https://en.wikipedia.org/wiki/Gaussian_process
 https://en.wikipedia.org/wiki/Gaussian_units
@@ -12965,6 +12980,8 @@ https://en.wikipedia.org/wiki/Lawrence_Bragg
 https://en.wikipedia.org/wiki/Lawrence_C._Evans
 https://en.wikipedia.org/wiki/Lawrence_Livermore_National_Laboratory
 https://en.wikipedia.org/wiki/Lawrence_Technological_University
+https://en.wikipedia.org/wiki/Lax%E2%80%93Friedrichs_method
+https://en.wikipedia.org/wiki/Lax%E2%80%93Wendroff_method
 https://en.wikipedia.org/wiki/Layer_(deep_learning)
 https://en.wikipedia.org/wiki/Lazare_Carnot
 https://en.wikipedia.org/wiki/Lazy_evaluation
@@ -13105,6 +13122,7 @@ https://en.wikipedia.org/wiki/Librsb
 https://en.wikipedia.org/wiki/Librsvg
 https://en.wikipedia.org/wiki/LIBSVM
 https://en.wikipedia.org/wiki/LibTIFF
+https://en.wikipedia.org/wiki/Libvirt
 https://en.wikipedia.org/wiki/License_compatibility
 https://en.wikipedia.org/wiki/Lichess
 https://en.wikipedia.org/wiki/Light_%26_Magic
@@ -13937,6 +13955,7 @@ https://en.wikipedia.org/wiki/Mabinogion
 https://en.wikipedia.org/wiki/Mac_(computer)
 https://en.wikipedia.org/wiki/Macaulay_brackets
 https://en.wikipedia.org/wiki/Macaulay2
+https://en.wikipedia.org/wiki/MacCormack_method
 https://en.wikipedia.org/wiki/Mach_number
 https://en.wikipedia.org/wiki/Machine_code
 https://en.wikipedia.org/wiki/Machine_ethics
@@ -14914,6 +14933,7 @@ https://en.wikipedia.org/wiki/NBC
 https://en.wikipedia.org/wiki/NBench
 https://en.wikipedia.org/wiki/NCC_Group
 https://en.wikipedia.org/wiki/NCSim
+https://en.wikipedia.org/wiki/NDMP
 https://en.wikipedia.org/wiki/NDTV
 https://en.wikipedia.org/wiki/Ne_(text_editor)
 https://en.wikipedia.org/wiki/Neal_Koblitz
@@ -14987,6 +15007,7 @@ https://en.wikipedia.org/wiki/Network_bridge
 https://en.wikipedia.org/wiki/Network_congestion
 https://en.wikipedia.org/wiki/Network_File_System
 https://en.wikipedia.org/wiki/Network_function_virtualization
+https://en.wikipedia.org/wiki/Network_Information_Service
 https://en.wikipedia.org/wiki/Network_layer
 https://en.wikipedia.org/wiki/Network_management
 https://en.wikipedia.org/wiki/Network_model
@@ -15574,6 +15595,7 @@ https://en.wikipedia.org/wiki/Operational_semantics
 https://en.wikipedia.org/wiki/Operational_system
 https://en.wikipedia.org/wiki/Operations_research
 https://en.wikipedia.org/wiki/Operator_algebra
+https://en.wikipedia.org/wiki/Operator_space
 https://en.wikipedia.org/wiki/Operator_theory
 https://en.wikipedia.org/wiki/Operon
 https://en.wikipedia.org/wiki/Ophanim
@@ -15610,6 +15632,7 @@ https://en.wikipedia.org/wiki/Oracle_Corporation
 https://en.wikipedia.org/wiki/Oracle_Linux
 https://en.wikipedia.org/wiki/Oracle_Net_Services
 https://en.wikipedia.org/wiki/Oracle_NoSQL_Database
+https://en.wikipedia.org/wiki/Oracle_Solaris
 https://en.wikipedia.org/wiki/Oral_Torah
 https://en.wikipedia.org/wiki/Orange_(fruit)
 https://en.wikipedia.org/wiki/Orange_(software)
@@ -17156,6 +17179,7 @@ https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past
 https://en.wikipedia.org/wiki/Remez_algorithm
 https://en.wikipedia.org/wiki/Remez_inequality
 https://en.wikipedia.org/wiki/Remmina
+https://en.wikipedia.org/wiki/Remote_procedure_call
 https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 https://en.wikipedia.org/wiki/Ren%C3%A9_Maurice_Fr%C3%A9chet
 https://en.wikipedia.org/wiki/Renaissance_humanism
@@ -17718,6 +17742,7 @@ https://en.wikipedia.org/wiki/ScyllaDB
 https://en.wikipedia.org/wiki/SD-WAN
 https://en.wikipedia.org/wiki/SDET
 https://en.wikipedia.org/wiki/SDF_Public_Access_Unix_System
+https://en.wikipedia.org/wiki/SDXF
 https://en.wikipedia.org/wiki/Se_(text_editor)
 https://en.wikipedia.org/wiki/Sea_level_rise
 https://en.wikipedia.org/wiki/Sea_Ltd
@@ -17899,6 +17924,7 @@ https://en.wikipedia.org/wiki/Seven_basic_tools_of_quality
 https://en.wikipedia.org/wiki/Seven_heavens
 https://en.wikipedia.org/wiki/Seven_hills_of_Rome
 https://en.wikipedia.org/wiki/Sexagesimal
+https://en.wikipedia.org/wiki/SFlow
 https://en.wikipedia.org/wiki/SFNT
 https://en.wikipedia.org/wiki/SGI_Indigo
 https://en.wikipedia.org/wiki/SGI_IRIS
@@ -18376,6 +18402,7 @@ https://en.wikipedia.org/wiki/SPECint
 https://en.wikipedia.org/wiki/SPECpower
 https://en.wikipedia.org/wiki/Spectral_density
 https://en.wikipedia.org/wiki/Spectral_density_estimation
+https://en.wikipedia.org/wiki/Spectral_element_method
 https://en.wikipedia.org/wiki/Spectral_graph_theory
 https://en.wikipedia.org/wiki/Spectral_method
 https://en.wikipedia.org/wiki/Spectral_radiance
@@ -18603,6 +18630,7 @@ https://en.wikipedia.org/wiki/Steinhaus%E2%80%93Johnson%E2%80%93Trotter_algorith
 https://en.wikipedia.org/wiki/Steins;%3F%3F%3F
 https://en.wikipedia.org/wiki/Steins;Gate
 https://en.wikipedia.org/wiki/Stella_(emulator)
+https://en.wikipedia.org/wiki/Stellar_(payment_network)
 https://en.wikipedia.org/wiki/Stellar_corona
 https://en.wikipedia.org/wiki/Stellar_evolution
 https://en.wikipedia.org/wiki/Stellar_Wind
@@ -18768,12 +18796,14 @@ https://en.wikipedia.org/wiki/Summary_statistics
 https://en.wikipedia.org/wiki/Summercon
 https://en.wikipedia.org/wiki/Sums_of_three_cubes
 https://en.wikipedia.org/wiki/Sun_Microsystems
+https://en.wikipedia.org/wiki/Sun_RPC
 https://en.wikipedia.org/wiki/SUN_workstation
 https://en.wikipedia.org/wiki/Sun-1
 https://en.wikipedia.org/wiki/Sun-synchronous_orbit
 https://en.wikipedia.org/wiki/Sunflower_(mathematics)
 https://en.wikipedia.org/wiki/Suning.com
 https://en.wikipedia.org/wiki/Sunni_Islam
+https://en.wikipedia.org/wiki/SunOS
 https://en.wikipedia.org/wiki/Sunspot
 https://en.wikipedia.org/wiki/Sunway_(processor)
 https://en.wikipedia.org/wiki/Sunway_SW26010
@@ -19941,6 +19971,7 @@ https://en.wikipedia.org/wiki/Upper_and_lower_probabilities
 https://en.wikipedia.org/wiki/Upper-atmospheric_lightning
 https://en.wikipedia.org/wiki/Uppsala_University
 https://en.wikipedia.org/wiki/Upverter
+https://en.wikipedia.org/wiki/Upwind_scheme
 https://en.wikipedia.org/wiki/Urbain_Le_Verrier
 https://en.wikipedia.org/wiki/Urdu
 https://en.wikipedia.org/wiki/URL
@@ -20101,6 +20132,7 @@ https://en.wikipedia.org/wiki/Viroid
 https://en.wikipedia.org/wiki/Virtual_assistant
 https://en.wikipedia.org/wiki/Virtual_Distributed_Ethernet
 https://en.wikipedia.org/wiki/Virtual_DOS_machine
+https://en.wikipedia.org/wiki/Virtual_file_system
 https://en.wikipedia.org/wiki/Virtual_inheritance
 https://en.wikipedia.org/wiki/Virtual_machine
 https://en.wikipedia.org/wiki/Virtual_memory
@@ -20607,6 +20639,7 @@ https://en.wikipedia.org/wiki/Zerocoin_protocol
 https://en.wikipedia.org/wiki/ZeroMQ
 https://en.wikipedia.org/wiki/Zeros_and_poles
 https://en.wikipedia.org/wiki/Zfone
+https://en.wikipedia.org/wiki/ZFS
 https://en.wikipedia.org/wiki/Zhaoxin
 https://en.wikipedia.org/wiki/Zhou_Enlai
 https://en.wikipedia.org/wiki/Zhuhai
@@ -23267,6 +23300,7 @@ https://github.com/tylerha97/awesome-reversing
 https://github.com/typed-io/cryptoxide/
 https://github.com/uBlockOrigin/uAssets
 https://github.com/uBlockOrigin/uBOL-home
+https://github.com/uclouvain/openjpeg
 https://github.com/ufal/neuralmonkey
 https://github.com/uhub/awesome-c
 https://github.com/ultraembedded/biriscv
@@ -26231,6 +26265,7 @@ https://link.springer.com/book/10.1007/978-3-540-30717-4
 https://link.springer.com/book/10.1007/978-3-540-35447-5
 https://link.springer.com/book/10.1007/978-3-540-39035-0
 https://link.springer.com/book/10.1007/978-3-540-39088-6
+https://link.springer.com/book/10.1007/978-3-540-46783-0
 https://link.springer.com/book/10.1007/978-3-540-48121-8
 https://link.springer.com/book/10.1007/978-3-540-48926-9
 https://link.springer.com/book/10.1007/978-3-540-49597-0
@@ -26520,6 +26555,7 @@ https://link.springer.com/chapter/10.1007/978-3-642-54833-8_11
 https://link.springer.com/chapter/10.1007/978-3-642-59281-2_9
 https://link.springer.com/chapter/10.1007/978-3-662-63519-3_1
 https://link.springer.com/chapter/10.1007/978-3-7091-0794-2_5
+https://link.springer.com/chapter/10.1007/978-3-7091-6571-3_8
 https://link.springer.com/chapter/10.1007/978-3-7908-1810-9_11
 https://link.springer.com/chapter/10.1007/978-3-7908-2604-3_16
 https://link.springer.com/chapter/10.1007/978-90-481-2804-4_19
@@ -28206,6 +28242,7 @@ https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2715610
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3923528
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4008316
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311
 https://paperswelove.org/
 https://paperswithcode.com/
 https://paperswithcode.com/area/computer-vision
@@ -35015,6 +35052,7 @@ https://www.netlib.org/benchmark/
 https://www.netlib.org/blas/
 https://www.netlib.org/cephes/
 https://www.netlib.org/eispack/
+https://www.netlib.org/fdlibm/
 https://www.netlib.org/fishpack/
 https://www.netlib.org/lapack/
 https://www.netlib.org/linpack/
