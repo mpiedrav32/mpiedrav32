@@ -585,6 +585,7 @@ https://aosabook.org/en/index.html
 https://aosabook.org/en/v1/llvm.html
 https://aosc.io/
 https://apache.org/
+https://apastyle.apa.org/products/publication-manual-7th-edition
 https://aperiodical.com/
 https://aperiodical.com/2017/04/video-how-to-draw-an-egg/
 https://apisecurity.io/
@@ -2848,6 +2849,7 @@ https://datatau.net/
 https://datatracker.ietf.org/wg/jose/documents/
 https://dataverse.harvard.edu/
 https://dataverse.org/
+https://datoviz.org/
 https://davidben.net/2024/01/15/empty-slices.html
 https://davidwong.fr/goasm/
 https://dawn.cs.stanford.edu/benchmark/index.html
@@ -4577,6 +4579,9 @@ https://ecl.common-lisp.dev/
 https://ecommons.cornell.edu/home
 https://ecommons.cornell.edu/items/1d27c661-0ad6-487c-9c93-e97ddc4d8e9a
 https://econ-ark.org/
+https://economicsociology.org/
+https://economicsociology.org/2018/07/29/the-sociology-of-quantification-seeing-like-numbers/
+https://economicsociology.org/wp-content/uploads/2018/07/the-sociology-of-quantification-where-are-we-now.pdf
 https://economictimes.indiatimes.com/
 https://econweb.ucsd.edu/~jhamilto/
 https://ecosystem.ipfs.tech/
@@ -4778,6 +4783,7 @@ https://en.wikipedia.org/wiki/%C5%9Aruti
 https://en.wikipedia.org/wiki/%CA%BBAva_ceremony
 https://en.wikipedia.org/wiki/%CE%9BProlog
 https://en.wikipedia.org/wiki/%CE%9CClinux
+https://en.wikipedia.org/wiki/%CE%A3-algebra
 https://en.wikipedia.org/wiki/0_A.D._(video_game)
 https://en.wikipedia.org/wiki/100-year_flood
 https://en.wikipedia.org/wiki/1080p
@@ -4914,6 +4920,7 @@ https://en.wikipedia.org/wiki/Academic_publishing
 https://en.wikipedia.org/wiki/Academic_Ranking_of_World_Universities
 https://en.wikipedia.org/wiki/Academic_study_of_Western_esotericism
 https://en.wikipedia.org/wiki/Academic_Torrents
+https://en.wikipedia.org/wiki/Acatalepsy
 https://en.wikipedia.org/wiki/Acceleo
 https://en.wikipedia.org/wiki/Accelerated_failure_time_model
 https://en.wikipedia.org/wiki/Accelerating_expansion_of_the_universe
@@ -5460,6 +5467,7 @@ https://en.wikipedia.org/wiki/Anywhere_on_Earth
 https://en.wikipedia.org/wiki/Aoede
 https://en.wikipedia.org/wiki/AOL
 https://en.wikipedia.org/wiki/Ap%C3%A9ry%27s_constant
+https://en.wikipedia.org/wiki/APA_style
 https://en.wikipedia.org/wiki/Apache_Accumulo
 https://en.wikipedia.org/wiki/Apache_Allura
 https://en.wikipedia.org/wiki/Apache_Camel
@@ -6303,6 +6311,7 @@ https://en.wikipedia.org/wiki/Bootstrap_aggregating
 https://en.wikipedia.org/wiki/Bootstrapping_(statistics)
 https://en.wikipedia.org/wiki/Borax
 https://en.wikipedia.org/wiki/Borel_measure
+https://en.wikipedia.org/wiki/Borel_set
 https://en.wikipedia.org/wiki/Borgia_Group
 https://en.wikipedia.org/wiki/Boris_Delaunay
 https://en.wikipedia.org/wiki/Boris_Hagelin
@@ -8357,6 +8366,7 @@ https://en.wikipedia.org/wiki/COSIC
 https://en.wikipedia.org/wiki/Cosine_similarity
 https://en.wikipedia.org/wiki/Cosmic_censorship_hypothesis
 https://en.wikipedia.org/wiki/Cosmic_microwave_background
+https://en.wikipedia.org/wiki/Cosmic_variance
 https://en.wikipedia.org/wiki/Cosmicism
 https://en.wikipedia.org/wiki/Cosmological_constant
 https://en.wikipedia.org/wiki/Cosmology_(book)
@@ -8378,6 +8388,8 @@ https://en.wikipedia.org/wiki/Counter_machine
 https://en.wikipedia.org/wiki/Counter-machine_model
 https://en.wikipedia.org/wiki/Counterculture
 https://en.wikipedia.org/wiki/Counterculture_of_the_1960s
+https://en.wikipedia.org/wiki/Counterexamples_in_Probability
+https://en.wikipedia.org/wiki/Counterexamples_in_Probability_and_Statistics
 https://en.wikipedia.org/wiki/Counterintelligence
 https://en.wikipedia.org/wiki/Counterintelligence_state
 https://en.wikipedia.org/wiki/Counting_Bloom_filter
@@ -9689,6 +9701,7 @@ https://en.wikipedia.org/wiki/Epica_discography
 https://en.wikipedia.org/wiki/Epicureanism
 https://en.wikipedia.org/wiki/Epidemiology
 https://en.wikipedia.org/wiki/Epigenetics
+https://en.wikipedia.org/wiki/Epistemology
 https://en.wikipedia.org/wiki/Eprint
 https://en.wikipedia.org/wiki/EPrints
 https://en.wikipedia.org/wiki/Epsilon_number
@@ -9772,6 +9785,7 @@ https://en.wikipedia.org/wiki/ETH_Zurich
 https://en.wikipedia.org/wiki/Ethereal_wave
 https://en.wikipedia.org/wiki/Ethereum
 https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence
+https://en.wikipedia.org/wiki/Ethics_of_quantification
 https://en.wikipedia.org/wiki/Ethics_of_technology
 https://en.wikipedia.org/wiki/Etruscan_religion
 https://en.wikipedia.org/wiki/EU_Digital_COVID_Certificate
@@ -11153,6 +11167,7 @@ https://en.wikipedia.org/wiki/Hardware-based_full_disk_encryption
 https://en.wikipedia.org/wiki/Hardy_field
 https://en.wikipedia.org/wiki/Hardy%E2%80%93Littlewood_inequality
 https://en.wikipedia.org/wiki/Hardy%E2%80%93Ramanujan_Journal
+https://en.wikipedia.org/wiki/HARKing
 https://en.wikipedia.org/wiki/Harmonic_analysis
 https://en.wikipedia.org/wiki/Harmonic_function
 https://en.wikipedia.org/wiki/Harmonic_mean
@@ -11429,6 +11444,7 @@ https://en.wikipedia.org/wiki/Hoc_(programming_language)
 https://en.wikipedia.org/wiki/Hodges%E2%80%93Lehmann_estimator
 https://en.wikipedia.org/wiki/Hola_(VPN)
 https://en.wikipedia.org/wiki/Holding_company
+https://en.wikipedia.org/wiki/Holm%E2%80%93Bonferroni_method
 https://en.wikipedia.org/wiki/Holomorphic_function
 https://en.wikipedia.org/wiki/Holonomic_constraints
 https://en.wikipedia.org/wiki/Holonomic_function
@@ -14339,6 +14355,7 @@ https://en.wikipedia.org/wiki/Meta-circular_evaluator
 https://en.wikipedia.org/wiki/Meta-learning_(computer_science)
 https://en.wikipedia.org/wiki/Meta-Object_Facility
 https://en.wikipedia.org/wiki/Meta.Numerics
+https://en.wikipedia.org/wiki/Metaepistemology
 https://en.wikipedia.org/wiki/Metaheuristic
 https://en.wikipedia.org/wiki/Metal_(API)
 https://en.wikipedia.org/wiki/Metal_Ages
@@ -14347,6 +14364,7 @@ https://en.wikipedia.org/wiki/Metalinguistics
 https://en.wikipedia.org/wiki/Metamaterial
 https://en.wikipedia.org/wiki/Metamodeling
 https://en.wikipedia.org/wiki/Metamorphoses
+https://en.wikipedia.org/wiki/Metaphilosophy
 https://en.wikipedia.org/wiki/Metaphysical_detective_story
 https://en.wikipedia.org/wiki/Metaprogramming
 https://en.wikipedia.org/wiki/METEOR
@@ -15038,6 +15056,7 @@ https://en.wikipedia.org/wiki/New_York_University_Tandon_School_of_Engineering
 https://en.wikipedia.org/wiki/New-age_music
 https://en.wikipedia.org/wiki/Newfoundland_and_Labrador
 https://en.wikipedia.org/wiki/NewLISP
+https://en.wikipedia.org/wiki/Newman%E2%80%93Keuls_method
 https://en.wikipedia.org/wiki/NEWP
 https://en.wikipedia.org/wiki/News_agency
 https://en.wikipedia.org/wiki/News_aggregator
@@ -16072,9 +16091,11 @@ https://en.wikipedia.org/wiki/Philosophical_analysis
 https://en.wikipedia.org/wiki/Philosophical_anarchism
 https://en.wikipedia.org/wiki/Philosophical_anthropology
 https://en.wikipedia.org/wiki/Philosophical_fiction
+https://en.wikipedia.org/wiki/Philosophical_methodology
 https://en.wikipedia.org/wiki/Philosophical_pessimism
 https://en.wikipedia.org/wiki/Philosophical_razor
 https://en.wikipedia.org/wiki/Philosophical_realism
+https://en.wikipedia.org/wiki/Philosophical_skepticism
 https://en.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society
 https://en.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society_A
 https://en.wikipedia.org/wiki/Philosophy_Now
@@ -16365,6 +16386,7 @@ https://en.wikipedia.org/wiki/Positive-definite_kernel
 https://en.wikipedia.org/wiki/Positivism
 https://en.wikipedia.org/wiki/POSIX
 https://en.wikipedia.org/wiki/Possibility_theory
+https://en.wikipedia.org/wiki/Post_hoc_analysis
 https://en.wikipedia.org/wiki/Post-metal
 https://en.wikipedia.org/wiki/Post-punk
 https://en.wikipedia.org/wiki/Post-quantum_cryptography
@@ -17360,6 +17382,7 @@ https://en.wikipedia.org/wiki/Rocky_Linux
 https://en.wikipedia.org/wiki/ROCm
 https://en.wikipedia.org/wiki/Rod_cell
 https://en.wikipedia.org/wiki/Rod_Serling
+https://en.wikipedia.org/wiki/Rodger%27s_method
 https://en.wikipedia.org/wiki/Roger_Bivand
 https://en.wikipedia.org/wiki/Roger_Cotes
 https://en.wikipedia.org/wiki/Roger_Horn
@@ -17622,6 +17645,7 @@ https://en.wikipedia.org/wiki/Scale-space_segmentation
 https://en.wikipedia.org/wiki/Scatter_plot
 https://en.wikipedia.org/wiki/Scatterplot_smoothing
 https://en.wikipedia.org/wiki/Scheduling_(computing)
+https://en.wikipedia.org/wiki/Scheff%C3%A9%27s_method
 https://en.wikipedia.org/wiki/Schema-agnostic_databases
 https://en.wikipedia.org/wiki/Scheme_(programming_language)
 https://en.wikipedia.org/wiki/Scheme_48
@@ -18181,6 +18205,7 @@ https://en.wikipedia.org/wiki/Society_for_Industrial_and_Applied_Mathematics
 https://en.wikipedia.org/wiki/Society_for_the_Improvement_of_Psychological_Science
 https://en.wikipedia.org/wiki/Sociocracy
 https://en.wikipedia.org/wiki/Sociology_of_human_consciousness
+https://en.wikipedia.org/wiki/Sociology_of_quantification
 https://en.wikipedia.org/wiki/Sodium_bicarbonate
 https://en.wikipedia.org/wiki/Sodium_carbonate
 https://en.wikipedia.org/wiki/Sodium_hydroxide
@@ -18688,6 +18713,7 @@ https://en.wikipedia.org/wiki/Stuart_Kauffman
 https://en.wikipedia.org/wiki/STUDENT_(computer_program)
 https://en.wikipedia.org/wiki/Student%27s_t-distribution
 https://en.wikipedia.org/wiki/Student%27s_t-test
+https://en.wikipedia.org/wiki/Studentized_range_distribution
 https://en.wikipedia.org/wiki/Studentized_residual
 https://en.wikipedia.org/wiki/Students_for_a_Democratic_Society
 https://en.wikipedia.org/wiki/Study_Bible
@@ -19024,6 +19050,7 @@ https://en.wikipedia.org/wiki/Test_statistic
 https://en.wikipedia.org/wiki/Test_theories_of_special_relativity
 https://en.wikipedia.org/wiki/Test-and-set
 https://en.wikipedia.org/wiki/Test-driven_development
+https://en.wikipedia.org/wiki/Testing_hypotheses_suggested_by_the_data
 https://en.wikipedia.org/wiki/Tests_of_general_relativity
 https://en.wikipedia.org/wiki/Tests_of_special_relativity
 https://en.wikipedia.org/wiki/Tetrachloroethylene
@@ -19183,6 +19210,7 @@ https://en.wikipedia.org/wiki/The_Phantom_Agony
 https://en.wikipedia.org/wiki/The_Pirate_Bay
 https://en.wikipedia.org/wiki/The_Plot_to_Hack_America
 https://en.wikipedia.org/wiki/The_Political_Compass
+https://en.wikipedia.org/wiki/The_Politics_of_Large_Numbers
 https://en.wikipedia.org/wiki/The_Population_Bomb
 https://en.wikipedia.org/wiki/The_Positronic_Man
 https://en.wikipedia.org/wiki/The_Practice_of_Programming
@@ -19260,6 +19288,7 @@ https://en.wikipedia.org/wiki/Theli_(album)
 https://en.wikipedia.org/wiki/Theo_de_Raadt
 https://en.wikipedia.org/wiki/Theo_H%C3%A4rder
 https://en.wikipedia.org/wiki/Theodore_Motzkin
+https://en.wikipedia.org/wiki/Theodore_Porter
 https://en.wikipedia.org/wiki/Theodore_Sturgeon
 https://en.wikipedia.org/wiki/Theogony
 https://en.wikipedia.org/wiki/Theoretical_astronomy
@@ -19604,6 +19633,7 @@ https://en.wikipedia.org/wiki/Truncated_distribution
 https://en.wikipedia.org/wiki/Truncated_mean
 https://en.wikipedia.org/wiki/Truncated_Newton_method
 https://en.wikipedia.org/wiki/Truncation_(statistics)
+https://en.wikipedia.org/wiki/Trust_in_numbers
 https://en.wikipedia.org/wiki/Trust_region
 https://en.wikipedia.org/wiki/Trust,_but_verify
 https://en.wikipedia.org/wiki/Trusted_execution_environment
@@ -19623,6 +19653,7 @@ https://en.wikipedia.org/wiki/TU_Wien
 https://en.wikipedia.org/wiki/Tucker_decomposition
 https://en.wikipedia.org/wiki/Tudor_period
 https://en.wikipedia.org/wiki/Tuileries_Garden
+https://en.wikipedia.org/wiki/Tukey%27s_range_test
 https://en.wikipedia.org/wiki/Tuleap_(project_management)
 https://en.wikipedia.org/wiki/Tuned_mass_damper
 https://en.wikipedia.org/wiki/TunnelBear
@@ -19734,6 +19765,7 @@ https://en.wikipedia.org/wiki/Unary_coding
 https://en.wikipedia.org/wiki/Unbounded_operator
 https://en.wikipedia.org/wiki/Uncertain_inference
 https://en.wikipedia.org/wiki/Uncertainty_quantification
+https://en.wikipedia.org/wiki/Uncomfortable_science
 https://en.wikipedia.org/wiki/Unconventional_computing
 https://en.wikipedia.org/wiki/Undecidable_problem
 https://en.wikipedia.org/wiki/Undergraduate_Texts_in_Mathematics
@@ -22265,6 +22297,7 @@ https://github.com/madler/zlib
 https://github.com/maelstrom-rs/maelstrom
 https://github.com/magit/magit
 https://github.com/mandiant/capa
+https://github.com/ManimCommunity/manim
 https://github.com/Manishearth/rust-gc
 https://github.com/manuzhang/awesome-streaming
 https://github.com/maplibre
@@ -22823,6 +22856,7 @@ https://github.com/Ronggui/RQDA
 https://github.com/ropensci
 https://github.com/ropensci/readODS
 https://github.com/ropensci/targets
+https://github.com/rossant/awesome-scientific-python
 https://github.com/rot256
 https://github.com/rottytooth/Entropy
 https://github.com/rpm-software-management
@@ -23190,6 +23224,7 @@ https://github.com/topics/header-only
 https://github.com/topics/ibm-pc?l=assembly
 https://github.com/topics/information-theory
 https://github.com/topics/language-server-protocol
+https://github.com/topics/math
 https://github.com/topics/microarchitecture
 https://github.com/topics/multiple-sequence-alignment
 https://github.com/topics/orm
@@ -25259,6 +25294,7 @@ https://library.lol/main/3AA73441DBD798A5C454614F3B24811D
 https://library.lol/main/3B5083DEFD5216E127019222F74B7FE5
 https://library.lol/main/3B6AC0E920BBD3A6FDDAD6A69530846B
 https://library.lol/main/3B9744A28BB7A83A70973F9F143C10EB
+https://library.lol/main/3C32A8072C910D9DD372B005455BCCB1
 https://library.lol/main/3CE9B6162FFD77003EEC15CDA0905F75
 https://library.lol/main/3D36F36543DE28AD0D5C7683A965FD8A
 https://library.lol/main/3D842174D3A85224C71D49332783C37A
@@ -25464,6 +25500,7 @@ https://library.lol/main/C200228A7B26C34546D51418D5D43DAB
 https://library.lol/main/C32A7D778CEE246182FEB5937364885A
 https://library.lol/main/C5469066E3E18CB5E74CD8D46F9B6EBE
 https://library.lol/main/C59DA252633E91D65AE25BD5F998372A
+https://library.lol/main/C65994DA217661D11D6EE26067B4CDFE
 https://library.lol/main/C6ABA1FC573E49EA77DB4B223B3B3284
 https://library.lol/main/C7E7FA7A06373F2E4E955DC9EF9BE643
 https://library.lol/main/C7EAD738B08913984E424BEF03FCAB0C
@@ -26528,6 +26565,7 @@ https://link.springer.com/referenceworkentry/10.1007/978-1-4899-7993-3_80783-1
 https://link.springer.com/referenceworkentry/10.1007/978-1-4899-7993-3_882-3
 https://link.springer.com/referenceworkentry/10.1007/978-1-4899-7993-3_889-2
 https://link.springer.com/referenceworkentry/10.1007/978-1-4899-7993-3_900-2
+https://link.springer.com/referenceworkentry/10.1007/978-94-007-0753-5_3375
 https://link.springer.com/search?facet-content-type=%22Book%22&package=41786
 https://link.springer.com/search?facet-creator=%22J%C3%B6rg+Arndt%22&facet-content-type=%22Book%22
 https://linker.iecc.com/
@@ -28685,6 +28723,7 @@ https://press.princeton.edu/books/paperback/9780691162317/whos-1
 https://press.princeton.edu/books/paperback/9780691163529/in-pursuit-of-the-traveling-salesman
 https://press.princeton.edu/books/paperback/9780691175997/heavenly-mathematics
 https://press.princeton.edu/books/paperback/9780691202198/trigonometric-delights
+https://press.princeton.edu/books/paperback/9780691208411/trust-in-numbers
 https://press.princeton.edu/books/paperback/9780691242057/the-mathematical-mechanic
 https://press.princeton.edu/books/paperback/9780691625393/flows-in-networks
 https://press.princeton.edu/catalogs/ancient-world
@@ -31718,6 +31757,7 @@ https://www.cambridge.org/core/browse-subjects/statistics-and-probability/statis
 https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/remarks-on-an-arithmetic-derivative/1FD7F09AD3972692FC97BB23A21D0BD8
 https://www.cambridge.org/core/journals/combinatorics-probability-and-computing
 https://www.cambridge.org/core/journals/environmental-data-science
+https://www.cambridge.org/core/journals/european-journal-of-sociology-archives-europeennes-de-sociologie/article/abs/sociology-of-quantification/53D563E0E4A75A05E877B27C06E957F9
 https://www.cambridge.org/core/journals/forum-of-mathematics-pi
 https://www.cambridge.org/core/journals/international-organization
 https://www.cambridge.org/core/journals/international-organization/most-cited
@@ -33975,6 +34015,7 @@ https://www.itu.dk/~sestoft/
 https://www.ivpn.net/
 https://www.iza.org/
 https://www.jabberwocky.com/software/paperkey/
+https://www.jabref.org/
 https://www.jair.org/index.php/jair
 https://www.jamovi.org/
 https://www.janestreet.com/
@@ -34434,6 +34475,7 @@ https://www.mandiant.com/resources/apt-groups
 https://www.mandiant.com/resources/blog/prc-dragonbridge-influence-elections
 https://www.mandiant.com/resources/insights/apt-groups
 https://www.mandiant.com/resources/unc3524-eye-spy-email
+https://www.manim.community/
 https://www.manning.com/books/advanced-algorithms-and-data-structures
 https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets
 https://www.manning.com/books/deep-learning-with-python-second-edition
@@ -34781,6 +34823,7 @@ https://www.mpg.de/de
 https://www.mpi-forum.org/
 https://www.mpi-inf.mpg.de/departments/algorithms-complexity/teaching/winter17/comp-alg
 https://www.mpi-inf.mpg.de/home/
+https://www.mpi-magdeburg.mpg.de/projects/flexiblas
 https://www.mqasem.net/vectorquantization/vq.html
 https://www.mrc-bsu.cam.ac.uk/software/bugs/
 https://www.mrc-bsu.cam.ac.uk/software/bugs/openbugs
@@ -35966,6 +36009,7 @@ https://www.routledge.com/Computability-Theory/Cooper/p/book/9781584882374
 https://www.routledge.com/Computational-Number-Theory/Das/p/book/9781439866153
 https://www.routledge.com/Computer-Algebra-Concepts-and-Techniques/Lamagna/p/book/9780367510459
 https://www.routledge.com/computer-science-engineering/cryptography-coding-theory
+https://www.routledge.com/Counterexamples-in-Probability-And-Statistics/Romano-Siegel/p/book/9780412989018
 https://www.routledge.com/Cryptanalysis-of-RSA-and-Its-Variants/Hinek/p/book/9781420075182
 https://www.routledge.com/Cryptography-Theory-and-Practice/Stinson-Paterson/p/book/9781032476049
 https://www.routledge.com/Cryptography-Theory-and-Practice/Stinson-Paterson/p/book/9781138197015
@@ -36116,6 +36160,7 @@ https://www.schneier.com/tag/cryptography/
 https://www.schneier.com/wp-content/uploads/2015/01/paper-self-study.pdf
 https://www.schneier.com/wp-content/uploads/2016/02/paper-frog.pdf
 https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf
+https://www.scholars.northwestern.edu/en/publications/a-sociology-of-quantification
 https://www.schrodinger.com/
 https://www.schrodinger.com/products/pymol
 https://www.scielo.org/
