@@ -317,6 +317,7 @@ https://86box.net/
 https://8bitnews.io/
 https://8bitnews.io/article/tic80-a-better-pico8
 https://99percentinvisible.org
+https://99percentinvisible.org/episode/h-day/
 https://9front.org/
 https://9lab.org/plan9/thinkpad-t420s/
 https://9p.io/
@@ -1071,12 +1072,14 @@ https://arxiv.org/abs/2311.11045
 https://arxiv.org/abs/2311.16093
 https://arxiv.org/abs/2312.00752
 https://arxiv.org/abs/2312.04556
+https://arxiv.org/abs/2312.04836
 https://arxiv.org/abs/2312.08361
 https://arxiv.org/abs/2312.14688
 https://arxiv.org/abs/2402.09842
 https://arxiv.org/abs/2402.15715
 https://arxiv.org/abs/2403.03998
 https://arxiv.org/abs/2405.00832
+https://arxiv.org/abs/2405.13817
 https://arxiv.org/abs/cs/0610105
 https://arxiv.org/abs/physics/0106045
 https://arxiv.org/abs/physics/0208101
@@ -1443,6 +1446,7 @@ https://blog.mozilla.org/en/
 https://blog.nationalarchives.gov.uk/applications-of-probability-to-cryptography-part-two/
 https://blog.nationalarchives.gov.uk/the-applications-of-probability-to-cryptography-part-1/
 https://blog.netbsd.org/
+https://blog.normalcomputing.ai/posts/2023-11-09-thermodynamic-inversion/thermo-inversion.html
 https://blog.nuclearsecrecy.com/
 https://blog.nuclearsecrecy.com/2012/09/12/in-search-of-a-bigger-boom/
 https://blog.nuclearsecrecy.com/2014/05/23/oppenheimer-gita/
@@ -1688,6 +1692,7 @@ https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-valu
 https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext
 https://cacm.acm.org/magazines/2024/1/278892-computing-you-have-blood-on-your-hands/fulltext
 https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext
+https://cacm.acm.org/opinion/a-vision-to-compute-like-nature/
 https://cacm.acm.org/opinion/generative-ai-and-cs-education/
 https://cacm.acm.org/research/a-new-golden-age-for-computer-architecture/
 https://cacm.acm.org/research/exponential-laws-of-computing-growth/
@@ -5760,6 +5765,7 @@ https://en.wikipedia.org/wiki/Atmosphere_of_Earth
 https://en.wikipedia.org/wiki/Atmosphere_of_the_Moon
 https://en.wikipedia.org/wiki/Atmospheric_methane
 https://en.wikipedia.org/wiki/Atmospheric_model
+https://en.wikipedia.org/wiki/Atom_(measure_theory)
 https://en.wikipedia.org/wiki/Atomic_commit
 https://en.wikipedia.org/wiki/Atomic_mass
 https://en.wikipedia.org/wiki/Atomic_physics
@@ -13389,6 +13395,7 @@ https://en.wikipedia.org/wiki/List_of_eponyms_of_special_functions
 https://en.wikipedia.org/wiki/List_of_equations
 https://en.wikipedia.org/wiki/List_of_equations_in_classical_mechanics
 https://en.wikipedia.org/wiki/List_of_ethics_journals
+https://en.wikipedia.org/wiki/List_of_extreme_weather_records_in_Pakistan
 https://en.wikipedia.org/wiki/List_of_federal_agencies_in_the_United_States
 https://en.wikipedia.org/wiki/List_of_fictional_deities
 https://en.wikipedia.org/wiki/List_of_fictional_doomsday_devices
@@ -14628,6 +14635,7 @@ https://en.wikipedia.org/wiki/Modularity_theorem
 https://en.wikipedia.org/wiki/Module_(mathematics)
 https://en.wikipedia.org/wiki/Moduli_space
 https://en.wikipedia.org/wiki/Modulo
+https://en.wikipedia.org/wiki/Mohenjo-daro
 https://en.wikipedia.org/wiki/MoinMoin
 https://en.wikipedia.org/wiki/Mojo_(programming_language)
 https://en.wikipedia.org/wiki/Moldavia
@@ -16281,6 +16289,7 @@ https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem
 https://en.wikipedia.org/wiki/Poincar%C3%A9%E2%80%93Hopf_theorem
 https://en.wikipedia.org/wiki/Point_in_polygon
 https://en.wikipedia.org/wiki/Point_location
+https://en.wikipedia.org/wiki/Point_particle
 https://en.wikipedia.org/wiki/Point_process
 https://en.wikipedia.org/wiki/Pointer_machine
 https://en.wikipedia.org/wiki/Poisson_distribution
@@ -24410,6 +24419,7 @@ https://insecure.org/sploits.html
 https://insidebigdata.com/
 https://insidebigdata.com/2023/09/20/26-years-since-its-inception-postgres-is-just-getting-started/
 https://insidehpc.com/
+https://insidehpc.com/2024/01/normal-computing-unveils-thermodynamic-computer/
 https://insightfellows.com/data-engineering
 https://insightmaker.com/
 https://insightmaker.com/docs/functions
@@ -27273,6 +27283,7 @@ https://medlineplus.gov/lab-tests/liver-function-tests/
 https://medriscoll.com/
 https://meetings.informs.org/wordpress/wsc2023/
 https://mega65.org/
+https://melange.re/
 https://melpa.org/
 https://meltdownattack.com/meltdown.pdf
 https://members.loria.fr/PZimmermann/
@@ -27953,6 +27964,7 @@ https://onthinktanks.org/
 https://onthinktanks.org/open-think-tank-directory/
 https://onthinktanks.org/series/think-tanks-in-china/
 https://ooir.org/
+https://op-co.de/
 https://op.europa.eu/en/home
 https://opam.ocaml.org/
 https://opam.ocaml.org/packages/
@@ -35068,6 +35080,7 @@ https://www.newline.co/fullstack-react
 https://www.newline.co/fullstack-react-with-typescript
 https://www.newline.co/security-from-zero
 https://www.newscientist.com/
+https://www.newscientist.com/article/2412212-first-thermodynamic-computer-uses-random-noise-to-calculate/
 https://www.newstatesman.com/
 https://www.newsweek.com/
 https://www.newyorker.com/
@@ -36358,6 +36371,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0169023X07001401
 https://www.sciencedirect.com/science/article/abs/pii/S0169207006000021?via%3Dihub
 https://www.sciencedirect.com/science/article/abs/pii/S0169207006000239?via%3Dihub
 https://www.sciencedirect.com/science/article/abs/pii/S016975529800110X
+https://www.sciencedirect.com/science/article/abs/pii/S0262407924001465
 https://www.sciencedirect.com/science/article/abs/pii/S036054421830879X
 https://www.sciencedirect.com/science/article/abs/pii/S0747717120300924
 https://www.sciencedirect.com/science/article/abs/pii/S0893608002000679
