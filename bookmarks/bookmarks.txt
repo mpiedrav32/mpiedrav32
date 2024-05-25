@@ -10549,6 +10549,7 @@ https://en.wikipedia.org/wiki/Gaspard-Gustave_de_Coriolis
 https://en.wikipedia.org/wiki/Gaston_Gonnet
 https://en.wikipedia.org/wiki/Gated_recurrent_unit
 https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)
+https://en.wikipedia.org/wiki/Gauss_map
 https://en.wikipedia.org/wiki/Gauss%27s_law
 https://en.wikipedia.org/wiki/Gauss%E2%80%93Legendre_algorithm
 https://en.wikipedia.org/wiki/Gauss%E2%80%93Markov_theorem
@@ -18395,6 +18396,7 @@ https://en.wikipedia.org/wiki/Special_Communications_Service_of_Russia
 https://en.wikipedia.org/wiki/Special_functions
 https://en.wikipedia.org/wiki/Special_Higher_Police
 https://en.wikipedia.org/wiki/Special_Interest_Group_on_Knowledge_Discovery_and_Data_Mining
+https://en.wikipedia.org/wiki/Special_linear_group
 https://en.wikipedia.org/wiki/Special_number_field_sieve
 https://en.wikipedia.org/wiki/Special_relativity
 https://en.wikipedia.org/wiki/Special_sciences
@@ -21346,6 +21348,7 @@ https://gchq.github.io/CyberChef/
 https://gcmd.github.io/
 https://gdal.org/
 https://gdcproject.org/
+https://gdz.sub.uni-goettingen.de/id/PPN534901565
 https://geant.org/
 https://gef.readthedocs.io/en/master/
 https://gegl.org/
@@ -25415,6 +25418,7 @@ https://library.lol/main/5D2B9428A941AC9A4370DE5449947369
 https://library.lol/main/5DC974B373DDDEFA87D3AEB9AB2C34E2
 https://library.lol/main/5E0753D21F090588B8AF3DA527B2B894
 https://library.lol/main/5E9067A8D191DFB6240629FDC409AE8D
+https://library.lol/main/5EE485124A8CA0FFCAD560C409A7977A
 https://library.lol/main/5F1830D03E9FACA1B03C93C04F6C114E
 https://library.lol/main/5F7F84E2963550D897E8E56CAD7C4289
 https://library.lol/main/6010A1ED9B292FA34D283F33000C034F
@@ -31750,6 +31754,7 @@ https://www.cambridge.org/core/books/cours-danalyse-de-lecole-polytechnique/ACC4
 https://www.cambridge.org/core/books/cours-danalyse-de-lecole-royale-polytechnique/6C188379B5EDEE6027E5253853CB45BC
 https://www.cambridge.org/core/books/course-of-modern-analysis/0702B9DE7A1F91437980EAE5F4F8B2A3
 https://www.cambridge.org/core/books/course-of-pure-mathematics/C173EAE2C237501382D145CAD4789AC5
+https://www.cambridge.org/core/books/die-ausdehnungslehre/091CBA26D430CD07A0089D6EBE273C2C
 https://www.cambridge.org/core/books/doctrine-of-chances/15CB7A25354C60A1C697AFC655705E62
 https://www.cambridge.org/core/books/elements-of-algebra/2F888DC50EEDB8F4B7A4B7E17BC131D9
 https://www.cambridge.org/core/books/elliptic-curves-in-cryptography/16A2B60636EFA7EBCC3D5A5D01F28546
