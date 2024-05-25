@@ -13796,6 +13796,7 @@ https://en.wikipedia.org/wiki/Local_regression
 https://en.wikipedia.org/wiki/Local_search_(optimization)
 https://en.wikipedia.org/wiki/Local_tangent_space_alignment
 https://en.wikipedia.org/wiki/Local_time_(mathematics)
+https://en.wikipedia.org/wiki/Local-area_augmentation_system
 https://en.wikipedia.org/wiki/Locality-sensitive_hashing
 https://en.wikipedia.org/wiki/Locally_convex_topological_vector_space
 https://en.wikipedia.org/wiki/Locate_(Unix)
@@ -20375,6 +20376,7 @@ https://en.wikipedia.org/wiki/Whole_Foods_Market
 https://en.wikipedia.org/wiki/Why_Most_Published_Research_Findings_Are_False
 https://en.wikipedia.org/wiki/Why_Socialism%3F
 https://en.wikipedia.org/wiki/Wicca
+https://en.wikipedia.org/wiki/Wide_Area_Augmentation_System
 https://en.wikipedia.org/wiki/Wide-column_store
 https://en.wikipedia.org/wiki/Wide-issue
 https://en.wikipedia.org/wiki/Widescreen
@@ -34707,6 +34709,7 @@ https://www.mcs.anl.gov/research/projects/otc/InteriorPoint/
 https://www.mdanalysis.org/
 https://www.mdpi.com/1099-4300/13/3/612
 https://www.mdpi.com/1099-4300/22/10/1100
+https://www.mdpi.com/1424-8220/16/6/912
 https://www.mdpi.com/2075-1680/12/1/32
 https://www.mdpi.com/2076-3417/13/17/9780
 https://www.mdpi.com/2504-3900/47/1/23
