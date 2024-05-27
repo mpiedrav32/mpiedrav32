@@ -10180,6 +10180,7 @@ https://en.wikipedia.org/wiki/Fitness_function
 https://en.wikipedia.org/wiki/FITS
 https://en.wikipedia.org/wiki/FitzHugh%E2%80%93Nagumo_model
 https://en.wikipedia.org/wiki/Five_Eyes
+https://en.wikipedia.org/wiki/Five-number_summary
 https://en.wikipedia.org/wiki/Five-point_stencil
 https://en.wikipedia.org/wiki/Fixed_cost
 https://en.wikipedia.org/wiki/Fixed_point_(mathematics)
@@ -17937,6 +17938,7 @@ https://en.wikipedia.org/wiki/Seven_(1995_film)
 https://en.wikipedia.org/wiki/Seven_basic_tools_of_quality
 https://en.wikipedia.org/wiki/Seven_heavens
 https://en.wikipedia.org/wiki/Seven_hills_of_Rome
+https://en.wikipedia.org/wiki/Seven-number_summary
 https://en.wikipedia.org/wiki/Sexagesimal
 https://en.wikipedia.org/wiki/SFlow
 https://en.wikipedia.org/wiki/SFNT
@@ -18553,6 +18555,7 @@ https://en.wikipedia.org/wiki/Stanford_MIPS
 https://en.wikipedia.org/wiki/Stanford_Research_Institute_Problem_Solver
 https://en.wikipedia.org/wiki/Stanford_University
 https://en.wikipedia.org/wiki/Stanford_University_centers_and_institutes
+https://en.wikipedia.org/wiki/Stanine
 https://en.wikipedia.org/wiki/Stanis%C5%82aw_Le%C5%9Bniewski
 https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem
 https://en.wikipedia.org/wiki/Stanis%C5%82aw_Mazur
@@ -19419,6 +19422,7 @@ https://en.wikipedia.org/wiki/Three_Seas_Initiative
 https://en.wikipedia.org/wiki/Three-body_force
 https://en.wikipedia.org/wiki/Three-body_problem
 https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit
+https://en.wikipedia.org/wiki/Three-point_estimation
 https://en.wikipedia.org/wiki/Three-valued_logic
 https://en.wikipedia.org/wiki/Three.js
 https://en.wikipedia.org/wiki/Threshold_cryptosystem
@@ -31149,6 +31153,7 @@ https://wires.onlinelibrary.wiley.com/doi/10.1002/wics.1534
 https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wics.1534
 https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wics.1530
 https://wiresharkfoundation.org/
+https://wizardzines.com/
 https://wol.iza.org/
 https://wol.iza.org/articles/economic-value-of-language-skills/long
 https://wonikjang.github.io/deeplearning_unsupervised_som/2017/06/30/som.html
@@ -36470,6 +36475,7 @@ https://www.scientific-computing.com/
 https://www.scientificamerican.com/
 https://www.scientificamerican.com/article/an-earth-without-people/
 https://www.scientificamerican.com/article/black-hole-computers-2007-04/
+https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/
 https://www.scientificamerican.com/article/how-the-survivor-bias-distorts-reality/
 https://www.scientificamerican.com/article/limits-on-human-comprehension/
 https://www.scientificamerican.com/article/mathematical-games-1977-08/
