@@ -18045,6 +18045,7 @@ https://en.wikipedia.org/wiki/Signals_intelligence
 https://en.wikipedia.org/wiki/Signals_intelligence_in_modern_history
 https://en.wikipedia.org/wiki/Signed_distance_function
 https://en.wikipedia.org/wiki/Signetics_2650
+https://en.wikipedia.org/wiki/Significance_(magazine)
 https://en.wikipedia.org/wiki/Signify_(album)
 https://en.wikipedia.org/wiki/Signomial
 https://en.wikipedia.org/wiki/SIGPLAN
@@ -37953,7 +37954,6 @@ https://www.youtube.com/watch?v=zkQ0vEYry20
 https://www.yubico.com/
 https://www.yubico.com/authentication-standards/webauthn/
 https://www.yubico.com/blog/
-https://www.yubico.com/cr/product/yubikey-5-nfc/
 https://www.yubico.com/resources/glossary/ctap/
 https://www.yubico.com/resources/glossary/fido-2/
 https://www.yubico.com/resources/glossary/fido-alliance/
