@@ -11269,6 +11269,8 @@ https://en.wikipedia.org/wiki/Heinz_mean
 https://en.wikipedia.org/wiki/Heinz_Nixdorf_MuseumsForum
 https://en.wikipedia.org/wiki/Heinz_Rutishauser
 https://en.wikipedia.org/wiki/Heisuke_Hironaka
+https://en.wikipedia.org/wiki/Hel_(location)
+https://en.wikipedia.org/wiki/Hel_(mythological_being)
 https://en.wikipedia.org/wiki/Helen_Chan_Wolf
 https://en.wikipedia.org/wiki/Helen_Marnie
 https://en.wikipedia.org/wiki/Helena_Blavatsky
@@ -17879,6 +17881,7 @@ https://en.wikipedia.org/wiki/Sensitivity_analysis
 https://en.wikipedia.org/wiki/Sensitivity_and_specificity
 https://en.wikipedia.org/wiki/Sensitivity_index
 https://en.wikipedia.org/wiki/Sentiment_analysis
+https://en.wikipedia.org/wiki/Senua_(Hellblade)
 https://en.wikipedia.org/wiki/Seohak
 https://en.wikipedia.org/wiki/Separation_of_concerns
 https://en.wikipedia.org/wiki/Separation_of_mechanism_and_policy
@@ -20024,6 +20027,7 @@ https://en.wikipedia.org/wiki/Vacuum_tube
 https://en.wikipedia.org/wiki/Vaishnavism
 https://en.wikipedia.org/wiki/Val%C3%A9ry_Giscard_d%27Estaing
 https://en.wikipedia.org/wiki/Valencian_language
+https://en.wikipedia.org/wiki/Valknut
 https://en.wikipedia.org/wiki/Valley_of_the_Fallen
 https://en.wikipedia.org/wiki/Value_criticism
 https://en.wikipedia.org/wiki/Value_function
