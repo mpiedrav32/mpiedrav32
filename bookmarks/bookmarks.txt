@@ -45,6 +45,8 @@ http://edwardlib.org/
 http://elementsofprogramming.com/
 http://emath.fr/
 http://esp32.net/
+http://eulerarchive.maa.org/
+http://eulerarchive.maa.org/backup/E530.html
 http://fluxbox.org/
 http://focm-society.org/
 http://focm-society.org/index.php
@@ -188,6 +190,7 @@ http://www.cpm.z80.de/
 http://www.dns-lg.com/
 http://www.environmetrics.org/
 http://www.erlang.org/doc/programming_examples/bit_syntax.html
+http://www.eulersociety.org/
 http://www.faqs.org/faqs/atari-8-bit/faq/
 http://www.faqs.org/faqs/crypto/
 http://www.faqs.org/faqs/cryptography-faq/
@@ -370,6 +373,7 @@ https://academic.oup.com/cybersecurity/article/6/1/tyaa011/5920841
 https://academic.oup.com/edited-volume/34324
 https://academic.oup.com/genetics
 https://academic.oup.com/ia
+https://academic.oup.com/jrsssa/issue/111/3
 https://academiccommons.columbia.edu/
 https://academiccommons.columbia.edu/doi/10.7916/D8V711TR
 https://academicinfluence.com/
@@ -3093,6 +3097,7 @@ https://de.wikipedia.org/wiki/Politische_Theorie
 https://de.wikipedia.org/wiki/Politisches_System_der_Bundesrepublik_Deutschland
 https://de.wikipedia.org/wiki/Preu%C3%9Fen
 https://de.wikipedia.org/wiki/Qantara.de
+https://de.wikipedia.org/wiki/Quasigruppe
 https://de.wikipedia.org/wiki/R%C3%B6misches_Reich
 https://de.wikipedia.org/wiki/Regierungsbezirk_K%C3%B6ln
 https://de.wikipedia.org/wiki/Relativit%C3%A4tstheorie
@@ -3134,6 +3139,7 @@ https://de.wikipedia.org/wiki/Verein_Deutscher_Ingenieure
 https://de.wikipedia.org/wiki/Vereinte_Dienstleistungsgewerkschaft
 https://de.wikipedia.org/wiki/Verfassungsschutz
 https://de.wikipedia.org/wiki/Vergleichende_Politikwissenschaft
+https://de.wikipedia.org/wiki/Verkn%C3%BCpfungstafel
 https://de.wikipedia.org/wiki/Volluniversit%C3%A4t
 https://de.wikipedia.org/wiki/Vulgo
 https://de.wikipedia.org/wiki/W%C3%BCrzburg
@@ -3349,6 +3355,7 @@ https://digital.deutsches-museum.de/de/digital-catalogue/collection-object/71930
 https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=1337&context=cs_tr
 https://digitalcommons.dartmouth.edu/dissertations/80/
 https://digitalprivacy.ieee.org/
+https://digitalprivacy.ieee.org/publications/topics/what-is-differential-privacy
 https://dillo.org/
 https://diplomatique.org.br/
 https://direct.mit.edu/books/book/3058/Single-Neuron-Studies-of-the-Human-BrainProbing
@@ -5436,6 +5443,8 @@ https://en.wikipedia.org/wiki/Annihilator_method
 https://en.wikipedia.org/wiki/Anomaly_(natural_sciences)
 https://en.wikipedia.org/wiki/Anomaly_detection
 https://en.wikipedia.org/wiki/Anonymous;Code
+https://en.wikipedia.org/wiki/ANOVA_on_ranks
+https://en.wikipedia.org/wiki/ANOVA%E2%80%93simultaneous_component_analysis
 https://en.wikipedia.org/wiki/Anscombe%27s_quartet
 https://en.wikipedia.org/wiki/ANSI_C
 https://en.wikipedia.org/wiki/Answer_set_programming
@@ -7027,6 +7036,7 @@ https://en.wikipedia.org/wiki/Category:Laplace_transforms
 https://en.wikipedia.org/wiki/Category:Large_language_models
 https://en.wikipedia.org/wiki/Category:Latent_variable_models
 https://en.wikipedia.org/wiki/Category:Lattice-based_cryptography
+https://en.wikipedia.org/wiki/Category:Least_squares
 https://en.wikipedia.org/wiki/Category:Limit_sets
 https://en.wikipedia.org/wiki/Category:Linear_algebra
 https://en.wikipedia.org/wiki/Category:Linear_operators
@@ -8964,6 +8974,7 @@ https://en.wikipedia.org/wiki/Depeche_Mode
 https://en.wikipedia.org/wiki/Dependency_theory
 https://en.wikipedia.org/wiki/Dependency_theory_(database_theory)
 https://en.wikipedia.org/wiki/Dependent_and_independent_variables
+https://en.wikipedia.org/wiki/Dependent_and_independent_variables#Statistics_synonyms
 https://en.wikipedia.org/wiki/Dependent_type
 https://en.wikipedia.org/wiki/Depersonalization
 https://en.wikipedia.org/wiki/Depletion-load_NMOS_logic
@@ -10183,6 +10194,7 @@ https://en.wikipedia.org/wiki/Five_Eyes
 https://en.wikipedia.org/wiki/Five-number_summary
 https://en.wikipedia.org/wiki/Five-point_stencil
 https://en.wikipedia.org/wiki/Fixed_cost
+https://en.wikipedia.org/wiki/Fixed_effects_model
 https://en.wikipedia.org/wiki/Fixed_point_(mathematics)
 https://en.wikipedia.org/wiki/Fixed-point_iteration
 https://en.wikipedia.org/wiki/Fixed-point_logic
@@ -10897,6 +10909,7 @@ https://en.wikipedia.org/wiki/Google_Code-in
 https://en.wikipedia.org/wiki/Google_DeepMind
 https://en.wikipedia.org/wiki/Google_Hummingbird
 https://en.wikipedia.org/wiki/Google_JAX
+https://en.wikipedia.org/wiki/Google_Lens
 https://en.wikipedia.org/wiki/Google_matrix
 https://en.wikipedia.org/wiki/Google_Panda
 https://en.wikipedia.org/wiki/Google_Penguin
@@ -13998,6 +14011,7 @@ https://en.wikipedia.org/wiki/Magdeburg_rights
 https://en.wikipedia.org/wiki/Magi
 https://en.wikipedia.org/wiki/Magic_(cryptography)
 https://en.wikipedia.org/wiki/Magic_(software)
+https://en.wikipedia.org/wiki/Magic_in_the_Greco-Roman_world
 https://en.wikipedia.org/wiki/Magical_Treatise_of_Solomon
 https://en.wikipedia.org/wiki/Magma_(computer_algebra_system)
 https://en.wikipedia.org/wiki/Magna_Carta
@@ -14821,6 +14835,7 @@ https://en.wikipedia.org/wiki/Mutator_method
 https://en.wikipedia.org/wiki/Mutt_(email_client)
 https://en.wikipedia.org/wiki/Mutual_information
 https://en.wikipedia.org/wiki/Mutual_recursion
+https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares
 https://en.wikipedia.org/wiki/MuZero
 https://en.wikipedia.org/wiki/My_Dying_Bride
 https://en.wikipedia.org/wiki/My_kung_fu_is_stronger_than_yours
@@ -15848,6 +15863,7 @@ https://en.wikipedia.org/wiki/Panama_Canal
 https://en.wikipedia.org/wiki/Panasonic
 https://en.wikipedia.org/wiki/Panchatantra
 https://en.wikipedia.org/wiki/Pandas_(software)
+https://en.wikipedia.org/wiki/Pandiagonal_magic_square
 https://en.wikipedia.org/wiki/Panel_analysis
 https://en.wikipedia.org/wiki/Panel_data
 https://en.wikipedia.org/wiki/Panel_Study_of_Income_Dynamics
@@ -18603,6 +18619,7 @@ https://en.wikipedia.org/wiki/Statistic
 https://en.wikipedia.org/wiki/Statistical_Abstract_of_the_United_States
 https://en.wikipedia.org/wiki/Statistical_assumption
 https://en.wikipedia.org/wiki/Statistical_classification
+https://en.wikipedia.org/wiki/Statistical_coupling_analysis
 https://en.wikipedia.org/wiki/Statistical_dispersion
 https://en.wikipedia.org/wiki/Statistical_distance
 https://en.wikipedia.org/wiki/Statistical_finance
@@ -18632,6 +18649,7 @@ https://en.wikipedia.org/wiki/Statistical_unit
 https://en.wikipedia.org/wiki/Statistician
 https://en.wikipedia.org/wiki/Statistics
 https://en.wikipedia.org/wiki/Statistics_education
+https://en.wikipedia.org/wiki/Statistics_Online_Computational_Resource
 https://en.wikipedia.org/wiki/Statistics_Without_Borders
 https://en.wikipedia.org/wiki/Staunton_chess_set
 https://en.wikipedia.org/wiki/Stay-behind
@@ -21385,6 +21403,7 @@ https://ggforce.data-imaginist.com/
 https://ggplot2-book.org/
 https://ggplot2.tidyverse.org/
 https://ggraph.data-imaginist.com/
+https://ggrepel.slowkow.com/
 https://ghe.clickhouse.tech/
 https://ghidra-sre.org/
 https://ghostbsd.org/
@@ -25191,6 +25210,7 @@ https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slo
 https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/
 https://lemire.me/en/
 https://lemon.cs.elte.hu/trac/lemon
+https://lens.google/
 https://lenskit.org/
 https://leon.bottou.org/papers
 https://leon.bottou.org/start
@@ -25689,6 +25709,7 @@ https://link.springer.com/article/10.1007/BF03024085
 https://link.springer.com/article/10.1007/BF03024340
 https://link.springer.com/article/10.1007/BF03025304
 https://link.springer.com/article/10.1007/s00024-022-03137-2
+https://link.springer.com/article/10.1007/s00026-005-0261-7
 https://link.springer.com/article/10.1007/s000370050019
 https://link.springer.com/article/10.1007/s00894-021-04674-8
 https://link.springer.com/article/10.1007/s10115-007-0114-2
@@ -26664,6 +26685,7 @@ https://livefreeordichotomize.com/
 https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html
 https://liveoverflow.com/
 https://livesql.oracle.com/
+https://livesql.oracle.com/apex/livesql/file/content_C1VKXVUPCM4TOAHZ9YA3SQD3H.html
 https://lkml.org/
 https://lkrg.org/
 https://lld.llvm.org/
@@ -26936,6 +26958,7 @@ https://maa.org/press/periodicals/college-mathematics-journal/the-college-mathem
 https://maa.org/press/periodicals/convergence
 https://maa.org/press/periodicals/convergence/eratosthenes-and-the-mystery-of-the-stades-how-long-is-a-stade
 https://maa.org/press/periodicals/convergence/eratosthenes-and-the-mystery-of-the-stades-introduction
+https://maa.org/press/periodicals/convergence/euler-squares-introduction
 https://maa.org/press/periodicals/convergence/quotations/richard-courant-0
 https://maa.org/press/periodicals/convergence/the-sagacity-of-circles-a-history-of-the-isoperimetric-problem-analytic-solution-to-the-problem
 https://maa.org/press/periodicals/convergence/the-sagacity-of-circles-a-history-of-the-isoperimetric-problem-introduction
@@ -27218,6 +27241,7 @@ https://mathworld.wolfram.com/EulerFormula.html
 https://mathworld.wolfram.com/FrobeniusMethod.html
 https://mathworld.wolfram.com/HeavisideStepFunction.html
 https://mathworld.wolfram.com/IntegralEquation.html
+https://mathworld.wolfram.com/LatinSquare.html
 https://mathworld.wolfram.com/LogarithmicIntegral.html
 https://mathworld.wolfram.com/LorenzAttractor.html
 https://mathworld.wolfram.com/Lotka-VolterraEquations.html
@@ -27266,6 +27290,7 @@ https://mctiny.org/
 https://mcurrent.name/
 https://mcurrent.name/atari-8-bit/faq.txt
 https://mcyoung.xyz/2021/06/01/linker-script/
+https://md.psych.bio.uni-goettingen.de/mv/unit/lm_cat/lm_cat_unbal_ss_explained.html
 https://mdfs.net/Software/BBCBasic/
 https://mdse-book.com/
 https://measure.axler.net/
@@ -28934,6 +28959,7 @@ https://protonvpn.com/support/linux-openvpn/
 https://protonvpn.com/support/wireguard-manual-linux/
 https://psiphon.ca/
 https://psyche.co/
+https://psycnet.apa.org/doiLanding?doi=10.1037%2F0003-066X.54.8.594
 https://psycnet.apa.org/doiLanding?doi=10.1037%2Fmet0000542
 https://psycnet.apa.org/home
 https://psycnet.apa.org/record/1951-02887-001
@@ -29175,6 +29201,7 @@ https://reactormag.com/
 https://reactos.org/
 https://reactrouter.com/en/main
 https://read.dukeupress.edu/common-knowledge/article-abstract/15/3/395/6636/Quietism-from-the-Side-of-HappinessTolstoy
+https://readcoop.eu/
 https://readr.tidyverse.org/
 https://readxl.tidyverse.org/
 https://realkm.com/
@@ -29530,6 +29557,7 @@ https://scholar.google.com/citations?user=ToxxF5oAAAAJ&hl=en
 https://scholar.google.com/citations?user=x_wsduUAAAAJ
 https://scholar.google.com/citations?user=zkdjit0AAAAJ&hl=en
 https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=phy_computationalmathematics
+https://scholarlycommons.pacific.edu/euler-works/530/
 https://scicomp.cs.illinois.edu/
 https://science.nasa.gov/
 https://science.psu.edu/math
@@ -31661,6 +31689,7 @@ https://www.boost.org/doc/libs/1_83_0/doc/html/boost_asio.html
 https://www.boost.org/sgi/stl/
 https://www.boost.org/sgi/stl/stl_introduction.html
 https://www.borealisai.com/en/blog/tutorial-9-sat-solvers-i-introduction-and-applications/
+https://www.boredpanda.com/russian-cursive/
 https://www.boston.com/
 https://www.bouncycastle.org/
 https://www.bouncycastle.org/csharp/index.html
@@ -32078,6 +32107,7 @@ https://www.cip-project.org/
 https://www.ciphermachines.com/
 https://www.ciphermachinesandcryptology.com/
 https://www.circuitlogix.com/
+https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf
 https://www.cis.upenn.edu/~bcpierce/attapl/
 https://www.cis.upenn.edu/~bcpierce/tapl/
 https://www.cis.upenn.edu/~jean/gbooks/logic.html
@@ -33512,6 +33542,7 @@ https://www.goodreads.com/book/show/4094864-the-elements-of-statistical-learning
 https://www.goodreads.com/book/show/411721.All_of_Nonparametric_Statistics
 https://www.goodreads.com/book/show/411722.All_of_Statistics
 https://www.goodreads.com/book/show/41580260-the-fifth-science
+https://www.goodreads.com/book/show/416113.The_History_of_Statistics
 https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual
 https://www.goodreads.com/book/show/433439.Elements_of_Information_Theory_2nd_Edition
 https://www.goodreads.com/book/show/433443.An_Introduction_to_Information_Theory
@@ -34081,6 +34112,7 @@ https://www.ithaka.org/
 https://www.itl.nist.gov/div898/handbook/
 https://www.itl.nist.gov/div898/handbook/index.htm
 https://www.itl.nist.gov/div898/handbook/pmd/section4/pmd44.htm
+https://www.itl.nist.gov/div898/handbook/prc/section4/prc42.htm
 https://www.its.caltech.edu/~matilde/SpaceMath.pdf
 https://www.itsoc.org/
 https://www.itsoc.org/about/shannon
@@ -35411,6 +35443,7 @@ https://www.oracle.com/applications/
 https://www.oracle.com/cloud/
 https://www.oracle.com/database/
 https://www.oracle.com/database/technologies/
+https://www.oracle.com/database/technologies/bi-datawarehousing.html
 https://www.oracle.com/database/technologies/flashback/
 https://www.oracle.com/database/technologies/related/berkeleydb-downloads.html
 https://www.oracle.com/java/
@@ -35654,6 +35687,7 @@ https://www.postman.com/
 https://www.pouet.net/
 https://www.pouet.net/prod.php?which=63
 https://www.pouly.fr/research.html
+https://www.pourlascience.fr/sr/histoire-sciencesles-ancetres-francais-du-sudoku-2930.php
 https://www.povray.org/
 https://www.powershellgallery.com/
 https://www.poynter.org/
