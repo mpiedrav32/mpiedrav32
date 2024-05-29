@@ -28,6 +28,7 @@ http://combos.org/
 http://community.schemewiki.org/
 http://community.schemewiki.org/?eopl
 http://community.schemewiki.org/?scheme-faq
+http://cran-logs.rstudio.com/
 http://cryptocouple.com/
 http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
 http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/
@@ -1084,6 +1085,7 @@ https://arxiv.org/abs/2402.15715
 https://arxiv.org/abs/2403.03998
 https://arxiv.org/abs/2405.00832
 https://arxiv.org/abs/2405.13817
+https://arxiv.org/abs/2405.17399
 https://arxiv.org/abs/cs/0610105
 https://arxiv.org/abs/physics/0106045
 https://arxiv.org/abs/physics/0208101
@@ -2225,6 +2227,7 @@ https://cran.r-project.org/web/packages/cmfrec/vignettes/cmfrec_vignette.html
 https://cran.r-project.org/web/packages/cobs/index.html
 https://cran.r-project.org/web/packages/codetools/index.html
 https://cran.r-project.org/web/packages/covr/index.html
+https://cran.r-project.org/web/packages/cranlogs/index.html
 https://cran.r-project.org/web/packages/crassmat/index.html
 https://cran.r-project.org/web/packages/crayon/index.html
 https://cran.r-project.org/web/packages/curl/index.html
@@ -2467,10 +2470,12 @@ https://cran.r-project.org/web/views/Robust.html
 https://cran.r-project.org/web/views/Spatial.html
 https://cran.r-project.org/web/views/TeachingStatistics.html
 https://cran.r-project.org/web/views/TimeSeries.html
+https://cran.rstudio.com/
 https://cran.rstudio.com/web/packages/caret/
 https://cran.rstudio.com/web/packages/ISLR2/
 https://cran.rstudio.com/web/packages/zoo/
 https://cranelift.dev/
+https://cranlogs.r-pkg.org/
 https://craphound.com/tag/war-on-general-purpose-computing/
 https://cratedb.com/
 https://crates.io/
@@ -3781,6 +3786,7 @@ https://dlang.org/
 https://dlang.org/foundation/about.html
 https://dlang.org/phobos/
 https://dlang.org/phobos/std_algorithm.html
+https://dle.rae.es/
 https://dlmf.nist.gov/
 https://dlmf.nist.gov/software/
 https://dmalloc.com/
@@ -6980,6 +6986,7 @@ https://en.wikipedia.org/wiki/Category:Graph_algorithms
 https://en.wikipedia.org/wiki/Category:Graphical_models
 https://en.wikipedia.org/wiki/Category:Graphics_chips
 https://en.wikipedia.org/wiki/Category:Graphics_software_by_license
+https://en.wikipedia.org/wiki/Category:Growth_curves
 https://en.wikipedia.org/wiki/Category:Hacker_magazines
 https://en.wikipedia.org/wiki/Category:Hainish_Cycle
 https://en.wikipedia.org/wiki/Category:Hardware_acceleration
@@ -7586,6 +7593,7 @@ https://en.wikipedia.org/wiki/Chemical_warfare
 https://en.wikipedia.org/wiki/Chemical_weapon
 https://en.wikipedia.org/wiki/Chemnitz_University_of_Technology
 https://en.wikipedia.org/wiki/Chemometrics
+https://en.wikipedia.org/wiki/Chemotherapy
 https://en.wikipedia.org/wiki/Chen_Guanrong
 https://en.wikipedia.org/wiki/Chengyu
 https://en.wikipedia.org/wiki/Chennai
@@ -9943,6 +9951,7 @@ https://en.wikipedia.org/wiki/Exploratory_factor_analysis
 https://en.wikipedia.org/wiki/Exponential_distribution
 https://en.wikipedia.org/wiki/Exponential_family
 https://en.wikipedia.org/wiki/Exponential_function
+https://en.wikipedia.org/wiki/Exponential_growth
 https://en.wikipedia.org/wiki/Exponential_integral
 https://en.wikipedia.org/wiki/Exponential_mechanism
 https://en.wikipedia.org/wiki/Exponential_polynomial
@@ -10619,6 +10628,7 @@ https://en.wikipedia.org/wiki/General_Services_Administration
 https://en.wikipedia.org/wiki/General_strike
 https://en.wikipedia.org/wiki/General_topology
 https://en.wikipedia.org/wiki/Generalised_Hough_transform
+https://en.wikipedia.org/wiki/Generalised_logistic_function
 https://en.wikipedia.org/wiki/Generalizations_of_the_derivative
 https://en.wikipedia.org/wiki/Generalized_additive_model
 https://en.wikipedia.org/wiki/Generalized_algebraic_data_type
@@ -10896,6 +10906,8 @@ https://en.wikipedia.org/wiki/Golem
 https://en.wikipedia.org/wiki/Golo_Mann
 https://en.wikipedia.org/wiki/Golomb_coding
 https://en.wikipedia.org/wiki/Gomoku
+https://en.wikipedia.org/wiki/Gompertz_distribution
+https://en.wikipedia.org/wiki/Gompertz_function
 https://en.wikipedia.org/wiki/Gompertz%E2%80%93Makeham_law_of_mortality
 https://en.wikipedia.org/wiki/Gonnect
 https://en.wikipedia.org/wiki/Goodness_of_fit
@@ -11072,6 +11084,7 @@ https://en.wikipedia.org/wiki/Grouped_data
 https://en.wikipedia.org/wiki/GroupLens_Research
 https://en.wikipedia.org/wiki/Grover%27s_algorithm
 https://en.wikipedia.org/wiki/Growing_self-organizing_map
+https://en.wikipedia.org/wiki/Growth_curve_(biology)
 https://en.wikipedia.org/wiki/Growth_curve_(statistics)
 https://en.wikipedia.org/wiki/Grzegorczyk_hierarchy
 https://en.wikipedia.org/wiki/GSM
@@ -20227,6 +20240,7 @@ https://en.wikipedia.org/wiki/Volume_ray_casting
 https://en.wikipedia.org/wiki/Voluntarism_(action)
 https://en.wikipedia.org/wiki/Voluntary_Human_Extinction_Movement
 https://en.wikipedia.org/wiki/Volvelle
+https://en.wikipedia.org/wiki/Von_Bertalanffy_function
 https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor
 https://en.wikipedia.org/wiki/Vorbis
 https://en.wikipedia.org/wiki/Voronoi_diagram
@@ -22829,6 +22843,9 @@ https://github.com/quodlibet/quodlibet
 https://github.com/quotient-im/Quaternion
 https://github.com/quozd/awesome-dotnet
 https://github.com/r-causal/quartets
+https://github.com/r-hub
+https://github.com/r-hub/cranlogs
+https://github.com/r-hub/cranlogs.app#the-api-of-the-cran-downloads-database
 https://github.com/r-lib
 https://github.com/r-lib/devtools
 https://github.com/r-lib/httr2
@@ -29137,6 +29154,8 @@ https://r-graph-gallery.com/all-graphs.html
 https://r-graph-gallery.com/best-r-chart-examples.html
 https://r-graph-gallery.com/ggplot2-package.html
 https://r-graphics.org/
+https://r-hub.github.io/cranlogs/
+https://r-hub.github.io/cranlogs/index.html
 https://r-hub.github.io/rhub/
 https://r-lib.r-universe.dev/builds
 https://r-nimble.org/
@@ -35871,6 +35890,7 @@ https://www.r6rs.org/
 https://www.radare.org/n/
 https://www.radio-browser.info/
 https://www.radiobremen.de/
+https://www.rae.es/dpd/
 https://www.rainews.it/
 https://www.ralphmerkle.com/1974/
 https://www.rambus.com/blogs/hardware-root-of-trust/
