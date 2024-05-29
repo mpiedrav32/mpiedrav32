@@ -11,7 +11,7 @@
               indent-tabs-mode nil)
 
 (when (display-graphic-p)
-  (set-face-font 'default "DejaVu Sans Mono 14")
+  (set-face-font 'default "Noto Sans Mono 12")
   (scroll-bar-mode -1)
   (tool-bar-mode -1))
 
