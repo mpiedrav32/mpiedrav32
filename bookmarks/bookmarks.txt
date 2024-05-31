@@ -436,6 +436,15 @@ https://aeon.co/essays/why-chinese-minds-still-bear-the-long-shadow-of-keju
 https://aeon.co/essays/why-the-empty-atom-picture-misunderstands-quantum-theory
 https://aeon.co/philosophy/ethics
 https://aerorust.org/
+https://afdc.energy.gov/
+https://afdc.energy.gov/fuels/biodiesel
+https://afdc.energy.gov/fuels/electricity
+https://afdc.energy.gov/fuels/ethanol
+https://afdc.energy.gov/fuels/hydrogen
+https://afdc.energy.gov/fuels/natural-gas
+https://afdc.energy.gov/fuels/propane
+https://afdc.energy.gov/fuels/renewable-diesel
+https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work
 https://africasacountry.com/
 https://africasacountry.com/2017/09/the-third-world-quarterly-debacle
 https://aghitza.org/
@@ -544,6 +553,7 @@ https://ampl.com/products/ampl/run-ampl-on-neos/
 https://ampl.com/python/
 https://amplmp.readthedocs.io/
 https://amplpy.ampl.com/en/latest/
+https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2017.1375990
 https://amturing.acm.org/
 https://amturing.acm.org/alphabetical.cfm
 https://amturing.acm.org/award_winners/dijkstra_1053701.cfm
@@ -22896,6 +22906,7 @@ https://github.com/Ravenbrook/mlworks
 https://github.com/rayon-rs/rayon
 https://github.com/razetime/ngn-k-tutorial
 https://github.com/rcppcore/rcpp
+https://github.com/RcppCore/Rcpp
 https://github.com/RcppCore/RcppArmadillo
 https://github.com/reactos/reactos
 https://github.com/readthedocs/sphinx_rtd_theme
@@ -23317,6 +23328,7 @@ https://github.com/TommyJones
 https://github.com/TommyJones/textmineR
 https://github.com/tonsky/FiraCode
 https://github.com/topazproject/topaz
+https://github.com/topepo/caret/
 https://github.com/topics/8-bit
 https://github.com/topics/apl
 https://github.com/topics/computer-algebra
@@ -29921,9 +29933,15 @@ https://solarsystem.nasa.gov/solar-system/beyond/overview/
 https://solarsystem.nasa.gov/solar-system/sun/overview/
 https://solr.apache.org/
 https://solutions.posit.co/
+https://solutions.posit.co/architecting/
 https://solutions.posit.co/connections/
 https://solutions.posit.co/connections/db/
 https://solutions.posit.co/connections/db/r-packages/odbc/
+https://solutions.posit.co/envs-pkgs/
+https://solutions.posit.co/guide/
+https://solutions.posit.co/operations/
+https://solutions.posit.co/secure-access/
+https://solutions.posit.co/write-code/
 https://solvers.battelle.org/cyber-challenge/cyber-challenge
 https://solverstack.gitlabpages.inria.fr/pastix/
 https://somoclu.readthedocs.io/en/stable/
