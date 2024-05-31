@@ -748,6 +748,7 @@ https://archive.org/
 https://archive.org/details/@mirtitles
 https://archive.org/details/011.Sonda-Fabryka.Absolutu
 https://archive.org/details/86-dos-version-0.1-c-serial-11-original-disk
+https://archive.org/details/fav-mirtitles
 https://archive.org/details/gantmacher-the-theory-of-matrices-vol-1-1959
 https://archive.org/details/gantmacher-the-theory-of-matrices-vol-2-1959
 https://archive.org/details/gelfand-fomin-calculus-of-variations
@@ -757,6 +758,7 @@ https://archive.org/details/sonda
 https://archive.org/details/texts
 https://archive.org/details/UnixProgrammingEnviornment
 https://archive.org/details/usenix-login
+https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024
 https://archive.softwareheritage.org/
 https://archlinux.org/
 https://archlinux.org/download/
@@ -21762,6 +21764,7 @@ https://github.com/cpq/bare-metal-programming-guide
 https://github.com/cr-marcstevens/sha1collisiondetection
 https://github.com/cracklib/cracklib
 https://github.com/crackmes/crackmes
+https://github.com/cran
 https://github.com/cran-task-views
 https://github.com/cran/glmnet
 https://github.com/cran/gtm
@@ -22452,6 +22455,7 @@ https://github.com/mermaid-js/mermaid
 https://github.com/metabrainz
 https://github.com/metabrainz/musicbrainz-server
 https://github.com/MetaCoq/metacoq
+https://github.com/metacran
 https://github.com/metno
 https://github.com/mfem/mfem
 https://github.com/mfornos/awesome-microservices
@@ -23536,6 +23540,7 @@ https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean
 https://gitlab.com/mailcare/mailcare
 https://gitlab.com/mailman/mailman
 https://gitlab.com/mascarene/mascarene
+https://gitlab.com/mirtitles/perelman-geometry
 https://gitlab.com/nsnam/ns-3-dev
 https://gitlab.com/NTPsec
 https://gitlab.com/NTPsec/ntpsec
@@ -27415,6 +27420,9 @@ https://mirrors.dotsrc.org/
 https://mirrors.edge.kernel.org/
 https://mirrors.kernel.org/
 https://mirrors.kernel.org/pub/linux/kernel/firmware/
+https://mirtitles.org/
+https://mirtitles.org/2024/05/30/geometry-for-entertainment-yakov-perelman/
+https://mirtitles.org/tag/perelman/
 https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/
 https://mistral.ai/
 https://mit6875.github.io/
@@ -31375,6 +31383,7 @@ https://www.allaboutcircuits.com/technical-articles/what-is-digital-ic-design/
 https://www.allaboutcircuits.com/technical-articles/what-is-mixed-signal-ic-design/
 https://www.allaboutcircuits.com/technical-articles/what-is-rf-integrated-circuit-design/
 https://www.allendowney.com/blog/
+https://www.allthingsdistributed.com/
 https://www.allthingsopen.org/
 https://www.alltypes.de/
 https://www.allwinnertech.com/
