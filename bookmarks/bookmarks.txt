@@ -1624,6 +1624,12 @@ https://bookstore.ams.org/stml-94
 https://bookstore.ams.org/text
 https://bookstore.ams.org/ulect-7
 https://bookstore.ams.org/view?ProductCode=AMSTEXT/2
+https://bookstore.ams.org/view?ProductCode=CHEL/377.H
+https://bookstore.ams.org/view?ProductCode=CHEL/378.H
+https://bookstore.ams.org/view?ProductCode=CHEL/379.H
+https://bookstore.ams.org/view?ProductCode=CHEL/380.H
+https://bookstore.ams.org/view?ProductCode=CHEL/381.H
+https://bookstore.ams.org/view?ProductCode=CHEL/382.H
 https://bookstore.ams.org/view?ProductCode=CHELGELFSET
 https://bookstore.ams.org/view?ProductCode=COLL/33
 https://bookstore.ams.org/view?ProductCode=GARDNER/13
@@ -5199,6 +5205,7 @@ https://en.wikipedia.org/wiki/Alfred_Nobel
 https://en.wikipedia.org/wiki/Alfred_Russel_Wallace
 https://en.wikipedia.org/wiki/Alfred_Tarski
 https://en.wikipedia.org/wiki/Algebra_of_random_variables
+https://en.wikipedia.org/wiki/Algebraic_analysis
 https://en.wikipedia.org/wiki/Algebraic_combinatorics
 https://en.wikipedia.org/wiki/Algebraic_curve
 https://en.wikipedia.org/wiki/Algebraic_data_type
@@ -6312,6 +6319,7 @@ https://en.wikipedia.org/wiki/Bode_plot
 https://en.wikipedia.org/wiki/Bodhisattva
 https://en.wikipedia.org/wiki/Body_of_Secrets
 https://en.wikipedia.org/wiki/Boehm_garbage_collector
+https://en.wikipedia.org/wiki/Boehmians
 https://en.wikipedia.org/wiki/Bogdanov_affair
 https://en.wikipedia.org/wiki/BogoMips
 https://en.wikipedia.org/wiki/Bohr%E2%80%93Mollerup_theorem
@@ -7097,6 +7105,7 @@ https://en.wikipedia.org/wiki/Category:Mathematics_papers
 https://en.wikipedia.org/wiki/Category:Mathematics_websites
 https://en.wikipedia.org/wiki/Category:Matrix_decompositions
 https://en.wikipedia.org/wiki/Category:Matrix_theory
+https://en.wikipedia.org/wiki/Category:Measure_theory
 https://en.wikipedia.org/wiki/Category:Mechanical_calculators
 https://en.wikipedia.org/wiki/Category:Medical_families
 https://en.wikipedia.org/wiki/Category:Medical_physics
@@ -7246,6 +7255,7 @@ https://en.wikipedia.org/wiki/Category:Sampling_techniques
 https://en.wikipedia.org/wiki/Category:Satisfiability_problems
 https://en.wikipedia.org/wiki/Category:Scheduling_algorithms
 https://en.wikipedia.org/wiki/Category:Scheme_(programming_language)
+https://en.wikipedia.org/wiki/Category:Schwartz_distributions
 https://en.wikipedia.org/wiki/Category:Science_fiction_book_series
 https://en.wikipedia.org/wiki/Category:Science_fiction_franchises
 https://en.wikipedia.org/wiki/Category:Science_fiction_novel_series
@@ -7413,6 +7423,7 @@ https://en.wikipedia.org/wiki/Catherine_the_Great
 https://en.wikipedia.org/wiki/Catholic_Bible
 https://en.wikipedia.org/wiki/Catilinarian_orations
 https://en.wikipedia.org/wiki/Cauchy_distribution
+https://en.wikipedia.org/wiki/Cauchy_principal_value
 https://en.wikipedia.org/wiki/Cauchy_problem
 https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula
 https://en.wikipedia.org/wiki/Cauchy%E2%80%93Euler_equation
@@ -7549,6 +7560,7 @@ https://en.wikipedia.org/wiki/Characteristic_function_(probability_theory)
 https://en.wikipedia.org/wiki/Characteristic_polynomial
 https://en.wikipedia.org/wiki/Charaka
 https://en.wikipedia.org/wiki/Charalambos_Aliprantis
+https://en.wikipedia.org/wiki/Charge_density
 https://en.wikipedia.org/wiki/Charles_Babbage
 https://en.wikipedia.org/wiki/Charles_Darwin
 https://en.wikipedia.org/wiki/Charles_E._Leiserson
@@ -7946,6 +7958,7 @@ https://en.wikipedia.org/wiki/Collision_attack
 https://en.wikipedia.org/wiki/Collision_detection
 https://en.wikipedia.org/wiki/Collocation_method
 https://en.wikipedia.org/wiki/Cologne
+https://en.wikipedia.org/wiki/Colombeau_algebra
 https://en.wikipedia.org/wiki/Colonist_(The_X-Files)
 https://en.wikipedia.org/wiki/Color_(band)
 https://en.wikipedia.org/wiki/Color_gradient
@@ -8599,6 +8612,7 @@ https://en.wikipedia.org/wiki/Curiosity_Stream
 https://en.wikipedia.org/wiki/CURL
 https://en.wikipedia.org/wiki/Curl_(mathematics)
 https://en.wikipedia.org/wiki/Curl-loader
+https://en.wikipedia.org/wiki/Current_(mathematics)
 https://en.wikipedia.org/wiki/Current_conveyor
 https://en.wikipedia.org/wiki/Current_Population_Survey
 https://en.wikipedia.org/wiki/Current-mode_logic
@@ -9232,7 +9246,10 @@ https://en.wikipedia.org/wiki/Distributed_R
 https://en.wikipedia.org/wiki/Distributed-element_model
 https://en.wikipedia.org/wiki/Distributed.net
 https://en.wikipedia.org/wiki/Distribution_(mathematics)
+https://en.wikipedia.org/wiki/Distribution_(number_theory)
+https://en.wikipedia.org/wiki/Distribution_function_(measure_theory)
 https://en.wikipedia.org/wiki/Distribution_of_wealth
+https://en.wikipedia.org/wiki/Distribution_on_a_linear_algebraic_group
 https://en.wikipedia.org/wiki/Divergence
 https://en.wikipedia.org/wiki/Divergence_(statistics)
 https://en.wikipedia.org/wiki/Divergence_theorem
@@ -10498,6 +10515,7 @@ https://en.wikipedia.org/wiki/Functor_(functional_programming)
 https://en.wikipedia.org/wiki/Fund%C3%A9u
 https://en.wikipedia.org/wiki/Fundamental_lemma_of_the_calculus_of_variations
 https://en.wikipedia.org/wiki/Fundamental_matrix_(computer_vision)
+https://en.wikipedia.org/wiki/Fundamental_solution
 https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra
 https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus
 https://en.wikipedia.org/wiki/Fundamentals_of_Physics
@@ -10620,6 +10638,7 @@ https://en.wikipedia.org/wiki/Geekbench
 https://en.wikipedia.org/wiki/Gegenbauer_polynomials
 https://en.wikipedia.org/wiki/Geheime_Feldpolizei
 https://en.wikipedia.org/wiki/Gekko_(optimization_software)
+https://en.wikipedia.org/wiki/Gelfand%E2%80%93Shilov_space
 https://en.wikipedia.org/wiki/Gemalto
 https://en.wikipedia.org/wiki/GemIdent
 https://en.wikipedia.org/wiki/Gemini_(chatbot)
@@ -11428,6 +11447,7 @@ https://en.wikipedia.org/wiki/HiGHS_optimization_solver
 https://en.wikipedia.org/wiki/Highway_network
 https://en.wikipedia.org/wiki/Hilbert_basis_(linear_programming)
 https://en.wikipedia.org/wiki/Hilbert_space
+https://en.wikipedia.org/wiki/Hilbert_transform
 https://en.wikipedia.org/wiki/Hilbert%27s_Theorem_90
 https://en.wikipedia.org/wiki/Hilbert%E2%80%93Schmidt_integral_operator
 https://en.wikipedia.org/wiki/Hilbert%E2%80%93Schmidt_operator
@@ -11534,6 +11554,7 @@ https://en.wikipedia.org/wiki/Homebrew_(package_manager)
 https://en.wikipedia.org/wiki/Homeland_security
 https://en.wikipedia.org/wiki/Homer
 https://en.wikipedia.org/wiki/Homogeneous_differential_equation
+https://en.wikipedia.org/wiki/Homogeneous_distribution
 https://en.wikipedia.org/wiki/Homological_algebra
 https://en.wikipedia.org/wiki/Homomorphic_encryption
 https://en.wikipedia.org/wiki/Homoscedasticity_and_heteroscedasticity
@@ -11654,6 +11675,7 @@ https://en.wikipedia.org/wiki/Hypercube
 https://en.wikipedia.org/wiki/Hypercube_internetwork_topology
 https://en.wikipedia.org/wiki/Hyperelliptic_curve
 https://en.wikipedia.org/wiki/Hyperelliptic_curve_cryptography
+https://en.wikipedia.org/wiki/Hyperfunction
 https://en.wikipedia.org/wiki/Hypergeometric_function
 https://en.wikipedia.org/wiki/HyperLogLog
 https://en.wikipedia.org/wiki/Hyperoperation
@@ -11981,6 +12003,7 @@ https://en.wikipedia.org/wiki/Integral
 https://en.wikipedia.org/wiki/Integral_cryptanalysis
 https://en.wikipedia.org/wiki/Integral_curve
 https://en.wikipedia.org/wiki/Integral_equation
+https://en.wikipedia.org/wiki/Integral_geometry
 https://en.wikipedia.org/wiki/Integral_linear_operator
 https://en.wikipedia.org/wiki/Integral_linearity
 https://en.wikipedia.org/wiki/Integral_of_the_secant_function
@@ -13205,6 +13228,7 @@ https://en.wikipedia.org/wiki/Lilliputian_Hitcher
 https://en.wikipedia.org/wiki/Lime_(fruit)
 https://en.wikipedia.org/wiki/Lime_softening
 https://en.wikipedia.org/wiki/Limit_cycle
+https://en.wikipedia.org/wiki/Limit_of_distributions
 https://en.wikipedia.org/wiki/Limit_set
 https://en.wikipedia.org/wiki/Limited_hangout
 https://en.wikipedia.org/wiki/Limited_liability_company
@@ -14076,6 +14100,7 @@ https://en.wikipedia.org/wiki/Malacca
 https://en.wikipedia.org/wiki/Malay_Peninsula
 https://en.wikipedia.org/wiki/Malayalam
 https://en.wikipedia.org/wiki/Malaysia
+https://en.wikipedia.org/wiki/Malgrange%E2%80%93Ehrenpreis_theorem
 https://en.wikipedia.org/wiki/Malice_Mizer
 https://en.wikipedia.org/wiki/Malleability_(cryptography)
 https://en.wikipedia.org/wiki/Malta
@@ -14704,6 +14729,7 @@ https://en.wikipedia.org/wiki/Molecular_genetics
 https://en.wikipedia.org/wiki/Molecular_mechanics
 https://en.wikipedia.org/wiki/Molecular_physics
 https://en.wikipedia.org/wiki/Molecule_mining
+https://en.wikipedia.org/wiki/Mollifier
 https://en.wikipedia.org/wiki/Molten-salt_battery
 https://en.wikipedia.org/wiki/Moment_(mathematics)
 https://en.wikipedia.org/wiki/Moment_(physics)
@@ -16782,6 +16808,7 @@ https://en.wikipedia.org/wiki/Proximity_card
 https://en.wikipedia.org/wiki/Prpl_Foundation
 https://en.wikipedia.org/wiki/Prune_and_search
 https://en.wikipedia.org/wiki/Prussia
+https://en.wikipedia.org/wiki/Pseudo-differential_operator
 https://en.wikipedia.org/wiki/Pseudo-mythology
 https://en.wikipedia.org/wiki/Pseudo-Riemannian_manifold
 https://en.wikipedia.org/wiki/Pseudo-spectral_method
@@ -17398,6 +17425,7 @@ https://en.wikipedia.org/wiki/Riemannian_manifold
 https://en.wikipedia.org/wiki/Riesz_representation_theorem
 https://en.wikipedia.org/wiki/Riesz_space
 https://en.wikipedia.org/wiki/Rigetti_Computing
+https://en.wikipedia.org/wiki/Rigged_Hilbert_space
 https://en.wikipedia.org/wiki/Right_ascension
 https://en.wikipedia.org/wiki/Right_to_the_city
 https://en.wikipedia.org/wiki/Rigid_body
@@ -20089,6 +20117,7 @@ https://en.wikipedia.org/wiki/V2_word_order
 https://en.wikipedia.org/wiki/V8_(JavaScript_engine)
 https://en.wikipedia.org/wiki/V850
 https://en.wikipedia.org/wiki/Vacuum_tube
+https://en.wikipedia.org/wiki/Vague_topology
 https://en.wikipedia.org/wiki/Vaishnavism
 https://en.wikipedia.org/wiki/Val%C3%A9ry_Giscard_d%27Estaing
 https://en.wikipedia.org/wiki/Valencian_language
@@ -20365,6 +20394,7 @@ https://en.wikipedia.org/wiki/We,_the_Navigators
 https://en.wikipedia.org/wiki/Weak_derivative
 https://en.wikipedia.org/wiki/Weak_formulation
 https://en.wikipedia.org/wiki/Weak_reference
+https://en.wikipedia.org/wiki/Weak_solution
 https://en.wikipedia.org/wiki/Weak_supervision
 https://en.wikipedia.org/wiki/Wealth_and_religion
 https://en.wikipedia.org/wiki/Wealth_inequality_in_the_United_States
@@ -26916,6 +26946,7 @@ https://maa.org/press/maa-reviews/four-colors-suffice-how-the-map-problem-was-so
 https://maa.org/press/maa-reviews/fourier-series-and-boundary-value-problems
 https://maa.org/press/maa-reviews/from-error-correcting-codes-through-sphere-packings-to-simple-groups
 https://maa.org/press/maa-reviews/functional-analysis
+https://maa.org/press/maa-reviews/functional-analysis-4
 https://maa.org/press/maa-reviews/fundamentals-of-matrix-analysis-with-applications
 https://maa.org/press/maa-reviews/generalized-additive-models
 https://maa.org/press/maa-reviews/geometric-transformations-iv-circular-transformations
@@ -26997,6 +27028,7 @@ https://maa.org/press/maa-reviews/theoretical-numerical-analysis-a-functional-an
 https://maa.org/press/maa-reviews/theory-of-functions
 https://maa.org/press/maa-reviews/theory-of-games-and-statistical-decisions
 https://maa.org/press/maa-reviews/theory-of-groups-of-finite-order
+https://maa.org/press/maa-reviews/theory-of-linear-operations
 https://maa.org/press/maa-reviews/theory-of-recursive-functions-and-effective-computability
 https://maa.org/press/maa-reviews/time-series-analysis-forecasting-and-control
 https://maa.org/press/maa-reviews/topics-in-algebra
