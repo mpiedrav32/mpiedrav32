@@ -7162,6 +7162,7 @@ https://en.wikipedia.org/wiki/Category:Online_English_dictionaries
 https://en.wikipedia.org/wiki/Category:Open_access_(publishing)
 https://en.wikipedia.org/wiki/Category:Open_access_by_country
 https://en.wikipedia.org/wiki/Category:Open_access_journals
+https://en.wikipedia.org/wiki/Category:Operator_theorists
 https://en.wikipedia.org/wiki/Category:Optimal_control
 https://en.wikipedia.org/wiki/Category:Optimization_algorithms_and_methods
 https://en.wikipedia.org/wiki/Category:Optimization_in_vector_spaces
@@ -7264,6 +7265,7 @@ https://en.wikipedia.org/wiki/Category:Serial_buses
 https://en.wikipedia.org/wiki/Category:Similarity_measures
 https://en.wikipedia.org/wiki/Category:Simulation
 https://en.wikipedia.org/wiki/Category:Singular_integrals
+https://en.wikipedia.org/wiki/Category:Singular_value_decomposition
 https://en.wikipedia.org/wiki/Category:Social_engineering_(computer_security)
 https://en.wikipedia.org/wiki/Category:Socialist_magazines
 https://en.wikipedia.org/wiki/Category:Socialist_newspapers
@@ -7546,6 +7548,7 @@ https://en.wikipedia.org/wiki/Characteristic_energy
 https://en.wikipedia.org/wiki/Characteristic_function_(probability_theory)
 https://en.wikipedia.org/wiki/Characteristic_polynomial
 https://en.wikipedia.org/wiki/Charaka
+https://en.wikipedia.org/wiki/Charalambos_Aliprantis
 https://en.wikipedia.org/wiki/Charles_Babbage
 https://en.wikipedia.org/wiki/Charles_Darwin
 https://en.wikipedia.org/wiki/Charles_E._Leiserson
@@ -11624,6 +11627,7 @@ https://en.wikipedia.org/wiki/Hybrid_computer
 https://en.wikipedia.org/wiki/Hybrid_cryptosystem
 https://en.wikipedia.org/wiki/Hybrid_intelligent_system
 https://en.wikipedia.org/wiki/Hybrid_Kohonen_self-organizing_map
+https://en.wikipedia.org/wiki/Hybrid_system
 https://en.wikipedia.org/wiki/Hyderabad
 https://en.wikipedia.org/wiki/Hydra_game
 https://en.wikipedia.org/wiki/Hydraulic_empire
@@ -17392,6 +17396,7 @@ https://en.wikipedia.org/wiki/Riemann%27s_differential_equation
 https://en.wikipedia.org/wiki/Riemannian_geometry
 https://en.wikipedia.org/wiki/Riemannian_manifold
 https://en.wikipedia.org/wiki/Riesz_representation_theorem
+https://en.wikipedia.org/wiki/Riesz_space
 https://en.wikipedia.org/wiki/Rigetti_Computing
 https://en.wikipedia.org/wiki/Right_ascension
 https://en.wikipedia.org/wiki/Right_to_the_city
@@ -30029,6 +30034,7 @@ https://spectralib.org/
 https://spectreattack.com/spectre.pdf
 https://spectreconsole.net/
 https://spectrum.ieee.org/
+https://spectrum.ieee.org/1-bit-llm
 https://spectrum.ieee.org/adobe-postscript
 https://spectrum.ieee.org/ai-failures
 https://spectrum.ieee.org/ai-programming
@@ -34194,6 +34200,7 @@ https://www.jair.org/index.php/jair
 https://www.jamovi.org/
 https://www.janestreet.com/
 https://www.japan.go.jp/
+https://www.japan.go.jp/tomodachi/2020/summer2020/traditional_wisdom_and_technology.html
 https://www.japanindustrynews.com/2015/12/japanese-way-creative-conservation-not-destruction/
 https://www.japantimes.co.jp/
 https://www.japantimes.co.jp/business/2023/08/08/economy/global-south-breaks-from-us/
@@ -34209,8 +34216,10 @@ https://www.jessebett.com/
 https://www.jetbrains.com/
 https://www.jgc.org/
 https://www.jiia.or.jp/en/
+https://www.jirka.org/ca/
 https://www.jirka.org/diffyqs/
 https://www.jirka.org/ra/
+https://www.jirka.org/scv/
 https://www.jiscmail.ac.uk/
 https://www.jjj.de/fxt/
 https://www.jmeiners.com/
@@ -35069,6 +35078,7 @@ https://www.nature.com/articles/d41586-024-00768-4
 https://www.nature.com/articles/d41586-024-00930-y
 https://www.nature.com/articles/d41586-024-01216-z
 https://www.nature.com/articles/d41586-024-01387-9
+https://www.nature.com/articles/d41586-024-01493-8
 https://www.nature.com/articles/nature13570
 https://www.nature.com/articles/nature14539
 https://www.nature.com/articles/nature16961
@@ -36694,6 +36704,7 @@ https://www.silverliningsinfo.com/
 https://www.similarweb.com/website/news.ycombinator.com/competitors/
 https://www.simonandschuster.com/books/Chip-War/Chris-Miller/9781982172008
 https://www.singular.uni-kl.de/
+https://www.sirgas.org/
 https://www.sit.fraunhofer.de/
 https://www.sixtysymbols.com/videos/dimensional.htm
 https://www.skepdic.com/coldread.html
@@ -38107,6 +38118,7 @@ https://www.zlib.net/
 https://www.zmailer.org/
 https://www.zodiackiller.com/Letters.html
 https://www.zora.uzh.ch/id/eprint/232071/
+https://www.zotero.org/
 https://www.zsh.org/
 https://www.zx2c4.com/
 https://www.zyvex.com/nanotech/feynman.html
@@ -38226,6 +38238,7 @@ https://yts.mx/movies/the-x-files-1998
 https://yuvali.cswp.cs.technion.ac.il/
 https://z.cash/
 https://zarr.readthedocs.io/en/stable/
+https://zbib.org/
 https://zbmath.org/
 https://zealdocs.org/
 https://zed.dev/
