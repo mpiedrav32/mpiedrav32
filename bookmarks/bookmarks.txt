@@ -2875,6 +2875,7 @@ https://datasciencebox.org/
 https://datasciencetexts.com/subjects/time_series_analysis.html
 https://datasetsearch.research.google.com
 https://datasetsearch.research.google.com/
+https://datasette.io/
 https://datasketches.apache.org/
 https://datasketches.apache.org/docs/Background/SketchOrigins.html
 https://datastackshow.com/
@@ -23182,6 +23183,7 @@ https://github.com/sharplispers/ironclad
 https://github.com/shogun-toolbox/shogun
 https://github.com/simdjson/simdjson
 https://github.com/simonpcouch/anyflights
+https://github.com/simonw/datasette
 https://github.com/simple-statistics/simple-statistics
 https://github.com/simply-logical/simply-logical
 https://github.com/sindresorhus/awesome
@@ -29029,6 +29031,7 @@ https://protocol.ai/
 https://proton.me/blog
 https://proton.me/blog/big-tech-2023-fines-vs-revenue
 https://proton.me/blog/outlook-is-microsofts-new-data-collection-service
+https://proton.me/blog/politicians-exposed-dark-web
 https://proton.me/blog/proton-pass-launch
 https://proton.me/blog/swiss-privacy-honest-competition
 https://proton.me/blog/what-is-dkim
@@ -29648,6 +29651,7 @@ https://scholar.google.com/citations?user=x_wsduUAAAAJ
 https://scholar.google.com/citations?user=zkdjit0AAAAJ&hl=en
 https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=phy_computationalmathematics
 https://scholarlycommons.pacific.edu/euler-works/530/
+https://scholarship.law.cornell.edu/facpub/594/
 https://scicomp.cs.illinois.edu/
 https://science.nasa.gov/
 https://science.psu.edu/math
@@ -29866,6 +29870,8 @@ https://simons.berkeley.edu/homepage
 https://simons.berkeley.edu/people/shafi-goldwasser
 https://simons.berkeley.edu/workshops/discrete-optimization-continuous-relaxation
 https://simons.berkeley.edu/workshops/information-theory-learning-big-data
+https://simonwillison.net/
+https://simonwillison.net/2024/Jun/1/stealing-everything-youve-ever-typed/
 https://simple-statistics.github.io/
 https://simplecrypto.js.org/
 https://simpleitk.org/
@@ -31418,6 +31424,7 @@ https://www.alibabacloud.com/blog/introduction-to-openanolis-and-anolis-os_60064
 https://www.alibabagroup.com/en-US/
 https://www.aliexpress.com/item/1005006174268912.html
 https://www.aljazeera.com/
+https://www.aljazeera.com/economy/2023/6/1/fax-machines-and-cash-only-stores-japan-struggles-to-go-digital
 https://www.aljazeera.com/live
 https://www.aljazeera.com/opinions/2013/2/3/zizek-and-the-communist-horizon
 https://www.allaboutcircuits.com/
@@ -31440,6 +31447,7 @@ https://www.allaboutcircuits.com/technical-articles/what-is-mixed-signal-ic-desi
 https://www.allaboutcircuits.com/technical-articles/what-is-rf-integrated-circuit-design/
 https://www.allendowney.com/blog/
 https://www.allthingsdistributed.com/
+https://www.allthingsdistributed.com/articles.html
 https://www.allthingsopen.org/
 https://www.alltypes.de/
 https://www.allwinnertech.com/
@@ -31818,6 +31826,7 @@ https://www.britishcouncil.org/
 https://www.britishpathe.com/
 https://www.broadcom.com/
 https://www.brookings.edu/
+https://www.brookings.edu/articles/odious-debt-when-dictators-borrow-who-repays-the-loan/
 https://www.brookings.edu/articles/research-chat-peter-singer-on-cybersecurity-and-what-the-media-needs-to-know/
 https://www.brookings.edu/articles/the-united-states-china-and-the-contest-for-the-fourth-industrial-revolution/
 https://www.brookings.edu/projects/artificial-intelligence-and-emerging-technology-initiative/
@@ -31858,6 +31867,7 @@ https://www.cadence.com/en_US/home.html
 https://www.cadence.com/en_US/home/explore/hardware-accelerators.html
 https://www.cadence.com/en_US/home/explore/high-level-synthesis.html
 https://www.cadence.com/en_US/home/explore/what-is-3dic.html
+https://www.cadtm.org/El-apoyo-del-Banco-Mundial-y-del-FMI-a-las-dictaduras
 https://www.caida.org/
 https://www.cairographics.org/
 https://www.calculator.net/
@@ -31896,6 +31906,7 @@ https://www.cambridge.org/core/books/course-of-modern-analysis/0702B9DE7A1F91437
 https://www.cambridge.org/core/books/course-of-pure-mathematics/C173EAE2C237501382D145CAD4789AC5
 https://www.cambridge.org/core/books/die-ausdehnungslehre/091CBA26D430CD07A0089D6EBE273C2C
 https://www.cambridge.org/core/books/doctrine-of-chances/15CB7A25354C60A1C697AFC655705E62
+https://www.cambridge.org/core/books/doctrine-of-odious-debt-in-international-law/A675AE923F92C0F7394A719387F6F4B9#
 https://www.cambridge.org/core/books/elements-of-algebra/2F888DC50EEDB8F4B7A4B7E17BC131D9
 https://www.cambridge.org/core/books/elliptic-curves-in-cryptography/16A2B60636EFA7EBCC3D5A5D01F28546
 https://www.cambridge.org/core/books/english-as-a-global-language/55FF02AE5915539906778C02F0F5195E
@@ -35111,6 +35122,7 @@ https://www.nature.com/articles/d41586-024-00930-y
 https://www.nature.com/articles/d41586-024-01216-z
 https://www.nature.com/articles/d41586-024-01387-9
 https://www.nature.com/articles/d41586-024-01493-8
+https://www.nature.com/articles/d41586-024-01609-0
 https://www.nature.com/articles/nature13570
 https://www.nature.com/articles/nature14539
 https://www.nature.com/articles/nature16961
@@ -35343,6 +35355,7 @@ https://www.npmjs.com/package/jsonwebtoken
 https://www.npmjs.com/package/oauth2-server
 https://www.npr.org/
 https://www.npr.org/2007/09/07/14241572/imagining-a-world-without-humans
+https://www.npr.org/2024/05/31/1248426978/germany-fax-machines-parliament
 https://www.npr.org/sections/book-reviews/
 https://www.npr.org/sections/science/
 https://www.npr.org/sections/technology/
@@ -35908,11 +35921,13 @@ https://www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redef
 https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/
 https://www.quantamagazine.org/latest-neural-nets-solve-worlds-hardest-equations-faster-than-ever-before-20210419/
 https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/
+https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/
 https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/
 https://www.quantamagazine.org/meet-strange-metals-where-electricity-may-flow-without-electrons-20231127/
 https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/
 https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/
 https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/
+https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/
 https://www.quantamagazine.org/physicists-use-quantum-mechanics-to-pull-energy-out-of-nothing-20230222/
 https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/
 https://www.quantamagazine.org/symbolic-mathematics-finally-yields-to-neural-networks-20200520/
@@ -36539,6 +36554,7 @@ https://www.sciencedirect.com/science/article/abs/pii/B9780080515816500593
 https://www.sciencedirect.com/science/article/abs/pii/B9780444508133500102
 https://www.sciencedirect.com/science/article/abs/pii/S0004370221002009
 https://www.sciencedirect.com/science/article/abs/pii/S0004370223001170
+https://www.sciencedirect.com/science/article/abs/pii/S0020025515006003
 https://www.sciencedirect.com/science/article/abs/pii/S0020025576905545
 https://www.sciencedirect.com/science/article/abs/pii/S0021999118307125
 https://www.sciencedirect.com/science/article/abs/pii/S0022249611000691
@@ -37280,6 +37296,7 @@ https://www.theguardian.com/news/2023/may/09/on-the-trail-of-the-dark-avenger-th
 https://www.theguardian.com/news/series/the-long-read
 https://www.theguardian.com/science
 https://www.theguardian.com/science/2015/apr/19/clockmaker-john-harrison-vindicated-250-years-absurd-claims
+https://www.theguardian.com/society/article/2024/may/31/trial-results-for-new-lung-cancer-drug-are-off-the-charts-say-doctors
 https://www.theguardian.com/technology/2022/oct/04/ransomware-hunters-the-self-taught-tech-geniuses-fighting-cybercrime
 https://www.theguardian.com/technology/data-computer-security
 https://www.theguardian.com/uk/environment
@@ -37618,6 +37635,7 @@ https://www.visirule.co.uk/
 https://www.visualcapitalist.com/
 https://www.visualcapitalist.com/advanced-semiconductor-market-share-2023-2027/
 https://www.visualcapitalist.com/aiot-when-ai-meets-iot-technology/
+https://www.visualcapitalist.com/cp/charted-the-worlds-aging-population-1950-to-2100/
 https://www.visualcapitalist.com/global-gdp-by-region-distribution-map/
 https://www.visualcapitalist.com/nvidia-vs-amd-vs-intel-comparing-ai-chip-sales/
 https://www.visualcapitalist.com/sp/artificial-intelligence-of-things/
@@ -38057,6 +38075,7 @@ https://www.youtube.com/watch?v=IHZwWFHWa-w
 https://www.youtube.com/watch?v=Ilg3gGewQ5U
 https://www.youtube.com/watch?v=ItODnX5geCM
 https://www.youtube.com/watch?v=IZKi4_BScqc
+https://www.youtube.com/watch?v=JF5zza9bWoQ
 https://www.youtube.com/watch?v=jfKfPfyJRdk
 https://www.youtube.com/watch?v=jHoEjvuPoB8
 https://www.youtube.com/watch?v=JISDHjzgGL4
