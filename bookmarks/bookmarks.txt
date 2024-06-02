@@ -26129,6 +26129,7 @@ https://link.springer.com/book/10.1007/978-1-4939-7369-9
 https://link.springer.com/book/10.1007/978-1-4939-8847-1
 https://link.springer.com/book/10.1007/978-1-84628-246-1
 https://link.springer.com/book/10.1007/978-1-84628-622-3
+https://link.springer.com/book/10.1007/978-1-84882-434-8
 https://link.springer.com/book/10.1007/978-3-030-00831-4
 https://link.springer.com/book/10.1007/978-3-030-02462-8
 https://link.springer.com/book/10.1007/978-3-030-04306-3
@@ -26335,6 +26336,7 @@ https://link.springer.com/book/10.1007/978-3-319-21936-3
 https://link.springer.com/book/10.1007/978-3-319-22321-6
 https://link.springer.com/book/10.1007/978-3-319-23395-6
 https://link.springer.com/book/10.1007/978-3-319-25823-2
+https://link.springer.com/book/10.1007/978-3-319-27889-6
 https://link.springer.com/book/10.1007/978-3-319-29659-3
 https://link.springer.com/book/10.1007/978-3-319-29788-0
 https://link.springer.com/book/10.1007/978-3-319-29854-2
@@ -35429,6 +35431,7 @@ https://www.nytimes.com/2022/04/28/world/australia/democracy-elections.html
 https://www.nytimes.com/2022/10/08/books/review/chip-war-chris-miller.html
 https://www.nytimes.com/2023/10/10/climate/ai-could-soon-need-as-much-electricity-as-an-entire-country.html
 https://www.nytimes.com/2024/04/05/your-money/paying-for-college/100k-college-cost-vanderbilt.html
+https://www.nytimes.com/2024/05/28/technology/ai-chief-executives.html
 https://www.nytimes.com/international/section/books/review
 https://www.nytimes.com/roomfordebate/2015/02/09/are-economists-overrated/overreliance-on-the-pseudo-science-of-economics
 https://www.nytimes.com/section/books/review
