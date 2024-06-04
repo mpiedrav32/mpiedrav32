@@ -4906,6 +4906,7 @@ https://en.wikipedia.org/wiki/A_Course_of_Pure_Mathematics
 https://en.wikipedia.org/wiki/A_Cruel_Angel%27s_Thesis
 https://en.wikipedia.org/wiki/A_History_of_Greek_Mathematics
 https://en.wikipedia.org/wiki/A_History_of_Soviet_Russia
+https://en.wikipedia.org/wiki/A_Manual_for_Writers_of_Research_Papers,_Theses,_and_Dissertations
 https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication
 https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events
 https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire
@@ -9086,6 +9087,7 @@ https://en.wikipedia.org/wiki/Dharmachakra
 https://en.wikipedia.org/wiki/Dhrystone
 https://en.wikipedia.org/wiki/Diagonalizable_matrix
 https://en.wikipedia.org/wiki/Diamond_open_access
+https://en.wikipedia.org/wiki/Diana_Hacker
 https://en.wikipedia.org/wiki/Dickey%E2%80%93Fuller_test
 https://en.wikipedia.org/wiki/DICOM
 https://en.wikipedia.org/wiki/Dictionnaire_Infernal
@@ -12185,6 +12187,7 @@ https://en.wikipedia.org/wiki/Introduction_to_Statistical_Pattern_Recognition
 https://en.wikipedia.org/wiki/Introduction_to_the_Theory_of_Error-Correcting_Codes
 https://en.wikipedia.org/wiki/Intrusion_detection_system
 https://en.wikipedia.org/wiki/Intuition_pump
+https://en.wikipedia.org/wiki/Invariant_subspace_problem
 https://en.wikipedia.org/wiki/Invariant_theory
 https://en.wikipedia.org/wiki/Invenio
 https://en.wikipedia.org/wiki/Invented_tradition
@@ -12669,6 +12672,7 @@ https://en.wikipedia.org/wiki/Kabsch_algorithm
 https://en.wikipedia.org/wiki/Kabushiki_gaisha
 https://en.wikipedia.org/wiki/Kaggle
 https://en.wikipedia.org/wiki/KAIST
+https://en.wikipedia.org/wiki/Kakutani_fixed-point_theorem
 https://en.wikipedia.org/wiki/Kalevala
 https://en.wikipedia.org/wiki/Kali_Linux
 https://en.wikipedia.org/wiki/Kali_Yuga
@@ -12703,6 +12707,7 @@ https://en.wikipedia.org/wiki/Kasiski_examination
 https://en.wikipedia.org/wiki/Kasparov_versus_the_World
 https://en.wikipedia.org/wiki/KASUMI
 https://en.wikipedia.org/wiki/Katatonia
+https://en.wikipedia.org/wiki/Kate_L._Turabian
 https://en.wikipedia.org/wiki/Katharine_Gun
 https://en.wikipedia.org/wiki/Katowice
 https://en.wikipedia.org/wiki/Katz_centrality
@@ -14678,6 +14683,7 @@ https://en.wikipedia.org/wiki/Mixture_model
 https://en.wikipedia.org/wiki/Mixture_of_experts
 https://en.wikipedia.org/wiki/ML_(programming_language)
 https://en.wikipedia.org/wiki/ML.NET
+https://en.wikipedia.org/wiki/MLA_Handbook
 https://en.wikipedia.org/wiki/MLIR_(software)
 https://en.wikipedia.org/wiki/MLOps
 https://en.wikipedia.org/wiki/Mlpack
@@ -14712,6 +14718,7 @@ https://en.wikipedia.org/wiki/ModelSim
 https://en.wikipedia.org/wiki/Modern_English
 https://en.wikipedia.org/wiki/Modern_era
 https://en.wikipedia.org/wiki/Modern_language
+https://en.wikipedia.org/wiki/Modern_Language_Association
 https://en.wikipedia.org/wiki/Modern_Library
 https://en.wikipedia.org/wiki/Modern_Library_100_Best_Novels
 https://en.wikipedia.org/wiki/Modern_Quantum_Mechanics
@@ -15988,6 +15995,7 @@ https://en.wikipedia.org/wiki/Parc_Georges-Brassens
 https://en.wikipedia.org/wiki/Parc_Kellermann
 https://en.wikipedia.org/wiki/Parc_Monceau
 https://en.wikipedia.org/wiki/Parc_Montsouris
+https://en.wikipedia.org/wiki/Parenthetical_referencing
 https://en.wikipedia.org/wiki/Pareto_chart
 https://en.wikipedia.org/wiki/Pareto_distribution
 https://en.wikipedia.org/wiki/Pareto_principle
@@ -19267,6 +19275,7 @@ https://en.wikipedia.org/wiki/The_Canterbury_Tales
 https://en.wikipedia.org/wiki/The_Caves_of_Steel
 https://en.wikipedia.org/wiki/The_central_science
 https://en.wikipedia.org/wiki/The_Chemical_Basis_of_Morphogenesis
+https://en.wikipedia.org/wiki/The_Chicago_Manual_of_Style
 https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia
 https://en.wikipedia.org/wiki/The_Chrysanthemum_and_the_Sword
 https://en.wikipedia.org/wiki/The_City_and_the_Stars
@@ -20036,6 +20045,7 @@ https://en.wikipedia.org/wiki/University_of_Cambridge
 https://en.wikipedia.org/wiki/University_of_Catania
 https://en.wikipedia.org/wiki/University_of_Central_Florida
 https://en.wikipedia.org/wiki/University_of_Chicago
+https://en.wikipedia.org/wiki/University_of_Chicago_Press
 https://en.wikipedia.org/wiki/University_of_Coimbra
 https://en.wikipedia.org/wiki/University_of_Copenhagen
 https://en.wikipedia.org/wiki/University_of_Dublin
@@ -25568,6 +25578,7 @@ https://library.lol/main/661904D746B73050CC8FD9C12F529D85
 https://library.lol/main/66560D83C2A93DE344C84A61862BFEDB
 https://library.lol/main/67F2CB2DA56792965230BF59748DEE98
 https://library.lol/main/680A08FE3A43250BF4683E477AB1997A
+https://library.lol/main/68687FF5DD75A944277526D644040E88
 https://library.lol/main/6AEB8896359F4EF338DF6D1BE995132B
 https://library.lol/main/6B8F1E751C6D6B82A49CC155099F9949
 https://library.lol/main/6CBC5B5AF610CA7C18303B1C793D4533
@@ -26316,6 +26327,7 @@ https://link.springer.com/book/10.1007/978-3-031-24587-9
 https://link.springer.com/book/10.1007/978-3-031-25154-2
 https://link.springer.com/book/10.1007/978-3-031-25820-6
 https://link.springer.com/book/10.1007/978-3-031-26514-3
+https://link.springer.com/book/10.1007/978-3-031-27537-1
 https://link.springer.com/book/10.1007/978-3-031-27612-5
 https://link.springer.com/book/10.1007/978-3-031-28259-1
 https://link.springer.com/book/10.1007/978-3-031-28924-8
@@ -26923,6 +26935,7 @@ https://maa.org/press/maa-reviews/applied-partial-differential-equations-with-fo
 https://maa.org/press/maa-reviews/approximation-theory-and-approximation-practice
 https://maa.org/press/maa-reviews/approximation-theory-and-approximation-practice-extended-edition
 https://maa.org/press/maa-reviews/asymptotic-methods-in-analysis
+https://maa.org/press/maa-reviews/beginning-functional-analysis
 https://maa.org/press/maa-reviews/browse
 https://maa.org/press/maa-reviews/browse?field_tags_tid=36897&field_bll_rating_tid=All&field_maa_review_value=All
 https://maa.org/press/maa-reviews/browse?field_tags_tid=36980&field_bll_rating_tid=All&field_maa_review_value=All
@@ -26930,6 +26943,7 @@ https://maa.org/press/maa-reviews/browse?field_tags_tid=36981&field_bll_rating_t
 https://maa.org/press/maa-reviews/browse?field_tags_tid=36982&field_bll_rating_tid=All&field_maa_review_value=All
 https://maa.org/press/maa-reviews/browse?field_tags_tid=36983&field_bll_rating_tid=All&field_maa_review_value=All
 https://maa.org/press/maa-reviews/browse?field_tags_tid=36986&field_bll_rating_tid=All&field_maa_review_value=All
+https://maa.org/press/maa-reviews/browse?field_tags_tid=37051&field_bll_rating_tid=25&field_maa_review_value=All
 https://maa.org/press/maa-reviews/browse?field_tags_tid=37051&field_bll_rating_tid=26&field_maa_review_value=All
 https://maa.org/press/maa-reviews/browse?field_tags_tid=37237&field_bll_rating_tid=All&field_maa_review_value=All
 https://maa.org/press/maa-reviews/browse?field_tags_tid=37242&field_bll_rating_tid=24&field_maa_review_value=All
