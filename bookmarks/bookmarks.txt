@@ -270,6 +270,7 @@ http://www.sthda.com/english/
 http://www.sthda.com/english/wiki/ggplot2-essentials
 http://www.sthda.com/english/wiki/r-built-in-data-sets
 http://www.stlport.org/resources/StepanovUSA.html
+http://www.szene.ch/parasit/index.html
 http://www.terrybisson.com/
 http://www.textfiles.com/
 http://www.textfiles.com/magazines/PHRACK/
@@ -2806,6 +2807,7 @@ https://cygwin.org/
 https://cypherpunks.venona.com/
 https://cypherpunks.venona.com/archive/1994/09/msg00304.html
 https://d-nb.info/1052292569/34
+https://d-nb.info/1074999576/34
 https://d2l.ai/
 https://d3js.org/
 https://daily.jstor.org/
@@ -4952,6 +4954,8 @@ https://en.wikipedia.org/wiki/Abstract_polytope
 https://en.wikipedia.org/wiki/Abstract_semantic_graph
 https://en.wikipedia.org/wiki/Abstract_strategy_game
 https://en.wikipedia.org/wiki/Abstract_type
+https://en.wikipedia.org/wiki/Abstraction_(computer_science)
+https://en.wikipedia.org/wiki/Abstraction_(mathematics)
 https://en.wikipedia.org/wiki/Abstraction_layer
 https://en.wikipedia.org/wiki/Abugida
 https://en.wikipedia.org/wiki/Abwehr
@@ -10324,6 +10328,7 @@ https://en.wikipedia.org/wiki/Forest_plot
 https://en.wikipedia.org/wiki/Forge_(software)
 https://en.wikipedia.org/wiki/FORM_(symbolic_manipulation_system)
 https://en.wikipedia.org/wiki/Formal_power_series
+https://en.wikipedia.org/wiki/Formal_science
 https://en.wikipedia.org/wiki/Formal_system
 https://en.wikipedia.org/wiki/Forman_S._Acton
 https://en.wikipedia.org/wiki/Formatting_Objects_Processor
@@ -15962,6 +15967,7 @@ https://en.wikipedia.org/wiki/Parametric_equation
 https://en.wikipedia.org/wiki/Parametric_model
 https://en.wikipedia.org/wiki/Parametric_statistics
 https://en.wikipedia.org/wiki/Parametric_surface
+https://en.wikipedia.org/wiki/Parasitic_computing
 https://en.wikipedia.org/wiki/PARC_(company)
 https://en.wikipedia.org/wiki/Parc_Andr%C3%A9_Citro%C3%ABn
 https://en.wikipedia.org/wiki/Parc_de_Belleville
@@ -24777,6 +24783,7 @@ https://journals.sagepub.com/doi/10.1177/2041669520953457
 https://journals.sagepub.com/doi/full/10.1177/0961000618773133
 https://journals.sagepub.com/doi/full/10.1177/26339137221114874
 https://journals.sagepub.com/home/ire
+https://journals.sagepub.com/home/JOF
 https://journals.uwyo.edu/index.php/ela
 https://jpegclub.org/reference/
 https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/
@@ -29661,6 +29668,8 @@ https://science.psu.edu/math/mass/
 https://scienceblogs.de/
 https://scienceblogs.de/klausis-krypto-kolumne/
 https://sciencehistory.org/stories/magazine/a-brief-history-of-chemical-war/
+https://sciendo.com/
+https://sciendo.com/journal/JOS
 https://scientific-python.org/
 https://scientificcomputing.rs/
 https://scientificlinux.org/
@@ -32575,6 +32584,7 @@ https://www.cs.virginia.edu/~evans/greatworks/
 https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 https://www.cs.waikato.ac.nz/ml/weka/
 https://www.cs.waikato.ac.nz/ml/weka/book.html
+https://www.cs.wm.edu/~dmitry/assets/files/asplos21main-p460-p-9bfcb1ed4a-49511M-final.pdf
 https://www.cs.yale.edu/homes/spielman/
 https://www.cs251.com/
 https://www.csail.mit.edu/
@@ -34779,6 +34789,7 @@ https://www.math.stonybrook.edu/Videos/Colloquium/PDFs/20160128-Poonen.pdf
 https://www.math.toronto.edu/ssaraf/
 https://www.math.u-bordeaux.fr/~hecohen/
 https://www.math.umd.edu/~lcw/
+https://www.math.uni-hamburg.de/home/loewe/FotFS/
 https://www.math.utah.edu/~beebe/
 https://www.math.utah.edu/~beebe/digital-libraries.html
 https://www.math.uwaterloo.ca/~bico/
@@ -35093,6 +35104,7 @@ https://www.nationalgeographic.com/
 https://www.nature.com/
 https://www.nature.com/articles/323533a0
 https://www.nature.com/articles/35023282
+https://www.nature.com/articles/35091039
 https://www.nature.com/articles/432677a
 https://www.nature.com/articles/432823a
 https://www.nature.com/articles/476145a
@@ -35215,6 +35227,7 @@ https://www.nccgroup.com/us/newsroom/
 https://www.ncsc.gov.uk/
 https://www.ncsc.gov.uk/collection/device-security-guidance/infrastructure/network-architectures
 https://www.ndr.de/
+https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/persistent-data-only-malware-function-hooks-without-code/
 https://www.ndtv.com/
 https://www.nec.com/en/global/techrep/journal/g17/n01/170114.html
 https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/astigmatism
@@ -36682,6 +36695,7 @@ https://www.seat61.com/venice-simplon-orient-express.htm
 https://www.sec.cs.tu-bs.de/~konrieck/topnotch/crypto_papers.html
 https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_papers.html
 https://www.sec.gov/
+https://www.sec.in.tum.de/i20/publications/counteracting-data-only-malware-with-code-pointer-examination
 https://www.secmca.org/
 https://www.secura.com/
 https://www.secura.com/blog/tpm-sniffing-attacks-against-non-bitlocker-targets
@@ -37334,6 +37348,7 @@ https://www.theregister.com/2021/11/02/china_loongson_mips/
 https://www.theregister.com/2022/03/15/bringing_the_chipmakers_home/
 https://www.theregister.com/2023/10/30/arm_intel_comment/
 https://www.theregister.com/2023/11/20/3_million_deepin_users/
+https://www.theregister.com/2024/05/31/fifty_years_of_sql
 https://www.theregister.com/off_prem/
 https://www.theregister.com/on_prem/
 https://www.theregister.com/security/
