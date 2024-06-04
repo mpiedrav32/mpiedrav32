@@ -1171,6 +1171,7 @@ https://attacks.cr.yp.to/
 https://aur.archlinux.org/
 https://aur.archlinux.org/packages
 https://aur.archlinux.org/packages/spleen-font
+https://auratikum.com/
 https://aurora-opensource.github.io/au/main/
 https://austinhenley.com/blog/challengingalgorithms.html
 https://austinhenley.com/blog/challengingprojects.html
@@ -1909,7 +1910,11 @@ https://cisofy.com/lynis/
 https://cispa.de/en/research/publications/3924-a-security-risc-microarchitectural-attacks-on-hardware-risc-v-cpus
 https://cista.rocks/
 https://citation.crosscite.org/
+https://citation.js.org/
 https://citations.springernature.com/
+https://citationstyles.org/
+https://citationstyles.org/developers/
+https://citationsy.com/
 https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=dc38609b59c9993259fd7fc3de56cf11873c62de
 https://citic.ucr.ac.cr/
 https://citizenlab.ca/
@@ -3382,6 +3387,7 @@ https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=1337&context=cs
 https://digitalcommons.dartmouth.edu/dissertations/80/
 https://digitalprivacy.ieee.org/
 https://digitalprivacy.ieee.org/publications/topics/what-is-differential-privacy
+https://digitalscholar.org/
 https://dillo.org/
 https://diplomatique.org.br/
 https://direct.mit.edu/books/book/3058/Single-Neuron-Studies-of-the-Human-BrainProbing
@@ -4598,6 +4604,7 @@ https://easychair.org/
 https://easychair.org/cfp/provsec2023
 https://easychair.org/publications/paper/Q4lW
 https://easyeda.com/
+https://easyreferencing.com/
 https://easystats.github.io/easystats/
 https://easystats.github.io/insight/
 https://eatcs.org/
@@ -21173,6 +21180,7 @@ https://excess-xss.com/
 https://exercism.org/
 https://exercism.org/tracks
 https://existentialcomics.com/
+https://exlibrisgroup.com/products/primo-discovery-service/
 https://explained-from-first-principles.com/
 https://explained-from-first-principles.com/number-theory/
 https://explorer.opensyllabus.org/
@@ -21333,6 +21341,7 @@ https://forgefed.org/
 https://forgejo.org/
 https://forgejo.org/docs/latest/user/
 https://formal.land/
+https://formatically.com/
 https://forschungscampus-modal.de/
 https://forthebadge.com/
 https://fortran-lang.discourse.group/
@@ -21769,6 +21778,7 @@ https://github.com/Cisco-Talos/pyrebox
 https://github.com/cisco/chezscheme
 https://github.com/cisco/openh264
 https://github.com/CISOfy/lynis
+https://github.com/citation-style-language/styles
 https://github.com/citusdata/citus
 https://github.com/ckan/ckan
 https://github.com/cksystemsteaching/selfie
@@ -22281,6 +22291,7 @@ https://github.com/jestjs/jest
 https://github.com/JetBrains/intellij-community
 https://github.com/jgrahamc
 https://github.com/jimblandy
+https://github.com/jimmejardine/qiqqa-open-source
 https://github.com/jinningwang/best-of-ps
 https://github.com/jitsi/jitsi
 https://github.com/jlaurens/synctex
@@ -22833,6 +22844,7 @@ https://github.com/pingcap/awesome-database-learning
 https://github.com/pingcap/tidb
 https://github.com/piskvorky/gensim
 https://github.com/pixel/hexedit
+https://github.com/pkp/citationStyleLanguage
 https://github.com/pkp/ojs
 https://github.com/plaidml/plaidml
 https://github.com/plan9foundation/plan9
@@ -23529,6 +23541,7 @@ https://github.com/zcash/zcash
 https://github.com/zealdocs/zeal/
 https://github.com/ZenGo-X/white-city
 https://github.com/zitadel/zitadel
+https://github.com/zotero/zoterobib
 https://github.com/zudochkin/awesome-newsletters
 https://github.com/zulip/zulip/
 https://github.com/zwang4/awesome-machine-learning-in-compilers
@@ -24221,6 +24234,7 @@ https://hyperelliptic.org/EFD/
 https://hyperelliptic.org/tanja/
 https://hyperelliptic.org/tanja/index.html
 https://hyperopt.github.io/hyperopt-sklearn/
+https://i-librarian.net/
 https://i4oc.org/
 https://iacr.org/books/
 https://iacr.org/cryptodb/data/acceptance.php
@@ -24311,6 +24325,7 @@ https://ieeexplore.ieee.org/document/1265128
 https://ieeexplore.ieee.org/document/127580
 https://ieeexplore.ieee.org/document/128057
 https://ieeexplore.ieee.org/document/1311138
+https://ieeexplore.ieee.org/document/1451869
 https://ieeexplore.ieee.org/document/1455525
 https://ieeexplore.ieee.org/document/1564344
 https://ieeexplore.ieee.org/document/1646525
@@ -24829,6 +24844,7 @@ https://junaraki.net/books.html
 https://junit.org/junit5/
 https://jupyter.org/
 https://jupyterbook.org/en/stable/intro.html
+https://juris-m.github.io/
 https://just-taking-a-ride.com/inside_python_dict/chapter1.html
 https://just-the-docs.com/
 https://justinethier.github.io/cyclone/
@@ -27170,6 +27186,7 @@ https://manpages.debian.org/
 https://manpages.debian.org/bookworm/basez/hex.1.en.html
 https://manpages.debian.org/bookworm/manpages/elf.5.en.html
 https://manpages.debian.org/unstable/libcrypt-dev/crypt.5.en.html
+https://manubot.org/
 https://maplibre.org/
 https://mapnik.org/
 https://marabos.nl/atomics/
@@ -28034,6 +28051,7 @@ https://okfn.org/
 https://okfn.org/en/
 https://okmij.org/ftp/Denotational.html
 https://olap.com/
+https://omeka.org/
 https://oneapi-src.github.io/oneTBB/
 https://online-go.com/
 https://online-go.com/learn-to-play-go
@@ -28279,6 +28297,7 @@ https://osdev.org/System_V_ABI
 https://osdev.org/Tutorials
 https://osdev.org/VBE
 https://osdev.org/X86
+https://osf.io/
 https://osf.io/preprints/psyarxiv/
 https://osf.io/preprints/psyarxiv/293kt/
 https://osf.io/preprints/socarxiv/d5wqy/
@@ -28535,6 +28554,8 @@ https://pdos.csail.mit.edu/software/
 https://peazip.github.io/
 https://peerj.com/
 https://peerj.com/articles/453/
+https://peerj.com/articles/cs-214/
+https://peerj.com/computer-science/
 https://peers.community/
 https://pelotondb.io/
 https://pentesterlab.com/
@@ -28934,6 +28955,7 @@ https://press.princeton.edu/subjects/physics-astronomy
 https://press.stripe.com/
 https://press.stripe.com/the-art-of-doing-science-and-engineering
 https://press.stripe.com/the-dream-machine
+https://pressforward.org/
 https://pretextbook.org/
 https://primes.utm.edu/
 https://primes.utm.edu/glossary/page.php?sort=GoldbachConjecture
@@ -29340,6 +29362,9 @@ https://refactoring.guru/design-patterns/catalog
 https://refactoring.guru/refactoring/catalog
 https://reference.wolfram.com/language/
 https://reference.wolfram.com/language/ref/PolyhedronData.html
+https://refeus.de/content/start/
+https://refindit.org/
+https://refworks.proquest.com/
 https://regexcrossword.com/
 https://registry.opendata.aws/
 https://registry.opendata.aws/nyc-tlc-trip-records-pds/
@@ -29661,6 +29686,7 @@ https://scholar.google.com/citations?user=zkdjit0AAAAJ&hl=en
 https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=phy_computationalmathematics
 https://scholarlycommons.pacific.edu/euler-works/530/
 https://scholarship.law.cornell.edu/facpub/594/
+https://scholasticahq.com/
 https://scicomp.cs.illinois.edu/
 https://science.nasa.gov/
 https://science.psu.edu/math
@@ -29690,6 +29716,7 @@ https://sciml.ai/
 https://scipopt.org/
 https://scipy.org/
 https://sciurls.com/
+https://sciwheel.com/
 https://scottaaronson.blog/
 https://scverse.org/
 https://scythe.lsa.umich.edu/
@@ -30028,6 +30055,7 @@ https://sourceforge.net/projects/xampp/
 https://sourceforge.net/projects/zsnes/
 https://sourcefoundry.org/hack/
 https://sourcehut.org/
+https://sourceryapp.org/
 https://sources.debian.org/
 https://sources.ru/pascal/crypt/godsave.htm
 https://sources.ru/pascal/crypt/index.htm
@@ -30577,6 +30605,7 @@ https://tails.net/
 https://tailwindcss.com/
 https://tailwindcss.com/blog/standalone-cli
 https://taler.net/en/
+https://talis.com/talis-aspire/
 https://talosintelligence.com/
 https://tang.sipeed.com/en/
 https://taplo.tamasfe.dev/
@@ -30859,6 +30888,7 @@ https://trippy.cli.rs/
 https://trisquel.info/
 https://triton-library.github.io/
 https://troff.org/
+https://tropy.org/
 https://try.scheme.org/
 https://tryapl.org/
 https://tryhackme.com/
@@ -31659,6 +31689,7 @@ https://www.atomicheritage.org/
 https://www.atomocoffee.com/
 https://www.atomwise.com/
 https://www.att.com/
+https://www.atypon.com/
 https://www.auckland.ac.nz/en.html
 https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-statistics.html
 https://www.aumasson.jp/
@@ -31734,7 +31765,12 @@ https://www.bezkoder.com/node-js-jwt-authentication-mysql/
 https://www.bezkoder.com/react-hooks-jwt-auth/
 https://www.bfna.org/digital-world/infographic-ai-research-and-development-in-the-us-eu-and-china-4mk29rb8ig/
 https://www.bfs.admin.ch/bfs/de/home.html
+https://www.bibcitation.com/
+https://www.bibguru.com/
+https://www.bibliography.com/
 https://www.bibliothek.kit.edu/kitopen.php
+https://www.bibme.org/
+https://www.bibsonomy.org/
 https://www.bibtex.com/
 https://www.bibtex.com/converters/
 https://www.bibtex.com/e/entry-types/
@@ -32242,7 +32278,10 @@ https://www.cis.upenn.edu/~mkearns/papers/thesis.pdf
 https://www.cisa.gov/news-events
 https://www.cisco.com/
 https://www.cisco.com/c/en/us/support/docs/ip/access-lists/13608-21.html
+https://www.citationgenerator.com/
+https://www.citationmachine.net/
 https://www.citedrive.com/en/
+https://www.citethisforme.com/
 https://www.citigroup.com/global/insights/global-insights/the-u-s-china-chip-war-who-dares-to-win
 https://www.cits.ruhr-uni-bochum.de/
 https://www.citusdata.com/
@@ -32637,6 +32676,7 @@ https://www.cwi.nl/en/results/software/monetdb-high-performance-query-processing
 https://www.cwi.nl/en/results/software/rascal-one-stop-shop-for-metaprogramming/
 https://www.cybereason.com/blog
 https://www.cypress.io/
+https://www.dagstuhl.de/de/
 https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/03411
 https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/23251
 https://www.damninteresting.com/
@@ -32911,6 +32951,7 @@ https://www.dyalog.com/
 https://www.dyalog.com/50-years-of-apl.htm
 https://www.dyalog.com/apl-challenge.htm
 https://www.dyalog.com/what-is-dyalog.htm
+https://www.easybib.com/
 https://www.eaton.com/us/en-us/support/eaton-answers/daisy-chain-ups.html
 https://www.ebi.ac.uk/
 https://www.ebi.ac.uk/Tools/sss/fasta/
@@ -33054,6 +33095,7 @@ https://www.epicreads.com/blog/completed-book-series-binge/
 https://www.episciences.org/
 https://www.epochconverter.com/
 https://www.eprints.org/uk/
+https://www.ereserve.com.au/
 https://www.erlang.org/
 https://www.erlang.org/blog
 https://www.erlang.org/doc/programming_examples/bit_syntax.html
@@ -33159,6 +33201,7 @@ https://www.feynmanlectures.caltech.edu/III_toc.html
 https://www.feynmanlectures.caltech.edu/messenger.html
 https://www.fftw.org/
 https://www.fharrell.com/
+https://www.fiduswriter.org/
 https://www.fierceelectronics.com/
 https://www.fierceelectronics.com/electronics/aes-256-joins-quantum-resistance
 https://www.fiercetechnology.com/
@@ -34226,6 +34269,7 @@ https://www.isfdb.org/cgi-bin/title.cgi?17201
 https://www.isfdb.org/cgi-bin/title.cgi?44191
 https://www.isi-web.org/
 https://www.iskcon.org/
+https://www.islandora.ca/
 https://www.iso-9899.info/wiki/Main_Page
 https://www.iso-9899.info/wiki/The_Standard
 https://www.iso.org/isoiec-27001-information-security.html
@@ -34571,6 +34615,7 @@ https://www.logicdesign.com/
 https://www.loginradius.com/blog/engineering/guest-post/jwt-vs-sessions/
 https://www.logitech.com/
 https://www.logitech.com/en-us
+https://www.logos.com/
 https://www.logswan.org/
 https://www.london.ac.uk/
 https://www.loongson.cn/EN
@@ -34776,6 +34821,7 @@ https://www.mat.univie.ac.at/~gerald/ftp/book-ode/
 https://www.mat.univie.ac.at/~gerald/ftp/book-ode/index.html
 https://www.mat.univie.ac.at/~gerald/ftp/book-pde/index.html
 https://www.mat.univie.ac.at/~gerald/ftp/book-ra/index.html
+https://www.matchware.com/
 https://www.math.brown.edu/johsilve/
 https://www.math.brown.edu/johsilve/MathCryptoHome.html
 https://www.math.columbia.edu/~bayer/
@@ -34906,6 +34952,8 @@ https://www.memorymanagement.org/mmref/alloc.html
 https://www.memorysafety.org/
 https://www.memorysafety.org/blog/sudo-first-stable-release/
 https://www.memorysafety.org/docs/memory-safety/
+https://www.mendeley.com/
+https://www.mendeley.com/search/
 https://www.mercator-institut-sprachfoerderung.de/
 https://www.mercurial-scm.org/
 https://www.mercurylang.org/
@@ -34938,6 +34986,7 @@ https://www.metzdowd.com/pipermail/cryptography/
 https://www.metzdowd.com/pipermail/cryptography/2001-September/thread.html
 https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html
 https://www.metzlerverlag.de/
+https://www.mfo.de/
 https://www.mheducation.com/highered/product/applied-numerical-methods-matlab-engineers-scientists-chapra/M9781264162604.html
 https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9781259676512.html
 https://www.mheducation.com/highered/product/elementary-number-theory-burton/M9780073383149.html
@@ -35081,6 +35130,7 @@ https://www.multicians.org/thvv/mail-history.html
 https://www.multiprecision.org/
 https://www.multiprecision.org/mpc/
 https://www.mwrcybersec.com/
+https://www.mybib.com/
 https://www.mysql.com/
 https://www.mysqltutorial.org/
 https://www.mysqltutorial.org/mysql-cheat-sheet.aspx
@@ -35650,6 +35700,7 @@ https://www.paperdigest.org/
 https://www.paperdigest.org/best-paper-digest/
 https://www.paperdigest.org/chang-wang/
 https://www.paperdigest.org/review/
+https://www.papersapp.com/
 https://www.paperspace.com/
 https://www.parabola.nu/
 https://www.parlament.ch/de
@@ -36056,6 +36107,7 @@ https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/lm
 https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/Poisson
 https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/Uniform
 https://www.rdworldonline.com/
+https://www.readcube.com/
 https://www.realclearpolitics.com/
 https://www.red-bean.com/~jimb/
 https://www.red-gate.com/simple-talk/sysadmin/powershell/building-an-etl-with-powershell/
@@ -36677,6 +36729,7 @@ https://www.scmagazine.com/
 https://www.scmp.com/
 https://www.scopus.com/
 https://www.scottaaronson.com/
+https://www.scribbr.com/
 https://www.scribus.net/
 https://www.scrivenerpublishing.com/subject_area.php?id=Mathematics
 https://www.scryer.pl/
@@ -38181,6 +38234,7 @@ https://www.zerodayinitiative.com/
 https://www.zespri.com/en-US/product
 https://www.zeta-alpha.com/
 https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022
+https://www.zettlr.com/
 https://www.zib.de/
 https://www.ziffdavis.com/
 https://www.zlib.net/
