@@ -4600,6 +4600,7 @@ https://earthobservatory.nasa.gov/features/NightLights
 https://earthsky.org/
 https://earthsky.org/earth/can-you-explain-why-earth-has-4-seasons/
 https://earthsky.org/space/what-is-the-ecliptic/
+https://ease.org.uk/
 https://easychair.org/
 https://easychair.org/cfp/provsec2023
 https://easychair.org/publications/paper/Q4lW
@@ -5754,6 +5755,7 @@ https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Inte
 https://en.wikipedia.org/wiki/Association_fran%C3%A7aise_pour_le_nommage_Internet_en_coop%C3%A9ration
 https://en.wikipedia.org/wiki/Association_of_American_Universities
 https://en.wikipedia.org/wiki/Association_of_College_and_Research_Libraries
+https://en.wikipedia.org/wiki/Association_of_Learned_and_Professional_Society_Publishers
 https://en.wikipedia.org/wiki/Association_rule_learning
 https://en.wikipedia.org/wiki/Associative_array
 https://en.wikipedia.org/wiki/Assuwa
@@ -6163,6 +6165,7 @@ https://en.wikipedia.org/wiki/Biblical_apocrypha
 https://en.wikipedia.org/wiki/Biblical_canon
 https://en.wikipedia.org/wiki/Bibliographic_coupling
 https://en.wikipedia.org/wiki/Bibliographic_database
+https://en.wikipedia.org/wiki/Bibliographic_index
 https://en.wikipedia.org/wiki/Bibliography_of_the_Russian_Revolution_and_Civil_War
 https://en.wikipedia.org/wiki/Bibliometrics
 https://en.wikipedia.org/wiki/Bibliometrix
@@ -8549,6 +8552,7 @@ https://en.wikipedia.org/wiki/Cross-sectional_study
 https://en.wikipedia.org/wiki/Cross-sequential_study
 https://en.wikipedia.org/wiki/Cross-validation_(statistics)
 https://en.wikipedia.org/wiki/Crossover_study
+https://en.wikipedia.org/wiki/Crossref
 https://en.wikipedia.org/wiki/Crout_matrix_decomposition
 https://en.wikipedia.org/wiki/Crown_of_the_Kingdom_of_Poland
 https://en.wikipedia.org/wiki/Crowning_of_Atlantis
@@ -9916,6 +9920,7 @@ https://en.wikipedia.org/wiki/Eurogame
 https://en.wikipedia.org/wiki/Euronews
 https://en.wikipedia.org/wiki/Europa_(consort_of_Zeus)
 https://en.wikipedia.org/wiki/Europe
+https://en.wikipedia.org/wiki/European_Association_of_Science_Editors
 https://en.wikipedia.org/wiki/European_Broadcasting_Union
 https://en.wikipedia.org/wiki/European_Charter_of_Local_Self-Government
 https://en.wikipedia.org/wiki/European_Commission
@@ -11470,6 +11475,7 @@ https://en.wikipedia.org/wiki/Hill_climbing
 https://en.wikipedia.org/wiki/Hill_equation_(biochemistry)
 https://en.wikipedia.org/wiki/HIM_(Finnish_band)
 https://en.wikipedia.org/wiki/Himmelblau%27s_function
+https://en.wikipedia.org/wiki/Hindawi_(publisher)
 https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system
 https://en.wikipedia.org/wiki/Hindu_deities
 https://en.wikipedia.org/wiki/Hindu_mythology
@@ -17331,6 +17337,7 @@ https://en.wikipedia.org/wiki/Resampling_(statistics)
 https://en.wikipedia.org/wiki/Research_and_Analysis_Wing
 https://en.wikipedia.org/wiki/Research_data_archiving
 https://en.wikipedia.org/wiki/Research_design
+https://en.wikipedia.org/wiki/Research_paper_mill
 https://en.wikipedia.org/wiki/Research_Papers_in_Economics
 https://en.wikipedia.org/wiki/Research_program
 https://en.wikipedia.org/wiki/Research_university
@@ -17821,6 +17828,7 @@ https://en.wikipedia.org/wiki/Science
 https://en.wikipedia.org/wiki/Science_(journal)
 https://en.wikipedia.org/wiki/Science_Advances
 https://en.wikipedia.org/wiki/Science_Adventure
+https://en.wikipedia.org/wiki/Science_Citation_Index_Expanded
 https://en.wikipedia.org/wiki/Science_museum
 https://en.wikipedia.org/wiki/Science_wars
 https://en.wikipedia.org/wiki/Sciences_Po
@@ -18356,6 +18364,7 @@ https://en.wikipedia.org/wiki/Societas_Europaea
 https://en.wikipedia.org/wiki/Societas_privata_Europaea
 https://en.wikipedia.org/wiki/Societas_Rosicruciana_in_Anglia
 https://en.wikipedia.org/wiki/Society_for_Industrial_and_Applied_Mathematics
+https://en.wikipedia.org/wiki/Society_for_Scholarly_Publishing
 https://en.wikipedia.org/wiki/Society_for_the_Improvement_of_Psychological_Science
 https://en.wikipedia.org/wiki/Sociocracy
 https://en.wikipedia.org/wiki/Sociology_of_human_consciousness
@@ -24800,10 +24809,12 @@ https://journals.openedition.org/rfcb/1662
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004020
 https://journals.plos.org/plosone/
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285383
 https://journals.sagepub.com/
 https://journals.sagepub.com/doi/10.1177/001316447903900237
 https://journals.sagepub.com/doi/10.1177/0301006619844680
 https://journals.sagepub.com/doi/10.1177/0306312710378448
+https://journals.sagepub.com/doi/10.1177/17470161211018257
 https://journals.sagepub.com/doi/10.1177/2041669520953457
 https://journals.sagepub.com/doi/full/10.1177/0961000618773133
 https://journals.sagepub.com/doi/full/10.1177/26339137221114874
@@ -28085,6 +28096,7 @@ https://onlinelibrary.wiley.com/doi/10.1002/aur.3012
 https://onlinelibrary.wiley.com/doi/10.1002/cpa.21423
 https://onlinelibrary.wiley.com/doi/10.1002/j.1538-7305.1949.tb00928.x
 https://onlinelibrary.wiley.com/doi/10.1002/jnm.841
+https://onlinelibrary.wiley.com/doi/10.1002/leap.1574
 https://onlinelibrary.wiley.com/doi/10.1002/sapm1941201337
 https://onlinelibrary.wiley.com/doi/10.1002/spe.4380020202
 https://onlinelibrary.wiley.com/doi/10.1002/spe.4380150604
@@ -29454,6 +29466,7 @@ https://restofworld.org/series/china-outside-china/
 https://restofworld.org/series/tech-hubs/
 https://restofworld.org/series/the-rise-of-ai/
 https://retractionwatch.com/
+https://retractionwatch.com/2021/06/02/the-peer-reviewers-and-editor-wanted-to-publish-my-paper-the-legal-team-rejected-it/
 https://retractionwatch.com/category/by-journal/third-world-quarterly/
 https://retro-freedom.nz/category/blog.html
 https://retrocomputingforum.com/
@@ -29699,6 +29712,7 @@ https://scholar.google.com/citations?user=x_wsduUAAAAJ
 https://scholar.google.com/citations?user=zkdjit0AAAAJ&hl=en
 https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=phy_computationalmathematics
 https://scholarlycommons.pacific.edu/euler-works/530/
+https://scholarlykitchen.sspnet.org/
 https://scholarship.law.cornell.edu/facpub/594/
 https://scholasticahq.com/
 https://scicomp.cs.illinois.edu/
@@ -31507,6 +31521,7 @@ https://www.allthingsopen.org/
 https://www.alltypes.de/
 https://www.allwinnertech.com/
 https://www.alpinelinux.org/
+https://www.alpsp.org/
 https://www.alsa-project.org/wiki/Main_Page
 https://www.altmetric.com/
 https://www.amazingcto.com/postgres-for-everything/
@@ -31651,6 +31666,7 @@ https://www.arm.com/
 https://www.arm.com/architecture
 https://www.arm.com/architecture/cpu/morello
 https://www.arm.com/architecture/learn-the-architecture
+https://www.arm.com/markets/storage/computational-storage
 https://www.arm.com/products/silicon-ip-cpu/neoverse/neoverse-v2
 https://www.armbian.com/
 https://www.arte.tv/de
@@ -33982,6 +33998,7 @@ https://www.hesa.ac.uk/
 https://www.hhs.gov/
 https://www.hidglobal.com/
 https://www.hikunpeng.com/en/
+https://www.hindawi.com/
 https://www.historians.org/perspectives
 https://www.historians.org/research-and-publications/perspectives-on-history/december-2017/crypto-currents-dispatches-from-the-symposium-on-cryptologic-history
 https://www.historic-uk.com/HistoryUK/
@@ -35195,6 +35212,7 @@ https://www.nature.com/articles/d41586-023-03603-4
 https://www.nature.com/articles/d41586-023-03635-w
 https://www.nature.com/articles/d41586-023-03745-5
 https://www.nature.com/articles/d41586-023-04044-9
+https://www.nature.com/articles/d41586-024-00159-9
 https://www.nature.com/articles/d41586-024-00768-4
 https://www.nature.com/articles/d41586-024-00930-y
 https://www.nature.com/articles/d41586-024-01216-z
@@ -36853,6 +36871,7 @@ https://www.smithsonianmag.com/
 https://www.smithsonianmag.com/history/what-does-the-zapruder-film-really-tell-us-14194/
 https://www.smithsonianmag.com/science-nature/what-math-180975882/
 https://www.smithsonianmag.com/travel/via-ferratas-are-finally-catching-on-in-the-united-states-180983855/
+https://www.snia.org/computational
 https://www.snort.org/
 https://www.snowflake.com/en/
 https://www.soapui.org/
@@ -37037,6 +37056,7 @@ https://www.ssh.com/academy/ssh/public-key-authentication
 https://www.ssllabs.com/
 https://www.ssllabs.com/ssl-pulse/
 https://www.ssllabs.com/ssltest/
+https://www.sspnet.org/
 https://www.ssrn.com/index.cfm/en/
 https://www.st.com/content/st_com/en/arm-32-bit-microcontrollers.html
 https://www.st.com/content/st_com/en/arm-32-bit-microcontrollers/arm-cortex-m0.html
