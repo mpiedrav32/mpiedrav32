@@ -6,5 +6,4 @@ Interested in computational mathematics.
 
 Contact: mpiedrav@proton.me
 
-[Writings](writings)
-  - [2024](writings/writings-2024.md)
+[Writings (2024)](writings/writings-2024.md)
