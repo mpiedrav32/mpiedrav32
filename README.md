@@ -1,6 +1,9 @@
 # Marco Piedra Venegas
 
-Computer Science student at University of Costa Rica. Interested in computational mathematics.
+Computer Science student at University of Costa Rica.
+
+Interested in computational mathematics.
+
 Contact: mpiedrav@proton.me
 
 [Writings](writings)
