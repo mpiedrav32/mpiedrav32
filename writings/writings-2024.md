@@ -413,3 +413,27 @@ There's absolutely nothing in human existence that is worth the pain and sufferi
 
 I'm still alive because I'm too lazy to kill myself properly. Effective suicide in practice is harder than it seems.
 Disappointingly, there's a myriad of ways a suicide attempt can fail.
+
+# Birthday
+
+Choosing my birthday as the day when I kill myself has a plus side: calculating my age when I died would be easy.
+
+Perhaps I'll kill myself next year, or the next one after that, or some other year.
+There are emotional constraints that still bind me to this realm of existence.
+
+Choosing to die just because I don't feel I fit in this existence is a reasonable argument in favor of suicide.
+I was never the kind of person I wanted to become. I always oversold and underdelivered. Or didn't deliver at all.
+
+As for the pain I'd leave in the world due to my physical absence, I know people would promptly forget about me.
+I wouldn't grief my own death.
+
+I realized the kind of person I wanted to become requires too much endurance and stamina.
+I never had enough strength of being to want to go through that path.
+
+# Trust
+
+My peers obviously mistrust me. I would't trust myself either. At 38, I'm too old to be a computer science undergrad.
+I don't have another degree.
+
+What have I been doing for almost 20 years, whereas my classmates will graduate in less than 10 years
+since they began their studies?

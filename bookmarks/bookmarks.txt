@@ -38410,3 +38410,8 @@ https://zoneminder.com/
 https://zookeeper.apache.org/
 https://zsh.sourceforge.io/
 https://zulip.com/
+https://spectrum.ieee.org/tide-predictions
+https://spectrum.ieee.org/topic/tech-history/
+https://en.wikipedia.org/wiki/Portable,_Extensible_Toolkit_for_Scientific_Computation
+https://petsc.org/release/
+https://gitlab.com/petsc/petsc
