@@ -30209,6 +30209,7 @@ https://spectrum.ieee.org/the-million-dollar-programming-prize
 https://spectrum.ieee.org/the-real-story-of-stuxnet
 https://spectrum.ieee.org/the-top-programming-languages-2023
 https://spectrum.ieee.org/the-uncanny-valley
+https://spectrum.ieee.org/tide-predictions
 https://spectrum.ieee.org/to-build-the-worlds-smallest-atomic-clock-trap-a-nitrogen-atom-in-a-carbon-cage
 https://spectrum.ieee.org/topic/aerospace/
 https://spectrum.ieee.org/topic/artificial-intelligence/
@@ -38410,8 +38411,3 @@ https://zoneminder.com/
 https://zookeeper.apache.org/
 https://zsh.sourceforge.io/
 https://zulip.com/
-https://spectrum.ieee.org/tide-predictions
-https://spectrum.ieee.org/topic/tech-history/
-https://en.wikipedia.org/wiki/Portable,_Extensible_Toolkit_for_Scientific_Computation
-https://petsc.org/release/
-https://gitlab.com/petsc/petsc
