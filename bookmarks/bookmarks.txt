@@ -600,6 +600,7 @@ https://aomedia.org/
 https://aosabook.org/en/
 https://aosabook.org/en/index.html
 https://aosabook.org/en/v1/llvm.html
+https://aosabook.org/en/v1/nosql.html
 https://aosc.io/
 https://apache.org/
 https://apastyle.apa.org/
@@ -5176,6 +5177,7 @@ https://en.wikipedia.org/wiki/Al-Khwarizmi
 https://en.wikipedia.org/wiki/Alain_Colmerauer
 https://en.wikipedia.org/wiki/Alain_Finkielkraut
 https://en.wikipedia.org/wiki/Alamaailman_Vasarat
+https://en.wikipedia.org/wiki/Alamannia
 https://en.wikipedia.org/wiki/Alan_Edelman
 https://en.wikipedia.org/wiki/Alan_Moore
 https://en.wikipedia.org/wiki/Alan_Perlis
@@ -5200,6 +5202,7 @@ https://en.wikipedia.org/wiki/Aleksander_Rajchman
 https://en.wikipedia.org/wiki/Aleksandr_Khinchin
 https://en.wikipedia.org/wiki/Aleksandr_Lyapunov
 https://en.wikipedia.org/wiki/Alekseev%E2%80%93Gr%C3%B6bner_formula
+https://en.wikipedia.org/wiki/Alemanni
 https://en.wikipedia.org/wiki/Alessandra_Celletti_(mathematician)
 https://en.wikipedia.org/wiki/Alex_Graves_(computer_scientist)
 https://en.wikipedia.org/wiki/Alex_Krizhevsky
@@ -5472,6 +5475,7 @@ https://en.wikipedia.org/wiki/Anekdoten
 https://en.wikipedia.org/wiki/Anemic_domain_model
 https://en.wikipedia.org/wiki/Angel%27s_Egg
 https://en.wikipedia.org/wiki/Angela_Dean
+https://en.wikipedia.org/wiki/Angles_(tribe)
 https://en.wikipedia.org/wiki/Anglo-French_Wars
 https://en.wikipedia.org/wiki/Anglo-Norman_language
 https://en.wikipedia.org/wiki/Anglo-Saxons
@@ -5634,6 +5638,7 @@ https://en.wikipedia.org/wiki/Arc_lamp
 https://en.wikipedia.org/wiki/Arc_length
 https://en.wikipedia.org/wiki/Arc_routing
 https://en.wikipedia.org/wiki/Arch_Linux
+https://en.wikipedia.org/wiki/Archaeology_of_Northern_Europe
 https://en.wikipedia.org/wiki/Archaic_Greece
 https://en.wikipedia.org/wiki/Archimedes
 https://en.wikipedia.org/wiki/Archimedes-lab.org
@@ -5961,6 +5966,7 @@ https://en.wikipedia.org/wiki/Baidu
 https://en.wikipedia.org/wiki/Baikal_CPU
 https://en.wikipedia.org/wiki/Bailey%E2%80%93Borwein%E2%80%93Plouffe_formula
 https://en.wikipedia.org/wiki/Baillie%E2%80%93PSW_primality_test
+https://en.wikipedia.org/wiki/Baiuvarii
 https://en.wikipedia.org/wiki/Bakelite
 https://en.wikipedia.org/wiki/Baker%27s_map
 https://en.wikipedia.org/wiki/Bakumatsu
@@ -6018,6 +6024,7 @@ https://en.wikipedia.org/wiki/Basilisk_II
 https://en.wikipedia.org/wiki/Basis_function
 https://en.wikipedia.org/wiki/Basis_pursuit_denoising
 https://en.wikipedia.org/wiki/Bastion_host
+https://en.wikipedia.org/wiki/Batavi_(Germanic_tribe)
 https://en.wikipedia.org/wiki/Batch_normalization
 https://en.wikipedia.org/wiki/Bathymetric_chart
 https://en.wikipedia.org/wiki/Bathymetry
@@ -6076,6 +6083,7 @@ https://en.wikipedia.org/wiki/Beats_Electronics
 https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser)
 https://en.wikipedia.org/wiki/Beaux-Arts_de_Paris
 https://en.wikipedia.org/wiki/BeBox
+https://en.wikipedia.org/wiki/Bede
 https://en.wikipedia.org/wiki/Beelzebub
 https://en.wikipedia.org/wiki/Beethoven_House
 https://en.wikipedia.org/wiki/Begriffsschrift
@@ -8066,6 +8074,7 @@ https://en.wikipedia.org/wiki/Compact_space
 https://en.wikipedia.org/wiki/Compactness_theorem
 https://en.wikipedia.org/wiki/CompactRISC
 https://en.wikipedia.org/wiki/Company_rule_in_India
+https://en.wikipedia.org/wiki/Comparative_linguistics
 https://en.wikipedia.org/wiki/Comparative_politics
 https://en.wikipedia.org/wiki/Compare-and-swap
 https://en.wikipedia.org/wiki/Comparison_of_agent-based_modeling_software
@@ -8722,6 +8731,7 @@ https://en.wikipedia.org/wiki/Daniela_Witten
 https://en.wikipedia.org/wiki/Danny_Hillis
 https://en.wikipedia.org/wiki/Danone
 https://en.wikipedia.org/wiki/DANTE
+https://en.wikipedia.org/wiki/Danube
 https://en.wikipedia.org/wiki/Daphne_Koller
 https://en.wikipedia.org/wiki/Daredevils_of_Sassoun
 https://en.wikipedia.org/wiki/Dark_academia
@@ -9995,6 +10005,7 @@ https://en.wikipedia.org/wiki/Executive_Office_of_the_President_of_the_United_St
 https://en.wikipedia.org/wiki/Executive_Systems_Problem_Oriented_Language
 https://en.wikipedia.org/wiki/Exercises_in_Style
 https://en.wikipedia.org/wiki/Exercism
+https://en.wikipedia.org/wiki/Exeter_Book
 https://en.wikipedia.org/wiki/Existential_nihilism
 https://en.wikipedia.org/wiki/Existential_quantification
 https://en.wikipedia.org/wiki/Existentialist_anarchism
@@ -10419,6 +10430,7 @@ https://en.wikipedia.org/wiki/Frank_Rowlett
 https://en.wikipedia.org/wiki/Frank%E2%80%93Wolfe_algorithm
 https://en.wikipedia.org/wiki/Frankfurt
 https://en.wikipedia.org/wiki/Frankfurt_School
+https://en.wikipedia.org/wiki/Franks
 https://en.wikipedia.org/wiki/Franz_Lisp
 https://en.wikipedia.org/wiki/Franz_Schubert
 https://en.wikipedia.org/wiki/Fraser_Institute
@@ -10818,7 +10830,9 @@ https://en.wikipedia.org/wiki/German_Renaissance
 https://en.wikipedia.org/wiki/German_Research_Foundation
 https://en.wikipedia.org/wiki/German_town_law
 https://en.wikipedia.org/wiki/Germanic_languages
+https://en.wikipedia.org/wiki/Germanic_paganism
 https://en.wikipedia.org/wiki/Germanic_peoples
+https://en.wikipedia.org/wiki/Germanic_philology
 https://en.wikipedia.org/wiki/Gerolamo_Cardano
 https://en.wikipedia.org/wiki/Gestapo
 https://en.wikipedia.org/wiki/Getaddrinfo
@@ -12656,6 +12670,7 @@ https://en.wikipedia.org/wiki/JUnit
 https://en.wikipedia.org/wiki/Jurimetrics
 https://en.wikipedia.org/wiki/Just_another_Gibbs_sampler
 https://en.wikipedia.org/wiki/Just-in-time_compilation
+https://en.wikipedia.org/wiki/Jutes
 https://en.wikipedia.org/wiki/Jython
 https://en.wikipedia.org/wiki/K_(programming_language)
 https://en.wikipedia.org/wiki/K-anonymity
@@ -13254,6 +13269,8 @@ https://en.wikipedia.org/wiki/Lilliefors_test
 https://en.wikipedia.org/wiki/Lilliputian_Hitcher
 https://en.wikipedia.org/wiki/Lime_(fruit)
 https://en.wikipedia.org/wiki/Lime_softening
+https://en.wikipedia.org/wiki/Limes_(Roman_Empire)
+https://en.wikipedia.org/wiki/Limes_Germanicus
 https://en.wikipedia.org/wiki/Limit_cycle
 https://en.wikipedia.org/wiki/Limit_of_distributions
 https://en.wikipedia.org/wiki/Limit_set
@@ -14172,6 +14189,7 @@ https://en.wikipedia.org/wiki/March_1989_geomagnetic_storm
 https://en.wikipedia.org/wiki/March_equinox
 https://en.wikipedia.org/wiki/March_on_Rome_(88_BC)
 https://en.wikipedia.org/wiki/Marche_Polytechnic_University
+https://en.wikipedia.org/wiki/Marcomanni
 https://en.wikipedia.org/wiki/Marconi_Union
 https://en.wikipedia.org/wiki/Marcus_Aurelius
 https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa
@@ -15098,6 +15116,7 @@ https://en.wikipedia.org/wiki/NEOS_Server
 https://en.wikipedia.org/wiki/Nephilim
 https://en.wikipedia.org/wiki/NER_model
 https://en.wikipedia.org/wiki/Nergal
+https://en.wikipedia.org/wiki/Nerthus
 https://en.wikipedia.org/wiki/Nerva
 https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty
 https://en.wikipedia.org/wiki/Nerve_agent
@@ -15331,6 +15350,8 @@ https://en.wikipedia.org/wiki/NOP_slide
 https://en.wikipedia.org/wiki/Norbert_Wiener
 https://en.wikipedia.org/wiki/Norby
 https://en.wikipedia.org/wiki/Norby,_the_Mixed-Up_Robot
+https://en.wikipedia.org/wiki/Nordic_Bronze_Age
+https://en.wikipedia.org/wiki/Nordic_Stone_Age
 https://en.wikipedia.org/wiki/NordLayer
 https://en.wikipedia.org/wiki/Nordtvedt_effect
 https://en.wikipedia.org/wiki/NordVPN
@@ -15347,6 +15368,7 @@ https://en.wikipedia.org/wiki/Normalization_(statistics)
 https://en.wikipedia.org/wiki/Norman_Conquest
 https://en.wikipedia.org/wiki/Norman_Packard
 https://en.wikipedia.org/wiki/Norman_Zabusky
+https://en.wikipedia.org/wiki/Normans
 https://en.wikipedia.org/wiki/Normed_vector_space
 https://en.wikipedia.org/wiki/Norse_mythology
 https://en.wikipedia.org/wiki/North_American_Network_Operators%27_Group
@@ -15357,6 +15379,7 @@ https://en.wikipedia.org/wiki/Northeast_blackout_of_2003
 https://en.wikipedia.org/wiki/Northeast_megalopolis
 https://en.wikipedia.org/wiki/Northeastern_United_States
 https://en.wikipedia.org/wiki/Northern_American_English
+https://en.wikipedia.org/wiki/Northern_Europe
 https://en.wikipedia.org/wiki/Northern_Renaissance
 https://en.wikipedia.org/wiki/Northwest_Territories
 https://en.wikipedia.org/wiki/Norton_Commander
@@ -17067,6 +17090,7 @@ https://en.wikipedia.org/wiki/Radiosity_(computer_graphics)
 https://en.wikipedia.org/wiki/RADIUS
 https://en.wikipedia.org/wiki/Radix_sort
 https://en.wikipedia.org/wiki/Radon_transform
+https://en.wikipedia.org/wiki/Raetia
 https://en.wikipedia.org/wiki/RAF_Menwith_Hill
 https://en.wikipedia.org/wiki/Raft_(algorithm)
 https://en.wikipedia.org/wiki/RaftLib
@@ -17406,10 +17430,12 @@ https://en.wikipedia.org/wiki/Reynolds_number
 https://en.wikipedia.org/wiki/RF_CMOS
 https://en.wikipedia.org/wiki/RFB_protocol
 https://en.wikipedia.org/wiki/RGtk2
+https://en.wikipedia.org/wiki/Rhaetian_people
 https://en.wikipedia.org/wiki/Rhapsody_of_Fire
 https://en.wikipedia.org/wiki/Rhea_(pipeline)
 https://en.wikipedia.org/wiki/Rheonomous
 https://en.wikipedia.org/wiki/Rhetoric_of_science
+https://en.wikipedia.org/wiki/Rhine
 https://en.wikipedia.org/wiki/Rhine-Ruhr
 https://en.wikipedia.org/wiki/Rhino_(JavaScript_engine)
 https://en.wikipedia.org/wiki/Rhizome_(philosophy)
@@ -17473,6 +17499,7 @@ https://en.wikipedia.org/wiki/Ring_signature
 https://en.wikipedia.org/wiki/Rio_(windowing_system)
 https://en.wikipedia.org/wiki/RIPE_NCC
 https://en.wikipedia.org/wiki/RIPEMD
+https://en.wikipedia.org/wiki/Ripuarian_Franks
 https://en.wikipedia.org/wiki/RISC_OS
 https://en.wikipedia.org/wiki/RISC-V
 https://en.wikipedia.org/wiki/Risch_algorithm
@@ -17792,6 +17819,7 @@ https://en.wikipedia.org/wiki/SAVAK
 https://en.wikipedia.org/wiki/Savane_(software)
 https://en.wikipedia.org/wiki/Save_Ferris
 https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter
+https://en.wikipedia.org/wiki/Saxons
 https://en.wikipedia.org/wiki/Scala_(programming_language)
 https://en.wikipedia.org/wiki/Scalar_field
 https://en.wikipedia.org/wiki/Scalar_processor
@@ -17801,6 +17829,7 @@ https://en.wikipedia.org/wiki/Scale_space_implementation
 https://en.wikipedia.org/wiki/Scale-invariant_feature_transform
 https://en.wikipedia.org/wiki/Scale-space_axioms
 https://en.wikipedia.org/wiki/Scale-space_segmentation
+https://en.wikipedia.org/wiki/Scandinavian_studies
 https://en.wikipedia.org/wiki/Scatter_plot
 https://en.wikipedia.org/wiki/Scatterplot_smoothing
 https://en.wikipedia.org/wiki/Scheduling_(computing)
@@ -19229,6 +19258,7 @@ https://en.wikipedia.org/wiki/Tests_of_general_relativity
 https://en.wikipedia.org/wiki/Tests_of_special_relativity
 https://en.wikipedia.org/wiki/Tetrachloroethylene
 https://en.wikipedia.org/wiki/Tetration
+https://en.wikipedia.org/wiki/Teutons
 https://en.wikipedia.org/wiki/Teuvo_Kohonen
 https://en.wikipedia.org/wiki/TeX
 https://en.wikipedia.org/wiki/Tex_Avery
@@ -19343,6 +19373,7 @@ https://en.wikipedia.org/wiki/The_Hacker_Crackdown
 https://en.wikipedia.org/wiki/The_Heike_Story
 https://en.wikipedia.org/wiki/The_Hidden_Ivies
 https://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
+https://en.wikipedia.org/wiki/The_Horse,_the_Wheel,_and_Language
 https://en.wikipedia.org/wiki/The_House_of_the_Rising_Sun
 https://en.wikipedia.org/wiki/The_Hunger_(1983_film)
 https://en.wikipedia.org/wiki/The_Hunger_(Strieber_novel)
@@ -20112,6 +20143,7 @@ https://en.wikipedia.org/wiki/Up_the_Downstair
 https://en.wikipedia.org/wiki/Up-and-down_design
 https://en.wikipedia.org/wiki/Upanishads
 https://en.wikipedia.org/wiki/Upper_and_lower_probabilities
+https://en.wikipedia.org/wiki/Upper_Germanic-Rhaetian_Limes
 https://en.wikipedia.org/wiki/Upper-atmospheric_lightning
 https://en.wikipedia.org/wiki/Uppsala_University
 https://en.wikipedia.org/wiki/Upverter
@@ -20260,6 +20292,8 @@ https://en.wikipedia.org/wiki/Vieta%27s_formulas
 https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
 https://en.wikipedia.org/wiki/VIGRA
 https://en.wikipedia.org/wiki/Vijay_Vazirani
+https://en.wikipedia.org/wiki/Viking_Age
+https://en.wikipedia.org/wiki/Vikings
 https://en.wikipedia.org/wiki/Vilfredo_Pareto
 https://en.wikipedia.org/wiki/Vilnius
 https://en.wikipedia.org/wiki/Vinagre
@@ -21498,6 +21532,8 @@ https://geoff.greer.fm/ag/
 https://geoip2.readthedocs.io/en/latest/
 https://geometricdeeplearning.com/
 https://geopandas.org/en/stable/
+https://geospatial.netlify.app/
+https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/
 https://gephi.org/
 https://gerbil.scheme.org/
 https://get.dev/
@@ -28035,6 +28071,7 @@ https://ocaml.xyz/
 https://ocamlverse.net/
 https://oceanservice.noaa.gov/
 https://oceanservice.noaa.gov/facts/geoid.html
+https://oceanstore.cs.berkeley.edu/
 https://ocindex.net/
 https://ocrmypdf.readthedocs.io/en/latest/
 https://octave.org/
@@ -37442,6 +37479,7 @@ https://www.theregister.com/2022/03/15/bringing_the_chipmakers_home/
 https://www.theregister.com/2023/10/30/arm_intel_comment/
 https://www.theregister.com/2023/11/20/3_million_deepin_users/
 https://www.theregister.com/2024/05/31/fifty_years_of_sql
+https://www.theregister.com/2024/06/05/agile_failure_rates
 https://www.theregister.com/off_prem/
 https://www.theregister.com/on_prem/
 https://www.theregister.com/security/
