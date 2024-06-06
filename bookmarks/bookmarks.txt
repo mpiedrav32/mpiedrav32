@@ -675,6 +675,8 @@ https://apps.gnome.org/Dspy/
 https://apps.gnome.org/EarTag/
 https://apps.gnome.org/Elastic/
 https://apps.gnome.org/Emblem/
+https://apps.gnome.org/en/
+https://apps.gnome.org/en/Console/
 https://apps.gnome.org/Epiphany/
 https://apps.gnome.org/Evince/
 https://apps.gnome.org/Extensions/
@@ -1786,6 +1788,7 @@ https://catalog.hathitrust.org/api/volumes/oclc/10414715.html
 https://catboost.ai/
 https://catless.ncl.ac.uk/risks/
 https://catless.ncl.ac.uk/Risks/
+https://catonmat.net/projects
 https://cats.for.ai/
 https://cayenne.apache.org/
 https://cayley.io/
@@ -29419,6 +29422,8 @@ https://research.facebook.com/teams/central-applied-science/
 https://research.google/
 https://research.google/blog/
 https://research.google/blog/english-learners-can-now-practice-speaking-on-search/
+https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/
+https://research.google/blog/label/algorithms-theory/
 https://research.google/pubs/
 https://research.google/pubs/in-datacenter-performance-analysis-of-a-tensor-processing-unit/
 https://research.google/pubs/procella-unifying-serving-and-analytical-data-at-youtube/
@@ -38084,6 +38089,9 @@ https://www.youtube.com/@TomorrowsBuild
 https://www.youtube.com/@USENIXEnigmaConference
 https://www.youtube.com/@UsenixOrg
 https://www.youtube.com/@yoyoma
+https://www.youtube.com/hashtag/femalefrontedmetal
+https://www.youtube.com/hashtag/gothicmetal
+https://www.youtube.com/hashtag/symphonicmetal
 https://www.youtube.com/playlist?list=OLAK5uy_k42NuiR4XrhiKK4eC8BuSRB6NMF4nIYRg
 https://www.youtube.com/playlist?list=OLAK5uy_kD-e0GSx1BqUGA9g0dKaush9W2WYSLUrM
 https://www.youtube.com/playlist?list=OLAK5uy_kHjzXWhU-1LEOmLRzTBkqhPicLhtUGFr4
