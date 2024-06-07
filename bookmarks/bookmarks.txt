@@ -3477,6 +3477,7 @@ https://dl.acm.org/conference/www
 https://dl.acm.org/conferences
 https://dl.acm.org/doi/10.1002/spe.434
 https://dl.acm.org/doi/10.1007/s00165-014-0316-9
+https://dl.acm.org/doi/10.1109/ICDE.2005.1
 https://dl.acm.org/doi/10.1145/103162.103163
 https://dl.acm.org/doi/10.1145/1041680.1041681
 https://dl.acm.org/doi/10.1145/1060745.1060754
@@ -22350,6 +22351,7 @@ https://github.com/Jasmine/Jasmine
 https://github.com/jauhien/iron-llvm
 https://github.com/jayleetx/nycflights
 https://github.com/jbhuang0604/awesome-computer-vision
+https://github.com/jbmusso/awesome-graph
 https://github.com/jcreekmore/pem-rs
 https://github.com/jcryptool
 https://github.com/jcs
@@ -27195,6 +27197,7 @@ https://macropolo.org/digital-projects/the-global-ai-talent-tracker/
 https://mad.firstmark.com/
 https://madhu.seas.harvard.edu/
 https://madiot.fr/coq100/
+https://madlib.apache.org/docs/latest/group__grp__linreg.html
 https://mae.princeton.edu/
 https://magazine.caltech.edu/
 https://magazine.caltech.edu/post/mathematical-language-writing-latex
@@ -27815,6 +27818,7 @@ https://nemocas.github.io/Nemo.jl/stable/
 https://neo4j.com/
 https://neo4j.com/docs/
 https://neo4j.com/docs/bolt/current/
+https://neo4j.com/use-cases/knowledge-graph/
 https://neon.kde.org/
 https://neos-guide.org/
 https://neos-guide.org/case-studies/
@@ -28159,7 +28163,11 @@ https://online-go.com/learn-to-play-go
 https://online.stanford.edu/
 https://online.stanford.edu/courses/xacs130-using-cryptography-correctly
 https://online.stanford.edu/donald-e-knuth-lectures
+https://online.stat.psu.edu/stat501/
 https://online.stat.psu.edu/stat504/
+https://online.stat.psu.edu/stat510/
+https://online.stat.psu.edu/stat510/lesson/11/11.1
+https://online.stat.psu.edu/statprogram/
 https://onlinedegrees.sandiego.edu/top-cyber-security-blogs-websites/
 https://onlinegenerator.com/
 https://onlinelibrary.wiley.com/
@@ -28412,6 +28420,7 @@ https://osqp.org/
 https://oss.oracle.com/
 https://ossrs.io/lts/en-us/
 https://ostreedev.github.io/ostree/
+https://otexts.com/fpp2/regression-intro.html
 https://otexts.com/fpp3/
 https://otl.sourceforge.net/
 https://ottertune.com/
@@ -31151,6 +31160,7 @@ https://v2.ocaml.org/releases/5.1/htmlman/gadts-tutorial.html
 https://v2.ocaml.org/releases/5.1/htmlman/index.html
 https://v8.dev/
 https://valgrind.org/
+https://valkey.io/
 https://valos.gitlab.io/Komikku/
 https://vanderbei.princeton.edu/
 https://vanderbei.princeton.edu/LPbook/index.html
@@ -33992,6 +34002,7 @@ https://www.gov.uk/government/cyber-security
 https://www.gov.uk/government/statistics/cyber-security-breaches-survey-2023/cyber-security-breaches-survey-2023
 https://www.gps.gov/
 https://www.gps.gov/support/faq/
+https://www.gqlstandards.org/
 https://www.gradio.app/
 https://www.gradio.app/docs/interface
 https://www.grammarly.com/blog/engineering/running-lisp-in-production/
@@ -37520,14 +37531,17 @@ https://www.theregister.com/
 https://www.theregister.com/2019/02/14/password_length/
 https://www.theregister.com/2021/11/02/china_loongson_mips/
 https://www.theregister.com/2022/03/15/bringing_the_chipmakers_home/
+https://www.theregister.com/2023/03/08/great_graph_debate_wednesday/
 https://www.theregister.com/2023/10/30/arm_intel_comment/
 https://www.theregister.com/2023/11/20/3_million_deepin_users/
 https://www.theregister.com/2024/05/31/fifty_years_of_sql
+https://www.theregister.com/2024/05/31/fifty_years_of_sql/
 https://www.theregister.com/2024/06/05/agile_failure_rates
 https://www.theregister.com/off_prem/
 https://www.theregister.com/on_prem/
 https://www.theregister.com/security/
 https://www.theregister.com/software/
+https://www.theregister.com/Tag/Database/
 https://www.therepl.net/
 https://www.thetruesize.com/
 https://www.theusrus.de/Mondrian/
