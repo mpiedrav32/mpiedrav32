@@ -3496,7 +3496,9 @@ https://dl.acm.org/doi/10.1145/1327452.1327478
 https://dl.acm.org/doi/10.1145/1376616.1376672
 https://dl.acm.org/doi/10.1145/1379387.1379398
 https://dl.acm.org/doi/10.1145/1435417.1435432
+https://dl.acm.org/doi/10.1145/1454456.1454464
 https://dl.acm.org/doi/10.1145/1460361.1460381
+https://dl.acm.org/doi/10.1145/1461928.1461943
 https://dl.acm.org/doi/10.1145/1465482.1465560
 https://dl.acm.org/doi/10.1145/1466443.1466448
 https://dl.acm.org/doi/10.1145/1527017.1527028
@@ -3596,6 +3598,7 @@ https://dl.acm.org/doi/10.1145/3466132.3469647
 https://dl.acm.org/doi/10.1145/3475965.3480470
 https://dl.acm.org/doi/10.1145/3513259
 https://dl.acm.org/doi/10.1145/3539618.3592055
+https://dl.acm.org/doi/10.1145/3552326.3587458
 https://dl.acm.org/doi/10.1145/355604.361593
 https://dl.acm.org/doi/10.1145/356580.356581
 https://dl.acm.org/doi/10.1145/356678.356680
@@ -5066,6 +5069,7 @@ https://en.wikipedia.org/wiki/Additive_noise_mechanisms
 https://en.wikipedia.org/wiki/Additive_number_theory
 https://en.wikipedia.org/wiki/Additive_smoothing
 https://en.wikipedia.org/wiki/Additive_white_Gaussian_noise
+https://en.wikipedia.org/wiki/Address_generation_unit
 https://en.wikipedia.org/wiki/Adduct
 https://en.wikipedia.org/wiki/ADE_classification
 https://en.wikipedia.org/wiki/Adele_Cutler
@@ -5673,6 +5677,7 @@ https://en.wikipedia.org/wiki/Arithmetic_derivative
 https://en.wikipedia.org/wiki/Arithmetic_dynamics
 https://en.wikipedia.org/wiki/Arithmetic_function
 https://en.wikipedia.org/wiki/Arithmetic_geometry
+https://en.wikipedia.org/wiki/Arithmetic_logic_unit
 https://en.wikipedia.org/wiki/Arithmetic_mean
 https://en.wikipedia.org/wiki/Arithmetic_of_abelian_varieties
 https://en.wikipedia.org/wiki/Arithmetic_shift
@@ -6007,6 +6012,7 @@ https://en.wikipedia.org/wiki/Bareiss_algorithm
 https://en.wikipedia.org/wiki/BARK_(computer)
 https://en.wikipedia.org/wiki/Barometric_formula
 https://en.wikipedia.org/wiki/BARON
+https://en.wikipedia.org/wiki/Barrel_shifter
 https://en.wikipedia.org/wiki/Barrelled_space
 https://en.wikipedia.org/wiki/Bart_Preneel
 https://en.wikipedia.org/wiki/Baruch_Spinoza
@@ -6277,6 +6283,7 @@ https://en.wikipedia.org/wiki/Bitwarden
 https://en.wikipedia.org/wiki/Bitwise_operation
 https://en.wikipedia.org/wiki/Bjarne_Stroustrup
 https://en.wikipedia.org/wiki/Bjorn_Poonen
+https://en.wikipedia.org/wiki/BKM_algorithm
 https://en.wikipedia.org/wiki/Black_bag_operation
 https://en.wikipedia.org/wiki/Black_Chamber
 https://en.wikipedia.org/wiki/Black_Clover
@@ -8414,6 +8421,7 @@ https://en.wikipedia.org/wiki/Control_plane
 https://en.wikipedia.org/wiki/Control_system
 https://en.wikipedia.org/wiki/Control_table
 https://en.wikipedia.org/wiki/Control_theory
+https://en.wikipedia.org/wiki/Control_unit
 https://en.wikipedia.org/wiki/Control-flow_graph
 https://en.wikipedia.org/wiki/Control-flow_integrity
 https://en.wikipedia.org/wiki/Controlling_for_a_variable
@@ -8451,6 +8459,7 @@ https://en.wikipedia.org/wiki/Copy-on-write
 https://en.wikipedia.org/wiki/Copycat_(software)
 https://en.wikipedia.org/wiki/Copyleft
 https://en.wikipedia.org/wiki/Coq_(software)
+https://en.wikipedia.org/wiki/CORDIC
 https://en.wikipedia.org/wiki/CORE_(research_service)
 https://en.wikipedia.org/wiki/Core_Data
 https://en.wikipedia.org/wiki/Core_dump
@@ -10013,6 +10022,7 @@ https://en.wikipedia.org/wiki/Executable
 https://en.wikipedia.org/wiki/Executable_and_Linkable_Format
 https://en.wikipedia.org/wiki/Execute_in_place
 https://en.wikipedia.org/wiki/Execution_(computing)
+https://en.wikipedia.org/wiki/Execution_unit
 https://en.wikipedia.org/wiki/Executive_Office_of_the_President_of_the_United_States
 https://en.wikipedia.org/wiki/Executive_Systems_Problem_Oriented_Language
 https://en.wikipedia.org/wiki/Exercises_in_Style
@@ -10310,6 +10320,7 @@ https://en.wikipedia.org/wiki/Fli4l
 https://en.wikipedia.org/wiki/Flipper_Zero
 https://en.wikipedia.org/wiki/Floating-gate_MOSFET
 https://en.wikipedia.org/wiki/Floating-point_arithmetic
+https://en.wikipedia.org/wiki/Floating-point_unit
 https://en.wikipedia.org/wiki/Flood_fill
 https://en.wikipedia.org/wiki/Flood_myth
 https://en.wikipedia.org/wiki/Flooding_algorithm
@@ -11819,6 +11830,7 @@ https://en.wikipedia.org/wiki/Identity-based_encryption
 https://en.wikipedia.org/wiki/IDistance
 https://en.wikipedia.org/wiki/IDL_(programming_language)
 https://en.wikipedia.org/wiki/Idris_(programming_language)
+https://en.wikipedia.org/wiki/IEEE_754
 https://en.wikipedia.org/wiki/IEEE_802.11
 https://en.wikipedia.org/wiki/IEEE_802.1aq
 https://en.wikipedia.org/wiki/IEEE_802.1X
@@ -13927,6 +13939,7 @@ https://en.wikipedia.org/wiki/Lloyd%27s_algorithm
 https://en.wikipedia.org/wiki/LLVM
 https://en.wikipedia.org/wiki/Load_balancing_(computing)
 https://en.wikipedia.org/wiki/Load%E2%80%93store_architecture
+https://en.wikipedia.org/wiki/Load%E2%80%93store_unit
 https://en.wikipedia.org/wiki/LOBPCG
 https://en.wikipedia.org/wiki/Local_58
 https://en.wikipedia.org/wiki/Local_area_network
@@ -14553,6 +14566,7 @@ https://en.wikipedia.org/wiki/Method_of_Fluxions
 https://en.wikipedia.org/wiki/Method_of_moments_(statistics)
 https://en.wikipedia.org/wiki/Method_of_undetermined_coefficients
 https://en.wikipedia.org/wiki/Methods_engineering
+https://en.wikipedia.org/wiki/Methods_of_computing_square_roots
 https://en.wikipedia.org/wiki/Methyl_group
 https://en.wikipedia.org/wiki/Methylation
 https://en.wikipedia.org/wiki/Metric_space
@@ -14921,6 +14935,7 @@ https://en.wikipedia.org/wiki/Multiple_instruction,_single_data
 https://en.wikipedia.org/wiki/Multiple_integral
 https://en.wikipedia.org/wiki/Multiple_realizability
 https://en.wikipedia.org/wiki/Multiple_time_dimensions
+https://en.wikipedia.org/wiki/Multiplication_algorithm
 https://en.wikipedia.org/wiki/Multiplicative_group_of_integers_modulo_n
 https://en.wikipedia.org/wiki/Multiplicative_number_theory
 https://en.wikipedia.org/wiki/Multiply%E2%80%93accumulate_operation
@@ -24886,6 +24901,7 @@ https://journals.plos.org/plosone/
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285383
 https://journals.sagepub.com/
+https://journals.sagepub.com/doi/10.1177/0003122418773353
 https://journals.sagepub.com/doi/10.1177/001316447903900237
 https://journals.sagepub.com/doi/10.1177/0301006619844680
 https://journals.sagepub.com/doi/10.1177/0306312710378448
@@ -24893,6 +24909,7 @@ https://journals.sagepub.com/doi/10.1177/17470161211018257
 https://journals.sagepub.com/doi/10.1177/2041669520953457
 https://journals.sagepub.com/doi/full/10.1177/0961000618773133
 https://journals.sagepub.com/doi/full/10.1177/26339137221114874
+https://journals.sagepub.com/home/ASR
 https://journals.sagepub.com/home/ire
 https://journals.sagepub.com/home/JOF
 https://journals.uwyo.edu/index.php/ela
@@ -25516,6 +25533,7 @@ https://library.lol/main/15F01BB95E30DD31959887E5795E58F1
 https://library.lol/main/1676D21711A43D59C03FF8D63556DDD4
 https://library.lol/main/173766BF2DE3D62A9816564E7CDA4239
 https://library.lol/main/173AE66842F09D8607BE710CA3AD432C
+https://library.lol/main/17D673B47AA520F748534F6292F46A2B
 https://library.lol/main/17D76C7216FBFF5C926FFDB3B1B046CB
 https://library.lol/main/17FD22F36DAEC82DA9A250B887F5E658
 https://library.lol/main/18187184C250B098EB318B2B6EF97CB8
@@ -26183,6 +26201,7 @@ https://link.springer.com/book/10.1007/978-1-4614-6022-0
 https://link.springer.com/book/10.1007/978-1-4614-6868-4
 https://link.springer.com/book/10.1007/978-1-4614-7297-1
 https://link.springer.com/book/10.1007/978-1-4614-7732-7
+https://link.springer.com/book/10.1007/978-1-4614-8453-0
 https://link.springer.com/book/10.1007/978-1-4614-8687-9
 https://link.springer.com/book/10.1007/978-1-4614-9587-1
 https://link.springer.com/book/10.1007/978-1-4615-1431-2
@@ -26240,6 +26259,7 @@ https://link.springer.com/book/10.1007/978-1-4842-9603-5
 https://link.springer.com/book/10.1007/978-1-4842-9878-7
 https://link.springer.com/book/10.1007/978-1-4899-0333-4
 https://link.springer.com/book/10.1007/978-1-4899-7454-9
+https://link.springer.com/book/10.1007/978-1-4899-7983-4
 https://link.springer.com/book/10.1007/978-1-4939-1194-3
 https://link.springer.com/book/10.1007/978-1-4939-1360-2
 https://link.springer.com/book/10.1007/978-1-4939-1366-4
@@ -29337,6 +29357,8 @@ https://quarto.org/docs/presentations/revealjs/
 https://questioncopyright.org/
 https://questioncopyright.org/promise/
 https://queue.acm.org/
+https://queue.acm.org/detail.cfm?id=1348591
+https://queue.acm.org/detail.cfm?id=1454464
 https://queue.acm.org/detail.cfm?id=1820518
 https://queue.acm.org/detail.cfm?id=2000516
 https://queue.acm.org/detail.cfm?id=2544374
@@ -29529,6 +29551,7 @@ https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using
 https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/
 https://research.noaa.gov/
 https://research.ralfj.de/thesis.html
+https://research.redhat.com/
 https://research.redhat.com/blog/article/the-need-for-constant-time-cryptography/
 https://research.scheme.org/lambda-papers/
 https://research.swtch.com/
@@ -29978,6 +30001,7 @@ https://shop.elsevier.com/books/introduction-to-statistical-pattern-recognition/
 https://shop.elsevier.com/books/knowledge-representation-and-reasoning/brachman/978-1-55860-932-7
 https://shop.elsevier.com/books/linkers-and-loaders/levine/978-0-08-051031-6
 https://shop.elsevier.com/books/machine-learning/theodoridis/978-0-12-818803-3
+https://shop.elsevier.com/books/memory-systems/jacob/978-0-12-379751-3
 https://shop.elsevier.com/books/pattern-recognition/koutroumbas/978-1-59749-272-0
 https://shop.elsevier.com/books/programming-language-pragmatics/scott/978-0-12-410409-9
 https://shop.elsevier.com/books/scientific-computing-and-differential-equations/golub/978-0-08-051669-1
@@ -31800,6 +31824,7 @@ https://www.atarimagazines.com/
 https://www.atarinside.com/blog/
 https://www.atlanticcouncil.org/
 https://www.atlanticcouncil.org/cbdctracker/
+https://www.atlasobscura.com/articles/italian-streets-not-on-map
 https://www.atlassian.com/continuous-delivery/software-testing
 https://www.atlassian.com/continuous-delivery/software-testing/automated-testing
 https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing
@@ -33041,6 +33066,7 @@ https://www.dpg-physik.de/
 https://www.dpmms.cam.ac.uk/
 https://www.dragonflybsd.org/
 https://www.dragora.org/en/index.html
+https://www.drdobbs.com/database/implementing-cordic-algorithms/184408428
 https://www.dre.vanderbilt.edu/
 https://www.dre.vanderbilt.edu/~schmidt/ACE.html
 https://www.dre.vanderbilt.edu/~schmidt/TAO.html
@@ -36054,6 +36080,7 @@ https://www.proofpoint.com/us/products/email-protection/open-source-email-soluti
 https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users
 https://www.prowlapp.com/
 https://www.proxmox.com/en/
+https://www.proxyaddress.org/
 https://www.prq.se/
 https://www.prweb.com/
 https://www.ps.uni-saarland.de/alice/
@@ -36688,6 +36715,7 @@ https://www.sciencedirect.com/book/9780080570693/theory-of-elasticity
 https://www.sciencedirect.com/book/9780120884216/see-mips-run
 https://www.sciencedirect.com/book/9780122063602/methods-of-numerical-integration
 https://www.sciencedirect.com/book/9780122265518/principles-of-mathematical-modeling
+https://www.sciencedirect.com/book/9780123797513/memory-systems
 https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques
 https://www.sciencedirect.com/book/9780123820105/differential-equations-dynamical-systems-and-an-introduction-to-chaos
 https://www.sciencedirect.com/book/9780124058880/doing-bayesian-data-analysis
