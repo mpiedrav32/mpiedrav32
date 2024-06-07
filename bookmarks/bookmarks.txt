@@ -10228,6 +10228,7 @@ https://en.wikipedia.org/wiki/Fin_field-effect_transistor
 https://en.wikipedia.org/wiki/Finabel
 https://en.wikipedia.org/wiki/Final_Fantasy
 https://en.wikipedia.org/wiki/Finance_%26_Development
+https://en.wikipedia.org/wiki/Financial_literacy
 https://en.wikipedia.org/wiki/Finder_(software)
 https://en.wikipedia.org/wiki/Fine-grained_reduction
 https://en.wikipedia.org/wiki/Finite_difference
@@ -35577,6 +35578,7 @@ https://www.nytimes.com/wirecutter/
 https://www.oaspa.org/
 https://www.obdev.at/products/littlesnitch/index.html
 https://www.ocf.berkeley.edu/
+https://www.ocf.fi.cr/
 https://www.octave.org/
 https://www.odbms.org/
 https://www.odbms.org/2015/10/the-rise-of-immutable-data-stores/
@@ -35591,6 +35593,8 @@ https://www.oecd.org/costarica/
 https://www.oecd.org/digital/artificial-intelligence/
 https://www.oecd.org/education/
 https://www.oecd.org/education/benchmarking-higher-education-system-performance-be5514d7-en.htm
+https://www.oecd.org/finance/financialconsumerprotection.htm
+https://www.oecd.org/financial/education/
 https://www.oecd.org/gov/digital-government/open-government-data.htm
 https://www.oecd.org/pisa/
 https://www.oecd.org/pisa/OECD_2022_PISA_Results_Comparing%20countries%E2%80%99%20and%20economies%E2%80%99%20performance%20in%20mathematics.pdf
