@@ -1967,6 +1967,7 @@ https://cloud.debian.org/images/cloud/
 https://cloud.google.com/
 https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
 https://cloud.google.com/bigquery/
+https://cloud.google.com/bigtable/
 https://cloud.google.com/blog/products/ai-machine-learning/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu
 https://cloud.google.com/blog/products/compute/calculating-100-trillion-digits-of-pi-on-google-cloud
 https://cloud.google.com/blog/topics/systems/introducing-falcon-a-reliable-low-latency-hardware-transport
@@ -3664,6 +3665,7 @@ https://dl.acm.org/doi/10.1145/937503.937505
 https://dl.acm.org/doi/10.1145/948249.948255
 https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735
 https://dl.acm.org/doi/10.14778/2831360.2831362
+https://dl.acm.org/doi/10.14778/3611540.3611614
 https://dl.acm.org/doi/10.5555/1098666
 https://dl.acm.org/doi/10.5555/2534748.2534765
 https://dl.acm.org/doi/10.5555/2665671.2665740
@@ -4811,6 +4813,7 @@ https://en.wikipedia.org/wiki/.NET_Framework
 https://en.wikipedia.org/wiki/.NET_Micro_Framework
 https://en.wikipedia.org/wiki/.nl
 https://en.wikipedia.org/wiki/.no
+https://en.wikipedia.org/wiki/.QL
 https://en.wikipedia.org/wiki/.ru
 https://en.wikipedia.org/wiki/.sh
 https://en.wikipedia.org/wiki/.uk
@@ -5289,6 +5292,7 @@ https://en.wikipedia.org/wiki/Allocator_(C%2B%2B)
 https://en.wikipedia.org/wiki/Allwinner_Technology
 https://en.wikipedia.org/wiki/AlmaLinux
 https://en.wikipedia.org/wiki/Almquist_shell
+https://en.wikipedia.org/wiki/Alpha_(programming_language)
 https://en.wikipedia.org/wiki/Alpha_decay
 https://en.wikipedia.org/wiki/Alpha_helix
 https://en.wikipedia.org/wiki/Alpha_particle
@@ -6118,6 +6122,7 @@ https://en.wikipedia.org/wiki/Benzalkonium_chloride
 https://en.wikipedia.org/wiki/Benzene
 https://en.wikipedia.org/wiki/BeOS
 https://en.wikipedia.org/wiki/Bergman_kernel
+https://en.wikipedia.org/wiki/Berkeley_DB
 https://en.wikipedia.org/wiki/Berkeley_Physics_Course
 https://en.wikipedia.org/wiki/Berkeley_RISC
 https://en.wikipedia.org/wiki/Berkeley_sockets
@@ -6198,6 +6203,7 @@ https://en.wikipedia.org/wiki/Big_Three_(credit_rating_agencies)
 https://en.wikipedia.org/wiki/Big_Three_(management_consultancies)
 https://en.wikipedia.org/wiki/BigDog
 https://en.wikipedia.org/wiki/BigQuery
+https://en.wikipedia.org/wiki/Bigtable
 https://en.wikipedia.org/wiki/Bilinear_form
 https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation
 https://en.wikipedia.org/wiki/Bill_Casselman
@@ -6356,6 +6362,7 @@ https://en.wikipedia.org/wiki/Bois_de_Boulogne
 https://en.wikipedia.org/wiki/Bois_de_Vincennes
 https://en.wikipedia.org/wiki/Bologna_Process
 https://en.wikipedia.org/wiki/Bolsheviks
+https://en.wikipedia.org/wiki/Bolt_(network_protocol)
 https://en.wikipedia.org/wiki/Boltzmann_constant
 https://en.wikipedia.org/wiki/Boltzmann_distribution
 https://en.wikipedia.org/wiki/Boltzmann_equation
@@ -7930,6 +7937,7 @@ https://en.wikipedia.org/wiki/CoCoA
 https://en.wikipedia.org/wiki/COCOMO
 https://en.wikipedia.org/wiki/COCONUT98
 https://en.wikipedia.org/wiki/Cocteau_Twins
+https://en.wikipedia.org/wiki/CODASYL
 https://en.wikipedia.org/wiki/Codd%27s_12_rules
 https://en.wikipedia.org/wiki/Code
 https://en.wikipedia.org/wiki/Code_coverage
@@ -8687,6 +8695,7 @@ https://en.wikipedia.org/wiki/Cyclosarin
 https://en.wikipedia.org/wiki/Cygwin
 https://en.wikipedia.org/wiki/CYK_algorithm
 https://en.wikipedia.org/wiki/Cylinder
+https://en.wikipedia.org/wiki/Cypher_(query_language)
 https://en.wikipedia.org/wiki/Cypherpunk
 https://en.wikipedia.org/wiki/Cypherpunks_(book)
 https://en.wikipedia.org/wiki/Cypress_PSoC
@@ -8861,6 +8870,7 @@ https://en.wikipedia.org/wiki/Datagram_Transport_Layer_Security
 https://en.wikipedia.org/wiki/Datalog
 https://en.wikipedia.org/wiki/DataOps
 https://en.wikipedia.org/wiki/Datasaurus_dozen
+https://en.wikipedia.org/wiki/DataStax
 https://en.wikipedia.org/wiki/Dataverse
 https://en.wikipedia.org/wiki/Datenschleuder
 https://en.wikipedia.org/wiki/David_A._Freedman
@@ -9395,6 +9405,7 @@ https://en.wikipedia.org/wiki/Dublin_Institute_of_Technology
 https://en.wikipedia.org/wiki/Dublin_Review_of_Books
 https://en.wikipedia.org/wiki/Dublin%E2%80%93Belfast_corridor
 https://en.wikipedia.org/wiki/Duchy_of_Warsaw
+https://en.wikipedia.org/wiki/DuckDB
 https://en.wikipedia.org/wiki/Duff%27s_device
 https://en.wikipedia.org/wiki/Duhamel%27s_principle
 https://en.wikipedia.org/wiki/Dulles_Technology_Corridor
@@ -11076,6 +11087,7 @@ https://en.wikipedia.org/wiki/Graph_kernel
 https://en.wikipedia.org/wiki/Graph_labeling
 https://en.wikipedia.org/wiki/Graph_neural_network
 https://en.wikipedia.org/wiki/Graph_of_a_function
+https://en.wikipedia.org/wiki/Graph_Query_Language
 https://en.wikipedia.org/wiki/Graph_theory
 https://en.wikipedia.org/wiki/Graph_traversal
 https://en.wikipedia.org/wiki/Graph-based_access_control
@@ -11088,6 +11100,7 @@ https://en.wikipedia.org/wiki/Graphics_library
 https://en.wikipedia.org/wiki/Graphics_processing_unit
 https://en.wikipedia.org/wiki/GraphicsMagick
 https://en.wikipedia.org/wiki/Graphing_calculator
+https://en.wikipedia.org/wiki/GraphQL
 https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)
 https://en.wikipedia.org/wiki/GRASS_(programming_language)
 https://en.wikipedia.org/wiki/GRASS_GIS
@@ -11141,6 +11154,7 @@ https://en.wikipedia.org/wiki/Greenhouse_gas
 https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule
 https://en.wikipedia.org/wiki/Greg_Mankiw
 https://en.wikipedia.org/wiki/Gregory_Chaitin
+https://en.wikipedia.org/wiki/Gremlin_(query_language)
 https://en.wikipedia.org/wiki/Grenoble_Institute_of_Technology
 https://en.wikipedia.org/wiki/Grep
 https://en.wikipedia.org/wiki/Grey_alien
@@ -11765,6 +11779,7 @@ https://en.wikipedia.org/wiki/IBM_PCjr
 https://en.wikipedia.org/wiki/IBM_Personal_Computer
 https://en.wikipedia.org/wiki/IBM_Personal_Computer_AT
 https://en.wikipedia.org/wiki/IBM_Personal_Computer_XT
+https://en.wikipedia.org/wiki/IBM_Peterlee_Relational_Test_Vehicle
 https://en.wikipedia.org/wiki/IBM_PL/S
 https://en.wikipedia.org/wiki/IBM_Plex
 https://en.wikipedia.org/wiki/IBM_Portable_Personal_Computer
@@ -12269,6 +12284,7 @@ https://en.wikipedia.org/wiki/Isaac_Barrow
 https://en.wikipedia.org/wiki/Isaac_Milner
 https://en.wikipedia.org/wiki/Isaac_Newton
 https://en.wikipedia.org/wiki/Isabelle_(proof_assistant)
+https://en.wikipedia.org/wiki/ISBL
 https://en.wikipedia.org/wiki/ISC_license
 https://en.wikipedia.org/wiki/ISFET
 https://en.wikipedia.org/wiki/Isfet_(Egyptian_mythology)
@@ -12405,6 +12421,7 @@ https://en.wikipedia.org/wiki/Jan_%C5%81ukasiewicz
 https://en.wikipedia.org/wiki/Jan_Karel_Lenstra
 https://en.wikipedia.org/wiki/Jan_Krissler
 https://en.wikipedia.org/wiki/Jan_Matejko
+https://en.wikipedia.org/wiki/JanusGraph
 https://en.wikipedia.org/wiki/Japan_Advanced_Institute_of_Science_and_Technology
 https://en.wikipedia.org/wiki/Japan_Society_(Manhattan)
 https://en.wikipedia.org/wiki/Japanese_Communist_Party
@@ -14774,8 +14791,10 @@ https://en.wikipedia.org/wiki/Molecular_biology
 https://en.wikipedia.org/wiki/Molecular_biophysics
 https://en.wikipedia.org/wiki/Molecular_dynamics
 https://en.wikipedia.org/wiki/Molecular_genetics
+https://en.wikipedia.org/wiki/Molecular_graph
 https://en.wikipedia.org/wiki/Molecular_mechanics
 https://en.wikipedia.org/wiki/Molecular_physics
+https://en.wikipedia.org/wiki/Molecular_Query_Language
 https://en.wikipedia.org/wiki/Molecule_mining
 https://en.wikipedia.org/wiki/Mollifier
 https://en.wikipedia.org/wiki/Molten-salt_battery
@@ -15491,12 +15510,14 @@ https://en.wikipedia.org/wiki/Oberon_(programming_language)
 https://en.wikipedia.org/wiki/Oberon-2
 https://en.wikipedia.org/wiki/Objdump
 https://en.wikipedia.org/wiki/Object_code
+https://en.wikipedia.org/wiki/Object_Constraint_Language
 https://en.wikipedia.org/wiki/Object_copying
 https://en.wikipedia.org/wiki/Object_database
 https://en.wikipedia.org/wiki/Object_detection
 https://en.wikipedia.org/wiki/Object_file
 https://en.wikipedia.org/wiki/Object_Management_Group
 https://en.wikipedia.org/wiki/Object_Pascal
+https://en.wikipedia.org/wiki/Object_Query_Language
 https://en.wikipedia.org/wiki/Object-capability_model
 https://en.wikipedia.org/wiki/Object-oriented_programming
 https://en.wikipedia.org/wiki/Object%E2%80%93relational_database
@@ -17016,8 +17037,10 @@ https://en.wikipedia.org/wiki/Qubes_OS
 https://en.wikipedia.org/wiki/Queap
 https://en.wikipedia.org/wiki/Quebec
 https://en.wikipedia.org/wiki/Quebec_City
+https://en.wikipedia.org/wiki/QUEL_query_languages
 https://en.wikipedia.org/wiki/Quenching
 https://en.wikipedia.org/wiki/QuEra_Computing_Inc.
+https://en.wikipedia.org/wiki/Query_language
 https://en.wikipedia.org/wiki/Query_optimization
 https://en.wikipedia.org/wiki/Query_plan
 https://en.wikipedia.org/wiki/Question_answering
@@ -17293,6 +17316,7 @@ https://en.wikipedia.org/wiki/Regression_validation
 https://en.wikipedia.org/wiki/Regula_falsi
 https://en.wikipedia.org/wiki/Regular_expression
 https://en.wikipedia.org/wiki/Regular_number
+https://en.wikipedia.org/wiki/Regular_path_query
 https://en.wikipedia.org/wiki/Regular_singular_point
 https://en.wikipedia.org/wiki/Regularization_(mathematics)
 https://en.wikipedia.org/wiki/Regularization_(physics)
@@ -17306,6 +17330,7 @@ https://en.wikipedia.org/wiki/Rejection_sampling
 https://en.wikipedia.org/wiki/Related-key_attack
 https://en.wikipedia.org/wiki/Relational_algebra
 https://en.wikipedia.org/wiki/Relational_data_stream_management_system
+https://en.wikipedia.org/wiki/Relational_model
 https://en.wikipedia.org/wiki/Relationship_square
 https://en.wikipedia.org/wiki/Relationship-based_access_control
 https://en.wikipedia.org/wiki/Relative_density
@@ -18339,6 +18364,7 @@ https://en.wikipedia.org/wiki/Smartphone
 https://en.wikipedia.org/wiki/Smarty_(template_engine)
 https://en.wikipedia.org/wiki/SMath_Studio
 https://en.wikipedia.org/wiki/SMIL_(computer)
+https://en.wikipedia.org/wiki/SMILES_arbitrary_target_specification
 https://en.wikipedia.org/wiki/Smithsonian_Institution
 https://en.wikipedia.org/wiki/Smithsonian_Institution_Building
 https://en.wikipedia.org/wiki/Smooth_number
@@ -20742,6 +20768,7 @@ https://en.wikipedia.org/wiki/Yacc
 https://en.wikipedia.org/wiki/Yael_Tauman_Kalai
 https://en.wikipedia.org/wiki/Yahoo!
 https://en.wikipedia.org/wiki/Yahoo!_Finance
+https://en.wikipedia.org/wiki/Yahoo!_Query_Language
 https://en.wikipedia.org/wiki/Yahwism
 https://en.wikipedia.org/wiki/Yair_Tauman
 https://en.wikipedia.org/wiki/Yajnavalkya
@@ -22228,6 +22255,7 @@ https://github.com/gperftools/gperftools
 https://github.com/GPUOpen-LibrariesAndSDKs
 https://github.com/gradio-app/gradio
 https://github.com/graphql/graphql-js
+https://github.com/graphql/graphql-spec
 https://github.com/greenbone/openvas-scanner
 https://github.com/greenpau/caddy-security
 https://github.com/greenplum-db/gpdb
@@ -22316,6 +22344,7 @@ https://github.com/janestreet/abstract_algebra
 https://github.com/janestreet/base
 https://github.com/janestreet/magic-trace
 https://github.com/JanusGraph/janusgraph
+https://github.com/JanusGraph/janusgraph/
 https://github.com/jashkenas/backbone
 https://github.com/Jasmine/Jasmine
 https://github.com/jauhien/iron-llvm
@@ -22835,6 +22864,7 @@ https://github.com/openwch/ch32v20x
 https://github.com/OpenWhiteBox/Generic
 https://github.com/oprecomp/FloatX
 https://github.com/optuna/optuna
+https://github.com/orientechnologies/orientdb
 https://github.com/osbuild/osbuild
 https://github.com/OscarKjell/text/
 https://github.com/OSGeo/gdal
@@ -23231,6 +23261,7 @@ https://github.com/scipopt/soplex
 https://github.com/scipy/scipy
 https://github.com/scipy/scipy/
 https://github.com/scottfr/simulation
+https://github.com/scylladb/scylladb
 https://github.com/SE-ML/awesome-seml
 https://github.com/seanmonstar/reqwest
 https://github.com/seanvaleo/cbyexample.com
@@ -23450,6 +23481,7 @@ https://github.com/topics/cryptanalysis?l=python
 https://github.com/topics/csharp
 https://github.com/topics/ctf
 https://github.com/topics/ctf-tools
+https://github.com/topics/database
 https://github.com/topics/decryption
 https://github.com/topics/dimensionality-reduction
 https://github.com/topics/discrete-diffusion
@@ -24177,6 +24209,7 @@ https://httpie.io/
 https://httpwg.org/
 https://httr.r-lib.org/
 https://httr2.r-lib.org/
+https://hub.docker.com/
 https://hub.docker.com/_/r-base
 https://hub.docker.com/search?image_filter=official&q=
 https://huggingface.co/
@@ -27780,6 +27813,8 @@ https://ncses.nsf.gov/
 https://neglectedbooks.com/
 https://nemocas.github.io/Nemo.jl/stable/
 https://neo4j.com/
+https://neo4j.com/docs/
+https://neo4j.com/docs/bolt/current/
 https://neon.kde.org/
 https://neos-guide.org/
 https://neos-guide.org/case-studies/
@@ -28218,6 +28253,7 @@ https://opencores.org/
 https://opencryptoaudit.org/
 https://opencurve.io/Curve/HOME
 https://opencv.org/
+https://opencypher.org/
 https://opendata.cern.ch/
 https://opendata.cityofnewyork.us/
 https://opendatadiscovery.org/
@@ -30286,6 +30322,7 @@ https://spidermonkey.dev/
 https://spimsimulator.sourceforge.net/
 https://spinroot.com/spin/whatispin.html
 https://spj.science.org/
+https://spring.io/
 https://spring.io/projects
 https://spring.io/projects/spring-boot
 https://spring.io/projects/spring-framework
@@ -30891,6 +30928,7 @@ https://timharford.com/2022/02/the-ten-best-books-for-thinking-clearly-about-sta
 https://timing.attacks.cr.yp.to/
 https://timing.attacks.cr.yp.to/programming.html
 https://timroughgarden.org/
+https://tinkerpop.apache.org/
 https://tinyml.mit.edu/
 https://tiswww.cwru.edu/php/chet/readline/rltop.html
 https://tkdocs.com/
@@ -34379,6 +34417,7 @@ https://www.japanindustrynews.com/2015/12/japanese-way-creative-conservation-not
 https://www.japantimes.co.jp/
 https://www.japantimes.co.jp/business/2023/08/08/economy/global-south-breaks-from-us/
 https://www.japantimes.co.jp/news/2023/04/26/asia-pacific/china-social-media-dissidents/
+https://www.java.com/en/
 https://www.jbspeakr.cc/howto-single-use-jwt/
 https://www.jbspeakr.cc/purpose-jwt-stateless-authentication/
 https://www.jchau.org/2022/01/24/automatic-differentiation-in-r-with-stan-math/
@@ -35098,6 +35137,7 @@ https://www.microsoft.com/en-us/research/publication/neural-networks-pattern-rec
 https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/
 https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages-2/
 https://www.microsoft.com/en-us/research/uploads/prod/1987/01/slpj-book-1987.pdf
+https://www.microsoft.com/en-us/research/video/introduction-to-neo4j-and-graph-databases/
 https://www.microsoft.com/en-us/research/video/research-talk-computing-at-the-speed-of-light/
 https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf
 https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/cryptographically-sound-implementations-for-typed-information-flow-security-popl08.pdf
