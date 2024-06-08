@@ -1339,6 +1339,7 @@ https://bin.re/
 https://binary.cr.yp.to/
 https://binary.ninja/
 https://bio7.org/
+https://bioconductor.org/
 https://bioinfo.uochb.cas.cz/embedsom/
 https://biopython.org/
 https://bips-hb.github.io/innsight/
@@ -1769,6 +1770,7 @@ https://careers.cern/
 https://carnegieendowment.org/
 https://carnegieendowment.org/2024/01/31/countering-disinformation-effectively-evidence-based-policy-guide-pub-91476
 https://carpentries.org/
+https://carpentries.r-universe.dev/packages
 https://casa.rub.de/
 https://casa.rub.de/en/
 https://casa.rub.de/en/research/rh-a-future-cryptography
@@ -1991,6 +1993,7 @@ https://cloud.r-project.org/other-software.html
 https://cloud.r-project.org/search.html
 https://cloud.r-project.org/web/packages/available_packages_by_date.html
 https://cloud.r-project.org/web/packages/available_packages_by_name.html
+https://cloud.r-project.org/web/packages/DBI/index.html
 https://cloud.r-project.org/web/packages/dplyr/index.html
 https://cloud.r-project.org/web/packages/dtplyr/index.html
 https://cloud.r-project.org/web/packages/fma/index.html
@@ -2000,13 +2003,22 @@ https://cloud.r-project.org/web/packages/mlr3/index.html
 https://cloud.r-project.org/web/packages/palmerpenguins/index.html
 https://cloud.r-project.org/web/packages/purrr/index.html
 https://cloud.r-project.org/web/packages/repurrrsive/index.html
+https://cloud.r-project.org/web/packages/RMariaDB/index.html
 https://cloud.r-project.org/web/packages/rmarkdown/index.html
+https://cloud.r-project.org/web/packages/RPostgres/index.html
+https://cloud.r-project.org/web/packages/RPostgreSQL/index.html
 https://cloud.r-project.org/web/packages/testthat/index.html
 https://cloud.r-project.org/web/packages/tidyr/index.html
 https://cloud.r-project.org/web/packages/timetk/index.html
 https://cloud.r-project.org/web/packages/tsibble/index.html
 https://cloud.r-project.org/web/views/
+https://cloud.r-project.org/web/views/Databases.html
+https://cloud.r-project.org/web/views/HighPerformanceComputing.html
+https://cloud.r-project.org/web/views/MachineLearning.html
 https://cloudblogs.microsoft.com/opensource/
+https://cloudconvert.com/
+https://cloudconvert.com/audio-converter
+https://cloudconvert.com/video-converter
 https://cloudfront.debian.net/
 https://clp.law.harvard.edu/
 https://cmake.org/
@@ -2499,6 +2511,7 @@ https://cran.r-project.org/web/views/Robust.html
 https://cran.r-project.org/web/views/Spatial.html
 https://cran.r-project.org/web/views/TeachingStatistics.html
 https://cran.r-project.org/web/views/TimeSeries.html
+https://cran.r-universe.dev/packages
 https://cran.rstudio.com/
 https://cran.rstudio.com/web/packages/caret/
 https://cran.rstudio.com/web/packages/ISLR2/
@@ -4544,6 +4557,7 @@ https://dtai.cs.kuleuven.be/problog/
 https://dtplyr.tidyverse.org/
 https://duckdb.org/
 https://duckdb.org/2021/06/25/querying-parquet
+https://duckdb.org/2024/05/31/analyzing-railway-traffic-in-the-netherlands.html
 https://duckdb.org/docs/extensions/httpfs/https
 https://duckdb.org/docs/guides/file_formats/query_parquet
 https://duckdb.org/docs/guides/overview
@@ -4551,6 +4565,7 @@ https://duckdb.org/docs/sql/aggregates
 https://duckdb.org/news/
 https://duckdb.org/why_duckdb
 https://duckdblabs.com/
+https://duckdblabs.github.io/duckplyr/
 https://duendesoftware.com/products/identityserver
 https://duhkattack.com/
 https://dumps.wikimedia.org/
@@ -4618,6 +4633,7 @@ https://easyeda.com/
 https://easyreferencing.com/
 https://easystats.github.io/easystats/
 https://easystats.github.io/insight/
+https://easystats.r-universe.dev/packages
 https://eatcs.org/
 https://eater.net/
 https://eater.net/6502
@@ -5037,6 +5053,7 @@ https://en.wikipedia.org/wiki/ACS_Omega
 https://en.wikipedia.org/wiki/ACT-R
 https://en.wikipedia.org/wiki/Acta_Mathematica
 https://en.wikipedia.org/wiki/Actian
+https://en.wikipedia.org/wiki/Actian_Vector
 https://en.wikipedia.org/wiki/Actinidia_deliciosa
 https://en.wikipedia.org/wiki/Action_(physics)
 https://en.wikipedia.org/wiki/Action_potential
@@ -14131,6 +14148,7 @@ https://en.wikipedia.org/wiki/Maclisp
 https://en.wikipedia.org/wiki/MacOS
 https://en.wikipedia.org/wiki/Macro_(computer_science)
 https://en.wikipedia.org/wiki/Macroeconomics
+https://en.wikipedia.org/wiki/Macromolecular_Crystallographic_Information_File
 https://en.wikipedia.org/wiki/Macroscopic_quantum_self-trapping
 https://en.wikipedia.org/wiki/Macross
 https://en.wikipedia.org/wiki/Macsyma
@@ -16873,6 +16891,7 @@ https://en.wikipedia.org/wiki/Proteasome
 https://en.wikipedia.org/wiki/Protected_mode
 https://en.wikipedia.org/wiki/Protein
 https://en.wikipedia.org/wiki/Protein_Data_Bank
+https://en.wikipedia.org/wiki/Protein_Data_Bank_(file_format)
 https://en.wikipedia.org/wiki/Protein_design
 https://en.wikipedia.org/wiki/Protein_domain
 https://en.wikipedia.org/wiki/Protein_dynamics
@@ -17409,6 +17428,7 @@ https://en.wikipedia.org/wiki/Research_design
 https://en.wikipedia.org/wiki/Research_paper_mill
 https://en.wikipedia.org/wiki/Research_Papers_in_Economics
 https://en.wikipedia.org/wiki/Research_program
+https://en.wikipedia.org/wiki/Research_software_engineering
 https://en.wikipedia.org/wiki/Research_university
 https://en.wikipedia.org/wiki/Research_Unix
 https://en.wikipedia.org/wiki/Reservation_station
@@ -20712,6 +20732,7 @@ https://en.wikipedia.org/wiki/World-system
 https://en.wikipedia.org/wiki/World-systems_theory
 https://en.wikipedia.org/wiki/WorldBench
 https://en.wikipedia.org/wiki/WorldCat
+https://en.wikipedia.org/wiki/Worldwide_Protein_Data_Bank
 https://en.wikipedia.org/wiki/Worship_of_heavenly_bodies
 https://en.wikipedia.org/wiki/Worst-case_complexity
 https://en.wikipedia.org/wiki/WPS_Office
@@ -21320,6 +21341,7 @@ https://fas.org/
 https://fasta.bioch.virginia.edu/fasta_www2/fasta_list2.shtml
 https://fastcgi-archives.github.io/
 https://fasttext.cc/
+https://fastverse.r-universe.dev/packages
 https://fauna.com/
 https://fbb-git.gitlab.io/cppannotations/
 https://fcix.net/
@@ -22033,6 +22055,7 @@ https://github.com/dspinellis/unix-history-repo
 https://github.com/duckdb
 https://github.com/duckdb/duckdb
 https://github.com/duckdb/duckdb-r
+https://github.com/duckdblabs
 https://github.com/duckythescientist/SmoothLife
 https://github.com/DuendeSoftware/IdentityServer
 https://github.com/duo-labs/py_webauthn
@@ -22043,6 +22066,7 @@ https://github.com/eagleusb/awesome-repositories?tab=readme-ov-file
 https://github.com/earthly/earthly
 https://github.com/EasyCrypt/easycrypt
 https://github.com/easystats/easystats
+https://github.com/easystats/easystats/
 https://github.com/easystats/insight
 https://github.com/ebrahimpichka/awesome-optimization
 https://github.com/eclipse-corrosion/corrosion
@@ -24343,6 +24367,7 @@ https://hyperelliptic.org/EFD/
 https://hyperelliptic.org/tanja/
 https://hyperelliptic.org/tanja/index.html
 https://hyperopt.github.io/hyperopt-sklearn/
+https://hypertidy.r-universe.dev/packages
 https://i-librarian.net/
 https://i4oc.org/
 https://iacr.org/books/
@@ -26804,6 +26829,7 @@ https://link.springer.com/chapter/10.1007/978-3-030-22044-0_3
 https://link.springer.com/chapter/10.1007/978-3-030-23250-4_3
 https://link.springer.com/chapter/10.1007/978-3-030-29414-4_9
 https://link.springer.com/chapter/10.1007/978-3-030-30484-3_13
+https://link.springer.com/chapter/10.1007/978-3-030-45442-5_79
 https://link.springer.com/chapter/10.1007/978-3-030-57043-9_11
 https://link.springer.com/chapter/10.1007/978-3-030-59234-9_3
 https://link.springer.com/chapter/10.1007/978-3-030-59234-9_6
@@ -27682,6 +27708,7 @@ https://mloss.org/software/
 https://mlpack.org/
 https://mlpr.inf.ed.ac.uk/2023/
 https://mlr-org.com/
+https://mlr-org.r-universe.dev/packages
 https://mlr3.mlr-org.com/
 https://mlr3book.mlr-org.com/
 https://mlsys.org/
@@ -29007,8 +29034,12 @@ https://posit.cloud/learn/recipes/modeling/ModelE
 https://posit.co/
 https://posit.co/blog/
 https://posit.co/blog/distill/
+https://posit.co/products/cloud/cloud/
 https://posit.co/products/enterprise/academy/
+https://posit.co/products/open-source/rpackages/
+https://posit.co/products/open-source/rstudio-server/
 https://posit.co/products/open-source/rstudio/
+https://posit.co/products/open-source/shinyserver/
 https://posit.co/resources/
 https://posit.co/resources/cheatsheets/
 https://posit.co/resources/videos/
@@ -29386,8 +29417,10 @@ https://r-charts.com/
 https://r-charts.com/base-r/
 https://r-charts.com/ggplot2/
 https://r-charts.com/spatial/interactive-maps-leaflet/
+https://r-dbi.r-universe.dev/packages
 https://r-forge.r-project.org/
 https://r-forge.r-project.org/projects/optimizer/
+https://r-forge.r-universe.dev/packages
 https://r-graph-gallery.com/
 https://r-graph-gallery.com/all-graphs.html
 https://r-graph-gallery.com/best-r-chart-examples.html
@@ -29396,7 +29429,11 @@ https://r-graphics.org/
 https://r-hub.github.io/cranlogs/
 https://r-hub.github.io/cranlogs/index.html
 https://r-hub.github.io/rhub/
+https://r-hub.r-universe.dev/packages
 https://r-lib.r-universe.dev/builds
+https://r-lib.r-universe.dev/packages
+https://r-multiverse.r-universe.dev/duckdb
+https://r-multiverse.r-universe.dev/packages
 https://r-nimble.org/
 https://r-pkgs.org/
 https://r-pkgs.org/vignettes.html
@@ -29412,6 +29449,7 @@ https://r-text.org/articles/Extended_Installation_Guide.html
 https://r-text.org/articles/Word_embeddings.html
 https://r-text.org/index.html
 https://r-universe.dev/search/
+https://r.duckdb.org/
 https://r.geocompx.org/
 https://r4ds.hadley.nz/
 https://r6.r-lib.org/
@@ -29444,6 +29482,7 @@ https://raysolomonoff.com/
 https://rc2014.co.uk/
 https://rc2014.co.uk/1865/crayzee-eighty/
 https://rc2e.com/
+https://rcppcore.r-universe.dev/packages
 https://rdatatable.gitlab.io/data.table/
 https://rdist.root.org/
 https://rdist.root.org/2011/06/28/intermediate-cryptography-resources/
@@ -29660,8 +29699,13 @@ https://romaninscriptionsofbritain.org/
 https://romanzolotarev.com/
 https://rome.tools/
 https://root.cern/
+https://ropengov.r-universe.dev/packages
 https://ropensci.org/
+https://ropensci.org/packages/
+https://ropensci.org/packages/all/
+https://ropensci.org/r-universe/
 https://ropensci.r-universe.dev/builds
+https://ropensci.r-universe.dev/packages
 https://ros.org/
 https://rosalind.info/
 https://rosettacode.org/wiki/Rosetta_Code
@@ -29691,6 +29735,7 @@ https://rqlite.io/
 https://rray.r-lib.org/
 https://rsample.tidymodels.org/
 https://rseek.org/
+https://rspatial.r-universe.dev/packages
 https://rsqlite.r-dbi.org/
 https://rss.org.uk/
 https://rstats.wtf/
@@ -29730,6 +29775,7 @@ https://rstudio.github.io/renv/
 https://rstudio.github.io/reticulate/
 https://rstudio.github.io/shinydashboard/
 https://rstudio.github.io/tufte/
+https://rstudio.r-universe.dev/packages
 https://rsync.samba.org/
 https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
 https://rubycentral.org/
@@ -30398,6 +30444,7 @@ https://stacks.tidymodels.org/
 https://staff.fnwi.uva.nl/p.vanemdeboas/
 https://stallman.org/index.html
 https://stallman.org/stallman-computing.html
+https://stan-dev.r-universe.dev/packages
 https://standardebooks.org/
 https://standardebooks.org/collections
 https://standardebooks.org/collections/sherlock-holmes
@@ -30932,11 +30979,13 @@ https://tic80.com/
 https://tidbits.com/2014/03/01/how-to-protect-your-icloud-keychain-from-the-nsa/
 https://tidelift.com/
 https://tidygraph.data-imaginist.com/
+https://tidymodels.r-universe.dev/packages
 https://tidymodels.tidymodels.org/
 https://tidyposterior.tidymodels.org/
 https://tidypredict.tidymodels.org/
 https://tidyr.tidyverse.org/
 https://tidyr.tidyverse.org/articles/rectangle.html
+https://tidyverse.r-universe.dev/packages
 https://tidyverse.tidyverse.org/
 https://tigervnc.org/
 https://tikz.dev/
@@ -33506,6 +33555,7 @@ https://www.gesetze-im-internet.de/dwg/index.html
 https://www.gesetze-im-internet.de/gg/index.html
 https://www.get.cloud/home.aspx
 https://www.get.cloud/who-s-using-it.aspx
+https://www.getdbt.com/
 https://www.geteduroam.app/
 https://www.gfdl.noaa.gov/fv3/
 https://www.ghacks.net/2023/04/20/mozilla-removes-bypass-paywalls-clean-extension-from-its-add-repository/
@@ -37559,6 +37609,7 @@ https://www.theregister.com/
 https://www.theregister.com/2019/02/14/password_length/
 https://www.theregister.com/2021/11/02/china_loongson_mips/
 https://www.theregister.com/2022/03/15/bringing_the_chipmakers_home/
+https://www.theregister.com/2022/11/17/475_million_says_scaleup_databases/
 https://www.theregister.com/2023/03/08/great_graph_debate_wednesday/
 https://www.theregister.com/2023/10/30/arm_intel_comment/
 https://www.theregister.com/2023/11/20/3_million_deepin_users/
@@ -38169,6 +38220,7 @@ https://www.wqxr.org/
 https://www.writethedocs.org/
 https://www.wu.ac.at/
 https://www.wu.ac.at/en/statmath/
+https://www.wwpdb.org/
 https://www.wxwidgets.org/
 https://www.x.org/wiki/
 https://www.x.org/wiki/XorgFoundation/
