@@ -21326,6 +21326,7 @@ https://fabiensanglard.net/st/index.html
 https://fable.tidyverts.org/
 https://facctconference.org/
 https://facebook.github.io/prophet/
+https://facebook.github.io/zstd/
 https://facebookresearch.github.io/nevergrad/
 https://fachgruppe-computeralgebra.de/
 https://facthacks.cr.yp.to/
@@ -22133,6 +22134,7 @@ https://github.com/facebook/hhvm
 https://github.com/facebook/lexical
 https://github.com/facebook/prophet
 https://github.com/facebook/rocksdb
+https://github.com/facebook/zstd
 https://github.com/facebookincubator/velox
 https://github.com/facebookresearch/esm
 https://github.com/facebookresearch/fastText
@@ -36231,6 +36233,7 @@ https://www.r-bloggers.com/2015/12/how-to-learn-r-2/
 https://www.r-bloggers.com/2018/01/queueing-notation/
 https://www.r-bloggers.com/2018/07/about-lazy-evaluation/
 https://www.r-bloggers.com/2018/10/how-to-build-your-own-neural-network-from-scratch-in-r/
+https://www.r-bloggers.com/2020/01/customising-your-rprofile/
 https://www.r-bloggers.com/2020/03/time-series-machine-learning-and-feature-engineering-in-r/
 https://www.r-bloggers.com/2020/12/bayesian-forecasting-for-uni-multivariate-time-series/
 https://www.r-bloggers.com/2021/02/text-analysis-with-r/
@@ -37285,6 +37288,7 @@ https://www.statlearning.com/online-course
 https://www.statmethods.net/
 https://www.statmethods.net/about/books.html
 https://www.statmethods.net/advgraphs/layout.html
+https://www.statmethods.net/interface/customizing.html
 https://www.statmt.org/
 https://www.statnews.com/
 https://www.statology.org/differences-between-anova-ancova-manova-mancova/
