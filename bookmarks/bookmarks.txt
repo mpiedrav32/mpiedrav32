@@ -1400,6 +1400,7 @@ https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/
 https://blog.apnic.net/2023/08/02/bcrypt-at-25-a-retrospective-on-password-security/
 https://blog.apnic.net/2023/11/07/chiplets-the-inevitable-transition/
 https://blog.appsignal.com/2022/09/14/secure-your-nodejs-app-with-json-web-tokens.html
+https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/
 https://blog.arxiv.org/
 https://blog.checkpoint.com/
 https://blog.cloudflare.com/
@@ -35548,6 +35549,7 @@ https://www.niemanlab.org/2023/12/ignore-the-coming-election-bump/
 https://www.niemanlab.org/2024/01/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-believable-not-less/
 https://www.nih.gov/
 https://www.nimblefins.co.uk/average-cost-gas-electricity-bill-uk-household
+https://www.nippon.com/en/
 https://www.nist.gov/
 https://www.nist.gov/chips
 https://www.nist.gov/cyberframework
