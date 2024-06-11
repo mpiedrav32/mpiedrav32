@@ -3100,6 +3100,7 @@ https://de.wikipedia.org/wiki/Ifo_Institut_f%C3%BCr_Wirtschaftsforschung
 https://de.wikipedia.org/wiki/Information_Retrieval
 https://de.wikipedia.org/wiki/Informationssicherheit
 https://de.wikipedia.org/wiki/Internationale_Beziehungen
+https://de.wikipedia.org/wiki/Ischtar-Tor
 https://de.wikipedia.org/wiki/IT-Cluster_Rhein-Main-Neckar
 https://de.wikipedia.org/wiki/Julian_Seymour_Schwinger
 https://de.wikipedia.org/wiki/Juris
@@ -3134,6 +3135,7 @@ https://de.wikipedia.org/wiki/Mercator_Institute_for_China_Studies
 https://de.wikipedia.org/wiki/Metropolregion_Rhein-Ruhr
 https://de.wikipedia.org/wiki/Milit%C3%A4rischer_Abschirmdienst
 https://de.wikipedia.org/wiki/MuLISP
+https://de.wikipedia.org/wiki/Museumsinsel_(Berlin)
 https://de.wikipedia.org/wiki/Musikalisches_Opfer
 https://de.wikipedia.org/wiki/Nachrichtendienste_des_Bundes
 https://de.wikipedia.org/wiki/Netzpolitik.org
@@ -3144,6 +3146,7 @@ https://de.wikipedia.org/wiki/Ortstafel_(Deutschland)
 https://de.wikipedia.org/wiki/Otto_von_Bismarck
 https://de.wikipedia.org/wiki/Pangermanismus
 https://de.wikipedia.org/wiki/Passau
+https://de.wikipedia.org/wiki/Pergamonmuseum
 https://de.wikipedia.org/wiki/Philipps-Universit%C3%A4t_Marburg
 https://de.wikipedia.org/wiki/Politikwissenschaft
 https://de.wikipedia.org/wiki/Politische_Philosophie
@@ -6138,6 +6141,7 @@ https://en.wikipedia.org/wiki/Bellman_equation
 https://en.wikipedia.org/wiki/Bellman_pseudospectral_method
 https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
 https://en.wikipedia.org/wiki/Bells_of_Doom_(album)
+https://en.wikipedia.org/wiki/Beloved_Antichrist
 https://en.wikipedia.org/wiki/Beltrami_identity
 https://en.wikipedia.org/wiki/Ben_NanoNote
 https://en.wikipedia.org/wiki/Ben_Shneiderman
@@ -7573,6 +7577,7 @@ https://en.wikipedia.org/wiki/Centre_for_Applied_Cryptographic_Research
 https://en.wikipedia.org/wiki/Centre_for_the_History_of_the_Book
 https://en.wikipedia.org/wiki/Centroid
 https://en.wikipedia.org/wiki/Centrum_Wiskunde_%26_Informatica
+https://en.wikipedia.org/wiki/Cerberus
 https://en.wikipedia.org/wiki/Ceremonial_magic
 https://en.wikipedia.org/wiki/CERN
 https://en.wikipedia.org/wiki/CERN_Courier
@@ -8657,6 +8662,7 @@ https://en.wikipedia.org/wiki/CSIRO
 https://en.wikipedia.org/wiki/CSN.1
 https://en.wikipedia.org/wiki/CSS
 https://en.wikipedia.org/wiki/CTAN
+https://en.wikipedia.org/wiki/Cthulhu_Mythos
 https://en.wikipedia.org/wiki/Cuban_Missile_Crisis
 https://en.wikipedia.org/wiki/Cube_attack
 https://en.wikipedia.org/wiki/Cubes_(OLAP_server)
@@ -8752,6 +8758,7 @@ https://en.wikipedia.org/wiki/D%27Hondt_method
 https://en.wikipedia.org/wiki/D%C3%A9tente
 https://en.wikipedia.org/wiki/D3.js
 https://en.wikipedia.org/wiki/Daala
+https://en.wikipedia.org/wiki/Dagon
 https://en.wikipedia.org/wiki/DALL-E
 https://en.wikipedia.org/wiki/Dallas%E2%80%93Fort_Worth_metroplex
 https://en.wikipedia.org/wiki/Dalle_Molle_Institute_for_Artificial_Intelligence_Research
@@ -11199,6 +11206,7 @@ https://en.wikipedia.org/wiki/Grey_literature
 https://en.wikipedia.org/wiki/Grid_computing
 https://en.wikipedia.org/wiki/Grid_energy_storage
 https://en.wikipedia.org/wiki/Grievance_studies_affair
+https://en.wikipedia.org/wiki/Grigori_Rasputin
 https://en.wikipedia.org/wiki/Grigorii_Fikhtengol%27ts
 https://en.wikipedia.org/wiki/Grill_(cryptology)
 https://en.wikipedia.org/wiki/Grimoire
@@ -11272,6 +11280,7 @@ https://en.wikipedia.org/wiki/HackerRank
 https://en.wikipedia.org/wiki/Hackers_on_Planet_Earth
 https://en.wikipedia.org/wiki/Hacking:_The_Art_of_Exploitation
 https://en.wikipedia.org/wiki/Hadamard_matrix
+https://en.wikipedia.org/wiki/Hades
 https://en.wikipedia.org/wiki/Hadley_Wickham
 https://en.wikipedia.org/wiki/Hadrian
 https://en.wikipedia.org/wiki/Hadrian%27s_Wall
@@ -12328,6 +12337,7 @@ https://en.wikipedia.org/wiki/ISFET
 https://en.wikipedia.org/wiki/Isfet_(Egyptian_mythology)
 https://en.wikipedia.org/wiki/Ishtar_Gate
 https://en.wikipedia.org/wiki/Ising_model
+https://en.wikipedia.org/wiki/Isis
 https://en.wikipedia.org/wiki/Islamic_holy_books
 https://en.wikipedia.org/wiki/Islands_in_the_Net
 https://en.wikipedia.org/wiki/ISLISP
@@ -12868,6 +12878,7 @@ https://en.wikipedia.org/wiki/Keysight
 https://en.wikipedia.org/wiki/KGB
 https://en.wikipedia.org/wiki/KH_Coder
 https://en.wikipedia.org/wiki/KHAZAD
+https://en.wikipedia.org/wiki/Khlysts
 https://en.wikipedia.org/wiki/Khornerstone
 https://en.wikipedia.org/wiki/Khronos_Group
 https://en.wikipedia.org/wiki/Kibana
@@ -12898,6 +12909,7 @@ https://en.wikipedia.org/wiki/Kingdom_of_Poland
 https://en.wikipedia.org/wiki/Kingdom_of_Poland_(1917%E2%80%931918)
 https://en.wikipedia.org/wiki/Kings%27_sagas
 https://en.wikipedia.org/wiki/Kingston,_Ontario
+https://en.wikipedia.org/wiki/Kingu
 https://en.wikipedia.org/wiki/Kip_Thorne
 https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws
 https://en.wikipedia.org/wiki/Kirkus_Reviews
@@ -13071,6 +13083,7 @@ https://en.wikipedia.org/wiki/Lanczos_algorithm
 https://en.wikipedia.org/wiki/Lanczos_approximation
 https://en.wikipedia.org/wiki/Lanczos_resampling
 https://en.wikipedia.org/wiki/Lanczos_tensor
+https://en.wikipedia.org/wiki/Land_of_Punt
 https://en.wikipedia.org/wiki/Landau%E2%80%93Lifshitz_model
 https://en.wikipedia.org/wiki/Landau%E2%80%93Lifshitz%E2%80%93Gilbert_equation
 https://en.wikipedia.org/wiki/Landauer%27s_principle
@@ -13252,6 +13265,7 @@ https://en.wikipedia.org/wiki/Lepaca_Kliffoth
 https://en.wikipedia.org/wiki/LEPOR
 https://en.wikipedia.org/wiki/Lepton
 https://en.wikipedia.org/wiki/Leroy_P._Steele_Prize
+https://en.wikipedia.org/wiki/Les_Fleurs_du_Mal_(Therion_album)
 https://en.wikipedia.org/wiki/Leslie_Valiant
 https://en.wikipedia.org/wiki/Lesser_Poland
 https://en.wikipedia.org/wiki/Letter_frequency
@@ -13268,6 +13282,8 @@ https://en.wikipedia.org/wiki/Levenshtein_distance
 https://en.wikipedia.org/wiki/Levenspiel_plot
 https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)
 https://en.wikipedia.org/wiki/Leviathan_(Therion_album)
+https://en.wikipedia.org/wiki/Leviathan_II
+https://en.wikipedia.org/wiki/Leviathan_III
 https://en.wikipedia.org/wiki/Lewisite
 https://en.wikipedia.org/wiki/Lexical_analysis
 https://en.wikipedia.org/wiki/Lexis_diagram
@@ -13715,6 +13731,7 @@ https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_SAP
 https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Twitter
 https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Yahoo!
 https://en.wikipedia.org/wiki/List_of_mergers_of_securities_firms
+https://en.wikipedia.org/wiki/List_of_Mesopotamian_dynasties
 https://en.wikipedia.org/wiki/List_of_military_science_fiction_works_and_authors
 https://en.wikipedia.org/wiki/List_of_MIPS_architecture_processors
 https://en.wikipedia.org/wiki/List_of_misnamed_theorems
@@ -14251,6 +14268,7 @@ https://en.wikipedia.org/wiki/Marcomanni
 https://en.wikipedia.org/wiki/Marconi_Union
 https://en.wikipedia.org/wiki/Marcus_Aurelius
 https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa
+https://en.wikipedia.org/wiki/Marduk
 https://en.wikipedia.org/wiki/Mare_Nostrum
 https://en.wikipedia.org/wiki/Marek_Karpinski
 https://en.wikipedia.org/wiki/Margaret_Gurney
@@ -14736,6 +14754,7 @@ https://en.wikipedia.org/wiki/Mirai_(malware)
 https://en.wikipedia.org/wiki/Miranda_(programming_language)
 https://en.wikipedia.org/wiki/Mirror_descent
 https://en.wikipedia.org/wiki/Misanthropy
+https://en.wikipedia.org/wiki/Miskolc_Opera_Festival
 https://en.wikipedia.org/wiki/Misleading_graph
 https://en.wikipedia.org/wiki/Missing_data
 https://en.wikipedia.org/wiki/Mississauga
@@ -15030,6 +15049,7 @@ https://en.wikipedia.org/wiki/N._U._Prabhu
 https://en.wikipedia.org/wiki/N2n
 https://en.wikipedia.org/wiki/Na%C3%AFve_physics
 https://en.wikipedia.org/wiki/Na%C3%AFve_realism
+https://en.wikipedia.org/wiki/Nabu
 https://en.wikipedia.org/wiki/NaCl_(software)
 https://en.wikipedia.org/wiki/Nadir
 https://en.wikipedia.org/wiki/Nag_Hammadi_library
@@ -15345,6 +15365,7 @@ https://en.wikipedia.org/wiki/Nine-point_hyperbola
 https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
 https://en.wikipedia.org/wiki/Nintendo_64
 https://en.wikipedia.org/wiki/Nintendo_Entertainment_System
+https://en.wikipedia.org/wiki/Ninurta
 https://en.wikipedia.org/wiki/Nios_II
 https://en.wikipedia.org/wiki/NIST_(metric)
 https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework
@@ -16274,6 +16295,7 @@ https://en.wikipedia.org/wiki/Perpetual_war
 https://en.wikipedia.org/wiki/Perplexity
 https://en.wikipedia.org/wiki/Perron%E2%80%93Frobenius_theorem
 https://en.wikipedia.org/wiki/Perse_(mythology)
+https://en.wikipedia.org/wiki/Persephone
 https://en.wikipedia.org/wiki/Perseus
 https://en.wikipedia.org/wiki/Persian_lime
 https://en.wikipedia.org/wiki/Persian_literature
@@ -18120,6 +18142,7 @@ https://en.wikipedia.org/wiki/Sequential_pattern_mining
 https://en.wikipedia.org/wiki/Sequential_quadratic_programming
 https://en.wikipedia.org/wiki/SequoiaDB
 https://en.wikipedia.org/wiki/Seraph
+https://en.wikipedia.org/wiki/Serapis
 https://en.wikipedia.org/wiki/Serge_Vaudenay
 https://en.wikipedia.org/wiki/Sergei_Bernstein
 https://en.wikipedia.org/wiki/Serial_Experiments_Lain
@@ -18178,6 +18201,7 @@ https://en.wikipedia.org/wiki/Shakespeare%27s_influence
 https://en.wikipedia.org/wiki/Shakey_the_robot
 https://en.wikipedia.org/wiki/SHAKTI_(microprocessor)
 https://en.wikipedia.org/wiki/Shalihotra
+https://en.wikipedia.org/wiki/Shamash
 https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing
 https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation
 https://en.wikipedia.org/wiki/Shannon%27s_source_coding_theorem
@@ -18331,6 +18355,7 @@ https://en.wikipedia.org/wiki/Simulink
 https://en.wikipedia.org/wiki/Simultaneous_equations_model
 https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping
 https://en.wikipedia.org/wiki/Simultaneous_perturbation_stochastic_approximation
+https://en.wikipedia.org/wiki/Sin_(mythology)
 https://en.wikipedia.org/wiki/Sinclair_BASIC
 https://en.wikipedia.org/wiki/Single_instruction,_multiple_data
 https://en.wikipedia.org/wiki/Single_instruction,_single_data
