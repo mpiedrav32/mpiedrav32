@@ -36293,6 +36293,7 @@ https://www.quantamagazine.org/deep-learning-poised-to-blow-up-famed-fluid-equat
 https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/
 https://www.quantamagazine.org/how-mathematicians-make-sense-of-chaos-20220302/
 https://www.quantamagazine.org/how-simple-math-reveals-rational-points-on-curves-20210722/
+https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/
 https://www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redefine-the-sphere-20231107/
 https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/
 https://www.quantamagazine.org/latest-neural-nets-solve-worlds-hardest-equations-faster-than-ever-before-20210419/
@@ -36313,6 +36314,7 @@ https://www.quantamagazine.org/tag/quantum-physics/
 https://www.quantamagazine.org/the-astonishing-behavior-of-recursive-sequences-20231116/
 https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/
 https://www.quantamagazine.org/the-hidden-heroines-of-chaos-20190520/
+https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/
 https://www.quantamagazine.org/the-often-overlooked-experiment-that-revealed-the-quantum-world-20231205/
 https://www.quantamagazine.org/which-computational-universe-do-we-live-in-20220418/
 https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/
