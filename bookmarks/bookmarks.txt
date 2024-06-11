@@ -6579,6 +6579,7 @@ https://en.wikipedia.org/wiki/Bump_function
 https://en.wikipedia.org/wiki/Bureau_of_Labor_Statistics
 https://en.wikipedia.org/wiki/Burgers%27_equation
 https://en.wikipedia.org/wiki/Burgrecht
+https://en.wikipedia.org/wiki/Burgundians
 https://en.wikipedia.org/wiki/Burlington,_Vermont
 https://en.wikipedia.org/wiki/Burning_Chrome
 https://en.wikipedia.org/wiki/Burroughs_Large_Systems
@@ -7009,6 +7010,8 @@ https://en.wikipedia.org/wiki/Category:Dutch_computer_scientists
 https://en.wikipedia.org/wiki/Category:Dynamic_programming
 https://en.wikipedia.org/wiki/Category:Dynamical_systems
 https://en.wikipedia.org/wiki/Category:Dynamics_of_the_Solar_System
+https://en.wikipedia.org/wiki/Category:Early_Germanic_people
+https://en.wikipedia.org/wiki/Category:Early_Germanic_peoples
 https://en.wikipedia.org/wiki/Category:Edge_detection
 https://en.wikipedia.org/wiki/Category:Educational_math_software
 https://en.wikipedia.org/wiki/Category:Electrical_and_electronic_engineering_journals
@@ -7076,6 +7079,7 @@ https://en.wikipedia.org/wiki/Category:Generative_pre-trained_transformers
 https://en.wikipedia.org/wiki/Category:Geometric_algorithms
 https://en.wikipedia.org/wiki/Category:German_dark_wave_musical_groups
 https://en.wikipedia.org/wiki/Category:GNU_Project
+https://en.wikipedia.org/wiki/Category:Gothic_people
 https://en.wikipedia.org/wiki/Category:Graph_algorithms
 https://en.wikipedia.org/wiki/Category:Graphical_models
 https://en.wikipedia.org/wiki/Category:Graphics_chips
@@ -7222,6 +7226,7 @@ https://en.wikipedia.org/wiki/Category:Non-equilibrium_thermodynamics
 https://en.wikipedia.org/wiki/Category:Non-military_counterterrorist_organizations
 https://en.wikipedia.org/wiki/Category:Nonlinear_systems
 https://en.wikipedia.org/wiki/Category:Nonparametric_statistics
+https://en.wikipedia.org/wiki/Category:North_Germanic_peoples
 https://en.wikipedia.org/wiki/Category:Novels_about_the_end_of_the_universe
 https://en.wikipedia.org/wiki/Category:Novels_about_time_travel
 https://en.wikipedia.org/wiki/Category:Novels_set_in_the_Russian_Revolution
@@ -7633,6 +7638,7 @@ https://en.wikipedia.org/wiki/Characteristic_polynomial
 https://en.wikipedia.org/wiki/Charaka
 https://en.wikipedia.org/wiki/Charalambos_Aliprantis
 https://en.wikipedia.org/wiki/Charge_density
+https://en.wikipedia.org/wiki/Charlemagne
 https://en.wikipedia.org/wiki/Charles_Babbage
 https://en.wikipedia.org/wiki/Charles_Darwin
 https://en.wikipedia.org/wiki/Charles_E._Leiserson
@@ -10477,6 +10483,7 @@ https://en.wikipedia.org/wiki/France_Info_(TV_channel)
 https://en.wikipedia.org/wiki/France_T%C3%A9l%C3%A9visions
 https://en.wikipedia.org/wiki/Frances_Allen
 https://en.wikipedia.org/wiki/Francesco_Colonna_(writer)
+https://en.wikipedia.org/wiki/Francia
 https://en.wikipedia.org/wiki/Francis_Crick
 https://en.wikipedia.org/wiki/Francis_Galton
 https://en.wikipedia.org/wiki/Frank_Anscombe
@@ -10885,6 +10892,7 @@ https://en.wikipedia.org/wiki/German_Reference_Corpus
 https://en.wikipedia.org/wiki/German_Renaissance
 https://en.wikipedia.org/wiki/German_Research_Foundation
 https://en.wikipedia.org/wiki/German_town_law
+https://en.wikipedia.org/wiki/Germanic_heroic_legend
 https://en.wikipedia.org/wiki/Germanic_languages
 https://en.wikipedia.org/wiki/Germanic_paganism
 https://en.wikipedia.org/wiki/Germanic_peoples
@@ -11081,6 +11089,7 @@ https://en.wikipedia.org/wiki/Gothic_film
 https://en.wikipedia.org/wiki/Gothic_Kabbalah
 https://en.wikipedia.org/wiki/Gothic_metal
 https://en.wikipedia.org/wiki/Gothic_rock
+https://en.wikipedia.org/wiki/Gothic_War_(376%E2%80%93382)
 https://en.wikipedia.org/wiki/Gothicism
 https://en.wikipedia.org/wiki/Goths
 https://en.wikipedia.org/wiki/GotoBLAS
@@ -11239,6 +11248,7 @@ https://en.wikipedia.org/wiki/Gummi_(software)
 https://en.wikipedia.org/wiki/Gundam
 https://en.wikipedia.org/wiki/Gunn_diode
 https://en.wikipedia.org/wiki/Gunning_transceiver_logic
+https://en.wikipedia.org/wiki/Gunther
 https://en.wikipedia.org/wiki/Gurgaon
 https://en.wikipedia.org/wiki/Gurmukhi
 https://en.wikipedia.org/wiki/Gurobi_Optimizer
@@ -11287,6 +11297,7 @@ https://en.wikipedia.org/wiki/Hadrian%27s_Wall
 https://en.wikipedia.org/wiki/Hadron
 https://en.wikipedia.org/wiki/HafenCity_University_Hamburg
 https://en.wikipedia.org/wiki/Hafez
+https://en.wikipedia.org/wiki/Hagen_(legend)
 https://en.wikipedia.org/wiki/Hagen%E2%80%93Poiseuille_equation
 https://en.wikipedia.org/wiki/Hagenbach-Bischoff_quota
 https://en.wikipedia.org/wiki/Hagenbach-Bischoff_system
@@ -11497,7 +11508,10 @@ https://en.wikipedia.org/wiki/Hermitian_matrix
 https://en.wikipedia.org/wiki/Hero_of_Alexandria
 https://en.wikipedia.org/wiki/Hero_Twins_in_Native_American_culture
 https://en.wikipedia.org/wiki/Herodotus
+https://en.wikipedia.org/wiki/Heroic_lay
 https://en.wikipedia.org/wiki/Heronian_mean
+https://en.wikipedia.org/wiki/Hervarar_saga_ok_Hei%C3%B0reks
+https://en.wikipedia.org/wiki/Hervararkvi%C3%B0a
 https://en.wikipedia.org/wiki/Hessian_affine_region_detector
 https://en.wikipedia.org/wiki/Hessian_matrix
 https://en.wikipedia.org/wiki/Heterojunction_bipolar_transistor
@@ -11633,6 +11647,7 @@ https://en.wikipedia.org/wiki/Hittite_mythology_and_religion
 https://en.wikipedia.org/wiki/Hittites
 https://en.wikipedia.org/wiki/Hjorth_parameters
 https://en.wikipedia.org/wiki/HKDF
+https://en.wikipedia.org/wiki/Hl%C3%B6%C3%B0skvi%C3%B0a
 https://en.wikipedia.org/wiki/HMA_(VPN)
 https://en.wikipedia.org/wiki/HMAC
 https://en.wikipedia.org/wiki/HMMER
@@ -13221,6 +13236,7 @@ https://en.wikipedia.org/wiki/Left%E2%80%93right_political_spectrum
 https://en.wikipedia.org/wiki/Leftover_hash_lemma
 https://en.wikipedia.org/wiki/Legal_expert_system
 https://en.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes
+https://en.wikipedia.org/wiki/Legendary_saga
 https://en.wikipedia.org/wiki/Legendre_function
 https://en.wikipedia.org/wiki/Legendre_polynomials
 https://en.wikipedia.org/wiki/Legendre_symbol
@@ -14691,6 +14707,7 @@ https://en.wikipedia.org/wiki/Midland_American_English
 https://en.wikipedia.org/wiki/Midnight_Commander
 https://en.wikipedia.org/wiki/Midtown_Manhattan
 https://en.wikipedia.org/wiki/MIFARE
+https://en.wikipedia.org/wiki/Migration_Period
 https://en.wikipedia.org/wiki/Mihir_Bellare
 https://en.wikipedia.org/wiki/Mike_Alder
 https://en.wikipedia.org/wiki/Mike_Bostock
@@ -15333,6 +15350,7 @@ https://en.wikipedia.org/wiki/NHK
 https://en.wikipedia.org/wiki/NHK_World-Japan
 https://en.wikipedia.org/wiki/Niagara_River
 https://en.wikipedia.org/wiki/Nial
+https://en.wikipedia.org/wiki/Nibelungenlied
 https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli
 https://en.wikipedia.org/wiki/Nice_Work
 https://en.wikipedia.org/wiki/Nicholas_Higham
@@ -15434,6 +15452,7 @@ https://en.wikipedia.org/wiki/Norbert_Wiener
 https://en.wikipedia.org/wiki/Norby
 https://en.wikipedia.org/wiki/Norby,_the_Mixed-Up_Robot
 https://en.wikipedia.org/wiki/Nordic_Bronze_Age
+https://en.wikipedia.org/wiki/Nordic_folklore
 https://en.wikipedia.org/wiki/Nordic_Stone_Age
 https://en.wikipedia.org/wiki/NordLayer
 https://en.wikipedia.org/wiki/Nordtvedt_effect
@@ -15458,6 +15477,7 @@ https://en.wikipedia.org/wiki/North_American_Network_Operators%27_Group
 https://en.wikipedia.org/wiki/North_China_Plain
 https://en.wikipedia.org/wiki/North_European_Plain
 https://en.wikipedia.org/wiki/North_Germanic_languages
+https://en.wikipedia.org/wiki/North_Germanic_peoples
 https://en.wikipedia.org/wiki/Northeast_blackout_of_2003
 https://en.wikipedia.org/wiki/Northeast_megalopolis
 https://en.wikipedia.org/wiki/Northeastern_United_States
@@ -16422,6 +16442,7 @@ https://en.wikipedia.org/wiki/Pico_(programming_language)
 https://en.wikipedia.org/wiki/PICO-8
 https://en.wikipedia.org/wiki/PicoBlaze
 https://en.wikipedia.org/wiki/PicoLisp
+https://en.wikipedia.org/wiki/Picts
 https://en.wikipedia.org/wiki/Pie_chart
 https://en.wikipedia.org/wiki/Piecewise
 https://en.wikipedia.org/wiki/Pierce_oscillator
@@ -17922,6 +17943,7 @@ https://en.wikipedia.org/wiki/Scale_space_implementation
 https://en.wikipedia.org/wiki/Scale-invariant_feature_transform
 https://en.wikipedia.org/wiki/Scale-space_axioms
 https://en.wikipedia.org/wiki/Scale-space_segmentation
+https://en.wikipedia.org/wiki/Scandinavian_Peninsula
 https://en.wikipedia.org/wiki/Scandinavian_studies
 https://en.wikipedia.org/wiki/Scatter_plot
 https://en.wikipedia.org/wiki/Scatterplot_smoothing
@@ -18274,6 +18296,7 @@ https://en.wikipedia.org/wiki/Sigismund_III_Vasa
 https://en.wikipedia.org/wiki/Sigma_approximation
 https://en.wikipedia.org/wiki/SIGMOD
 https://en.wikipedia.org/wiki/Sigmoid_function
+https://en.wikipedia.org/wiki/Sigmund
 https://en.wikipedia.org/wiki/Sign_convention
 https://en.wikipedia.org/wiki/Sign_test
 https://en.wikipedia.org/wiki/Sign_value
@@ -18295,6 +18318,7 @@ https://en.wikipedia.org/wiki/Signomial
 https://en.wikipedia.org/wiki/SIGPLAN
 https://en.wikipedia.org/wiki/SIGSALY
 https://en.wikipedia.org/wiki/SIGSAM
+https://en.wikipedia.org/wiki/Sigurd
 https://en.wikipedia.org/wiki/Sikh_scriptures
 https://en.wikipedia.org/wiki/Sikhism
 https://en.wikipedia.org/wiki/SIL_Open_Font_License
@@ -20024,6 +20048,7 @@ https://en.wikipedia.org/wiki/Typical_set
 https://en.wikipedia.org/wiki/Typography
 https://en.wikipedia.org/wiki/Tyranny_of_small_decisions
 https://en.wikipedia.org/wiki/Tyre,_Lebanon
+https://en.wikipedia.org/wiki/Tyrfing
 https://en.wikipedia.org/wiki/U-blox
 https://en.wikipedia.org/wiki/U-Net
 https://en.wikipedia.org/wiki/U-statistic
@@ -20278,6 +20303,7 @@ https://en.wikipedia.org/wiki/V-statistic
 https://en.wikipedia.org/wiki/V.
 https://en.wikipedia.org/wiki/V%C3%A1clav_Chv%C3%A1tal
 https://en.wikipedia.org/wiki/V%C3%A1clav_E._Bene%C5%A1
+https://en.wikipedia.org/wiki/V%C3%B6lsunga_saga
 https://en.wikipedia.org/wiki/V2_word_order
 https://en.wikipedia.org/wiki/V8_(JavaScript_engine)
 https://en.wikipedia.org/wiki/V850
@@ -20427,6 +20453,7 @@ https://en.wikipedia.org/wiki/Virusoid
 https://en.wikipedia.org/wiki/Visegr%C3%A1d_Group
 https://en.wikipedia.org/wiki/Vishnu
 https://en.wikipedia.org/wiki/Vishvarupa
+https://en.wikipedia.org/wiki/Visigothic_Kingdom
 https://en.wikipedia.org/wiki/Vision_processing_unit
 https://en.wikipedia.org/wiki/Vision_transformer
 https://en.wikipedia.org/wiki/Visitor_pattern
@@ -27637,6 +27664,10 @@ https://merics.org/en/industrial-policy-and-technology
 https://merics.org/en/report/whole-nation-innovation-does-chinas-socialist-system-give-it-edge-science-and-technology
 https://mermaid.js.org/
 https://metacpan.org/
+https://metal-map.com/map
+https://metal-map.com/map/FI
+https://metal-map.com/map/NO
+https://metal-map.com/map/SE
 https://metal.mit.edu/
 https://metric-time.com/
 https://mfem.org/
@@ -33550,6 +33581,8 @@ https://www.ft.com/
 https://www.ft.com/content/7539dcab-faf2-43a5-8a4e-77f98afecb19
 https://www.fu-berlin.de/
 https://www.fujitsu.com/global/
+https://www.furia.com/em/
+https://www.furia.com/em/band94.html
 https://www.furygpu.com/
 https://www.fuzzylite.com/
 https://www.fygeditores.com/FGBGPW9789929552319.htm
@@ -35215,7 +35248,28 @@ https://www.mersenneforum.org/index.php?s=eaf07e6dc25b06262cd539c19168d280
 https://www.mersenneforum.org/showthread.php?t=19466
 https://www.mesa3d.org/
 https://www.met.no/en/free-meteorological-data
+https://www.metal-archives.com/albums/Theatre_of_Tragedy/A%C3%A9gis/711
+https://www.metal-archives.com/albums/Therion/A%27arab_Zaraq_-_Lucid_Dreaming/413157
+https://www.metal-archives.com/albums/Therion/Beloved_Antichrist/686034
+https://www.metal-archives.com/albums/Therion/Beyond_Sanctorum/403
+https://www.metal-archives.com/albums/Therion/Crowning_of_Atlantis/415
+https://www.metal-archives.com/albums/Therion/Deggial/413629
+https://www.metal-archives.com/albums/Therion/Gothic_Kabbalah/137572
+https://www.metal-archives.com/albums/Therion/Lemuria/39861
+https://www.metal-archives.com/albums/Therion/Lepaca_Kliffoth/408
+https://www.metal-archives.com/albums/Therion/Les_fleurs_du_mal/440610
+https://www.metal-archives.com/albums/Therion/Leviathan_II/1069320
+https://www.metal-archives.com/albums/Therion/Leviathan_III/1172339
+https://www.metal-archives.com/albums/Therion/Leviathan/897278
+https://www.metal-archives.com/albums/Therion/Of_Darkness..../397
+https://www.metal-archives.com/albums/Therion/Secret_of_the_Runes/417
+https://www.metal-archives.com/albums/Therion/Sirius_B/39860
+https://www.metal-archives.com/albums/Therion/Sitra_Ahra/277877
+https://www.metal-archives.com/albums/Therion/Symphony_Masses%3A_Ho_Drakon_Ho_Megas/404
+https://www.metal-archives.com/albums/Therion/Theli/412
+https://www.metal-archives.com/albums/Therion/Vovin/414
 https://www.metal-archives.com/bands/Artrosis/2526
+https://www.metal-archives.com/bands/Therion/94
 https://www.metalevel.at/ediprolog/
 https://www.metalevel.at/prolog
 https://www.metalevel.at/prolog/clpz
