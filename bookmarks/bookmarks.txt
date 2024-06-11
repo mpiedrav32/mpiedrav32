@@ -1102,6 +1102,7 @@ https://arxiv.org/abs/2403.03998
 https://arxiv.org/abs/2405.00832
 https://arxiv.org/abs/2405.13817
 https://arxiv.org/abs/2405.17399
+https://arxiv.org/abs/2406.01637
 https://arxiv.org/abs/cs/0610105
 https://arxiv.org/abs/physics/0106045
 https://arxiv.org/abs/physics/0208101
@@ -1516,6 +1517,7 @@ https://blog.shakirm.com/
 https://blog.siggraph.org/2019/10/demoscene-the-underground-art-of-real-time.html/
 https://blog.sigplan.org/2021/02/11/a-primer-on-analog-computing/
 https://blog.sigplan.org/2023/04/04/teaching-category-theory-to-computer-scientists/
+https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/
 https://blog.sigplan.org/blog/
 https://blog.sucuri.net/
 https://blog.talosintelligence.com/
@@ -2214,6 +2216,7 @@ https://cr.yp.to/ucspi-tcp.html
 https://cr.yp.toc.tf/
 https://cra.org/
 https://cra.org/ccc/
+https://cra.org/cra/data-science/
 https://crack.sh/
 https://crackmes.one/
 https://crackmes.one/crackme/60d8d7bd33c5d410b8843087
@@ -2890,6 +2893,7 @@ https://dataintensive.net/
 https://datalab.stanford.edu/
 https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 https://datarepository.wolframcloud.com/
+https://datascience.codata.org/articles/10.5334/dsj-2015-002
 https://datascience.stackexchange.com/
 https://datascience.stanford.edu/
 https://datascience.stanford.edu/programs/stanford-data-science-scholars-program/data-science-handbook
@@ -3528,6 +3532,7 @@ https://dl.acm.org/doi/10.1145/182.358466
 https://dl.acm.org/doi/10.1145/1916461.1916469
 https://dl.acm.org/doi/10.1145/195058.195405
 https://dl.acm.org/doi/10.1145/1968.1972
+https://dl.acm.org/doi/10.1145/1985374.1985376
 https://dl.acm.org/doi/10.1145/2000064.2000104
 https://dl.acm.org/doi/10.1145/2089125.2089126
 https://dl.acm.org/doi/10.1145/2103786.2103788
@@ -3610,6 +3615,7 @@ https://dl.acm.org/doi/10.1145/3459664
 https://dl.acm.org/doi/10.1145/3460351
 https://dl.acm.org/doi/10.1145/3466132.3469647
 https://dl.acm.org/doi/10.1145/3475965.3480470
+https://dl.acm.org/doi/10.1145/3508398.3519358
 https://dl.acm.org/doi/10.1145/3513259
 https://dl.acm.org/doi/10.1145/3539618.3592055
 https://dl.acm.org/doi/10.1145/3552326.3587458
@@ -3648,6 +3654,7 @@ https://dl.acm.org/doi/10.1145/362637.362648
 https://dl.acm.org/doi/10.1145/362637.362651
 https://dl.acm.org/doi/10.1145/362929.362947
 https://dl.acm.org/doi/10.1145/363235.363259
+https://dl.acm.org/doi/10.1145/3632874
 https://dl.acm.org/doi/10.1145/363347.363387
 https://dl.acm.org/doi/10.1145/3639445
 https://dl.acm.org/doi/10.1145/365758.365802
@@ -16499,6 +16506,7 @@ https://en.wikipedia.org/wiki/Polarizer
 https://en.wikipedia.org/wiki/Polesia
 https://en.wikipedia.org/wiki/Police_state
 https://en.wikipedia.org/wiki/Polis
+https://en.wikipedia.org/wiki/Polis_(board_game)
 https://en.wikipedia.org/wiki/Polish_Enigma_double
 https://en.wikipedia.org/wiki/Polish_Enlightenment
 https://en.wikipedia.org/wiki/Polish_Golden_Age
@@ -24359,6 +24367,7 @@ https://huggingface.co/welcome
 https://humanclock.com/atariserver.php
 https://humanists.uk/2022/11/29/non-religious-surge-37-tick-no-religion-in-2021-census-uk-among-least-religious-countries-in-the-world/
 https://humanizr.net/
+https://humanprogress.org/
 https://hunch.net/
 https://hund.io/
 https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html
@@ -28214,6 +28223,7 @@ https://online.stanford.edu/
 https://online.stanford.edu/courses/xacs130-using-cryptography-correctly
 https://online.stanford.edu/donald-e-knuth-lectures
 https://online.stat.psu.edu/stat501/
+https://online.stat.psu.edu/stat501/lesson/4/4.2
 https://online.stat.psu.edu/stat504/
 https://online.stat.psu.edu/stat510/
 https://online.stat.psu.edu/stat510/lesson/11/11.1
@@ -28553,6 +28563,8 @@ https://pages.cs.wisc.edu/~remzi/OSTEP/
 https://pages.cs.wisc.edu/~remzi/OSTEP/dist-nfs.pdf
 https://pages.cs.wisc.edu/~swright/
 https://pagure.io/
+https://paleofuture.com/
+https://paleofuture.com/blog/2013/4/30/darpa-spent-1-billion-trying-to-build-a-real-life-skynet-in-the-1980s
 https://palisade-crypto.org/
 https://palletsprojects.com/
 https://palletsprojects.com/p/flask/
@@ -29490,6 +29502,7 @@ https://rdatatable.gitlab.io/data.table/
 https://rdist.root.org/
 https://rdist.root.org/2011/06/28/intermediate-cryptography-resources/
 https://rdist.root.org/author/rdist/
+https://rdm.mpdl.mpg.de/before-research/data-quality/
 https://rdrr.io/
 https://re2c.org/index.html
 https://react-rxjs.org/
@@ -29551,6 +29564,7 @@ https://reliability.readthedocs.io/en/latest/
 https://reliefweb.int/
 https://remarkable.com/
 https://remnux.org/
+https://rena.mpdl.mpg.de/
 https://renenyffenegger.ch/notes/development/Base64/Encoding-and-decoding-base-64-with-cpp/
 https://renenyffenegger.ch/notes/development/languages/R/functions/runif
 https://renenyffenegger.ch/notes/Linux/shell/commands/xxd
@@ -30947,6 +30961,7 @@ https://therecord.media/
 https://therecord.media/conti-leaks-the-panama-papers-of-ransomware/
 https://therecord.media/cyber-community-mourns-renowned-researcher-vitali-kremez
 https://therecord.media/how-vx-underground-is-building-a-hackers-dream-library/
+https://therecord.media/live-nation-confirms-ticketmaster-breach-snowflake
 https://therecord.media/spamouflage-china-accused-largest-covert-influence-operation-meta
 https://thesatanictemple.com/
 https://thesentry.org/
@@ -31035,6 +31050,7 @@ https://toc.csail.mit.edu/
 https://toc.csail.mit.edu/cis
 https://tockos.org/
 https://today.oregonstate.edu/archives/2016/may/massive-online-database-lays-foundation-mathematics-21st-century
+https://toddwschneider.com/dashboards/nyc-taxi-uber-lyft-fare-and-driver-pay-comparison/
 https://togaware.com/
 https://tokio.rs/
 https://tomcat.apache.org/
@@ -31336,6 +31352,8 @@ https://web.math.princeton.edu/~nalon/
 https://web.math.princeton.edu/~naor/
 https://web.media.mit.edu/~xdong/resource.html
 https://web.media.mit.edu/~xdong/talk/BDI_GSP.pdf
+https://web.mit.edu/smadnick/www/wp/2012-13.pdf
+https://web.mit.edu/tdqm/www/tdqmpub/SURVEYIEEEKDEAug95.pdf
 https://web.mit.edu/wisdom/www/
 https://web.mit.edu/wwwdev/www/cgic.html
 https://web.mst.edu/~gosavia/queuing_formulas.pdf
@@ -35312,6 +35330,7 @@ https://www.mozilla.org/en-US/firefox/products/
 https://www.mozilla.org/en-US/MPL/
 https://www.mozilla.org/en-US/privacy/
 https://www.mozilla.org/en-US/products/vpn/
+https://www.mpdl.mpg.de/
 https://www.mpfr.org/
 https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x
 https://www.mpg.de/de
@@ -36902,6 +36921,7 @@ https://www.sciencedirect.com/science/article/pii/S0885064X07000246
 https://www.sciencedirect.com/science/article/pii/S0893608019300784
 https://www.sciencedirect.com/science/article/pii/S0893608021002173
 https://www.sciencedirect.com/science/article/pii/S0898122197001843
+https://www.sciencedirect.com/science/article/pii/S0950584923001222
 https://www.sciencedirect.com/science/article/pii/S1359644621002531
 https://www.sciencedirect.com/science/article/pii/S1569190X14000513
 https://www.sciencedirect.com/science/article/pii/S1877050922020944
