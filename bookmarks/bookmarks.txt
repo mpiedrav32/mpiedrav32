@@ -762,10 +762,13 @@ https://archive.org/
 https://archive.org/details/@mirtitles
 https://archive.org/details/011.Sonda-Fabryka.Absolutu
 https://archive.org/details/86-dos-version-0.1-c-serial-11-original-disk
+https://archive.org/details/complex-numbers-in-geometry
 https://archive.org/details/fav-mirtitles
 https://archive.org/details/gantmacher-the-theory-of-matrices-vol-1-1959
 https://archive.org/details/gantmacher-the-theory-of-matrices-vol-2-1959
 https://archive.org/details/gelfand-fomin-calculus-of-variations
+https://archive.org/details/i.-m.-yaglom-geometric-transformations-1-1962
+https://archive.org/details/i.-m.-yaglom-geometric-transformations-2-1968
 https://archive.org/details/mondohistory
 https://archive.org/details/n.-piskunov-calculo-diferencial-e-integral-tomo-i-editorial-mir-1977esp
 https://archive.org/details/sonda
@@ -5201,6 +5204,7 @@ https://en.wikipedia.org/wiki/Akaike_information_criterion
 https://en.wikipedia.org/wiki/Akira_(1988_film)
 https://en.wikipedia.org/wiki/Akira_(franchise)
 https://en.wikipedia.org/wiki/Akira_(manga)
+https://en.wikipedia.org/wiki/Akiva_Yaglom
 https://en.wikipedia.org/wiki/Akkadian_Empire
 https://en.wikipedia.org/wiki/Akkadian_language
 https://en.wikipedia.org/wiki/Akkadian_literature
@@ -6954,6 +6958,7 @@ https://en.wikipedia.org/wiki/Category:Concatenative_programming_languages
 https://en.wikipedia.org/wiki/Category:Concepts_in_astronomy
 https://en.wikipedia.org/wiki/Category:Concurrency_control_algorithms
 https://en.wikipedia.org/wiki/Category:Configuration_management
+https://en.wikipedia.org/wiki/Category:Conformal_geometry
 https://en.wikipedia.org/wiki/Category:Conic_sections
 https://en.wikipedia.org/wiki/Category:Constraint_logic_programming
 https://en.wikipedia.org/wiki/Category:Contactless_smart_cards
@@ -7300,6 +7305,7 @@ https://en.wikipedia.org/wiki/Category:Programming_contests
 https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
 https://en.wikipedia.org/wiki/Category:Programming_language_semantics
 https://en.wikipedia.org/wiki/Category:Programming_language_theory
+https://en.wikipedia.org/wiki/Category:Projective_geometry
 https://en.wikipedia.org/wiki/Category:Proof_theory
 https://en.wikipedia.org/wiki/Category:Proprietary_software
 https://en.wikipedia.org/wiki/Category:Protein_structure
@@ -8224,6 +8230,7 @@ https://en.wikipedia.org/wiki/Complex_instruction_set_computer
 https://en.wikipedia.org/wiki/Complex_inverse_Wishart_distribution
 https://en.wikipedia.org/wiki/Complex_normal_distribution
 https://en.wikipedia.org/wiki/Complex_number
+https://en.wikipedia.org/wiki/Complex_plane
 https://en.wikipedia.org/wiki/Complex_random_variable
 https://en.wikipedia.org/wiki/Complex_random_vector
 https://en.wikipedia.org/wiki/Complex_system
@@ -8351,6 +8358,7 @@ https://en.wikipedia.org/wiki/Conflict_of_interest
 https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type
 https://en.wikipedia.org/wiki/Conflicts_of_interest_in_academic_publishing
 https://en.wikipedia.org/wiki/Confluent_hypergeometric_function
+https://en.wikipedia.org/wiki/Conformal_geometry
 https://en.wikipedia.org/wiki/Conformal_map
 https://en.wikipedia.org/wiki/Confounding
 https://en.wikipedia.org/wiki/Confraternity_Bible
@@ -12355,6 +12363,7 @@ https://en.wikipedia.org/wiki/Isaac_Asimov
 https://en.wikipedia.org/wiki/Isaac_Barrow
 https://en.wikipedia.org/wiki/Isaac_Milner
 https://en.wikipedia.org/wiki/Isaac_Newton
+https://en.wikipedia.org/wiki/Isaak_Yaglom
 https://en.wikipedia.org/wiki/Isabelle_(proof_assistant)
 https://en.wikipedia.org/wiki/ISBL
 https://en.wikipedia.org/wiki/ISC_license
@@ -13458,6 +13467,7 @@ https://en.wikipedia.org/wiki/Liouville_number
 https://en.wikipedia.org/wiki/Liouville%27s_equation
 https://en.wikipedia.org/wiki/Liouville%27s_formula
 https://en.wikipedia.org/wiki/Liouville%27s_theorem
+https://en.wikipedia.org/wiki/Liouville%27s_theorem_(conformal_mappings)
 https://en.wikipedia.org/wiki/Liouville%27s_theorem_(differential_algebra)
 https://en.wikipedia.org/wiki/Liouville%E2%80%93Neumann_series
 https://en.wikipedia.org/wiki/Liouvillian_function
@@ -14175,6 +14185,7 @@ https://en.wikipedia.org/wiki/M/G/k_queue
 https://en.wikipedia.org/wiki/M/M/1_queue
 https://en.wikipedia.org/wiki/M/M/c_queue
 https://en.wikipedia.org/wiki/M%C2%B7CORE
+https://en.wikipedia.org/wiki/M%C3%B6bius_transformation
 https://en.wikipedia.org/wiki/M%C4%81ori_culture
 https://en.wikipedia.org/wiki/M%C4%81ori_people
 https://en.wikipedia.org/wiki/M0n0wall
@@ -16937,6 +16948,7 @@ https://en.wikipedia.org/wiki/Promoter_(genetics)
 https://en.wikipedia.org/wiki/Prompt_engineering
 https://en.wikipedia.org/wiki/Proof_assistant
 https://en.wikipedia.org/wiki/Proof_of_knowledge
+https://en.wikipedia.org/wiki/Proof_without_words
 https://en.wikipedia.org/wiki/Proof-carrying_code
 https://en.wikipedia.org/wiki/Propaganda_Due
 https://en.wikipedia.org/wiki/Propaganda_in_China
@@ -17605,6 +17617,7 @@ https://en.wikipedia.org/wiki/Ridge_detection
 https://en.wikipedia.org/wiki/Ridge_regression
 https://en.wikipedia.org/wiki/Riemann_hypothesis
 https://en.wikipedia.org/wiki/Riemann_mapping_theorem
+https://en.wikipedia.org/wiki/Riemann_sphere
 https://en.wikipedia.org/wiki/Riemann_surface
 https://en.wikipedia.org/wiki/Riemann_zeta_function
 https://en.wikipedia.org/wiki/Riemann%27s_differential_equation
@@ -20482,6 +20495,7 @@ https://en.wikipedia.org/wiki/Vistula
 https://en.wikipedia.org/wiki/Visual_agnosia
 https://en.wikipedia.org/wiki/Visual_Basic_(.NET)
 https://en.wikipedia.org/wiki/Visual_Basic_(classic)
+https://en.wikipedia.org/wiki/Visual_calculus
 https://en.wikipedia.org/wiki/Visual_descriptor
 https://en.wikipedia.org/wiki/Visual_kei
 https://en.wikipedia.org/wiki/Visual_perception
@@ -23896,6 +23910,7 @@ https://global.oup.com/academic/product/the-globalization-of-world-politics-9780
 https://global.oup.com/academic/product/the-new-oxford-annotated-bible-with-apocrypha-9780190276072
 https://global.oup.com/academic/product/the-oxford-handbook-of-ethics-of-ai-9780190067397?cc=cr&lang=en&
 https://global.oup.com/academic/product/the-oxford-history-of-the-ancient-near-east-9780190687854?cc=cr&lang=en&
+https://global.oup.com/academic/product/visual-complex-analysis-9780192868923
 https://global.oup.com/academic/product/why-does-college-cost-so-much-9780199744503
 https://globalnews.ca/
 https://globaltaiwan.org/
@@ -25687,6 +25702,7 @@ https://library.lol/main/2C14154803980A83BA695FBC02E6124A
 https://library.lol/main/2D0EAFB02DA783F9B7CA01B96C42580B
 https://library.lol/main/2D22877FA0BBE6A86D497AE2B891CE4E
 https://library.lol/main/2DA57B70BE7A957ABB9F7364CCBCED40
+https://library.lol/main/2DE72F1874A9D534CBA49398FC424197
 https://library.lol/main/2E2D076C195F245EED60A5D3B00BE993
 https://library.lol/main/2EED8EBA42D7CC10FC6B3645BBA39108
 https://library.lol/main/2F2EC6B6A9CBBBDA3B0711AF14906FA8
@@ -27295,6 +27311,7 @@ https://maa.org/press/maa-reviews/topology-0
 https://maa.org/press/maa-reviews/understanding-robust-and-exploratory-data-analysis
 https://maa.org/press/maa-reviews/unsolved-the-history-and-mystery-of-the-worlds-greatest-ciphers-from-ancient-egypt-to-online-secret
 https://maa.org/press/maa-reviews/vector-calculus
+https://maa.org/press/maa-reviews/visual-complex-analysis
 https://maa.org/press/maa-reviews/when-least-is-best-how-mathematicians-discovered-many-clever-ways-to-make-things-as-small-or-as
 https://maa.org/press/periodicals/american-mathematical-monthly
 https://maa.org/press/periodicals/college-mathematics-journal/the-college-mathematics-journal
@@ -27735,7 +27752,10 @@ https://mirrors.edge.kernel.org/
 https://mirrors.kernel.org/
 https://mirrors.kernel.org/pub/linux/kernel/firmware/
 https://mirtitles.org/
+https://mirtitles.org/2021/09/22/complex-numbers-in-geometry-yaglom/
 https://mirtitles.org/2024/05/30/geometry-for-entertainment-yakov-perelman/
+https://mirtitles.org/2024/06/11/geometric-transformations-1-by-i-m-yaglom/
+https://mirtitles.org/2024/06/12/geometric-transformations-2-by-i-m-yaglom/
 https://mirtitles.org/tag/perelman/
 https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/
 https://mistral.ai/
@@ -33891,6 +33911,7 @@ https://www.goodreads.com/book/show/147358.Statistics
 https://www.goodreads.com/book/show/14788495-computers-as-components
 https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning
 https://www.goodreads.com/book/show/148030.Convex_Optimization
+https://www.goodreads.com/book/show/149800.Visual_Complex_Analysis
 https://www.goodreads.com/book/show/152455.Numerical_Optimization
 https://www.goodreads.com/book/show/1529053.Introduction_to_Modern_Cryptography
 https://www.goodreads.com/book/show/153908.Introduction_to_Quantum_Mechanics
