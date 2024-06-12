@@ -1824,6 +1824,7 @@ https://cel.hal.science/cel-01380149
 https://cel.hal.science/inria-00001173
 https://cel.hal.science/inria-00001174
 https://cel.hal.science/inria-00083975
+https://celestialseasonings.com/blogs/iconic-artwork/
 https://cen.acs.org/
 https://centerforcollectivelearning.org/
 https://centos.org/
@@ -6232,6 +6233,7 @@ https://en.wikipedia.org/wiki/Bidirectional_associative_memory
 https://en.wikipedia.org/wiki/Bidirectional_recurrent_neural_networks
 https://en.wikipedia.org/wiki/Bifurcation_theory
 https://en.wikipedia.org/wiki/Big_data
+https://en.wikipedia.org/wiki/Big_Dig
 https://en.wikipedia.org/wiki/Big_Four_accounting_firms
 https://en.wikipedia.org/wiki/Big_M_method
 https://en.wikipedia.org/wiki/Big_O_notation
@@ -7543,6 +7545,7 @@ https://en.wikipedia.org/wiki/Celestial_equator
 https://en.wikipedia.org/wiki/Celestial_mechanics
 https://en.wikipedia.org/wiki/Celestial_navigation
 https://en.wikipedia.org/wiki/Celestial_pole
+https://en.wikipedia.org/wiki/Celestial_Seasonings
 https://en.wikipedia.org/wiki/Celestial_sphere
 https://en.wikipedia.org/wiki/Celestial_spheres
 https://en.wikipedia.org/wiki/Cell_(processor)
@@ -10844,6 +10847,7 @@ https://en.wikipedia.org/wiki/Geometric_programming
 https://en.wikipedia.org/wiki/Geometric_topology
 https://en.wikipedia.org/wiki/Geometrical_properties_of_polynomial_roots
 https://en.wikipedia.org/wiki/Geometry_and_topology
+https://en.wikipedia.org/wiki/Geometry_of_Complex_Numbers
 https://en.wikipedia.org/wiki/Geometry_of_numbers
 https://en.wikipedia.org/wiki/Geometry_pipelines
 https://en.wikipedia.org/wiki/Geophysics
@@ -11348,6 +11352,7 @@ https://en.wikipedia.org/wiki/Hans_Hahn_(mathematician)
 https://en.wikipedia.org/wiki/Hans_Morgenthau
 https://en.wikipedia.org/wiki/Hans_Riesel
 https://en.wikipedia.org/wiki/Hans_Rosling
+https://en.wikipedia.org/wiki/Hans_Schwerdtfeger
 https://en.wikipedia.org/wiki/Hans_Sloane
 https://en.wikipedia.org/wiki/Hapax_legomenon
 https://en.wikipedia.org/wiki/HAProxy
@@ -11418,6 +11423,7 @@ https://en.wikipedia.org/wiki/Hazard_(computer_architecture)
 https://en.wikipedia.org/wiki/HD_Tach
 https://en.wikipedia.org/wiki/HEAAN
 https://en.wikipedia.org/wiki/Head-of-line_blocking
+https://en.wikipedia.org/wiki/Health_food_store
 https://en.wikipedia.org/wiki/Heap_(data_structure)
 https://en.wikipedia.org/wiki/Heap_feng_shui
 https://en.wikipedia.org/wiki/Heap_spraying
@@ -11707,6 +11713,7 @@ https://en.wikipedia.org/wiki/Hour_circle
 https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)
 https://en.wikipedia.org/wiki/House_of_Cards_(British_TV_series)
 https://en.wikipedia.org/wiki/House_of_Cards_(novel)
+https://en.wikipedia.org/wiki/House_of_the_Seven_Gables
 https://en.wikipedia.org/wiki/Household_chemicals
 https://en.wikipedia.org/wiki/How_Long_Is_the_Coast_of_Britain%3F_Statistical_Self-Similarity_and_Fractional_Dimension
 https://en.wikipedia.org/wiki/How_to_Design_Programs
@@ -14370,7 +14377,10 @@ https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_States
 https://en.wikipedia.org/wiki/Mass_surveillance_industry
 https://en.wikipedia.org/wiki/Mass_transfer
 https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
+https://en.wikipedia.org/wiki/Massachusetts
+https://en.wikipedia.org/wiki/Massachusetts_Historical_Society
 https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology
+https://en.wikipedia.org/wiki/Massachusetts_Turnpike
 https://en.wikipedia.org/wiki/Massively_parallel
 https://en.wikipedia.org/wiki/Master_boot_record
 https://en.wikipedia.org/wiki/Master_equation
@@ -14923,6 +14933,7 @@ https://en.wikipedia.org/wiki/Mordell%E2%80%93Weil_theorem
 https://en.wikipedia.org/wiki/Morris_H._DeGroot
 https://en.wikipedia.org/wiki/Morse_code
 https://en.wikipedia.org/wiki/Morse_theory
+https://en.wikipedia.org/wiki/Mortise_and_tenon
 https://en.wikipedia.org/wiki/MOS_Technology
 https://en.wikipedia.org/wiki/MOS_Technology_6502
 https://en.wikipedia.org/wiki/Mosaic_plot
@@ -17684,6 +17695,7 @@ https://en.wikipedia.org/wiki/Rock_music
 https://en.wikipedia.org/wiki/Rockchip
 https://en.wikipedia.org/wiki/Rocks_Cluster_Distribution
 https://en.wikipedia.org/wiki/Rocky_Linux
+https://en.wikipedia.org/wiki/Rocky_Mountains
 https://en.wikipedia.org/wiki/ROCm
 https://en.wikipedia.org/wiki/Rod_cell
 https://en.wikipedia.org/wiki/Rod_Serling
@@ -19432,6 +19444,7 @@ https://en.wikipedia.org/wiki/The_Book_Club_Bible
 https://en.wikipedia.org/wiki/The_Book_of_Abramelin
 https://en.wikipedia.org/wiki/The_Book_of_Five_Rings
 https://en.wikipedia.org/wiki/The_Book_of_the_Law
+https://en.wikipedia.org/wiki/The_Boston_Globe
 https://en.wikipedia.org/wiki/The_Boy_and_the_Heron
 https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf
 https://en.wikipedia.org/wiki/The_C_Programming_Language
@@ -19502,6 +19515,7 @@ https://en.wikipedia.org/wiki/The_Hidden_Ivies
 https://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
 https://en.wikipedia.org/wiki/The_Horse,_the_Wheel,_and_Language
 https://en.wikipedia.org/wiki/The_House_of_the_Rising_Sun
+https://en.wikipedia.org/wiki/The_House_of_the_Seven_Gables
 https://en.wikipedia.org/wiki/The_Hunger_(1983_film)
 https://en.wikipedia.org/wiki/The_Hunger_(Strieber_novel)
 https://en.wikipedia.org/wiki/The_Hunters_in_the_Snow
@@ -19562,6 +19576,7 @@ https://en.wikipedia.org/wiki/The_Satanic_Bible
 https://en.wikipedia.org/wiki/The_Satanic_Rituals
 https://en.wikipedia.org/wiki/The_Satanic_Scriptures
 https://en.wikipedia.org/wiki/The_Satanic_Temple
+https://en.wikipedia.org/wiki/The_Scarlet_Letter
 https://en.wikipedia.org/wiki/The_Science_of_Nature
 https://en.wikipedia.org/wiki/The_Secret_Agent
 https://en.wikipedia.org/wiki/The_Shadow_Factory
@@ -35106,6 +35121,7 @@ https://www.marxists.org/reference/subject/economics/proudhon/index.htm
 https://www.marxists.org/reference/subject/economics/proudhon/property/index.htm
 https://www.marxists.org/subject/anarchism/index.htm
 https://www.maryland.gov/Pages/default.aspx
+https://www.masshist.org/
 https://www.masteringemacs.org/
 https://www.mat.univie.ac.at/~gerald/
 https://www.mat.univie.ac.at/~gerald/ftp/book-fa/index.html
