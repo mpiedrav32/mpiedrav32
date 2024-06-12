@@ -788,6 +788,7 @@ https://armedbear.common-lisp.dev/
 https://arnon.me/wp-content/uploads/Files/fallacies.pdf
 https://arrayfire.com/
 https://arrow.apache.org/
+https://arrow.apache.org/docs/r/
 https://arstechnica.com/
 https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/
 https://arstechnica.com/culture/2023/09/the-truth-is-out-there-celebrate-30-years-of-the-x-files-with-our-30-favorite-episodes/
@@ -1954,6 +1955,7 @@ https://clickhouse.com/docs
 https://clickhouse.com/docs/en/integrations
 https://clickhouse.com/docs/en/intro
 https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference
+https://clickhouse.com/docs/knowledgebase/postgresql-to-parquet-csv-json
 https://clickhouse.com/use-cases
 https://climate.nasa.gov/
 https://climate.nasa.gov/effects/
@@ -6256,6 +6258,7 @@ https://en.wikipedia.org/wiki/Binary_pulsar
 https://en.wikipedia.org/wiki/Binary_regression
 https://en.wikipedia.org/wiki/Binary_search_algorithm
 https://en.wikipedia.org/wiki/Binary_search_tree
+https://en.wikipedia.org/wiki/Binary_space_partitioning
 https://en.wikipedia.org/wiki/Binary-to-text_encoding
 https://en.wikipedia.org/wiki/BIND
 https://en.wikipedia.org/wiki/Binomial_approximation
@@ -16177,6 +16180,7 @@ https://en.wikipedia.org/wiki/Particle_therapy
 https://en.wikipedia.org/wiki/Partition_(number_theory)
 https://en.wikipedia.org/wiki/Partition_function_(number_theory)
 https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics)
+https://en.wikipedia.org/wiki/Partition_of_a_set
 https://en.wikipedia.org/wiki/Partition_of_sums_of_squares
 https://en.wikipedia.org/wiki/Partition_problem
 https://en.wikipedia.org/wiki/Partition_refinement
@@ -17075,6 +17079,7 @@ https://en.wikipedia.org/wiki/Quadratically_constrained_quadratic_program
 https://en.wikipedia.org/wiki/Quadrature_(mathematics)
 https://en.wikipedia.org/wiki/Quadrature_amplitude_modulation
 https://en.wikipedia.org/wiki/Quadric
+https://en.wikipedia.org/wiki/Quadtree
 https://en.wikipedia.org/wiki/Qualcomm
 https://en.wikipedia.org/wiki/Qualcomm_Atheros
 https://en.wikipedia.org/wiki/Qualcomm_Hexagon
@@ -18627,6 +18632,7 @@ https://en.wikipedia.org/wiki/Soviet_involvement_in_regime_change
 https://en.wikipedia.org/wiki/Soviet_Union
 https://en.wikipedia.org/wiki/Space_(mathematics)
 https://en.wikipedia.org/wiki/Space_opera
+https://en.wikipedia.org/wiki/Space_partitioning
 https://en.wikipedia.org/wiki/Space_policy_of_the_United_States
 https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster
 https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster
@@ -21746,6 +21752,7 @@ https://github.com/abseil/abseil-cpp
 https://github.com/academic/awesome-datascience
 https://github.com/actor-framework/actor-framework
 https://github.com/AdamtayZzz/AI-security-related-paper-list
+https://github.com/adjust/parquet_fdw/
 https://github.com/adobe-fonts/source-code-pro
 https://github.com/adobe-fonts/source-sans
 https://github.com/adobe-fonts/source-serif
@@ -29523,6 +29530,7 @@ https://r-universe.dev/search/
 https://r.duckdb.org/
 https://r.geocompx.org/
 https://r4ds.hadley.nz/
+https://r4ds.hadley.nz/arrow
 https://r6.r-lib.org/
 https://rabbitholemag.com/can-a-city-lack-character/
 https://rabbitholemag.com/pride-prejudice-and-population/
@@ -29688,6 +29696,8 @@ https://restofworld.org/2023/ai-image-stereotypes/
 https://restofworld.org/series/china-outside-china/
 https://restofworld.org/series/tech-hubs/
 https://restofworld.org/series/the-rise-of-ai/
+https://retool.com/
+https://retool.com/blog/how-we-upgraded-postgresql-database
 https://retractionwatch.com/
 https://retractionwatch.com/2021/06/02/the-peer-reviewers-and-editor-wanted-to-publish-my-paper-the-legal-team-rejected-it/
 https://retractionwatch.com/category/by-journal/third-world-quarterly/
@@ -31207,6 +31217,8 @@ https://twisted.org/
 https://twit.tv/
 https://twit.tv/shows/security-now
 https://twitter.com/Magnolia1234B
+https://twobithistory.org/
+https://twobithistory.org/2019/11/06/doom-bsp.html
 https://twostopbits.com/
 https://twostopbits.com/news
 https://typeclasses.com/phrasebook
@@ -32752,6 +32764,7 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 https://www.crunchbangplusplus.org/
 https://www.crunchydata.com/
 https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures
+https://www.crunchydata.com/blog/parquet-and-postgres-in-the-data-lake
 https://www.crypto-dictionary.com/
 https://www.crypto-it.net/eng/
 https://www.crypto-it.net/eng/attacks/chosen-plaintext.html
@@ -36137,6 +36150,7 @@ https://www.plflib.org/
 https://www.plough.com/en
 https://www.plough.com/en/topics/life/technology/the-beauty-of-chalk
 https://www.plsqltutorial.com/
+https://www.pmassicotte.com/posts/2024-05-01-query-s3-duckplyr/
 https://www.pmp-library.org/
 https://www.pnas.org/
 https://www.pnas.org/doi/10.1073/pnas.1410931111
