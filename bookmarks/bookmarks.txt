@@ -1956,6 +1956,7 @@ https://clickhouse.com/clickhouse/keeper
 https://clickhouse.com/cloud
 https://clickhouse.com/cloud/clickpipes
 https://clickhouse.com/docs
+https://clickhouse.com/docs/en/getting-started/example-datasets/nyc-taxi
 https://clickhouse.com/docs/en/integrations
 https://clickhouse.com/docs/en/intro
 https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference
@@ -3531,6 +3532,7 @@ https://dl.acm.org/doi/10.1145/1466443.1466448
 https://dl.acm.org/doi/10.1145/1527017.1527028
 https://dl.acm.org/doi/10.1145/155360.155580
 https://dl.acm.org/doi/10.1145/1562164.1562186
+https://dl.acm.org/doi/10.1145/15922.15902
 https://dl.acm.org/doi/10.1145/1666420.1666444
 https://dl.acm.org/doi/10.1145/1734663.1734671
 https://dl.acm.org/doi/10.1145/175247.175255
@@ -5159,6 +5161,7 @@ https://en.wikipedia.org/wiki/Affinity_propagation
 https://en.wikipedia.org/wiki/Affix_grammar
 https://en.wikipedia.org/wiki/AForge.NET
 https://en.wikipedia.org/wiki/After_Forever
+https://en.wikipedia.org/wiki/After_Hours_(film)
 https://en.wikipedia.org/wiki/Against_the_Day
 https://en.wikipedia.org/wiki/Agamemnon
 https://en.wikipedia.org/wiki/Agda_(programming_language)
@@ -5918,6 +5921,7 @@ https://en.wikipedia.org/wiki/AutoAI
 https://en.wikipedia.org/wiki/Autocatalysis
 https://en.wikipedia.org/wiki/Autocode
 https://en.wikipedia.org/wiki/Autocorrelation
+https://en.wikipedia.org/wiki/Autocovariance
 https://en.wikipedia.org/wiki/Autoencoder
 https://en.wikipedia.org/wiki/AutoLISP
 https://en.wikipedia.org/wiki/Automata_theory
@@ -6338,6 +6342,7 @@ https://en.wikipedia.org/wiki/BlackArch
 https://en.wikipedia.org/wiki/BlackBerry
 https://en.wikipedia.org/wiki/Blackcurrant
 https://en.wikipedia.org/wiki/Blackfin
+https://en.wikipedia.org/wiki/Blackman%E2%80%93Tukey_transformation
 https://en.wikipedia.org/wiki/Blade_server
 https://en.wikipedia.org/wiki/Blaise_Pascal
 https://en.wikipedia.org/wiki/BLAKE_(hash_function)
@@ -7470,6 +7475,7 @@ https://en.wikipedia.org/wiki/Category:Theory_of_probability_distributions
 https://en.wikipedia.org/wiki/Category:Therion_(band)_albums
 https://en.wikipedia.org/wiki/Category:Thermodynamic_properties
 https://en.wikipedia.org/wiki/Category:Thermodynamics
+https://en.wikipedia.org/wiki/Category:Time_domain_analysis
 https://en.wikipedia.org/wiki/Category:Time_series
 https://en.wikipedia.org/wiki/Category:Time_series_models
 https://en.wikipedia.org/wiki/Category:Topological_dynamics
@@ -8495,6 +8501,7 @@ https://en.wikipedia.org/wiki/Convex_set
 https://en.wikipedia.org/wiki/Convexity_in_economics
 https://en.wikipedia.org/wiki/Convolution
 https://en.wikipedia.org/wiki/Convolution_quotient
+https://en.wikipedia.org/wiki/Convolution_theorem
 https://en.wikipedia.org/wiki/Convolutional_code
 https://en.wikipedia.org/wiki/Convolutional_neural_network
 https://en.wikipedia.org/wiki/Cook%E2%80%93Levin_theorem
@@ -8623,6 +8630,7 @@ https://en.wikipedia.org/wiki/Crore
 https://en.wikipedia.org/wiki/Croscore_fonts
 https://en.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining
 https://en.wikipedia.org/wiki/Cross-correlation
+https://en.wikipedia.org/wiki/Cross-covariance
 https://en.wikipedia.org/wiki/Cross-entropy
 https://en.wikipedia.org/wiki/Cross-entropy_method
 https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
@@ -9310,6 +9318,7 @@ https://en.wikipedia.org/wiki/Discrete_Analysis
 https://en.wikipedia.org/wiki/Discrete_calculus
 https://en.wikipedia.org/wiki/Discrete_cosine_transform
 https://en.wikipedia.org/wiki/Discrete_Fourier_transform
+https://en.wikipedia.org/wiki/Discrete_Fourier_transform_over_a_ring
 https://en.wikipedia.org/wiki/Discrete_Laplace_operator
 https://en.wikipedia.org/wiki/Discrete_logarithm
 https://en.wikipedia.org/wiki/Discrete_Mathematics_%26_Theoretical_Computer_Science
@@ -10465,9 +10474,11 @@ https://en.wikipedia.org/wiki/Foundations_of_statistics
 https://en.wikipedia.org/wiki/Founders_of_statistics
 https://en.wikipedia.org/wiki/Four-phase_logic
 https://en.wikipedia.org/wiki/Fourier_analysis
+https://en.wikipedia.org/wiki/Fourier_inversion_theorem
 https://en.wikipedia.org/wiki/Fourier_series
 https://en.wikipedia.org/wiki/Fourier_sine_and_cosine_series
 https://en.wikipedia.org/wiki/Fourier_transform
+https://en.wikipedia.org/wiki/Fourier_transform_on_finite_groups
 https://en.wikipedia.org/wiki/Fourier%E2%80%93Motzkin_elimination
 https://en.wikipedia.org/wiki/Fourth,_fifth,_and_sixth_derivatives_of_position
 https://en.wikipedia.org/wiki/Fox_H-function
@@ -14415,6 +14426,7 @@ https://en.wikipedia.org/wiki/Mathematical_Association_of_America
 https://en.wikipedia.org/wiki/Mathematical_chess_problem
 https://en.wikipedia.org/wiki/Mathematical_economics
 https://en.wikipedia.org/wiki/Mathematical_folklore
+https://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics
 https://en.wikipedia.org/wiki/Mathematical_Foundations_of_Quantum_Mechanics
 https://en.wikipedia.org/wiki/Mathematical_logic
 https://en.wikipedia.org/wiki/Mathematical_Methods_in_the_Physical_Sciences
@@ -16568,7 +16580,9 @@ https://en.wikipedia.org/wiki/Pointer_machine
 https://en.wikipedia.org/wiki/Poisson_distribution
 https://en.wikipedia.org/wiki/Poisson_point_process
 https://en.wikipedia.org/wiki/Poisson_regression
+https://en.wikipedia.org/wiki/Poisson_summation_formula
 https://en.wikipedia.org/wiki/Poland
+https://en.wikipedia.org/wiki/Polar_coordinate_system
 https://en.wikipedia.org/wiki/Polar_decomposition
 https://en.wikipedia.org/wiki/Polarization_(waves)
 https://en.wikipedia.org/wiki/Polarizer
@@ -17227,6 +17241,7 @@ https://en.wikipedia.org/wiki/Radioactive_decay
 https://en.wikipedia.org/wiki/Radiological_warfare
 https://en.wikipedia.org/wiki/Radiosity_(computer_graphics)
 https://en.wikipedia.org/wiki/RADIUS
+https://en.wikipedia.org/wiki/Radius_of_convergence
 https://en.wikipedia.org/wiki/Radix_sort
 https://en.wikipedia.org/wiki/Radon_transform
 https://en.wikipedia.org/wiki/Raetia
@@ -18889,6 +18904,7 @@ https://en.wikipedia.org/wiki/State_space_planning
 https://en.wikipedia.org/wiki/State_space_search
 https://en.wikipedia.org/wiki/State_University_of_New_York
 https://en.wikipedia.org/wiki/State-owned_enterprises_of_the_United_States
+https://en.wikipedia.org/wiki/State-space_representation
 https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action
 https://en.wikipedia.org/wiki/Stateless_society
 https://en.wikipedia.org/wiki/Static_program_analysis
@@ -20716,6 +20732,7 @@ https://en.wikipedia.org/wiki/Widget_toolkit
 https://en.wikipedia.org/wiki/Wiener_filter
 https://en.wikipedia.org/wiki/Wiener_process
 https://en.wikipedia.org/wiki/Wiener_series
+https://en.wikipedia.org/wiki/Wiener%E2%80%93Khinchin_theorem
 https://en.wikipedia.org/wiki/Wii
 https://en.wikipedia.org/wiki/Wii_U
 https://en.wikipedia.org/wiki/Wiki.js
@@ -26060,6 +26077,7 @@ https://link.springer.com/article/10.1007/s00024-022-03137-2
 https://link.springer.com/article/10.1007/s00026-005-0261-7
 https://link.springer.com/article/10.1007/s000370050019
 https://link.springer.com/article/10.1007/s00894-021-04674-8
+https://link.springer.com/article/10.1007/s10040-018-1870-7
 https://link.springer.com/article/10.1007/s10115-007-0114-2
 https://link.springer.com/article/10.1007/s10441-005-2531-5
 https://link.springer.com/article/10.1007/s10462-018-9646-y
@@ -26584,6 +26602,7 @@ https://link.springer.com/book/10.1007/978-3-0348-0499-8
 https://link.springer.com/book/10.1007/978-3-0348-0898-9
 https://link.springer.com/book/10.1007/978-3-0348-8057-2
 https://link.springer.com/book/10.1007/978-3-0348-8631-4
+https://link.springer.com/book/10.1007/978-3-319-00440-2
 https://link.springer.com/book/10.1007/978-3-319-01577-4
 https://link.springer.com/book/10.1007/978-3-319-02099-0
 https://link.springer.com/book/10.1007/978-3-319-02368-7
@@ -26971,6 +26990,7 @@ https://link.springer.com/conference/crypto
 https://link.springer.com/conference/spw
 https://link.springer.com/conference/uc
 https://link.springer.com/content/pdf/10.1007/BF02252870.pdf
+https://link.springer.com/journal/10040
 https://link.springer.com/journal/10115
 https://link.springer.com/journal/10208
 https://link.springer.com/journal/10472
@@ -30562,6 +30582,7 @@ https://stacks.tidymodels.org/
 https://staff.fnwi.uva.nl/p.vanemdeboas/
 https://stallman.org/index.html
 https://stallman.org/stallman-computing.html
+https://stamen.com/designing-the-avocado-of-uncertainty/
 https://stan-dev.r-universe.dev/packages
 https://standardebooks.org/
 https://standardebooks.org/collections
@@ -31152,6 +31173,7 @@ https://toc.csail.mit.edu/cis
 https://tockos.org/
 https://today.oregonstate.edu/archives/2016/may/massive-online-database-lays-foundation-mathematics-21st-century
 https://toddwschneider.com/dashboards/nyc-taxi-uber-lyft-fare-and-driver-pay-comparison/
+https://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/
 https://togaware.com/
 https://tokio.rs/
 https://tomcat.apache.org/
@@ -31236,6 +31258,7 @@ https://tutorial.math.lamar.edu/classes/de/DiracDeltaFunction.aspx
 https://tutorial.math.lamar.edu/classes/de/laplace_table.aspx
 https://tutorial.math.lamar.edu/classes/de/StepFunctions.aspx
 https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx
+https://tutorial.math.lamar.edu/pdf/laplace_table.pdf
 https://tuxurls.com/
 https://tv.cctv.com/
 https://tv.cctv.com/cctv1/
@@ -31463,6 +31486,7 @@ https://web.mst.edu/~gosavia/queuing_formulas.pdf
 https://web.obarun.org/
 https://web.stanford.edu/~boyd/
 https://web.stanford.edu/~boyd/cvxbook/
+https://web.stanford.edu/~boyd/ee102/laplace-table.pdf
 https://web.stanford.edu/~boyd/vmls/
 https://web.stanford.edu/~jurafsky/
 https://web.stanford.edu/~jurafsky/slp3/
@@ -32099,6 +32123,7 @@ https://www.bibtex.com/s/bibliography-style-misc-apa/
 https://www.bicc.de/
 https://www.bigbookofr.com/
 https://www.bing.com/
+https://www.binghamton.edu/news/story/1369/easter-island-inhabitants-collected-freshwater-from-the-oceans-edge-in-orde
 https://www.bioconductor.org/
 https://www.biodigitaljazz.net/blog/littlebraincell.html
 https://www.bioinformaticsalgorithms.org/
