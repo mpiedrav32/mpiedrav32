@@ -1232,6 +1232,7 @@ https://aws.amazon.com/blogs/opensource/
 https://aws.amazon.com/blogs/opensource/introducing-opensearch/
 https://aws.amazon.com/cli/
 https://aws.amazon.com/cloudfront/
+https://aws.amazon.com/compare/the-difference-between-a-data-warehouse-data-lake-and-data-mart/
 https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/
 https://aws.amazon.com/data-exchange/
 https://aws.amazon.com/documentdb/
@@ -1256,6 +1257,8 @@ https://aws.amazon.com/redshift/
 https://aws.amazon.com/s3/
 https://aws.amazon.com/sagemaker/
 https://aws.amazon.com/simpledb/
+https://aws.amazon.com/what-is/data-analytics/
+https://aws.amazon.com/what-is/data-lake/
 https://aws.amazon.com/what-is/olap/
 https://aws.github.io/s2n-tls/usage-guide/
 https://axios-http.com/
@@ -1265,6 +1268,7 @@ https://azeria-labs.com/writing-arm-assembly-part-1/
 https://azeria-labs.com/writing-arm-shellcode/
 https://azure.microsoft.com/en-us/
 https://azure.microsoft.com/en-us/products/active-directory/
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-data-lake
 https://b-nova.com/en/home/content/stateless-sessions-thanks-to-json-web-tokens
 https://b.agaric.net/page/agave
 https://babel.dev/
@@ -1484,6 +1488,7 @@ https://blog.opensyllabus.org/galaxy-v2
 https://blog.otoro.net/
 https://blog.oup.com/
 https://blog.oup.com/2014/11/oxford-worlds-classics-rome-reading-list/
+https://blog.paradedb.com/pages/introducing_lakehouse
 https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges/
 https://blog.plotly.com/
 https://blog.qualys.com/
@@ -3239,6 +3244,7 @@ https://defuse.ca/race-conditions-in-web-applications.htm
 https://degruyterbrill.com/en/
 https://dejavu-fonts.github.io/
 https://delfino.cr/
+https://delta.io/
 https://deluge-torrent.org/
 https://demo.yubico.com/
 https://demonstrations.wolfram.com/
@@ -23063,6 +23069,7 @@ https://github.com/papers-we-love/papers-we-love/tree/main/cryptography
 https://github.com/paperswithcode
 https://github.com/paperswithcode/axcell
 https://github.com/paperswithcode/sota-extractor
+https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse
 https://github.com/paragonie/awesome-appsec
 https://github.com/passbolt/passbolt_api
 https://github.com/passwordless-lib/fido2-net-lib
@@ -32608,6 +32615,7 @@ https://www.chronicle.com/
 https://www.cicero.de/
 https://www.cidr-report.org/as2.0/
 https://www.cidrdb.org/
+https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf
 https://www.cimpa.info/
 https://www.cimpa.info/en
 https://www.cip-project.org/
@@ -34938,6 +34946,7 @@ https://www.linux.com/
 https://www.linux.org/
 https://www.linuxformat.com/
 https://www.linuxfoundation.org/
+https://www.linuxfoundation.org/blog/delta-lake-2.0-an-innovative-open-storage-format?hs_amp=true
 https://www.linuxfoundation.org/projects
 https://www.linuxfoundation.org/tools/census-ii-of-free-and-open-source-software-application-libraries/
 https://www.linuxfromscratch.org/
@@ -37469,6 +37478,7 @@ https://www.statmethods.net/interface/customizing.html
 https://www.statmt.org/
 https://www.statnews.com/
 https://www.statology.org/differences-between-anova-ancova-manova-mancova/
+https://www.statology.org/multiple-linear-regression-r/
 https://www.stats.govt.nz/
 https://www.stats.ox.ac.uk/
 https://www.stats.ox.ac.uk/~ripley/
