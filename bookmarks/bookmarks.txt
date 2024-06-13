@@ -4555,6 +4555,7 @@ https://dragonegg.llvm.org/
 https://dragora.org/en/index.html
 https://drand.love/
 https://drand.love/docs/timelock-encryption/
+https://drawingmachines.org/
 https://drb.ie/
 https://drenigma.org/
 https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html
@@ -6617,6 +6618,7 @@ https://en.wikipedia.org/wiki/Burgrecht
 https://en.wikipedia.org/wiki/Burgundians
 https://en.wikipedia.org/wiki/Burlington,_Vermont
 https://en.wikipedia.org/wiki/Burning_Chrome
+https://en.wikipedia.org/wiki/Burning_Chrome_(short_story_collection)
 https://en.wikipedia.org/wiki/Burroughs_Large_Systems
 https://en.wikipedia.org/wiki/Burrows%E2%80%93Abadi%E2%80%93Needham_logic
 https://en.wikipedia.org/wiki/Bus_(computing)
@@ -14944,6 +14946,8 @@ https://en.wikipedia.org/wiki/Mondo_2000
 https://en.wikipedia.org/wiki/Mondrian_OLAP_server
 https://en.wikipedia.org/wiki/Monetary_policy
 https://en.wikipedia.org/wiki/MonetDB
+https://en.wikipedia.org/wiki/Moneyball
+https://en.wikipedia.org/wiki/Moneyball_(film)
 https://en.wikipedia.org/wiki/MongoDB
 https://en.wikipedia.org/wiki/Mongoose-V
 https://en.wikipedia.org/wiki/Moni_Naor
@@ -28961,6 +28965,8 @@ https://petitcolas.net/kerckhoffs/index.html
 https://petitcolas.net/steganography/index.html
 https://petolau.github.io/
 https://petsc.org/release/
+https://pganalyze.com/
+https://pganalyze.com/blog/5mins-postgres-17-streaming-io
 https://pgfplots.net/
 https://pgfplots.sourceforge.net/
 https://pgmpy.org/
@@ -30483,6 +30489,7 @@ https://spectrum.ieee.org/detect-solar-flares-and-gamma-ray-bursts-for-less-than
 https://spectrum.ieee.org/diy-ocxo-quartz-clock
 https://spectrum.ieee.org/does-repurposing-of-sun-microsystems-slogan-honor-history
 https://spectrum.ieee.org/ethernet-ieee-milestone
+https://spectrum.ieee.org/euv-fel
 https://spectrum.ieee.org/five-enduring-government-it-failures
 https://spectrum.ieee.org/from-winzips-to-cat-gifs-jacob-zivs-algorithms-have-powered-decades-of-compression
 https://spectrum.ieee.org/global-robotic-brain
@@ -34497,6 +34504,7 @@ https://www.imdb.com/title/tt0142688/
 https://www.imdb.com/title/tt0360486/
 https://www.imdb.com/title/tt0443706/
 https://www.imdb.com/title/tt1139328/
+https://www.imdb.com/title/tt1210166/
 https://www.imdb.com/title/tt1305806/
 https://www.imdb.com/title/tt1375666/
 https://www.imdb.com/title/tt15398776/
@@ -36334,7 +36342,9 @@ https://www.projekt-gutenberg.org/autoren/namen/schwab.html
 https://www.prolog-heritage.org/en/Prolog_50.html
 https://www.proofpoint.com/us
 https://www.proofpoint.com/us/products/email-protection/open-source-email-solution
+https://www.propublica.org/
 https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users
+https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers
 https://www.prowlapp.com/
 https://www.proxmox.com/en/
 https://www.proxyaddress.org/
