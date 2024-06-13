@@ -298,6 +298,7 @@ https://123apps.com/
 https://12factor.net/
 https://12ft.io/
 https://15445.courses.cs.cmu.edu/spring2024/
+https://15721.courses.cs.cmu.edu/spring2020/papers/20-optimizer2/p539-moerkotte.pdf
 https://15721.courses.cs.cmu.edu/spring2024/
 https://16years.secvuln.info/
 https://1password.com/
@@ -1701,6 +1702,7 @@ https://bsd.lv/
 https://bsdly.net/~peter/
 https://bsky.app/
 https://bsonspec.org/
+https://btw-2015.informatik.uni-hamburg.de/res/proceedings/Hauptband/Wiss/Neumann-Unnesting_Arbitrary_Querie.pdf
 https://bughunters.google.com/
 https://bughunters.google.com/blog
 https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography
@@ -2943,7 +2945,10 @@ https://db-engines.com/en/system/Microsoft+SQL+Server%3BSQLite
 https://db-engines.com/en/system/Vespa
 https://db.cs.cmu.edu/
 https://db.cs.cmu.edu/courses/
+https://db.cs.cmu.edu/peloton/
 https://db.cs.cmu.edu/projects/
+https://db.in.tum.de/~leis/papers/ART.pdf
+https://db.in.tum.de/~muehlbau/papers/mvcc.pdf
 https://dbatools.io/
 https://dbdb.io/
 https://dbdb.io/browse?data-model=graph
@@ -3752,6 +3757,7 @@ https://dl.acm.org/doi/book/10.1145/3588287
 https://dl.acm.org/doi/book/10.1145/87252
 https://dl.acm.org/doi/book/10.5555/888899
 https://dl.acm.org/doi/pdf/10.1145/3386334
+https://dl.acm.org/doi/pdf/10.1145/3626717
 https://dl.acm.org/doi/pdf/10.1145/800025.1198417
 https://dl.acm.org/doi/proceedings/10.1145/291080
 https://dl.acm.org/doi/proceedings/10.1145/3476446
@@ -4583,7 +4589,16 @@ https://dtplyr.tidyverse.org/
 https://duckdb.org/
 https://duckdb.org/2021/06/25/querying-parquet
 https://duckdb.org/2024/05/31/analyzing-railway-traffic-in-the-netherlands.html
+https://duckdb.org/docs/data/parquet/overview.html
+https://duckdb.org/docs/extensions/aws
+https://duckdb.org/docs/extensions/excel
+https://duckdb.org/docs/extensions/full_text_search
 https://duckdb.org/docs/extensions/httpfs/https
+https://duckdb.org/docs/extensions/httpfs/overview
+https://duckdb.org/docs/extensions/inet
+https://duckdb.org/docs/extensions/json
+https://duckdb.org/docs/extensions/official_extensions
+https://duckdb.org/docs/extensions/postgres
 https://duckdb.org/docs/guides/file_formats/query_parquet
 https://duckdb.org/docs/guides/overview
 https://duckdb.org/docs/sql/aggregates
@@ -24525,6 +24540,7 @@ https://icanhazip.com/
 https://iccl.inf.tu-dresden.de/web/International_Center_for_Computational_Logic
 https://iccv2023.thecvf.com/
 https://ice-wm.org/
+https://iceberg.apache.org/
 https://icebergcharts.com/
 https://icebergcharts.com/i/Ultimate_Mathematics
 https://iciam.org/
@@ -30855,6 +30871,7 @@ https://submarine-cable-map-2023.telegeography.com/
 https://subspace.kernel.org/lists.linux.dev.html
 https://subspace.kernel.org/vger.kernel.org.html
 https://substanced.net/
+https://substrait.io/
 https://subversion.apache.org/
 https://suckless.org/
 https://suckless.org/sucks/
@@ -31436,6 +31453,8 @@ https://visualstudiomagazine.com/articles/2022/05/02/naive-bayes-classification-
 https://vivaldi.com/
 https://vladris.com/blog/2019/04/28/programming-with-types.html
 https://vlang.io/
+https://vldb.org/pvldb/vol15/p3058-liakos.pdf
+https://vldb.org/pvldb/vol8/p2074-khayyat.pdf
 https://voidlinux.org/
 https://voidvision.bandcamp.com/music
 https://vonzurgathen.online/modern-computer-algebra/
@@ -32615,6 +32634,7 @@ https://www.chronicle.com/
 https://www.cicero.de/
 https://www.cidr-report.org/as2.0/
 https://www.cidrdb.org/
+https://www.cidrdb.org/cidr2005/papers/P19.pdf
 https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf
 https://www.cimpa.info/
 https://www.cimpa.info/en
@@ -37937,6 +37957,7 @@ https://www.torproject.org/
 https://www.tortoisemedia.com/
 https://www.toureiffel.paris/en/the-monument/eiffel-tower-and-science
 https://www.tpc.org/
+https://www.tpc.org/tpcds/
 https://www.trackawesomelist.com/
 https://www.trackawesomelist.com/rust-unofficial/awesome-rust/
 https://www.trailofbits.com/
@@ -38122,6 +38143,7 @@ https://www.visualcapitalist.com/top-10-semiconductor-companies-by-market-share/
 https://www.visualcapitalist.com/worlds-biggest-cloud-computing-service-providers/
 https://www.visualcinnamon.com/2013/07/on-creation-of-extended-self-organizing/
 https://www.vldb.org/pvldb/vol17/p148-zeng.pdf
+https://www.vldb.org/pvldb/vol8/p1058-leis.pdf
 https://www.vmware.com/
 https://www.voanews.com/
 https://www.vogons.org/
