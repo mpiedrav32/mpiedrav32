@@ -1429,6 +1429,7 @@ https://blog.codeberg.org/
 https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/
 https://blog.computationalcomplexity.org/?m=1
 https://blog.cr.yp.to/
+https://blog.cr.yp.to/20240612-bibkeys.html
 https://blog.cr.yp.to/index.html
 https://blog.cryptographyengineering.com/
 https://blog.cryptographyengineering.com/2013/09/06/on-nsa/
@@ -14235,6 +14236,7 @@ https://en.wikipedia.org/wiki/Mac_(computer)
 https://en.wikipedia.org/wiki/Macaulay_brackets
 https://en.wikipedia.org/wiki/Macaulay2
 https://en.wikipedia.org/wiki/MacCormack_method
+https://en.wikipedia.org/wiki/MACH_Alliance
 https://en.wikipedia.org/wiki/Mach_number
 https://en.wikipedia.org/wiki/Machine_code
 https://en.wikipedia.org/wiki/Machine_ethics
@@ -20821,6 +20823,7 @@ https://en.wikipedia.org/wiki/Winsorizing
 https://en.wikipedia.org/wiki/WION
 https://en.wikipedia.org/wiki/Wired_(magazine)
 https://en.wikipedia.org/wiki/Wired_UK
+https://en.wikipedia.org/wiki/WiredTiger
 https://en.wikipedia.org/wiki/WireGuard
 https://en.wikipedia.org/wiki/Wireless_ad_hoc_network
 https://en.wikipedia.org/wiki/Wireless_distribution_system
@@ -22882,6 +22885,7 @@ https://github.com/modularml/mojo
 https://github.com/moinwiki/moin
 https://github.com/molecularsets/moses
 https://github.com/MonetDB/MonetDB
+https://github.com/mongodb/mongo
 https://github.com/mono/mono
 https://github.com/moov-io/iso8583
 https://github.com/Morwenn/cpp-sort
@@ -23783,6 +23787,7 @@ https://github.com/wenhuchen/Table-Fact-Checking
 https://github.com/westes/flex
 https://github.com/wildfly/wildfly
 https://github.com/Windscribe
+https://github.com/wiredtiger/wiredtiger
 https://github.com/WireGuard
 https://github.com/WireGuard/wireguard-go
 https://github.com/WireGuard/wireguard-linux
@@ -27388,6 +27393,7 @@ https://maa.org/sites/default/files/pdf/pubs/focus/Gardner_PublicKeyCrypto8-1977
 https://maa.org/tags/computational-number-theory
 https://maa.tandfonline.com/journals/uamm20
 https://macaulay2.com/
+https://machalliance.org/
 https://machinelearning.wtf/
 https://machinelearningmastery.com/blog/
 https://maciejczyzewski.github.io/retter/
@@ -35505,6 +35511,7 @@ https://www.monde-diplomatique.fr/diplo/int/
 https://www.monetdb.org/
 https://www.monetdbsolutions.com/
 https://www.mongodb.com/
+https://www.mongodb.com/docs/manual/
 https://www.mongodbtutorial.org/
 https://www.mono-project.com/
 https://www.morganclaypool.com/page/synthesis
