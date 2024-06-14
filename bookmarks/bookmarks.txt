@@ -5340,6 +5340,7 @@ https://en.wikipedia.org/wiki/Alignments_of_random_points
 https://en.wikipedia.org/wiki/Alison_Harcourt
 https://en.wikipedia.org/wiki/Alistair_Sinclair
 https://en.wikipedia.org/wiki/Alkalinity
+https://en.wikipedia.org/wiki/Alkaloid
 https://en.wikipedia.org/wiki/All_models_are_wrong
 https://en.wikipedia.org/wiki/All_the_world%27s_a_stage
 https://en.wikipedia.org/wiki/All_work_and_no_play_makes_Jack_a_dull_boy
@@ -5773,6 +5774,7 @@ https://en.wikipedia.org/wiki/Array_slicing
 https://en.wikipedia.org/wiki/ArrayFire
 https://en.wikipedia.org/wiki/Arrhenius_equation
 https://en.wikipedia.org/wiki/Arrival_(film)
+https://en.wikipedia.org/wiki/Arrow_poison
 https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem
 https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu_model
 https://en.wikipedia.org/wiki/Ars_Conjectandi
@@ -8735,6 +8737,7 @@ https://en.wikipedia.org/wiki/Cumulative_distribution_function
 https://en.wikipedia.org/wiki/Cuneiform
 https://en.wikipedia.org/wiki/CuPy
 https://en.wikipedia.org/wiki/CUR_matrix_approximation
+https://en.wikipedia.org/wiki/Curare
 https://en.wikipedia.org/wiki/CURE_algorithm
 https://en.wikipedia.org/wiki/Curie_family
 https://en.wikipedia.org/wiki/Curiosity_Stream
@@ -19099,6 +19102,7 @@ https://en.wikipedia.org/wiki/Structured_program_theorem
 https://en.wikipedia.org/wiki/Structured_programming
 https://en.wikipedia.org/wiki/Structured_sparsity_regularization
 https://en.wikipedia.org/wiki/Structured_support_vector_machine
+https://en.wikipedia.org/wiki/Strychnine
 https://en.wikipedia.org/wiki/STU-I
 https://en.wikipedia.org/wiki/STU-II
 https://en.wikipedia.org/wiki/STU-III
@@ -36196,6 +36200,7 @@ https://www.petefreitag.com/blog/dns-over-https/
 https://www.pewresearch.org/
 https://www.pewresearch.org/global/2020/07/20/the-global-god-divide/
 https://www.pewresearch.org/global/2022/05/25/what-do-americans-know-about-international-affairs/
+https://www.pewresearch.org/journalism/2024/06/12/how-americans-get-news-on-tiktok-x-facebook-and-instagram/
 https://www.pewresearch.org/politics/2021/11/09/beyond-red-vs-blue-the-political-typology-2/
 https://www.pewresearch.org/race-ethnicity/2023/09/20/latinos-views-of-and-experiences-with-the-spanish-language/
 https://www.pewresearch.org/short-reads/2022/12/22/far-more-americans-see-u-s-influence-on-the-world-stage-getting-weaker-than-stronger/
