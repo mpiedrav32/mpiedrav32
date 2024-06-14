@@ -376,6 +376,7 @@ https://academic.oup.com/cybersecurity/article/6/1/tyaa011/5920841
 https://academic.oup.com/edited-volume/34324
 https://academic.oup.com/genetics
 https://academic.oup.com/ia
+https://academic.oup.com/illinois-scholarship-online/book/22654/chapter-abstract/183032456
 https://academic.oup.com/jrsssa/issue/111/3
 https://academiccommons.columbia.edu/
 https://academiccommons.columbia.edu/doi/10.7916/D8V711TR
@@ -11792,6 +11793,7 @@ https://en.wikipedia.org/wiki/Hugging_Face
 https://en.wikipedia.org/wiki/Hugh_Lowell_Montgomery
 https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel
 https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Series
+https://en.wikipedia.org/wiki/Hugo_Gernsback
 https://en.wikipedia.org/wiki/Hugo_Steinhaus
 https://en.wikipedia.org/wiki/Human_behavior
 https://en.wikipedia.org/wiki/Human_condition
@@ -12709,6 +12711,7 @@ https://en.wikipedia.org/wiki/John_Tyndall
 https://en.wikipedia.org/wiki/John_von_Neumann
 https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh
 https://en.wikipedia.org/wiki/John_Wycliffe
+https://en.wikipedia.org/wiki/Johnny_Mnemonic
 https://en.wikipedia.org/wiki/Johns_Hopkins_University
 https://en.wikipedia.org/wiki/Johnson%E2%80%93Nyquist_noise
 https://en.wikipedia.org/wiki/Join_(SQL)
@@ -14938,6 +14941,7 @@ https://en.wikipedia.org/wiki/Molecular_physics
 https://en.wikipedia.org/wiki/Molecular_Query_Language
 https://en.wikipedia.org/wiki/Molecule_mining
 https://en.wikipedia.org/wiki/Mollifier
+https://en.wikipedia.org/wiki/Molly_Millions
 https://en.wikipedia.org/wiki/Molten-salt_battery
 https://en.wikipedia.org/wiki/Moment_(mathematics)
 https://en.wikipedia.org/wiki/Moment_(physics)
@@ -17868,6 +17872,7 @@ https://en.wikipedia.org/wiki/Rudolf_Clausius
 https://en.wikipedia.org/wiki/Rudolf_E._K%C3%A1lm%C3%A1n
 https://en.wikipedia.org/wiki/Rudolf_Lipschitz
 https://en.wikipedia.org/wiki/Rudra
+https://en.wikipedia.org/wiki/Rudy_Rucker
 https://en.wikipedia.org/wiki/Ruffini%27s_rule
 https://en.wikipedia.org/wiki/Rufus_Bowen
 https://en.wikipedia.org/wiki/Rugg/Feldman_benchmarks
@@ -20621,6 +20626,7 @@ https://en.wikipedia.org/wiki/War_of_the_Sixth_Coalition
 https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession
 https://en.wikipedia.org/wiki/Warcraft
 https://en.wikipedia.org/wiki/Ward_Churchill
+https://en.wikipedia.org/wiki/Ware_Tetralogy
 https://en.wikipedia.org/wiki/Wargame
 https://en.wikipedia.org/wiki/Waring%27s_problem
 https://en.wikipedia.org/wiki/Waring%E2%80%93Goldbach_problem
@@ -21151,6 +21157,7 @@ https://endsoftwarepatents.org/
 https://energy.acm.org/
 https://energyeducation.ca/encyclopedia/Main_Page
 https://eng.vt.edu/magazine/stories/spring-2020/the-new-cryptographers.html
+https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/
 https://engineering.jhu.edu/ams/
 https://engineering.mit.edu/
 https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/
@@ -31691,6 +31698,7 @@ https://wikileaks.org/
 https://wikimediafoundation.org/
 https://wilkelab.org/ggridges/
 https://williamghunter.net/statisticsforexperimenters/
+https://williamgibsonbooks.com/
 https://wilsonminesco.com/6502primer/65tutor_intro.html
 https://win-vector.com/
 https://win-vector.com/2014/06/02/how-does-practical-data-science-with-r-stand-out/
@@ -33660,6 +33668,7 @@ https://www.forth.com/forth/
 https://www.forth.com/starting-forth/
 https://www.foundationdb.org/
 https://www.fox-it.com/
+https://www.fr.de/
 https://www.france.tv/
 https://www.france24.com/en/
 https://www.france24.com/en/business/20230822-size-population-gdp-the-brics-nations-in-numbers
@@ -34775,6 +34784,7 @@ https://www.jstatsoft.org/index
 https://www.jstor.org/
 https://www.jstor.org/journal/annamathstat
 https://www.jstor.org/stable/1910129?origin=crossref
+https://www.jstor.org/stable/20057995
 https://www.jstor.org/stable/2031658
 https://www.jstor.org/stable/2155934
 https://www.jstor.org/stable/2280232
@@ -35918,6 +35928,7 @@ https://www.nytimes.com/
 https://www.nytimes.com/2008/11/23/magazine/23Netflix-t.html
 https://www.nytimes.com/2008/12/28/business/28digi.html
 https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html
+https://www.nytimes.com/2020/01/09/books/review/william-gibson-by-the-book-interview.html
 https://www.nytimes.com/2022/04/28/world/australia/democracy-elections.html
 https://www.nytimes.com/2022/10/08/books/review/chip-war-chris-miller.html
 https://www.nytimes.com/2023/10/10/climate/ai-could-soon-need-as-much-electricity-as-an-entire-country.html
@@ -36967,6 +36978,7 @@ https://www.science.org/doi/10.1126/science.adh2586
 https://www.science.org/doi/10.1126/science.adi2336
 https://www.science.org/doi/10.1126/science.adi8474
 https://www.science.org/doi/10.1126/science.adk4858
+https://www.science.org/doi/10.1126/science.adl0426
 https://www.science.org/doi/10.1126/science.adm7168
 https://www.science.org/doi/full/10.1126/sciadv.adm8825
 https://www.science.org/doi/full/10.1126/science.aam9744
@@ -37266,6 +37278,7 @@ https://www.singular.uni-kl.de/
 https://www.sirgas.org/
 https://www.sit.fraunhofer.de/
 https://www.sixtysymbols.com/videos/dimensional.htm
+https://www.sjsu.edu/faculty/wooda/149/149syllabus2gerns.html
 https://www.skepdic.com/coldread.html
 https://www.skepdic.com/subjectivevalidation.html
 https://www.sketchingbigdata.org/
