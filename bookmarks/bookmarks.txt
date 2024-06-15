@@ -2134,6 +2134,8 @@ https://community.rstudio.com/
 https://communityblog.fedoraproject.org/
 https://communityinitiatives.org/
 https://company-mode.github.io/
+https://comparativeconstitutionsproject.org/
+https://comparativeconstitutionsproject.org/ccp-rankings/
 https://compeau.cbd.cmu.edu/online-education/bioinformatics-algorithms-an-active-learning-approach/
 https://competitions.cr.yp.to/
 https://compiler.club/compiling-pattern-matching/
@@ -3057,6 +3059,7 @@ https://de.wikipedia.org/wiki/Bundesministerium_des_Innern_und_f%C3%BCr_Heimat
 https://de.wikipedia.org/wiki/Bundesministerium_f%C3%BCr_Bildung_und_Forschung
 https://de.wikipedia.org/wiki/Bundesnachrichtendienst
 https://de.wikipedia.org/wiki/Bundestagsfraktion_B%C3%BCndnis_90/Die_Gr%C3%BCnen
+https://de.wikipedia.org/wiki/Bundesverfassung_der_Schweizerischen_Eidgenossenschaft
 https://de.wikipedia.org/wiki/Bundeszentrale_f%C3%BCr_politische_Bildung
 https://de.wikipedia.org/wiki/CASED
 https://de.wikipedia.org/wiki/Chaos_Communication_Congress
@@ -4023,6 +4026,7 @@ https://docs.oracle.com/en/java/javase/21/security/
 https://docs.oracle.com/javase/tutorial/collections/
 https://docs.paperless-ngx.com/
 https://docs.posit.co/
+https://docs.posit.co/resources/install-r-source.html
 https://docs.pwntools.com/en/stable/
 https://docs.pytest.org/en/7.1.x/
 https://docs.pytest.org/en/7.3.x/
@@ -4857,6 +4861,7 @@ https://en.wikichip.org/wiki/risc-v/microarchitectures
 https://en.wikichip.org/wiki/risc-v/standard_extensions
 https://en.wikichip.org/wiki/technology_node
 https://en.wikichip.org/wiki/WikiChip
+https://en.wikipedia.org/w/index.php?title=List_of_national_constitutions&wprov=rarw1
 https://en.wikipedia.org/wiki/;login:
 https://en.wikipedia.org/wiki/.ai
 https://en.wikipedia.org/wiki/.bss
@@ -6099,6 +6104,9 @@ https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 https://en.wikipedia.org/wiki/BASIC
 https://en.wikipedia.org/wiki/BASIC_Computer_Games
 https://en.wikipedia.org/wiki/BASIC_interpreter
+https://en.wikipedia.org/wiki/Basic_Law_for_the_Federal_Republic_of_Germany
+https://en.wikipedia.org/wiki/Basic_Laws_of_Israel
+https://en.wikipedia.org/wiki/Basic_Laws_of_Sweden
 https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms
 https://en.wikipedia.org/wiki/BASIC_Programming
 https://en.wikipedia.org/wiki/Basilisk_II
@@ -8446,7 +8454,15 @@ https://en.wikipedia.org/wiki/Constantin_Carath%C3%A9odory
 https://en.wikipedia.org/wiki/Constantine_(comic_book)
 https://en.wikipedia.org/wiki/Constantine_(film)
 https://en.wikipedia.org/wiki/Constantinople
+https://en.wikipedia.org/wiki/Constitution_of_Canada
+https://en.wikipedia.org/wiki/Constitution_of_Costa_Rica
 https://en.wikipedia.org/wiki/Constitution_of_India
+https://en.wikipedia.org/wiki/Constitution_of_Japan
+https://en.wikipedia.org/wiki/Constitution_of_New_Zealand
+https://en.wikipedia.org/wiki/Constitution_of_Spain
+https://en.wikipedia.org/wiki/Constitution_of_the_People%27s_Republic_of_China
+https://en.wikipedia.org/wiki/Constitution_of_the_United_Kingdom
+https://en.wikipedia.org/wiki/Constitution_of_the_United_States
 https://en.wikipedia.org/wiki/Constitutional_right
 https://en.wikipedia.org/wiki/Constitutionalism
 https://en.wikipedia.org/wiki/Constitutive_equation
@@ -10218,6 +10234,7 @@ https://en.wikipedia.org/wiki/False_positive_rate
 https://en.wikipedia.org/wiki/False_sharing
 https://en.wikipedia.org/wiki/Faltings%27s_theorem
 https://en.wikipedia.org/wiki/Family_of_curves
+https://en.wikipedia.org/wiki/Family_tree_of_British_monarchs
 https://en.wikipedia.org/wiki/Fan_chart_(statistics)
 https://en.wikipedia.org/wiki/Fancy_Bear
 https://en.wikipedia.org/wiki/Fangcheng_(mathematics)
@@ -11673,6 +11690,7 @@ https://en.wikipedia.org/wiki/History_of_Japan
 https://en.wikipedia.org/wiki/History_of_machine_translation
 https://en.wikipedia.org/wiki/History_of_mathematics
 https://en.wikipedia.org/wiki/History_of_molecular_biology
+https://en.wikipedia.org/wiki/History_of_monarchy_in_the_United_Kingdom
 https://en.wikipedia.org/wiki/History_of_natural_language_processing
 https://en.wikipedia.org/wiki/History_of_penicillin
 https://en.wikipedia.org/wiki/History_of_personal_computers
@@ -11895,6 +11913,7 @@ https://en.wikipedia.org/wiki/IBM_701
 https://en.wikipedia.org/wiki/IBM_704
 https://en.wikipedia.org/wiki/IBM_7090
 https://en.wikipedia.org/wiki/IBM_801
+https://en.wikipedia.org/wiki/IBM_Advanced_Computer_Systems_project
 https://en.wikipedia.org/wiki/IBM_BASIC
 https://en.wikipedia.org/wiki/IBM_Db2
 https://en.wikipedia.org/wiki/IBM_i
@@ -12720,6 +12739,7 @@ https://en.wikipedia.org/wiki/John_Tyndall
 https://en.wikipedia.org/wiki/John_von_Neumann
 https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh
 https://en.wikipedia.org/wiki/John_Wycliffe
+https://en.wikipedia.org/wiki/John,_King_of_England
 https://en.wikipedia.org/wiki/Johnny_Mnemonic
 https://en.wikipedia.org/wiki/Johns_Hopkins_University
 https://en.wikipedia.org/wiki/Johnson%E2%80%93Nyquist_noise
@@ -14960,6 +14980,7 @@ https://en.wikipedia.org/wiki/Moment-generating_function
 https://en.wikipedia.org/wiki/Mona_Lisa_Overdrive
 https://en.wikipedia.org/wiki/Monaco_(typeface)
 https://en.wikipedia.org/wiki/Monad_(functional_programming)
+https://en.wikipedia.org/wiki/Monarchy_of_the_United_Kingdom
 https://en.wikipedia.org/wiki/Moncton
 https://en.wikipedia.org/wiki/Mondo_2000
 https://en.wikipedia.org/wiki/Mondrian_OLAP_server
@@ -17802,6 +17823,7 @@ https://en.wikipedia.org/wiki/Roman_Empire
 https://en.wikipedia.org/wiki/Roman_Forum
 https://en.wikipedia.org/wiki/Roman_Inquisition
 https://en.wikipedia.org/wiki/Roman_Kingdom
+https://en.wikipedia.org/wiki/Roman_law
 https://en.wikipedia.org/wiki/Roman_Polanski
 https://en.wikipedia.org/wiki/Roman_Republic
 https://en.wikipedia.org/wiki/Roman_Sikorski
@@ -17850,6 +17872,8 @@ https://en.wikipedia.org/wiki/Royal_Aircraft_Establishment
 https://en.wikipedia.org/wiki/Royal_Game_of_Ur
 https://en.wikipedia.org/wiki/Royal_Institution
 https://en.wikipedia.org/wiki/Royal_Institution_Christmas_Lectures
+https://en.wikipedia.org/wiki/Royal_prerogative
+https://en.wikipedia.org/wiki/Royal_prerogative_in_the_United_Kingdom
 https://en.wikipedia.org/wiki/Royal_Society
 https://en.wikipedia.org/wiki/Royal_Society_Open_Science
 https://en.wikipedia.org/wiki/Royal_Statistical_Society
@@ -19250,6 +19274,7 @@ https://en.wikipedia.org/wiki/Sweep_line_algorithm
 https://en.wikipedia.org/wiki/SWI-Prolog
 https://en.wikipedia.org/wiki/SWIFT
 https://en.wikipedia.org/wiki/Swift_(programming_language)
+https://en.wikipedia.org/wiki/Swiss_Federal_Constitution
 https://en.wikipedia.org/wiki/SWITCH_Information_Technology_Services
 https://en.wikipedia.org/wiki/Sybase_Open_Watcom_Public_License
 https://en.wikipedia.org/wiki/SYCL
@@ -19679,6 +19704,7 @@ https://en.wikipedia.org/wiki/The_Times_Literary_Supplement
 https://en.wikipedia.org/wiki/The_Times_of_India
 https://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)
 https://en.wikipedia.org/wiki/The_Trojan_War_Will_Not_Take_Place
+https://en.wikipedia.org/wiki/The_Troubles
 https://en.wikipedia.org/wiki/The_Twelve_Caesars
 https://en.wikipedia.org/wiki/The_Twenty_Years%27_Crisis
 https://en.wikipedia.org/wiki/The_Twilight_Zone
@@ -20109,6 +20135,7 @@ https://en.wikipedia.org/wiki/TV5Monde
 https://en.wikipedia.org/wiki/TVP_Info
 https://en.wikipedia.org/wiki/Twelfth_root_of_two
 https://en.wikipedia.org/wiki/Twelve_leverage_points
+https://en.wikipedia.org/wiki/Twelve_Tables
 https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology
 https://en.wikipedia.org/wiki/Twig_(template_engine)
 https://en.wikipedia.org/wiki/Twilight_Force
@@ -20195,6 +20222,7 @@ https://en.wikipedia.org/wiki/Unary_coding
 https://en.wikipedia.org/wiki/Unbounded_operator
 https://en.wikipedia.org/wiki/Uncertain_inference
 https://en.wikipedia.org/wiki/Uncertainty_quantification
+https://en.wikipedia.org/wiki/Uncodified_constitution
 https://en.wikipedia.org/wiki/Uncomfortable_science
 https://en.wikipedia.org/wiki/Unconventional_computing
 https://en.wikipedia.org/wiki/Uncorrelatedness_(probability_theory)
@@ -21413,6 +21441,8 @@ https://ergo-sum.us/Members/cmcurtin/
 https://ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/
 https://ericsink.com/entries/fsharp_chasm.html
 https://erikdemaine.org/fonts/
+https://es.wikipedia.org/wiki/Constituci%C3%B3n_espa%C3%B1ola_de_1978
+https://es.wikipedia.org/wiki/Constituci%C3%B3n_Pol%C3%ADtica_de_Costa_Rica
 https://es.wikipedia.org/wiki/Editorial_Mir
 https://es.wikipedia.org/wiki/Siglo_de_Oro
 https://es.wikipedia.org/wiki/Wikipedia:Portada
@@ -30932,6 +30962,7 @@ https://support.google.com/websearch/answer/13692898
 https://support.microsoft.com/en-us/office/overview-of-online-analytical-processing-olap-15d2cdde-f70b-4277-b009-ed732b75fdd6
 https://support.mozilla.org/en-US/
 https://support.mozilla.org/en-US/kb/install-firefox-linux
+https://support.posit.co/hc/en-us/articles/200486138-Changing-R-versions-for-the-RStudio-Desktop-IDE
 https://support.posit.co/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages
 https://surf.sourceforge.net/
 https://surfshark.com/
