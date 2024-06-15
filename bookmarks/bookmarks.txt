@@ -1106,6 +1106,7 @@ https://arxiv.org/abs/2402.09842
 https://arxiv.org/abs/2402.15715
 https://arxiv.org/abs/2403.03998
 https://arxiv.org/abs/2405.00832
+https://arxiv.org/abs/2405.08007
 https://arxiv.org/abs/2405.13817
 https://arxiv.org/abs/2405.17399
 https://arxiv.org/abs/2406.01637
@@ -7523,6 +7524,7 @@ https://en.wikipedia.org/wiki/Category:Unification_(computer_science)
 https://en.wikipedia.org/wiki/Category:Unit_testing_frameworks
 https://en.wikipedia.org/wiki/Category:Universities_and_colleges_in_Los_Angeles
 https://en.wikipedia.org/wiki/Category:University_of_California,_Los_Angeles
+https://en.wikipedia.org/wiki/Category:Validity_(statistics)
 https://en.wikipedia.org/wiki/Category:Variational_analysis
 https://en.wikipedia.org/wiki/Category:Variational_analysts
 https://en.wikipedia.org/wiki/Category:Verb-second_languages
@@ -8455,6 +8457,7 @@ https://en.wikipedia.org/wiki/Constraint_logic_programming
 https://en.wikipedia.org/wiki/Constraint_programming
 https://en.wikipedia.org/wiki/Constraint_satisfaction
 https://en.wikipedia.org/wiki/Constraint_satisfaction_problem
+https://en.wikipedia.org/wiki/Construct_validity
 https://en.wikipedia.org/wiki/Construction_of_an_irreducible_Markov_chain_in_the_Ising_model
 https://en.wikipedia.org/wiki/Constructive_function_theory
 https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_mathematics)
@@ -10159,6 +10162,7 @@ https://en.wikipedia.org/wiki/Exterior_derivative
 https://en.wikipedia.org/wiki/External_Data_Representation
 https://en.wikipedia.org/wiki/External_memory_algorithm
 https://en.wikipedia.org/wiki/External_sorting
+https://en.wikipedia.org/wiki/External_validity
 https://en.wikipedia.org/wiki/Externality
 https://en.wikipedia.org/wiki/Extinct_language
 https://en.wikipedia.org/wiki/Extract,_load,_transform
@@ -11091,6 +11095,7 @@ https://en.wikipedia.org/wiki/Go_variants
 https://en.wikipedia.org/wiki/Goa
 https://en.wikipedia.org/wiki/God_in_Abrahamic_religions
 https://en.wikipedia.org/wiki/God_Is_Not_Great
+https://en.wikipedia.org/wiki/Gold_standard_(test)
 https://en.wikipedia.org/wiki/Goldbach%27s_conjecture
 https://en.wikipedia.org/wiki/Goldbach%27s_weak_conjecture
 https://en.wikipedia.org/wiki/Golden_age_of_American_animation
@@ -14590,6 +14595,7 @@ https://en.wikipedia.org/wiki/Median
 https://en.wikipedia.org/wiki/Median_absolute_deviation
 https://en.wikipedia.org/wiki/Median_test
 https://en.wikipedia.org/wiki/MediaTek
+https://en.wikipedia.org/wiki/Medical_diagnosis
 https://en.wikipedia.org/wiki/Medical_statistics
 https://en.wikipedia.org/wiki/Medicine_(Lippincott_Williams_%26_Wilkins_journal)
 https://en.wikipedia.org/wiki/Medieval_Inquisition
@@ -18095,6 +18101,7 @@ https://en.wikipedia.org/wiki/Scott_J._Shapiro
 https://en.wikipedia.org/wiki/Scott_Vanstone
 https://en.wikipedia.org/wiki/Scottish_Book
 https://en.wikipedia.org/wiki/Scratch_(programming_language)
+https://en.wikipedia.org/wiki/Screening_(medicine)
 https://en.wikipedia.org/wiki/Scripps_College
 https://en.wikipedia.org/wiki/Script_theory
 https://en.wikipedia.org/wiki/Scripting_language
@@ -19462,6 +19469,7 @@ https://en.wikipedia.org/wiki/Test_functions_for_optimization
 https://en.wikipedia.org/wiki/Test_of_English_as_a_Foreign_Language
 https://en.wikipedia.org/wiki/Test_statistic
 https://en.wikipedia.org/wiki/Test_theories_of_special_relativity
+https://en.wikipedia.org/wiki/Test_validity
 https://en.wikipedia.org/wiki/Test-and-set
 https://en.wikipedia.org/wiki/Test-driven_development
 https://en.wikipedia.org/wiki/Testing_hypotheses_suggested_by_the_data
@@ -20405,6 +20413,7 @@ https://en.wikipedia.org/wiki/Vague_topology
 https://en.wikipedia.org/wiki/Vaishnavism
 https://en.wikipedia.org/wiki/Val%C3%A9ry_Giscard_d%27Estaing
 https://en.wikipedia.org/wiki/Valencian_language
+https://en.wikipedia.org/wiki/Validity_(statistics)
 https://en.wikipedia.org/wiki/Valknut
 https://en.wikipedia.org/wiki/Valley_of_the_Fallen
 https://en.wikipedia.org/wiki/Value_criticism
@@ -27883,6 +27892,7 @@ https://mlcommons.org/
 https://mlcommons.org/en/
 https://mlcommons.org/working-groups/data/croissant/
 https://mlcontests.com/
+https://mlflow.org/
 https://mlg.eng.cam.ac.uk/carl/
 https://mlg.eng.cam.ac.uk/zoubin/
 https://mloss.org/software/
@@ -30047,18 +30057,19 @@ https://scheme.com/debug/debug.html
 https://scheme.com/pubs/index.html
 https://scheme.com/tspl4/
 https://scheme.fail/
-https://scholar.google.co.uk/citations?user=RLCyYG0AAAAJ&hl=en
 https://scholar.google.com/citations?user=AxFrw0sAAAAJ
-https://scholar.google.com/citations?user=hkJ7xKwAAAAJ&hl=en
+https://scholar.google.com/citations?user=hkJ7xKwAAAAJ
 https://scholar.google.com/citations?user=J-5mJ7AAAAAJ
-https://scholar.google.com/citations?user=kFbFJqIAAAAJ&hl=en
-https://scholar.google.com/citations?user=S6H-0RAAAAAJ&hl=en
-https://scholar.google.com/citations?user=se0TZ2EAAAAJ&hl=en
-https://scholar.google.com/citations?user=sWkxswQAAAAJ&hl=en&oi=sra
-https://scholar.google.com/citations?user=ToxxF5oAAAAJ&hl=en
+https://scholar.google.com/citations?user=kFbFJqIAAAAJ
+https://scholar.google.com/citations?user=mhU_tUgAAAAJ
+https://scholar.google.com/citations?user=pJ8u7AQAAAAJ
+https://scholar.google.com/citations?user=RLCyYG0AAAAJ
+https://scholar.google.com/citations?user=S6H-0RAAAAAJ
+https://scholar.google.com/citations?user=se0TZ2EAAAAJ
+https://scholar.google.com/citations?user=sWkxswQAAAAJ
+https://scholar.google.com/citations?user=ToxxF5oAAAAJ
 https://scholar.google.com/citations?user=x_wsduUAAAAJ
-https://scholar.google.com/citations?user=zkdjit0AAAAJ&hl=en
-https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=phy_computationalmathematics
+https://scholar.google.com/citations?user=zkdjit0AAAAJ
 https://scholarlycommons.pacific.edu/euler-works/530/
 https://scholarlykitchen.sspnet.org/
 https://scholarship.law.cornell.edu/facpub/594/
@@ -30085,6 +30096,7 @@ https://scikit-learn.org/stable/modules/decomposition.html
 https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
 https://scikit-learn.org/stable/modules/lda_qda.html
 https://scikit-learn.org/stable/modules/manifold.html
+https://scikit-learn.org/stable/modules/model_evaluation.html
 https://scikit-learn.org/stable/modules/preprocessing.html
 https://scikit-learn.org/stable/supervised_learning.html
 https://scikit-optimize.github.io/stable/
