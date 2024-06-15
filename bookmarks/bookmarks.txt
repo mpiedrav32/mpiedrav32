@@ -2258,6 +2258,7 @@ https://cran.r-project.org/manuals.html
 https://cran.r-project.org/mirror-howto.html
 https://cran.r-project.org/mirrors.html
 https://cran.r-project.org/other-docs.html
+https://cran.r-project.org/src/base/
 https://cran.r-project.org/web/packages/
 https://cran.r-project.org/web/packages/ABM/index.html
 https://cran.r-project.org/web/packages/AER/index.html
@@ -2773,6 +2774,7 @@ https://csrc.nist.rip/publications/history/nissc/index.html
 https://css.csail.mit.edu/
 https://css.csail.mit.edu/6.858/2022/
 https://cstack.github.io/db_tutorial/
+https://cstat.tuwien.ac.at/
 https://cstheory.stackexchange.com/
 https://cstheory.stackexchange.com/questions/3533/books-on-programming-language-semantics
 https://csv.js.org/
@@ -3453,6 +3455,7 @@ https://directory.fsf.org/wiki/Main_Page
 https://dirk.eddelbuettel.com/
 https://dirk.eddelbuettel.com/code/rcpp.html
 https://dirk.eddelbuettel.com/cranberries/
+https://dirk.eddelbuettel.com/papers.html
 https://diro.umontreal.ca/accueil/
 https://discourse.datamethods.org/
 https://discover.dtic.mil/
@@ -16277,6 +16280,7 @@ https://en.wikipedia.org/wiki/Particle_filter
 https://en.wikipedia.org/wiki/Particle_statistics
 https://en.wikipedia.org/wiki/Particle_swarm_optimization
 https://en.wikipedia.org/wiki/Particle_therapy
+https://en.wikipedia.org/wiki/Particular_values_of_the_gamma_function
 https://en.wikipedia.org/wiki/Partition_(number_theory)
 https://en.wikipedia.org/wiki/Partition_function_(number_theory)
 https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics)
@@ -21470,6 +21474,7 @@ https://ethw.org/Fairchild_Semiconductor
 https://ethw.org/First-Hand:The_Hidden_Markov_Model
 https://ethw.org/Main_Page
 https://ethw.org/Oral-History:Claude_E._Shannon
+https://ethz.ch/
 https://etna.ricam.oeaw.ac.at/
 https://etsh.nl/
 https://eu.swi-prolog.org/man/clpfd.html
@@ -28993,6 +28998,7 @@ https://people.inf.ethz.ch/wirth/
 https://people.inf.ethz.ch/wirth/CompilerConstruction/CompilerConstruction1.pdf
 https://people.inf.ethz.ch/wirth/CompilerConstruction/CompilerConstruction2.pdf
 https://people.kth.se/~skoglund/edu/IT-stats/
+https://people.math.ethz.ch/~maechler/
 https://people.math.harvard.edu/~knill/mathmovies/
 https://people.mpi-inf.mpg.de/~mehlhorn/
 https://people.mpi-sws.org/~viktor/wmc/
@@ -30726,6 +30732,7 @@ https://stat.columbia.edu/
 https://stat.columbia.edu/~gelman/book/
 https://stat.cornell.edu/
 https://stat.duke.edu/
+https://stat.ethz.ch/CRAN/
 https://stat.ethz.ch/pipermail/r-devel/
 https://stat.ethz.ch/pipermail/r-help/
 https://stat.ethz.ch/pipermail/r-help/2006-May/105345.html
@@ -30839,6 +30846,8 @@ https://stat.ethz.ch/R-manual/R-devel/library/utils/html/00Index.html
 https://stat.ethz.ch/R-manual/R-devel/library/utils/html/combn.html
 https://stat.ethz.ch/R-manual/R-devel/library/utils/html/dataentry.html
 https://stat.ethz.ch/R-manual/R-devel/library/utils/html/download.file.html
+https://stat.ethz.ch/R-manual/R-patched/doc/html/
+https://stat.ethz.ch/R/
 https://stat.fi/
 https://stat.fi/en/statistical-data
 https://stat.fi/index_en.html
@@ -30962,8 +30971,11 @@ https://support.google.com/websearch/answer/13692898
 https://support.microsoft.com/en-us/office/overview-of-online-analytical-processing-olap-15d2cdde-f70b-4277-b009-ed732b75fdd6
 https://support.mozilla.org/en-US/
 https://support.mozilla.org/en-US/kb/install-firefox-linux
+https://support.posit.co/hc/en-us
+https://support.posit.co/hc/en-us/articles/200486088-Using-Rcpp-with-the-RStudio-IDE
 https://support.posit.co/hc/en-us/articles/200486138-Changing-R-versions-for-the-RStudio-Desktop-IDE
 https://support.posit.co/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages
+https://support.posit.co/hc/en-us/sections/200148796-Advanced-Topics
 https://surf.sourceforge.net/
 https://surfshark.com/
 https://surpriselib.com/
@@ -34583,6 +34595,7 @@ https://www.imdb.com/title/tt15398776/
 https://www.imdb.com/title/tt2866360/
 https://www.imdb.com/title/tt3011894/
 https://www.imdb.com/title/tt4158110/trivia
+https://www.ime.usp.br/~egbirgin/tango/
 https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity
 https://www.imf.org/en/Home
 https://www.imf.org/en/Publications
