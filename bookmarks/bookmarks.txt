@@ -2159,6 +2159,8 @@ https://conda-forge.org/
 https://cons.io/
 https://containertoolbx.org/
 https://content.iospress.com/articles/journal-of-computer-security/jcs393
+https://contratos.cr/
+https://contratos.cr/guias/poder-especial/
 https://contributor.r-project.org/
 https://conventionalcomments.org/
 https://convert.io/
@@ -4949,6 +4951,7 @@ https://en.wikipedia.org/wiki/30th_parallel_north
 https://en.wikipedia.org/wiki/386BSD
 https://en.wikipedia.org/wiki/389_Directory_Server
 https://en.wikipedia.org/wiki/3D_computer_graphics
+https://en.wikipedia.org/wiki/3D_rotation_group
 https://en.wikipedia.org/wiki/3D_Slicer
 https://en.wikipedia.org/wiki/3DMark
 https://en.wikipedia.org/wiki/3SUM
@@ -6085,6 +6088,7 @@ https://en.wikipedia.org/wiki/Barycentric_and_geocentric_celestial_reference_sys
 https://en.wikipedia.org/wiki/Barycentric_coordinate_system
 https://en.wikipedia.org/wiki/Baryon
 https://en.wikipedia.org/wiki/Base_pair
+https://en.wikipedia.org/wiki/Base_rate_fallacy
 https://en.wikipedia.org/wiki/Base32
 https://en.wikipedia.org/wiki/Base36
 https://en.wikipedia.org/wiki/Baseband_processor
@@ -16017,6 +16021,7 @@ https://en.wikipedia.org/wiki/Orthant
 https://en.wikipedia.org/wiki/Orthogonal_(series)
 https://en.wikipedia.org/wiki/Orthogonal_array
 https://en.wikipedia.org/wiki/Orthogonal_functions
+https://en.wikipedia.org/wiki/Orthogonal_group
 https://en.wikipedia.org/wiki/Orthogonal_matrix
 https://en.wikipedia.org/wiki/Orthogonal_polynomials
 https://en.wikipedia.org/wiki/Orthogonal_Procrustes_problem
@@ -16901,6 +16906,7 @@ https://en.wikipedia.org/wiki/Probabilistic_automaton
 https://en.wikipedia.org/wiki/Probabilistic_classification
 https://en.wikipedia.org/wiki/Probabilistic_design
 https://en.wikipedia.org/wiki/Probabilistic_encryption
+https://en.wikipedia.org/wiki/Probabilistic_forecasting
 https://en.wikipedia.org/wiki/Probabilistic_logic
 https://en.wikipedia.org/wiki/Probabilistic_metric_space
 https://en.wikipedia.org/wiki/Probabilistic_neural_network
@@ -18083,6 +18089,7 @@ https://en.wikipedia.org/wiki/Scope_(computer_science)
 https://en.wikipedia.org/wiki/Scopus
 https://en.wikipedia.org/wiki/Score_test
 https://en.wikipedia.org/wiki/Scoreboarding
+https://en.wikipedia.org/wiki/Scoring_rule
 https://en.wikipedia.org/wiki/Scott_Aaronson
 https://en.wikipedia.org/wiki/Scott_J._Shapiro
 https://en.wikipedia.org/wiki/Scott_Vanstone
@@ -31100,6 +31107,7 @@ https://thenewstack.io/tidb-brings-distributed-scalability-sql/
 https://thenewstack.io/why-clickhouse-should-be-your-next-database/
 https://thenewstack.io/yugabyte-new-database-solve-sql-vs-nosql-dilemma/
 https://thenextweb.com/
+https://thenumb.at/Exponential-Rotations/
 https://theomagica.com/on-the-nature-of-the-qlippoth
 https://theoreticalminimum.com/home
 https://theory.cern/
@@ -31827,6 +31835,7 @@ https://www.agner.org/optimize/microarchitecture.pdf
 https://www.agner.org/optimize/optimizing_assembly.pdf
 https://www.agner.org/random/
 https://www.agu.org/
+https://www.ai-steve.co.uk/
 https://www.ai4science.caltech.edu/
 https://www.aiai.ed.ac.uk/events/lighthill1973/
 https://www.aier.org/article/book-review-how-the-chip-war-vindicates-economics/
@@ -33027,6 +33036,7 @@ https://www.cs.yale.edu/homes/spielman/
 https://www.cs251.com/
 https://www.csail.mit.edu/
 https://www.csail.mit.edu/event/building-secure-systems-memory-enclaves
+https://www.csail.mit.edu/news/new-algorithm-discovers-language-just-watching-videos
 https://www.csail.mit.edu/person/shafi-goldwasser
 https://www.csail.mit.edu/research/theory-computation-community-research
 https://www.csc.cam.ac.uk/
@@ -35624,6 +35634,7 @@ https://www.nature.com/articles/d41586-024-01216-z
 https://www.nature.com/articles/d41586-024-01387-9
 https://www.nature.com/articles/d41586-024-01493-8
 https://www.nature.com/articles/d41586-024-01609-0
+https://www.nature.com/articles/d41586-024-01732-y
 https://www.nature.com/articles/nature13570
 https://www.nature.com/articles/nature14539
 https://www.nature.com/articles/nature16961
@@ -37326,6 +37337,7 @@ https://www.space.com/
 https://www.space.com/25959-how-many-stars-are-in-the-milky-way.html
 https://www.space.com/26078-how-many-stars-are-there.html
 https://www.space.com/event-horizon-telescope.html
+https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024
 https://www.spaceweather.gov/
 https://www.sparkfun.com/fpga
 https://www.sparkfun.com/news/2671
