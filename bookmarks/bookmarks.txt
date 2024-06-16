@@ -25796,6 +25796,7 @@ https://library.lol/main/11CC1DDAB84B771F2359013AC4B972E3
 https://library.lol/main/123AD891A3573C2FBBDF05C3446954AE
 https://library.lol/main/124F403A1E019751DB0B6C71096FB69A
 https://library.lol/main/12AB2D09768FA6B834517D5B98578A45
+https://library.lol/main/13CDDB4EDFE4A91D1A05542AB08D6DF5
 https://library.lol/main/143326CF8D6BA87EA1A7DF1261D05D5E
 https://library.lol/main/1582D237B4F838EB5C0474487647B867
 https://library.lol/main/15F01BB95E30DD31959887E5795E58F1
@@ -28533,6 +28534,7 @@ https://onlinelibrary.wiley.com/doi/book/10.1002/9781119555759
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781119644682
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781119653554
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781119815068
+https://onlinelibrary.wiley.com/doi/book/10.1002/9781119952954
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781394189205
 https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.3746
 https://onlinelibrary.wiley.com/doi/full/10.1002/gamm.202100006
@@ -32474,6 +32476,7 @@ https://www.cambridge.org/core/books/formal-logic/95BBB5C2FB5C21E039EF41AC4C117A
 https://www.cambridge.org/core/books/foundations-of-cryptography/B0B0B0D2D383082C5435E16135A521B0
 https://www.cambridge.org/core/books/foundations-of-cryptography/B61B6AD235D2034D511A5FF740415166
 https://www.cambridge.org/core/books/foundations-of-data-science/6A43CE830DE83BED6CC5171E62B0AA9E
+https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE
 https://www.cambridge.org/core/books/fundamentals-of-errorcorrecting-codes/BF3AFDFB539C3C023BBD9DCBA4CDA761
 https://www.cambridge.org/core/books/fundamentals-of-nonparametric-bayesian-inference/C96325101025D308C9F31F4470DEA2E8
 https://www.cambridge.org/core/books/fundamentals-of-wireless-communication/04C749B2C2247374B36E573078356350
@@ -32557,6 +32560,7 @@ https://www.cambridge.org/highereducation/books/communication-theory/9CA477FACEB
 https://www.cambridge.org/highereducation/books/computer-age-statistical-inference-student-edition/D9E017E05F047BE6A1702D847CB38DB9
 https://www.cambridge.org/highereducation/books/convex-optimization/17D2FAA54F641A2F62C7CCD01DFA97C4
 https://www.cambridge.org/highereducation/books/data-driven-science-and-engineering/6F9A730B7A9A9F43F68CF21A24BEC339
+https://www.cambridge.org/highereducation/books/information-theory/CFF2F02ED54398148B7D8AA26E55B2BC
 https://www.cambridge.org/highereducation/books/introduction-to-electrodynamics/FD23E188E2BDCDB40199CFE3386EC08F
 https://www.cambridge.org/highereducation/books/introduction-to-probability-for-computing/DAA41D6C6961056FB8331884C5557C5F
 https://www.cambridge.org/highereducation/books/introduction-to-quantum-mechanics/990799CA07A83FC5312402AF6860311E
@@ -32621,6 +32625,11 @@ https://www.cambus.net/spleen-monospaced-bitmap-fonts/
 https://www.cambus.net/the-state-of-toolchains-in-openbsd/
 https://www.campx.ca/
 https://www.canarytrap.com/
+https://www.cancer.gov/about-cancer/advanced-cancer
+https://www.cancer.gov/about-cancer/causes-prevention/risk
+https://www.cancer.gov/about-cancer/causes-prevention/risk/myths
+https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet
+https://www.cancer.gov/types/metastatic-cancer
 https://www.cantorsparadise.com/a-computability-proof-of-g%C3%B6dels-first-incompleteness-theorem-2d685899117c
 https://www.cantorsparadise.com/before-you-read-g%C3%B6del-escher-bach-1083aa214167
 https://www.cantorsparadise.com/the-mathematics-of-elo-ratings-b6bfc9ca1dba?gi=d8170147d2f5
