@@ -3046,6 +3046,7 @@ https://de.wikipedia.org/wiki/ARD
 https://de.wikipedia.org/wiki/ARD_Mediathek
 https://de.wikipedia.org/wiki/Arthur_Schopenhauer
 https://de.wikipedia.org/wiki/Athene_(Forschungszentrum)
+https://de.wikipedia.org/wiki/Au%C3%9Fenpolitik
 https://de.wikipedia.org/wiki/Ausw%C3%A4rtiges_Amt
 https://de.wikipedia.org/wiki/Axel-Springer-Stra%C3%9Fe
 https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen
@@ -3054,6 +3055,7 @@ https://de.wikipedia.org/wiki/Basel
 https://de.wikipedia.org/wiki/Beauftragter_der_Bundesregierung_f%C3%BCr_Kultur_und_Medien
 https://de.wikipedia.org/wiki/Bernd_Ulmann
 https://de.wikipedia.org/wiki/Bernhard_Esslinger
+https://de.wikipedia.org/wiki/Bl%C3%A4tter_f%C3%BCr_deutsche_und_internationale_Politik
 https://de.wikipedia.org/wiki/Bonn
 https://de.wikipedia.org/wiki/Bremer_Stadtrecht
 https://de.wikipedia.org/wiki/Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik
@@ -3071,13 +3073,16 @@ https://de.wikipedia.org/wiki/CASED
 https://de.wikipedia.org/wiki/Chaos_Communication_Congress
 https://de.wikipedia.org/wiki/Chaos_Computer_Club
 https://de.wikipedia.org/wiki/Chinesisch-deutsche_Beziehungen
+https://de.wikipedia.org/wiki/Cicero_(Zeitschrift)
 https://de.wikipedia.org/wiki/CrypTool
 https://de.wikipedia.org/wiki/Darmstadt
 https://de.wikipedia.org/wiki/Das_Erste
 https://de.wikipedia.org/wiki/Data-Mining
+https://de.wikipedia.org/wiki/Denkfabrik
 https://de.wikipedia.org/wiki/Deutsch-Franz%C3%B6sischer_Krieg
 https://de.wikipedia.org/wiki/Deutsche_Digitale_Bibliothek
 https://de.wikipedia.org/wiki/Deutsche_Frage
+https://de.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Ausw%C3%A4rtige_Politik
 https://de.wikipedia.org/wiki/Deutsche_Mathematiker-Vereinigung
 https://de.wikipedia.org/wiki/Deutsche_Nationalbibliothek
 https://de.wikipedia.org/wiki/Deutsche_Physikalische_Gesellschaft
@@ -3089,6 +3094,7 @@ https://de.wikipedia.org/wiki/Deutschland_im_Mittelalter
 https://de.wikipedia.org/wiki/Die_sch%C3%B6nsten_Sagen_des_klassischen_Altertums
 https://de.wikipedia.org/wiki/Die_Tageszeitung
 https://de.wikipedia.org/wiki/Die_Vermessung_der_Welt
+https://de.wikipedia.org/wiki/Die_Welt
 https://de.wikipedia.org/wiki/Die_Welt_als_Wille_und_Vorstellung
 https://de.wikipedia.org/wiki/Dokumentenretrieval
 https://de.wikipedia.org/wiki/Drittmittel
@@ -3100,8 +3106,10 @@ https://de.wikipedia.org/wiki/European_Center_for_Security_and_Privacy_by_Design
 https://de.wikipedia.org/wiki/Fachgesellschaft
 https://de.wikipedia.org/wiki/Fachkr%C3%A4ftemangel
 https://de.wikipedia.org/wiki/Fefes_Blog
+https://de.wikipedia.org/wiki/Foreign_Affairs
 https://de.wikipedia.org/wiki/Forschungszentrum_J%C3%BClich
 https://de.wikipedia.org/wiki/Frankfurt_am_Main
+https://de.wikipedia.org/wiki/Frankfurter_Allgemeine_Zeitung
 https://de.wikipedia.org/wiki/Fraunhofer-Institut_f%C3%BCr_Sichere_Informationstechnologie
 https://de.wikipedia.org/wiki/Freiburg_im_Breisgau
 https://de.wikipedia.org/wiki/Fundstellennachweis
@@ -3131,6 +3139,7 @@ https://de.wikipedia.org/wiki/Ifo_Institut_f%C3%BCr_Wirtschaftsforschung
 https://de.wikipedia.org/wiki/Information_Retrieval
 https://de.wikipedia.org/wiki/Informationssicherheit
 https://de.wikipedia.org/wiki/Internationale_Beziehungen
+https://de.wikipedia.org/wiki/Internationale_Politik_(Zeitschrift)
 https://de.wikipedia.org/wiki/Ischtar-Tor
 https://de.wikipedia.org/wiki/IT-Cluster_Rhein-Main-Neckar
 https://de.wikipedia.org/wiki/Julian_Seymour_Schwinger
@@ -3145,6 +3154,7 @@ https://de.wikipedia.org/wiki/Knowledge_Discovery_in_Databases
 https://de.wikipedia.org/wiki/Konrad_Adenauer
 https://de.wikipedia.org/wiki/L%C3%BCbisches_Recht
 https://de.wikipedia.org/wiki/Landesrundfunkanstalt
+https://de.wikipedia.org/wiki/Le_Monde_diplomatique
 https://de.wikipedia.org/wiki/Leibniz-Gemeinschaft
 https://de.wikipedia.org/wiki/Leibniz-Institut_f%C3%BCr_Europ%C3%A4ische_Geschichte
 https://de.wikipedia.org/wiki/Lernmatrix
@@ -3180,6 +3190,7 @@ https://de.wikipedia.org/wiki/Passau
 https://de.wikipedia.org/wiki/Pergamonmuseum
 https://de.wikipedia.org/wiki/Philipps-Universit%C3%A4t_Marburg
 https://de.wikipedia.org/wiki/Politikwissenschaft
+https://de.wikipedia.org/wiki/Politique_%C3%A9trang%C3%A8re
 https://de.wikipedia.org/wiki/Politische_Philosophie
 https://de.wikipedia.org/wiki/Politische_Theorie
 https://de.wikipedia.org/wiki/Politisches_System_der_Bundesrepublik_Deutschland
@@ -3206,6 +3217,7 @@ https://de.wikipedia.org/wiki/Stadtrecht
 https://de.wikipedia.org/wiki/Statistisches_Bundesamt
 https://de.wikipedia.org/wiki/Stochastik
 https://de.wikipedia.org/wiki/Studiengeb%C3%BChren_in_Deutschland
+https://de.wikipedia.org/wiki/T-Online
 https://de.wikipedia.org/wiki/T%C3%BCbingen
 https://de.wikipedia.org/wiki/Tagesschau_(ARD)
 https://de.wikipedia.org/wiki/Tagesschau_(SRF)
@@ -3233,6 +3245,7 @@ https://de.wikipedia.org/wiki/Vulgo
 https://de.wikipedia.org/wiki/W%C3%BCrzburg
 https://de.wikipedia.org/wiki/Wahrscheinlichkeitstheorie
 https://de.wikipedia.org/wiki/Weimarer_Republik
+https://de.wikipedia.org/wiki/Welt_am_Sonntag
 https://de.wikipedia.org/wiki/Westdeutsche_Studentenbewegung_der_1960er_Jahre
 https://de.wikipedia.org/wiki/Westf%C3%A4lischer_Friede
 https://de.wikipedia.org/wiki/Westf%C3%A4lisches_System
@@ -3240,6 +3253,7 @@ https://de.wikipedia.org/wiki/Wikipedia:Hauptseite
 https://de.wikipedia.org/wiki/Willy_Brandt
 https://de.wikipedia.org/wiki/Wissenschaftliches_Rechnen
 https://de.wikipedia.org/wiki/Zeit-Stiftung
+https://de.wikipedia.org/wiki/Zeitschrift_f%C3%BCr_Au%C3%9Fen-_und_Sicherheitspolitik
 https://deadsimplesites.com/
 https://deals.manning.com/rbooks/
 https://deathball.net/notpron/notpron.htm
@@ -7707,6 +7721,7 @@ https://en.wikipedia.org/wiki/Charge_density
 https://en.wikipedia.org/wiki/Charlemagne
 https://en.wikipedia.org/wiki/Charles_Babbage
 https://en.wikipedia.org/wiki/Charles_Darwin
+https://en.wikipedia.org/wiki/Charles_de_Gaulle
 https://en.wikipedia.org/wiki/Charles_E._Leiserson
 https://en.wikipedia.org/wiki/Charles_F._Van_Loan
 https://en.wikipedia.org/wiki/Charles_Galton_Darwin
@@ -12761,6 +12776,7 @@ https://en.wikipedia.org/wiki/Jonathan_Katz_(computer_scientist)
 https://en.wikipedia.org/wiki/Jonckheere%27s_trend_test
 https://en.wikipedia.org/wiki/JOOQ_Object_Oriented_Querying
 https://en.wikipedia.org/wiki/Jordan_normal_form
+https://en.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset
 https://en.wikipedia.org/wiki/Josef_Stoer
 https://en.wikipedia.org/wiki/Joseon
 https://en.wikipedia.org/wiki/Joseph_ben_Abraham_Gikatilla
@@ -14812,6 +14828,7 @@ https://en.wikipedia.org/wiki/Midnight_Commander
 https://en.wikipedia.org/wiki/Midtown_Manhattan
 https://en.wikipedia.org/wiki/MIFARE
 https://en.wikipedia.org/wiki/Migration_Period
+https://en.wikipedia.org/wiki/Miguel_de_Unamuno
 https://en.wikipedia.org/wiki/Mihir_Bellare
 https://en.wikipedia.org/wiki/Mike_Alder
 https://en.wikipedia.org/wiki/Mike_Bostock
@@ -24926,6 +24943,7 @@ https://interactions.org/
 https://interestingengineering.com/
 https://interestingengineering.com/innovation/first-analog-optical-computer-microsoft
 https://internationalaffairsresources.com/
+https://internationalepolitik.de/
 https://internationalepolitik.de/en
 https://internationalviewpoint.org/
 https://internet2.edu/
@@ -24959,6 +24977,7 @@ https://iopscience.iop.org/article/10.1088/1367-2630/9/7/241
 https://iopscience.iop.org/article/10.1088/1742-6596/1015/4/042001
 https://iopscience.iop.org/article/10.1088/2399-6528/aaedd2
 https://iotdb.apache.org/
+https://ip-quarterly.com/
 https://ip-quarterly.com/en
 https://ip-quarterly.com/en/global-south-geopolitical-reality
 https://ip.guide/
@@ -27098,6 +27117,7 @@ https://link.springer.com/journal/10472
 https://link.springer.com/journal/10990/volumes-and-issues
 https://link.springer.com/journal/10994
 https://link.springer.com/journal/11786
+https://link.springer.com/journal/12399
 https://link.springer.com/journal/13389
 https://link.springer.com/journal/13675/volumes-and-issues
 https://link.springer.com/journal/145
@@ -32266,6 +32286,7 @@ https://www.blackberry.com/us/en/solutions/endpoint-security/mitre-attack/mitre-
 https://www.blackhat.com/
 https://www.blackhat.com/us-23/
 https://www.blackhat.com/us-23/briefings/
+https://www.blaetter.de/
 https://www.blake2.net/
 https://www.bldgblog.com/
 https://www.bldgblog.com/2010/01/nakatomi-space/
@@ -33641,6 +33662,7 @@ https://www.fastcompany.com/3059005/the-new-world-order-is-ruled-by-global-corpo
 https://www.fastmail.com/
 https://www.faust.com/
 https://www.faust.com/legend/kabbalah/
+https://www.faz.net/
 https://www.fbi.gov/
 https://www.fbi.gov/history/famous-cases
 https://www.fbi.gov/history/famous-cases/911-investigation
@@ -35601,6 +35623,7 @@ https://www.mongodb.com/
 https://www.mongodb.com/docs/manual/
 https://www.mongodbtutorial.org/
 https://www.mono-project.com/
+https://www.monopol-magazin.de/
 https://www.morganclaypool.com/page/synthesis
 https://www.morganmarzo.com/writing/2019/11/12/pagoda-construction-in-earthquake-resistance
 https://www.mortality.org/
@@ -37682,6 +37705,7 @@ https://www.synthreligion.com/label/minuitmachine
 https://www.system-rescue.org/
 https://www.systems-thinking.org/
 https://www.t-head.cn/
+https://www.t-online.de/
 https://www.tableau.com/learn/articles/time-series-analysis
 https://www.tableau.com/learn/articles/time-series-analysis-books
 https://www.tableau.com/learn/articles/time-series-forecasting
@@ -38327,6 +38351,7 @@ https://www.welivesecurity.com/es/desafio-eset/
 https://www.well.com/
 https://www.wellesleycambridge.com/
 https://www.welt.de/
+https://www.welt.de/weltamsonntag/
 https://www.weltderphysik.de/
 https://www.wesnoth.org/
 https://www.westernsydney.edu.au/icns/resources/reproducible_research3/publication_support_materials2/emnist
