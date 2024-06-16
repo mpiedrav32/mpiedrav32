@@ -3516,6 +3516,7 @@ https://distrowatch.com/table.php?distribution=ubuntu
 https://diveinto.html5doctor.com/
 https://divviup.org/
 https://diy.inria.fr/
+https://djnavarro.net/
 https://djvu.sourceforge.net/
 https://dl.acm.org/
 https://dl.acm.org/acmbooks
@@ -25674,6 +25675,7 @@ https://learnbchs.org/
 https://learning.acm.org/
 https://learning.cs.toronto.edu/
 https://learning.cs.toronto.edu/people.html
+https://learningstatisticswithr.com/
 https://learnmoderncpp.com/
 https://learnreverseengineering.com/
 https://learnyouahaskell.com/
