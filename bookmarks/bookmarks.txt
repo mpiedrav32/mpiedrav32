@@ -2288,6 +2288,7 @@ https://cran.r-project.org/web/packages/calculus/index.html
 https://cran.r-project.org/web/packages/candisc/index.html
 https://cran.r-project.org/web/packages/car/index.html
 https://cran.r-project.org/web/packages/caRamel/index.html
+https://cran.r-project.org/web/packages/carData/index.html
 https://cran.r-project.org/web/packages/caret/index.html
 https://cran.r-project.org/web/packages/causaldata/index.html
 https://cran.r-project.org/web/packages/CausalImpact/index.html
@@ -2320,6 +2321,7 @@ https://cran.r-project.org/web/packages/duckdb/index.html
 https://cran.r-project.org/web/packages/e1071/index.html
 https://cran.r-project.org/web/packages/ECOSolveR/index.html
 https://cran.r-project.org/web/packages/effects/index.html
+https://cran.r-project.org/web/packages/effsize/index.html
 https://cran.r-project.org/web/packages/EmbedSOM/index.html
 https://cran.r-project.org/web/packages/entropy/index.html
 https://cran.r-project.org/web/packages/evreg/index.html
@@ -25909,6 +25911,7 @@ https://library.lol/main/50C9C4815ED3679A10447835C26D9468
 https://library.lol/main/515ABD1570C511956502384ACFBCEEEF
 https://library.lol/main/519CE8207FBEE6FD198B73455FB37310
 https://library.lol/main/51D5272BC715B34AC74A8034940A4008
+https://library.lol/main/51DA2C83D6A72D575E6BD179DD61DFE6
 https://library.lol/main/51E3D36A8EAD1A3B11DA821CF3006147
 https://library.lol/main/51F787D9F0B736C8B1F84D70A256FBD0
 https://library.lol/main/524C20C04D22DCC2513542DD33A82B0D
@@ -25944,6 +25947,7 @@ https://library.lol/main/60BF387E14924662CCD48E01B70F6C0A
 https://library.lol/main/621E9E772AD9E797B9957A9EDEEAC1B3
 https://library.lol/main/6371D1FF37F8F03ABA0C4E86CD4086BC
 https://library.lol/main/63E675C6CB18322DD0464AC98848C5B8
+https://library.lol/main/64F7028E79C938A5579875765920C79C
 https://library.lol/main/650DEC4E53EE4AB20E7B816EB82FD7F7
 https://library.lol/main/65ED1AB90E56E900D95104687D44536A
 https://library.lol/main/661904D746B73050CC8FD9C12F529D85
@@ -26006,6 +26010,7 @@ https://library.lol/main/8E085025CA9A5D0C89FE0B8B364D8DF0
 https://library.lol/main/8F509404B12C5E01D351111BCFF67638
 https://library.lol/main/8F6D15F965BAC83D2F6F0BB4982B5802
 https://library.lol/main/9006E3C672726689767509B65C889202
+https://library.lol/main/903C95BF2ADB50ED5E90412C5906B515
 https://library.lol/main/90DB32D070CFB70CA617E655D5C35529
 https://library.lol/main/956100DEC00E6675A69EA5D34A968A8A
 https://library.lol/main/9562ACB7DC72B96813125BA55CFF51DF
@@ -26051,6 +26056,7 @@ https://library.lol/main/B28E0CFDD740618FB7088CA0F666DD36
 https://library.lol/main/B2F20453D6ACAA2D60AF8719B12D11B5
 https://library.lol/main/B56092538D41992FE164749FF7A29A04
 https://library.lol/main/B5F1BDC4878C2019D9C3749319140592
+https://library.lol/main/B6A0AD777B318A139216E2096D9F9B87
 https://library.lol/main/B6ED216F8D25B4B463C385295C86B80D
 https://library.lol/main/B79EA2BEF2D8BCF5870E0927FB61254E
 https://library.lol/main/B7B272EC624A1086E57A1BFFBE3EA69D
@@ -26122,6 +26128,7 @@ https://library.lol/main/EC87EC7FB50301568842F25EDB3E6F31
 https://library.lol/main/EE4F14F89C6D2E0C9369194A69AB9F8A
 https://library.lol/main/EE7088494248E3E02232D54A0AB1BCF1
 https://library.lol/main/EECF604531F1C4F8F595AEA79638C3C0
+https://library.lol/main/EEFAF61AD6928B336FBCEE853BE293E1
 https://library.lol/main/EF570C1E475DCCA816BED5E1208B9360
 https://library.lol/main/F0200DDCEBE5822B7C39BBBA4FB98DD6
 https://library.lol/main/F1FC9B38F5E9F245C7CDE3AFEDED4D06
@@ -26130,6 +26137,7 @@ https://library.lol/main/F2A40AF4A3D2796376DEE14A62F3D6EF
 https://library.lol/main/F2C4B001BE14CFEEE372C23D5C83E610
 https://library.lol/main/F32E5492A379592745F539F7C317B878
 https://library.lol/main/F3D21CE4DE6685496AC5A07721B98D26
+https://library.lol/main/F406758AD95020E7B2C0189E7497B3D7
 https://library.lol/main/F41AFCB0B44DD6DF662C40F9A302E6B4
 https://library.lol/main/F485E7411231C018C2C4A3700C369646
 https://library.lol/main/F5232E5E2F6647D9FAEF7BA9B3BEB68F
@@ -28503,6 +28511,7 @@ https://onlinelibrary.wiley.com/doi/book/10.1002/0471671746
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471722138
 https://onlinelibrary.wiley.com/doi/book/10.1002/0471729000
 https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X
+https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316436
 https://onlinelibrary.wiley.com/doi/book/10.1002/9780470434697
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118023471
 https://onlinelibrary.wiley.com/doi/book/10.1002/9781118033197
@@ -29298,6 +29307,7 @@ https://posit.cloud/learn/recipes/modeling/ModelE
 https://posit.co/
 https://posit.co/blog/
 https://posit.co/blog/distill/
+https://posit.co/blog/duckplyr-dplyr-powered-by-duckdb/
 https://posit.co/products/cloud/cloud/
 https://posit.co/products/enterprise/academy/
 https://posit.co/products/open-source/rpackages/
@@ -30448,6 +30458,7 @@ https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-pa
 https://social.bau-ha.us/@ccc
 https://socialismtoday.org/
 https://socialistrevolution.org/
+https://socialsciences.mcmaster.ca/jfox/Books/Companion/index.html
 https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/
 https://society5.com/ai-security/trojan-attacks/
 https://sociology.fas.harvard.edu/
@@ -31483,6 +31494,8 @@ https://us.artechhouse.com/cw_contributorinfo.aspx?ContribID=963&Name=Rolf+Oppli
 https://us.artechhouse.com/Modern-Vulnerability-Management-Predictive-Cybersecurity-P2278.aspx
 https://us.artechhouse.com/Security-and-Privacy-C1016.aspx
 https://us.artechhouse.com/SSL-and-TLS-Theory-and-Practice-Third-Edition-P2346.aspx
+https://us.sagepub.com/en-us/nam/an-r-companion-to-applied-regression/book246125
+https://us.sagepub.com/en-us/nam/applied-regression-analysis-and-generalized-linear-models/book237254
 https://us.sagepub.com/en-us/nam/home
 https://uscilab.github.io/cereal/
 https://usemodels.tidymodels.org/
@@ -34849,6 +34862,7 @@ https://www.jmlr.org/papers/v9/vandermaaten08a.html
 https://www.jmlr.org/tmlr/
 https://www.jmp.com/en_us/home.html
 https://www.john-dee.org/
+https://www.john-fox.ca/
 https://www.john-ros.com/translator/
 https://www.johndcook.com/blog/
 https://www.johndcook.com/blog/2019/03/05/base85-encoding/
@@ -36986,6 +37000,7 @@ https://www.ruhrsec.de/2025/
 https://www.rust-lang.org/
 https://www.rust-lang.org/learn
 https://www.rwth-aachen.de/
+https://www.ryanplain.com/posts/2023-06-19-py-to-r/
 https://www.sagemath.org/
 https://www.sagemath.org/index.html
 https://www.sagemath.org/sagebook/
@@ -38392,6 +38407,7 @@ https://www.wiley.com/en-us/Applied+and+Computational+Complex+Analysis%2C+Volume
 https://www.wiley.com/en-us/Applied+and+Computational+Complex+Analysis%2C+Volume+3%3A+Discrete+Fourier+Analysis%2C+Cauchy+Integrals%2C+Construction+of+Conformal+Maps%2C+Univalent+Functions-p-9780471589860
 https://www.wiley.com/en-us/Applied+Cryptanalysis%3A+Breaking+Ciphers+in+the+Real+World+-p-9780470148761
 https://www.wiley.com/en-us/Applied+Cryptography%3A+Protocols%2C+Algorithms+and+Source+Code+in+C%2C+20th+Anniversary+Edition-p-9781119096726
+https://www.wiley.com/en-us/Applied+Linear+Regression%2C+4th+Edition-p-9781118386088
 https://www.wiley.com/en-us/Bayesian+Inference+in+Statistical+Analysis-p-9780471574286
 https://www.wiley.com/en-us/Bayesian+Inference+in+Statistical+Analysis-p-9781118031445
 https://www.wiley.com/en-us/Bayesian+Networks%3A+An+Introduction-p-9781119964957
