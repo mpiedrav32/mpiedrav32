@@ -452,7 +452,7 @@ that could be utter failures in life, just like me.
 
 There's always a deeper layer of personal hell. In my case, it's about the implications of my lack of a sense of self. That gap is opportunistically invaded by the idea that I'd no longer have any freedom. Instead, there's a lingering interpretation that I belong to others.
 
-The argumentation others could provide is: "if I don't have any sense of self, you automatically become our slave. Your life is ours now. You no longer can long for death, for even your death is ours, too."
+The argumentation others could provide is: "if you don't have any sense of self, you automatically become our slave. Your life is ours now. You no longer can long for death, for even your death is ours, too."
 
 While nobody has ever stated as such to me, I perceive that idea as a persistent threat. It's just bidding its time, patiently waiting for the right moment to pounce over my flesh.
 
