@@ -8415,6 +8415,7 @@ https://en.wikipedia.org/wiki/Conda_(package_manager)
 https://en.wikipedia.org/wiki/Condensed_matter_physics
 https://en.wikipedia.org/wiki/Conditional_dependence
 https://en.wikipedia.org/wiki/Conditional_entropy
+https://en.wikipedia.org/wiki/Conditional_independence
 https://en.wikipedia.org/wiki/Conditional_mutual_information
 https://en.wikipedia.org/wiki/Conditional_probability
 https://en.wikipedia.org/wiki/Conditional_probability_distribution
@@ -10627,6 +10628,8 @@ https://en.wikipedia.org/wiki/Free-space_bitmap
 https://en.wikipedia.org/wiki/FreeBASIC
 https://en.wikipedia.org/wiki/FreeBSD
 https://en.wikipedia.org/wiki/Freedesktop.org
+https://en.wikipedia.org/wiki/Freedman%27s_paradox
+https://en.wikipedia.org/wiki/Freedman%E2%80%93Diaconis_rule
 https://en.wikipedia.org/wiki/Freedom_Downtime
 https://en.wikipedia.org/wiki/Freedom_House
 https://en.wikipedia.org/wiki/Freedom_in_the_World
@@ -16464,6 +16467,7 @@ https://en.wikipedia.org/wiki/Perron%E2%80%93Frobenius_theorem
 https://en.wikipedia.org/wiki/Perse_(mythology)
 https://en.wikipedia.org/wiki/Persephone
 https://en.wikipedia.org/wiki/Perseus
+https://en.wikipedia.org/wiki/Persi_Diaconis
 https://en.wikipedia.org/wiki/Persian_lime
 https://en.wikipedia.org/wiki/Persian_literature
 https://en.wikipedia.org/wiki/Persistence_(computer_science)
@@ -30160,6 +30164,7 @@ https://scheme.com/tspl4/
 https://scheme.fail/
 https://scholar.google.com/citations?user=AxFrw0sAAAAJ
 https://scholar.google.com/citations?user=hkJ7xKwAAAAJ
+https://scholar.google.com/citations?user=HntkbYMAAAAJ&hl=en
 https://scholar.google.com/citations?user=J-5mJ7AAAAAJ
 https://scholar.google.com/citations?user=kFbFJqIAAAAJ
 https://scholar.google.com/citations?user=mhU_tUgAAAAJ
@@ -30933,6 +30938,7 @@ https://statbel.fgov.be/en
 https://stateof.mozilla.org/
 https://static.scientificamerican.com/sciam/assets/media/interactive/2691D716-E7F2-99DF-38F54EF6075AAB4D-timeline/
 https://statistics.berkeley.edu/
+https://statistics.berkeley.edu/about/biographies/david-freedman
 https://statistics.berkeley.edu/about/memoriam/memory-leo-breiman
 https://statistics.berkeley.edu/people/david-freedman
 https://statistics.berkeley.edu/tech-reports/611
@@ -33892,6 +33898,7 @@ https://www.gdch.de/
 https://www.ge.ch/
 https://www.geany.org/
 https://www.genealogy.math.ndsu.nodak.edu/
+https://www.genealogy.math.ndsu.nodak.edu/id.php?id=29511
 https://www.genealogy.math.ndsu.nodak.edu/id.php?id=4319
 https://www.gentoo.org/
 https://www.geo.de/
@@ -37766,6 +37773,7 @@ https://www.tandfonline.com/doi/abs/10.1080/00029890.1972.11993166
 https://www.tandfonline.com/doi/abs/10.1080/00029890.1977.11994420?journalCode=uamm20
 https://www.tandfonline.com/doi/abs/10.1080/00029890.1999.12005019
 https://www.tandfonline.com/doi/abs/10.1080/00031305.1975.10477402
+https://www.tandfonline.com/doi/abs/10.1080/00031305.1983.10482729
 https://www.tandfonline.com/doi/abs/10.1080/00031305.1987.10475510
 https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375990
 https://www.tandfonline.com/doi/abs/10.1080/001075199181459
