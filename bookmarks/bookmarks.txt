@@ -5560,6 +5560,7 @@ https://en.wikipedia.org/wiki/Andr%C3%A9_Citro%C3%ABn
 https://en.wikipedia.org/wiki/Andr%C3%A9_Weil
 https://en.wikipedia.org/wiki/Andr%C3%A9-Louis_Cholesky
 https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re
+https://en.wikipedia.org/wiki/Andrea_Arpaci-Dusseau
 https://en.wikipedia.org/wiki/Andreas_Reuter
 https://en.wikipedia.org/wiki/Andrei_Alexandrescu
 https://en.wikipedia.org/wiki/Andrei_Broder
@@ -5942,6 +5943,7 @@ https://en.wikipedia.org/wiki/Atomic,_molecular,_and_optical_physics
 https://en.wikipedia.org/wiki/Atomicity_(database_systems)
 https://en.wikipedia.org/wiki/Atomism
 https://en.wikipedia.org/wiki/Atonement_(novel)
+https://en.wikipedia.org/wiki/ATS_theorem
 https://en.wikipedia.org/wiki/Attack_model
 https://en.wikipedia.org/wiki/Attack_on_Titan
 https://en.wikipedia.org/wiki/Attack_on_Titan_(TV_series)
@@ -6319,6 +6321,7 @@ https://en.wikipedia.org/wiki/Bigtable
 https://en.wikipedia.org/wiki/Bilinear_form
 https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation
 https://en.wikipedia.org/wiki/Bill_Casselman
+https://en.wikipedia.org/wiki/Bill_Joy
 https://en.wikipedia.org/wiki/Bill_Mensch
 https://en.wikipedia.org/wiki/Bill_Schelter
 https://en.wikipedia.org/wiki/Bin_Yu
@@ -6838,6 +6841,7 @@ https://en.wikipedia.org/wiki/Carl_Runge
 https://en.wikipedia.org/wiki/Carl_Sagan
 https://en.wikipedia.org/wiki/Carl_von_Clausewitz
 https://en.wikipedia.org/wiki/Carl_Wilhelm_Scheele
+https://en.wikipedia.org/wiki/Carleson%27s_theorem
 https://en.wikipedia.org/wiki/Carmichael_function
 https://en.wikipedia.org/wiki/Carnegie_Endowment_for_International_Peace
 https://en.wikipedia.org/wiki/Carnegie_Mellon_University
@@ -7128,6 +7132,7 @@ https://en.wikipedia.org/wiki/Category:Factor_analysis
 https://en.wikipedia.org/wiki/Category:Fantasy_video_game_consoles
 https://en.wikipedia.org/wiki/Category:Fault-tolerant_computer_systems
 https://en.wikipedia.org/wiki/Category:Feature_detection_(computer_vision)
+https://en.wikipedia.org/wiki/Category:FFT_algorithms
 https://en.wikipedia.org/wiki/Category:Fibonacci_numbers
 https://en.wikipedia.org/wiki/Category:Fiction_about_cryptography
 https://en.wikipedia.org/wiki/Category:Field_(mathematics)
@@ -7137,6 +7142,8 @@ https://en.wikipedia.org/wiki/Category:Foreign_policy_and_strategy_think_tanks_i
 https://en.wikipedia.org/wiki/Category:Formal_methods_people
 https://en.wikipedia.org/wiki/Category:Formerly_open-source_or_free_software
 https://en.wikipedia.org/wiki/Category:Formerly_proprietary_software
+https://en.wikipedia.org/wiki/Category:Fourier_analysis
+https://en.wikipedia.org/wiki/Category:Fourier_series
 https://en.wikipedia.org/wiki/Category:Free_and_open-source_software
 https://en.wikipedia.org/wiki/Category:Free_and_open-source_software_licenses
 https://en.wikipedia.org/wiki/Category:Free_and_open-source_software_organizations
@@ -7168,6 +7175,7 @@ https://en.wikipedia.org/wiki/Category:Growth_curves
 https://en.wikipedia.org/wiki/Category:Hacker_magazines
 https://en.wikipedia.org/wiki/Category:Hainish_Cycle
 https://en.wikipedia.org/wiki/Category:Hardware_acceleration
+https://en.wikipedia.org/wiki/Category:Harmonic_analysis
 https://en.wikipedia.org/wiki/Category:Heat_conduction
 https://en.wikipedia.org/wiki/Category:Hidden_Markov_models
 https://en.wikipedia.org/wiki/Category:Hidden_variables
@@ -9348,6 +9356,7 @@ https://en.wikipedia.org/wiki/Dimensionless_numbers_in_fluid_mechanics
 https://en.wikipedia.org/wiki/Dimitri_Bertsekas
 https://en.wikipedia.org/wiki/Dimitris_Bertsimas
 https://en.wikipedia.org/wiki/Dingoo
+https://en.wikipedia.org/wiki/Dini_test
 https://en.wikipedia.org/wiki/Dining_cryptographers_problem
 https://en.wikipedia.org/wiki/Diode_logic
 https://en.wikipedia.org/wiki/Diode%E2%80%93transistor_logic
@@ -9498,6 +9507,7 @@ https://en.wikipedia.org/wiki/Donald_Michie
 https://en.wikipedia.org/wiki/Donghak
 https://en.wikipedia.org/wiki/Doom_metal
 https://en.wikipedia.org/wiki/Doomsday_Clock
+https://en.wikipedia.org/wiki/Dorothy_E._Denning
 https://en.wikipedia.org/wiki/Dorothy_Hodgkin
 https://en.wikipedia.org/wiki/Dorothy_Lewis_Bernstein
 https://en.wikipedia.org/wiki/DOS
@@ -9688,6 +9698,7 @@ https://en.wikipedia.org/wiki/Ecumenism
 https://en.wikipedia.org/wiki/Ed_(text_editor)
 https://en.wikipedia.org/wiki/Ed_Hawkins_(climatologist)
 https://en.wikipedia.org/wiki/EdDSA
+https://en.wikipedia.org/wiki/Edgar_F._Codd
 https://en.wikipedia.org/wiki/Edgar_Lorch
 https://en.wikipedia.org/wiki/Edge_computing
 https://en.wikipedia.org/wiki/Edge_detection
@@ -10557,7 +10568,9 @@ https://en.wikipedia.org/wiki/FoundationDB
 https://en.wikipedia.org/wiki/Foundations_of_statistics
 https://en.wikipedia.org/wiki/Founders_of_statistics
 https://en.wikipedia.org/wiki/Four-phase_logic
+https://en.wikipedia.org/wiki/Fourier_algebra
 https://en.wikipedia.org/wiki/Fourier_analysis
+https://en.wikipedia.org/wiki/Fourier_integral_operator
 https://en.wikipedia.org/wiki/Fourier_inversion_theorem
 https://en.wikipedia.org/wiki/Fourier_series
 https://en.wikipedia.org/wiki/Fourier_sine_and_cosine_series
@@ -12591,6 +12604,7 @@ https://en.wikipedia.org/wiki/James_Chace
 https://en.wikipedia.org/wiki/James_Chadwick
 https://en.wikipedia.org/wiki/James_Clavell
 https://en.wikipedia.org/wiki/James_Clerk_Maxwell
+https://en.wikipedia.org/wiki/James_D._Foley
 https://en.wikipedia.org/wiki/James_D._Hamilton
 https://en.wikipedia.org/wiki/James_Durbin
 https://en.wikipedia.org/wiki/James_E._Gentle
@@ -12670,6 +12684,7 @@ https://en.wikipedia.org/wiki/Jeffrey_Heer
 https://en.wikipedia.org/wiki/Jeffrey_P._Buzen
 https://en.wikipedia.org/wiki/Jeffrey_Shallit
 https://en.wikipedia.org/wiki/Jenkins_(software)
+https://en.wikipedia.org/wiki/Jennifer_Rexford
 https://en.wikipedia.org/wiki/Jenny_Bryan
 https://en.wikipedia.org/wiki/Jens_Franke
 https://en.wikipedia.org/wiki/Jensen%27s_inequality
@@ -13140,6 +13155,7 @@ https://en.wikipedia.org/wiki/KU_Leuven
 https://en.wikipedia.org/wiki/Kuaishou
 https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 https://en.wikipedia.org/wiki/Kulm_law
+https://en.wikipedia.org/wiki/Kunle_Olukotun
 https://en.wikipedia.org/wiki/Kunsthistorisches_Museum
 https://en.wikipedia.org/wiki/Kurgan_hypothesis
 https://en.wikipedia.org/wiki/Kurt_G%C3%B6del
@@ -13745,6 +13761,7 @@ https://en.wikipedia.org/wiki/List_of_file_systems
 https://en.wikipedia.org/wiki/List_of_finite_simple_groups
 https://en.wikipedia.org/wiki/List_of_forestry_journals
 https://en.wikipedia.org/wiki/List_of_formerly_open-source_or_free_software
+https://en.wikipedia.org/wiki/List_of_Fourier_analysis_topics
 https://en.wikipedia.org/wiki/List_of_Fourier-related_transforms
 https://en.wikipedia.org/wiki/List_of_Frankish_kings
 https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_organizations
@@ -14063,6 +14080,7 @@ https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks
 https://en.wikipedia.org/wiki/List_of_United_States_technological_universities
 https://en.wikipedia.org/wiki/List_of_universities_and_higher_education_institutions_in_the_Paris_region
 https://en.wikipedia.org/wiki/List_of_universities_in_Canada
+https://en.wikipedia.org/wiki/List_of_University_of_Michigan_alumni
 https://en.wikipedia.org/wiki/List_of_University_of_Waterloo_people
 https://en.wikipedia.org/wiki/List_of_university_presses
 https://en.wikipedia.org/wiki/List_of_Unix_commands,List of Unix commands
@@ -14420,6 +14438,7 @@ https://en.wikipedia.org/wiki/Marduk
 https://en.wikipedia.org/wiki/Mare_Nostrum
 https://en.wikipedia.org/wiki/Marek_Karpinski
 https://en.wikipedia.org/wiki/Margaret_Gurney
+https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)
 https://en.wikipedia.org/wiki/Margaret_Mitchell_(scientist)
 https://en.wikipedia.org/wiki/Margin_of_error
 https://en.wikipedia.org/wiki/Marginal_cost
@@ -16690,6 +16709,7 @@ https://en.wikipedia.org/wiki/Point_location
 https://en.wikipedia.org/wiki/Point_particle
 https://en.wikipedia.org/wiki/Point_process
 https://en.wikipedia.org/wiki/Pointer_machine
+https://en.wikipedia.org/wiki/Pointwise_convergence
 https://en.wikipedia.org/wiki/Poisson_distribution
 https://en.wikipedia.org/wiki/Poisson_point_process
 https://en.wikipedia.org/wiki/Poisson_regression
@@ -17387,6 +17407,7 @@ https://en.wikipedia.org/wiki/Ramsey_theory
 https://en.wikipedia.org/wiki/RAND_Corporation
 https://en.wikipedia.org/wiki/RAND_Health_Insurance_Experiment
 https://en.wikipedia.org/wiki/Rand_index
+https://en.wikipedia.org/wiki/Randal_Bryant
 https://en.wikipedia.org/wiki/Random_assignment
 https://en.wikipedia.org/wiki/Random_dynamical_system
 https://en.wikipedia.org/wiki/Random_effects_model
@@ -17603,6 +17624,7 @@ https://en.wikipedia.org/wiki/Remez_algorithm
 https://en.wikipedia.org/wiki/Remez_inequality
 https://en.wikipedia.org/wiki/Remmina
 https://en.wikipedia.org/wiki/Remote_procedure_call
+https://en.wikipedia.org/wiki/Remzi_Arpaci-Dusseau
 https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 https://en.wikipedia.org/wiki/Ren%C3%A9_Maurice_Fr%C3%A9chet
 https://en.wikipedia.org/wiki/Renaissance_humanism
@@ -18934,6 +18956,7 @@ https://en.wikipedia.org/wiki/Square_root_of_3
 https://en.wikipedia.org/wiki/Square_root_of_5
 https://en.wikipedia.org/wiki/Square_root_of_6
 https://en.wikipedia.org/wiki/Square_root_of_7
+https://en.wikipedia.org/wiki/Square-integrable_function
 https://en.wikipedia.org/wiki/Squared_deviations_from_the_mean
 https://en.wikipedia.org/wiki/Squeak
 https://en.wikipedia.org/wiki/Squid_(software)
@@ -19098,6 +19121,7 @@ https://en.wikipedia.org/wiki/Step_detection
 https://en.wikipedia.org/wiki/Step_function
 https://en.wikipedia.org/wiki/Step_response
 https://en.wikipedia.org/wiki/Stephan_A._Hoeller
+https://en.wikipedia.org/wiki/Stephen_Cook
 https://en.wikipedia.org/wiki/Stephen_Grossberg
 https://en.wikipedia.org/wiki/Stephen_Hawking
 https://en.wikipedia.org/wiki/Stephen_P._Boyd
@@ -20104,6 +20128,7 @@ https://en.wikipedia.org/wiki/Trigonometric_functions_of_matrices
 https://en.wikipedia.org/wiki/Trigonometric_integral
 https://en.wikipedia.org/wiki/Trigonometric_polynomial
 https://en.wikipedia.org/wiki/Trigonometric_series
+https://en.wikipedia.org/wiki/Trigonometric_Series
 https://en.wikipedia.org/wiki/Trigonometric_substitution
 https://en.wikipedia.org/wiki/Trilinos
 https://en.wikipedia.org/wiki/Trimean
@@ -20403,6 +20428,9 @@ https://en.wikipedia.org/wiki/University_of_Greifswald
 https://en.wikipedia.org/wiki/University_of_Illinois/NCSA_Open_Source_License
 https://en.wikipedia.org/wiki/University_of_Jena
 https://en.wikipedia.org/wiki/University_of_Kaiserslautern-Landau
+https://en.wikipedia.org/wiki/University_of_Michigan
+https://en.wikipedia.org/wiki/University_of_Michigan%E2%80%93Dearborn
+https://en.wikipedia.org/wiki/University_of_Michigan%E2%80%93Flint
 https://en.wikipedia.org/wiki/University_of_Minnesota_College_of_Science_and_Engineering
 https://en.wikipedia.org/wiki/University_of_Naples_Federico_II
 https://en.wikipedia.org/wiki/University_of_Orl%C3%A9ans
@@ -26103,6 +26131,7 @@ https://library.lol/main/C5469066E3E18CB5E74CD8D46F9B6EBE
 https://library.lol/main/C59DA252633E91D65AE25BD5F998372A
 https://library.lol/main/C65994DA217661D11D6EE26067B4CDFE
 https://library.lol/main/C6ABA1FC573E49EA77DB4B223B3B3284
+https://library.lol/main/C7C1726840761A50F598AA330894BCD0
 https://library.lol/main/C7E7FA7A06373F2E4E955DC9EF9BE643
 https://library.lol/main/C7EAD738B08913984E424BEF03FCAB0C
 https://library.lol/main/CA33A08BBE2ED2EF4769D8FF9FBDDE41
@@ -27395,6 +27424,7 @@ https://maa.org/press/maa-reviews/fields-and-rings
 https://maa.org/press/maa-reviews/foundations-and-applications-of-statistics-an-introduction-using-r
 https://maa.org/press/maa-reviews/foundations-of-linear-and-generalized-linear-models
 https://maa.org/press/maa-reviews/four-colors-suffice-how-the-map-problem-was-solved
+https://maa.org/press/maa-reviews/fourier-analysis-an-introduction
 https://maa.org/press/maa-reviews/fourier-series-and-boundary-value-problems
 https://maa.org/press/maa-reviews/from-error-correcting-codes-through-sphere-packings-to-simple-groups
 https://maa.org/press/maa-reviews/functional-analysis
@@ -27485,6 +27515,7 @@ https://maa.org/press/maa-reviews/theory-of-recursive-functions-and-effective-co
 https://maa.org/press/maa-reviews/time-series-analysis-forecasting-and-control
 https://maa.org/press/maa-reviews/topics-in-algebra
 https://maa.org/press/maa-reviews/topology-0
+https://maa.org/press/maa-reviews/trigonometric-series
 https://maa.org/press/maa-reviews/understanding-robust-and-exploratory-data-analysis
 https://maa.org/press/maa-reviews/unsolved-the-history-and-mystery-of-the-worlds-greatest-ciphers-from-ancient-egypt-to-online-secret
 https://maa.org/press/maa-reviews/vector-calculus
@@ -29840,6 +29871,7 @@ https://reference.wolfram.com/language/ref/PolyhedronData.html
 https://refeus.de/content/start/
 https://refindit.org/
 https://refworks.proquest.com/
+https://regents.umich.edu/
 https://regexcrossword.com/
 https://registry.opendata.aws/
 https://registry.opendata.aws/nyc-tlc-trip-records-pds/
@@ -31439,6 +31471,7 @@ https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx
 https://tutorial.math.lamar.edu/classes/calciii/lagrangemultipliers.aspx
 https://tutorial.math.lamar.edu/Classes/DE/DE.aspx
 https://tutorial.math.lamar.edu/classes/de/DiracDeltaFunction.aspx
+https://tutorial.math.lamar.edu/classes/de/IntroBVP.aspx
 https://tutorial.math.lamar.edu/classes/de/laplace_table.aspx
 https://tutorial.math.lamar.edu/classes/de/StepFunctions.aspx
 https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx
@@ -32039,6 +32072,7 @@ https://www.amazon.com/Design-Analysis-Experiments-Douglas-Montgomery/dp/1119722
 https://www.amazon.com/Digital-Image-Processing-Rafael-Gonzalez/dp/0133356728
 https://www.amazon.com/Electricity-Magnetism-Edward-M-Purcell/dp/1107014026
 https://www.amazon.com/Elements-Information-Theory-Telecommunications-Processing/dp/0471241954
+https://www.amazon.com/Fourier-Boundary-Value-Problems-Churchill/dp/007803597X
 https://www.amazon.com/Functional-Analysis-Dover-Books-Mathematics/dp/0486662896
 https://www.amazon.com/gp/product/0425278905
 https://www.amazon.com/Gravitation-Charles-W-Misner/dp/0691177791
@@ -32467,6 +32501,7 @@ https://www.cambridge.org/core/books/advanced-data-structures/D56E2269D7CEE969A3
 https://www.cambridge.org/core/books/algorithmic-algebraic-number-theory/1A1015DFC0CEB169709400B78417CD60
 https://www.cambridge.org/core/books/algorithmic-game-theory/0092C07CA8B724E1B1BE2238DDD66B38
 https://www.cambridge.org/core/books/algorithmic-highdimensional-robust-statistics/6AB511A1129F08F22D7D492B1A75ECAB
+https://www.cambridge.org/core/books/an-introduction-to-harmonic-analysis/67C4CE356E7420BA17F3F1337291EF82
 https://www.cambridge.org/core/books/an-introduction-to-statistical-signal-processing/E26F38B38E66B808AF0A7CD52BE66B35
 https://www.cambridge.org/core/books/an-introduction-to-symbolic-dynamics-and-coding/55BF49690F146403335C79ABD84C4C25
 https://www.cambridge.org/core/books/an-investigation-of-the-laws-of-thought/80F323924812F038128653E6097E8953
@@ -32579,6 +32614,7 @@ https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming
 https://www.cambridge.org/core/publications/collections/cambridge-library-collection
 https://www.cambridge.org/core/series/cambridge-history-of-russia/3A1986470F824B4693DC1FCB409C6491
 https://www.cambridge.org/core/series/cambridge-library-collection-mathematics/5A30CD613E77074BE6AE746A4A379C51
+https://www.cambridge.org/core/series/cambridge-mathematical-library/F04D2C33279B5B7ED261AE5111C064D2
 https://www.cambridge.org/core/series/canto-classics/272D3146AB49765AB57FDE56EF24EB71
 https://www.cambridge.org/highereducation/books/bayesian-reasoning-and-machine-learning/37DAFA214EEE41064543384033D2ECF0
 https://www.cambridge.org/highereducation/books/communication-theory/9CA477FACEB728B8F56CC100BE9200D3
@@ -34111,6 +34147,7 @@ https://www.goodreads.com/book/show/1039914.Mathematical_Foundations_of_Elastici
 https://www.goodreads.com/book/show/1039915.Basic_Multivariable_Calculus
 https://www.goodreads.com/book/show/1053394.Term_Rewriting_and_All_That
 https://www.goodreads.com/book/show/1084367.Interrupted_Time_Series_Analysis
+https://www.goodreads.com/book/show/10936279
 https://www.goodreads.com/book/show/1102716.Design_and_Analysis_of_Experiments
 https://www.goodreads.com/book/show/112251.The_C_Programming_Language
 https://www.goodreads.com/book/show/112252.Types_and_Programming_Languages
@@ -35579,6 +35616,7 @@ https://www.mheducation.com/highered/product/elementary-number-theory-burton/M97
 https://www.mheducation.com/highered/product/principles-mathematical-analysis-rudin/M9780070542358.html
 https://www.mheducation.com/highered/product/real-complex-analysis-rudin/M9780070542341.html
 https://www.mhhe.com/engcs/electrical/papoulis/
+https://www.mhprofessional.com/fourier-series-and-boundary-value-problems-9780078035975-usa
 https://www.michaelshell.org/tex/ieeetran/
 https://www.microchip.com/
 https://www.microchip.com/en-us/product/atmega8
