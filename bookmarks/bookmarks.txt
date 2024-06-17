@@ -7731,6 +7731,7 @@ https://en.wikipedia.org/wiki/Charles_F._Van_Loan
 https://en.wikipedia.org/wiki/Charles_Galton_Darwin
 https://en.wikipedia.org/wiki/Charles_H._Moore
 https://en.wikipedia.org/wiki/Charles_Hermite
+https://en.wikipedia.org/wiki/Charles_Joseph_Minard
 https://en.wikipedia.org/wiki/Charles_Katz
 https://en.wikipedia.org/wiki/Charles_Manson
 https://en.wikipedia.org/wiki/Charles_Path%C3%A9
@@ -8423,6 +8424,7 @@ https://en.wikipedia.org/wiki/Cone_cell
 https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition
 https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems
 https://en.wikipedia.org/wiki/Confidence_interval
+https://en.wikipedia.org/wiki/Configural_frequency_analysis
 https://en.wikipedia.org/wiki/Configuration_management
 https://en.wikipedia.org/wiki/Configuration_space_(mathematics)
 https://en.wikipedia.org/wiki/Configuration_space_(physics)
@@ -10176,6 +10178,7 @@ https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm
 https://en.wikipedia.org/wiki/Experimental_mathematics
 https://en.wikipedia.org/wiki/Experimental_physics
 https://en.wikipedia.org/wiki/Expert_system
+https://en.wikipedia.org/wiki/Explainable_artificial_intelligence
 https://en.wikipedia.org/wiki/Explicit_and_implicit_methods
 https://en.wikipedia.org/wiki/Explicit_knowledge
 https://en.wikipedia.org/wiki/Exploit_(computer_security)
@@ -10470,6 +10473,7 @@ https://en.wikipedia.org/wiki/Florida_Institute_of_Technology
 https://en.wikipedia.org/wiki/Florida_Polytechnic_University
 https://en.wikipedia.org/wiki/Floris_Takens
 https://en.wikipedia.org/wiki/Flow_(mathematics)
+https://en.wikipedia.org/wiki/Flow_map
 https://en.wikipedia.org/wiki/Flow_network
 https://en.wikipedia.org/wiki/Flow-based_generative_model
 https://en.wikipedia.org/wiki/FLOW-MATIC
@@ -10644,6 +10648,7 @@ https://en.wikipedia.org/wiki/French_Alternative_Energies_and_Atomic_Energy_Comm
 https://en.wikipedia.org/wiki/French_campaign_in_Egypt_and_Syria
 https://en.wikipedia.org/wiki/French_Fifth_Republic
 https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation
+https://en.wikipedia.org/wiki/French_invasion_of_Russia
 https://en.wikipedia.org/wiki/French_materialism
 https://en.wikipedia.org/wiki/French_National_Centre_for_Scientific_Research
 https://en.wikipedia.org/wiki/French_New_Wave
@@ -11535,6 +11540,7 @@ https://en.wikipedia.org/wiki/Heat_engine
 https://en.wikipedia.org/wiki/Heat_equation
 https://en.wikipedia.org/wiki/Heat_index
 https://en.wikipedia.org/wiki/Heat_kernel
+https://en.wikipedia.org/wiki/Heat_map
 https://en.wikipedia.org/wiki/Heat_sink
 https://en.wikipedia.org/wiki/Heat_transfer
 https://en.wikipedia.org/wiki/Heat_wave
@@ -11974,6 +11980,7 @@ https://en.wikipedia.org/wiki/ICOMP_(index)
 https://en.wikipedia.org/wiki/Icon_(programming_language)
 https://en.wikipedia.org/wiki/Iconectiv
 https://en.wikipedia.org/wiki/Iconoclasm
+https://en.wikipedia.org/wiki/Iconography_of_correlations
 https://en.wikipedia.org/wiki/ICP_license
 https://en.wikipedia.org/wiki/ID3_algorithm
 https://en.wikipedia.org/wiki/IDEA_League
@@ -12799,6 +12806,7 @@ https://en.wikipedia.org/wiki/Joseph_L._Walsh
 https://en.wikipedia.org/wiki/Joseph_Larmor
 https://en.wikipedia.org/wiki/Joseph_Liouville
 https://en.wikipedia.org/wiki/Joseph_Louis_Gay-Lussac
+https://en.wikipedia.org/wiki/Joseph_M._Hellerstein
 https://en.wikipedia.org/wiki/Joseph_Mauborgne
 https://en.wikipedia.org/wiki/Joseph_Priestley
 https://en.wikipedia.org/wiki/Joseph_Ritt
@@ -13020,6 +13028,7 @@ https://en.wikipedia.org/wiki/Kile
 https://en.wikipedia.org/wiki/Kill_chain
 https://en.wikipedia.org/wiki/Killer_NIC
 https://en.wikipedia.org/wiki/Killing_of_Osama_bin_Laden
+https://en.wikipedia.org/wiki/Kim_Albrecht
 https://en.wikipedia.org/wiki/Kim_Philby
 https://en.wikipedia.org/wiki/KIM-1
 https://en.wikipedia.org/wiki/Kinect
@@ -14641,6 +14650,7 @@ https://en.wikipedia.org/wiki/Medea
 https://en.wikipedia.org/wiki/Medea_(play)
 https://en.wikipedia.org/wiki/Median
 https://en.wikipedia.org/wiki/Median_absolute_deviation
+https://en.wikipedia.org/wiki/Median_polish
 https://en.wikipedia.org/wiki/Median_test
 https://en.wikipedia.org/wiki/MediaTek
 https://en.wikipedia.org/wiki/Medical_diagnosis
@@ -15100,6 +15110,7 @@ https://en.wikipedia.org/wiki/Multi-licensing
 https://en.wikipedia.org/wiki/Multi-objective_optimization
 https://en.wikipedia.org/wiki/Multi-party_system
 https://en.wikipedia.org/wiki/Multi-track_Turing_machine
+https://en.wikipedia.org/wiki/Multi-vari_chart
 https://en.wikipedia.org/wiki/Multicore_Association
 https://en.wikipedia.org/wiki/Multidimensional_analysis
 https://en.wikipedia.org/wiki/MultiDimensional_eXpressions
@@ -15759,6 +15770,7 @@ https://en.wikipedia.org/wiki/Octave_Levenspiel
 https://en.wikipedia.org/wiki/Octavo
 https://en.wikipedia.org/wiki/Octeract_Engine
 https://en.wikipedia.org/wiki/October_Revolution
+https://en.wikipedia.org/wiki/Odds_ratio
 https://en.wikipedia.org/wiki/Oded_Goldreich
 https://en.wikipedia.org/wiki/Odia_language
 https://en.wikipedia.org/wiki/Odin
@@ -16239,6 +16251,7 @@ https://en.wikipedia.org/wiki/Paradox_of_thrift
 https://en.wikipedia.org/wiki/Parag_Khanna
 https://en.wikipedia.org/wiki/Parallel_Colt
 https://en.wikipedia.org/wiki/Parallel_computing
+https://en.wikipedia.org/wiki/Parallel_coordinates
 https://en.wikipedia.org/wiki/Parallel_database
 https://en.wikipedia.org/wiki/Parallel_Extensions
 https://en.wikipedia.org/wiki/Parallel_RAM
@@ -16886,6 +16899,7 @@ https://en.wikipedia.org/wiki/Predictability
 https://en.wikipedia.org/wiki/Prediction
 https://en.wikipedia.org/wiki/Prediction_interval
 https://en.wikipedia.org/wiki/Prediction_market
+https://en.wikipedia.org/wiki/Predictive_analytics
 https://en.wikipedia.org/wiki/Predictive_Model_Markup_Language
 https://en.wikipedia.org/wiki/PREEMPT_RT
 https://en.wikipedia.org/wiki/Preemption_(computing)
@@ -18495,6 +18509,7 @@ https://en.wikipedia.org/wiki/Similarity_measure
 https://en.wikipedia.org/wiki/Similarity_search
 https://en.wikipedia.org/wiki/Simon_Newcomb
 https://en.wikipedia.org/wiki/Simon_Peyton_Jones
+https://en.wikipedia.org/wiki/Simon_Wardley
 https://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library
 https://en.wikipedia.org/wiki/Simple_Authentication_and_Security_Layer
 https://en.wikipedia.org/wiki/Simple_cell
@@ -19424,6 +19439,7 @@ https://en.wikipedia.org/wiki/Tanja_Lange
 https://en.wikipedia.org/wiki/Tantra
 https://en.wikipedia.org/wiki/Taoism
 https://en.wikipedia.org/wiki/Tape_library
+https://en.wikipedia.org/wiki/Targeted_projection_pursuit
 https://en.wikipedia.org/wiki/Tarja_Turunen
 https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm
 https://en.wikipedia.org/wiki/Tarski%27s_high_school_algebra_problem
@@ -20086,6 +20102,7 @@ https://en.wikipedia.org/wiki/Trigonometric_polynomial
 https://en.wikipedia.org/wiki/Trigonometric_series
 https://en.wikipedia.org/wiki/Trigonometric_substitution
 https://en.wikipedia.org/wiki/Trilinos
+https://en.wikipedia.org/wiki/Trimean
 https://en.wikipedia.org/wiki/Trimmed_estimator
 https://en.wikipedia.org/wiki/Trinity_College_Dublin
 https://en.wikipedia.org/wiki/Trinity_College_London
@@ -25175,6 +25192,7 @@ https://journals.sagepub.com/doi/10.1177/0301006619844680
 https://journals.sagepub.com/doi/10.1177/0306312710378448
 https://journals.sagepub.com/doi/10.1177/17470161211018257
 https://journals.sagepub.com/doi/10.1177/2041669520953457
+https://journals.sagepub.com/doi/10.1177/2515245918771329
 https://journals.sagepub.com/doi/full/10.1177/0961000618773133
 https://journals.sagepub.com/doi/full/10.1177/26339137221114874
 https://journals.sagepub.com/home/ASR
@@ -29018,6 +29036,7 @@ https://people.csail.mit.edu/silvio/
 https://people.csail.mit.edu/vinodv/
 https://people.csail.mit.edu/virgi/
 https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/readings.html
+https://people.eecs.berkeley.edu/~bh/sicp.html
 https://people.eecs.berkeley.edu/~brewer/
 https://people.eecs.berkeley.edu/~brewer/cs262/
 https://people.eecs.berkeley.edu/~brewer/cs262b-2004/PODC-keynote.pdf
