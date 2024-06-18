@@ -16357,6 +16357,8 @@ https://en.wikipedia.org/wiki/Parvati
 https://en.wikipedia.org/wiki/Pasadena,_California
 https://en.wikipedia.org/wiki/Pascal_(programming_language)
 https://en.wikipedia.org/wiki/Pascal_Van_Hentenryck
+https://en.wikipedia.org/wiki/Pascal%27s_rule
+https://en.wikipedia.org/wiki/Pascal%27s_triangle
 https://en.wikipedia.org/wiki/Pass_(software)
 https://en.wikipedia.org/wiki/Pass_transistor_logic
 https://en.wikipedia.org/wiki/Passive_attack
@@ -25913,6 +25915,7 @@ https://library.lol/main/36E6532B72807B9EF6B27E52E8C62CCC
 https://library.lol/main/373C67B0C5E22C9B92B1D8FACDC47E68
 https://library.lol/main/385782CF8B38137659C865AE61251601
 https://library.lol/main/3917534DE1C59122745CE3A45F6B6A10
+https://library.lol/main/3A980982A86AD5FE2C29C98369AD4DF0
 https://library.lol/main/3AA73441DBD798A5C454614F3B24811D
 https://library.lol/main/3B5083DEFD5216E127019222F74B7FE5
 https://library.lol/main/3B6AC0E920BBD3A6FDDAD6A69530846B
@@ -25925,6 +25928,7 @@ https://library.lol/main/3DC67E8A2A4887556DFBDB5B9DF4ECE8
 https://library.lol/main/3DD11D360C305D66DDBB90D2DEE623DD
 https://library.lol/main/3E7CE6B4EDD03A4B4A5A224DB0DCE512
 https://library.lol/main/3E8D4AD748173B9E2349A6E7728817C0
+https://library.lol/main/3ECBD435917E414CB6AA7FD13ADD9429
 https://library.lol/main/40164ECD08699C4465128C0EF1D034E3
 https://library.lol/main/407A5ED0AF60041C99CE17767B3C0D97
 https://library.lol/main/42AEFAA7B61B6197D5269544A7E3F9BD
@@ -26074,6 +26078,7 @@ https://library.lol/main/9C326AAD403D438ED5C297E059ED4D90
 https://library.lol/main/9CAC7C755EEAB39C2A977131F69A6759
 https://library.lol/main/9CE98C127C79E548EBEA18966F526AE9
 https://library.lol/main/9D0F7F7C0ED89543BA8BDE4F98BFECE9
+https://library.lol/main/9F668B41BC48AD7421FB4DCAC4AC1D71
 https://library.lol/main/9FB758CE7DA3FF1782AEE038AFA06FBA
 https://library.lol/main/A0BA11C6538CD8A8FB4358D7CEE97DF9
 https://library.lol/main/A23613D124D6A2360A03423B23BA9036
@@ -26103,8 +26108,10 @@ https://library.lol/main/AFEA50AF4A9C47B5785843551DBD9F40
 https://library.lol/main/B1A5E92F5EEB4919C65B865D509E1398
 https://library.lol/main/B1E0BB0DC4D5661BE6C9FBB928D12A1F
 https://library.lol/main/B1FB3ACFFE5AF85CBA01570AB90F48EF
+https://library.lol/main/B20BF89DC4BA6C244E32AE8DEC3EF6A6
 https://library.lol/main/B28E0CFDD740618FB7088CA0F666DD36
 https://library.lol/main/B2F20453D6ACAA2D60AF8719B12D11B5
+https://library.lol/main/B4C05CBAD0900433E59095B326BE40FA
 https://library.lol/main/B56092538D41992FE164749FF7A29A04
 https://library.lol/main/B5F1BDC4878C2019D9C3749319140592
 https://library.lol/main/B6A0AD777B318A139216E2096D9F9B87
@@ -26178,6 +26185,7 @@ https://library.lol/main/EBFA743BC4F266292781D862336842C9
 https://library.lol/main/EC0EFFCEABD1C79519F417ABAEB56877
 https://library.lol/main/EC87EC7FB50301568842F25EDB3E6F31
 https://library.lol/main/EE4F14F89C6D2E0C9369194A69AB9F8A
+https://library.lol/main/EE64B66AF29D95F8A96D149EE43019B7
 https://library.lol/main/EE7088494248E3E02232D54A0AB1BCF1
 https://library.lol/main/EECF604531F1C4F8F595AEA79638C3C0
 https://library.lol/main/EEFAF61AD6928B336FBCEE853BE293E1
@@ -26192,6 +26200,7 @@ https://library.lol/main/F3D21CE4DE6685496AC5A07721B98D26
 https://library.lol/main/F406758AD95020E7B2C0189E7497B3D7
 https://library.lol/main/F41AFCB0B44DD6DF662C40F9A302E6B4
 https://library.lol/main/F485E7411231C018C2C4A3700C369646
+https://library.lol/main/F4B9B39C52A6520BFF8602F43BBF9367
 https://library.lol/main/F5232E5E2F6647D9FAEF7BA9B3BEB68F
 https://library.lol/main/F53B8B522B404FE0AA55927C53E3E6BE
 https://library.lol/main/F6C4DCA50EF84B4ABA9E02FB67E5CE15
@@ -27338,6 +27347,7 @@ https://m-clark.github.io/text-analysis-with-R/
 https://m-dml.org/seminar.html
 https://m.meizu.com/en
 https://maa.org/
+https://maa.org/maa-reviews/
 https://maa.org/making-the-invisible-visible
 https://maa.org/press/maa-reviews/a-book-of-abstract-algebra
 https://maa.org/press/maa-reviews/a-classical-introduction-to-modern-number-theory
@@ -27543,6 +27553,7 @@ https://maa.org/publications/maa-reviews/the-art-of-computer-programming-volume-
 https://maa.org/sites/default/files/pdf/pubs/focus/Gardner_PenroseTilings1-1977.pdf
 https://maa.org/sites/default/files/pdf/pubs/focus/Gardner_PublicKeyCrypto8-1977.pdf
 https://maa.org/tags/computational-number-theory
+https://maa.org/the-basic-library-list-the-basic-library-list-maas-recommendations-for-undergraduate-librariesthe-basic-library-list/
 https://maa.tandfonline.com/journals/uamm20
 https://macaulay2.com/
 https://machalliance.org/
@@ -29404,6 +29415,7 @@ https://preshing.com/20120930/weak-vs-strong-memory-models/
 https://press.princeton.edu/books/ebook/9780691184302/origins-of-the-kabbalah
 https://press.princeton.edu/books/ebook/9781400846221/invisible-in-the-storm
 https://press.princeton.edu/books/hardcover/9780691042893/time-series-analysis
+https://press.princeton.edu/books/hardcover/9780691080789/introduction-to-fourier-analysis-on-euclidean-spaces-pms-32-volume-32
 https://press.princeton.edu/books/hardcover/9780691113845/fourier-analysis
 https://press.princeton.edu/books/hardcover/9780691113852/complex-analysis
 https://press.princeton.edu/books/hardcover/9780691113869/real-analysis
@@ -35818,6 +35830,7 @@ https://www.nature.com/articles/d41586-024-01387-9
 https://www.nature.com/articles/d41586-024-01493-8
 https://www.nature.com/articles/d41586-024-01609-0
 https://www.nature.com/articles/d41586-024-01732-y
+https://www.nature.com/articles/d41586-024-02005-4
 https://www.nature.com/articles/nature13570
 https://www.nature.com/articles/nature14539
 https://www.nature.com/articles/nature16961
