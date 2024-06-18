@@ -21799,6 +21799,7 @@ https://freejournals.org/
 https://freenode.net/
 https://freetype.org/
 https://freiheit.com/
+https://freiheitsrechte.org/
 https://fricas.github.io/
 https://fricas.sourceforge.net/
 https://frida.re/
@@ -31337,6 +31338,8 @@ https://thisisstatistics.org/
 https://threatpost.com/
 https://threejs.org/
 https://threema.ch/en
+https://threema.ch/en/blog/posts/stop-chat-control
+https://threema.ch/en/secure-messenger
 https://thrift.apache.org/
 https://thrust.github.io/
 https://thrysoee.dk/editline/
