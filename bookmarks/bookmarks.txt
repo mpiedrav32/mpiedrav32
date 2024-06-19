@@ -12,6 +12,7 @@ http://aleph0.clarku.edu/~djoyce/java/elements/toc.html
 http://aliramadhan.me/
 http://appliedpredictivemodeling.com/
 http://archives.news.yale.edu/v29.n18/story18.html
+http://arco.unex.es/smpcache/
 http://arewemetayet.com/
 http://ash.engr.uconn.edu/~acr/
 http://aspell.net/
@@ -2725,6 +2726,7 @@ https://cs.uwaterloo.ca/journals/JIS/VOL6/Ufnarovski/ufnarovski.pdf
 https://cs.uwaterloo.ca/research/research-areas/computer-algebra-and-symbolic-computation
 https://cs155.stanford.edu/
 https://cs155.stanford.edu/syllabus.html
+https://cs224.cs.vassar.edu/assignments/cachelab/
 https://cs3110.github.io/textbook/cover.html
 https://cs61c.org/fa22/
 https://csapp.cs.cmu.edu/3e/code.html
@@ -4685,6 +4687,7 @@ https://dx.doi.org/10.1561/1900000002
 https://dx.doi.org/10.1561/1900000017
 https://dx.doi.org/10.1561/1900000073
 https://dyalog.com/
+https://dynamorio.org/sec_drcachesim_sim.html
 https://dyne.org/
 https://dyne.org/software/dynebolic/
 https://dzone.com/articles/real-time-analytics-for-iot
@@ -9355,6 +9358,7 @@ https://en.wikipedia.org/wiki/Dimensionality_reduction
 https://en.wikipedia.org/wiki/Dimensionless_numbers_in_fluid_mechanics
 https://en.wikipedia.org/wiki/Dimitri_Bertsekas
 https://en.wikipedia.org/wiki/Dimitris_Bertsimas
+https://en.wikipedia.org/wiki/Dinero_(cache_simulator)
 https://en.wikipedia.org/wiki/Dingoo
 https://en.wikipedia.org/wiki/Dini_test
 https://en.wikipedia.org/wiki/Dining_cryptographers_problem
@@ -10612,6 +10616,7 @@ https://en.wikipedia.org/wiki/Frank_Anscombe
 https://en.wikipedia.org/wiki/Frank_Herbert
 https://en.wikipedia.org/wiki/Frank_Kelly_(mathematician)
 https://en.wikipedia.org/wiki/Frank_Rowlett
+https://en.wikipedia.org/wiki/Frank_Yates
 https://en.wikipedia.org/wiki/Frank%E2%80%93Wolfe_algorithm
 https://en.wikipedia.org/wiki/Frankfurt
 https://en.wikipedia.org/wiki/Frankfurt_School
@@ -19365,6 +19370,7 @@ https://en.wikipedia.org/wiki/Symfony
 https://en.wikipedia.org/wiki/Symmetric_function
 https://en.wikipedia.org/wiki/Symmetric_group
 https://en.wikipedia.org/wiki/Symmetric_mean_absolute_percentage_error
+https://en.wikipedia.org/wiki/Symmetric_multiprocessing
 https://en.wikipedia.org/wiki/Symmetric_polynomial
 https://en.wikipedia.org/wiki/Symmetric_rank-one
 https://en.wikipedia.org/wiki/Symmetric_Turing_machine
@@ -21095,6 +21101,7 @@ https://en.wikipedia.org/wiki/YAP_(Prolog)
 https://en.wikipedia.org/wiki/Yarn_(package_manager)
 https://en.wikipedia.org/wiki/Yarrow_algorithm
 https://en.wikipedia.org/wiki/Yarsanism
+https://en.wikipedia.org/wiki/Yates_analysis
 https://en.wikipedia.org/wiki/Yazidis
 https://en.wikipedia.org/wiki/YBC_7289
 https://en.wikipedia.org/wiki/YCSB
@@ -28881,6 +28888,7 @@ https://pacmanattack.com/
 https://padloc.app/
 https://pages.cs.wisc.edu/~ace/cs642-spring-2016.html
 https://pages.cs.wisc.edu/~larus/larus.html
+https://pages.cs.wisc.edu/~markhill/DineroIV/
 https://pages.cs.wisc.edu/~remzi/OSTEP/
 https://pages.cs.wisc.edu/~remzi/OSTEP/dist-nfs.pdf
 https://pages.cs.wisc.edu/~swright/
@@ -29906,6 +29914,7 @@ https://repology.org/
 https://repology.org/repositories/statistics
 https://repology.org/repository/debian_12
 https://repositorio.ul.pt/handle/10451/14147?locale=en
+https://repository.rothamsted.ac.uk/item/98765/the-design-and-analysis-of-factorial-experiments
 https://reproducible-builds.org/
 https://research-information.bris.ac.uk/en/studentTheses/cryptographic-access-control
 https://research.cs.wisc.edu/htcondor/
@@ -31406,6 +31415,7 @@ https://today.oregonstate.edu/archives/2016/may/massive-online-database-lays-fou
 https://toddwschneider.com/dashboards/nyc-taxi-uber-lyft-fare-and-driver-pay-comparison/
 https://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/
 https://togaware.com/
+https://toitlang.org/
 https://tokio.rs/
 https://tomcat.apache.org/
 https://toml.io/en/
