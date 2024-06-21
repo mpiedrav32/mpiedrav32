@@ -2,6 +2,6 @@
 
 Computer Science student at University of Costa Rica. Interested in computational mathematics.
 
-Tech stack: Linux (Debian), R, Python, C, C++, SQL (PostgreSQL), LaTeX.
+Tech stack: Linux, R, Python, C, C++, SQL, LaTeX.
 
 Contact: mpiedrav@proton.me
