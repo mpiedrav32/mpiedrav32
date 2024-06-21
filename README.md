@@ -4,6 +4,4 @@ Computer Science student at University of Costa Rica. Interested in computationa
 
 Tech stack: Debian GNU/Linux, R, Python, C, C++, SQL, LaTeX.
 
-I prefer working on CLIs, APIs, backends, engines, servers, data analysis, systems programming.
-
 Contact: mpiedrav@proton.me
