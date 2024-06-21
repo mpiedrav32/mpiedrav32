@@ -10191,6 +10191,7 @@ https://en.wikipedia.org/wiki/Executive_Systems_Problem_Oriented_Language
 https://en.wikipedia.org/wiki/Exercises_in_Style
 https://en.wikipedia.org/wiki/Exercism
 https://en.wikipedia.org/wiki/Exeter_Book
+https://en.wikipedia.org/wiki/Exim
 https://en.wikipedia.org/wiki/Existential_nihilism
 https://en.wikipedia.org/wiki/Existential_quantification
 https://en.wikipedia.org/wiki/Existentialist_anarchism
@@ -16482,6 +16483,7 @@ https://en.wikipedia.org/wiki/Periodic_point
 https://en.wikipedia.org/wiki/Periodic_table
 https://en.wikipedia.org/wiki/Periodogram
 https://en.wikipedia.org/wiki/Perl
+https://en.wikipedia.org/wiki/Perl_Compatible_Regular_Expressions
 https://en.wikipedia.org/wiki/Perl_control_structures
 https://en.wikipedia.org/wiki/Perl_Data_Language
 https://en.wikipedia.org/wiki/Perl_Foundation
@@ -29056,6 +29058,7 @@ https://pavpanchekha.com/blog/zippers/huet.html
 https://paywallhub.com/
 https://pcapplusplus.github.io/
 https://pcotret.gitlab.io/riscv-custom/
+https://pcre.org/
 https://pdf.io/
 https://pdfa.org/
 https://pdfa.org/product/3-heights-document-converter/
@@ -30005,6 +30008,7 @@ https://reverse.put.as/crackmes/
 https://revistafal.com/
 https://revistas.ucr.ac.cr/
 https://revolutionlightboards.com/
+https://rexegg.com/
 https://rhash.sourceforge.io/
 https://riaus.org.au/
 https://rich-iannone.github.io/DiagrammeR/
@@ -36408,6 +36412,7 @@ https://www.pcmag.com/
 https://www.pcmag.com/picks/the-best-vpn-services
 https://www.pcmag.com/reviews/lenovo-thinkpad-x1-carbon-gen-11-2023
 https://www.pcmag.com/reviews/lenovo-thinkpad-x1-carbon-gen-9-2021
+https://www.pcre.org/
 https://www.pcwelt.de/
 https://www.pcworld.com/
 https://www.pdf-tools.com/
