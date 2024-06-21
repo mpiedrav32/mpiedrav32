@@ -1767,6 +1767,7 @@ https://cairographics.org/cairomm/
 https://cakephp.org/
 https://calcpad.eu/
 https://calculatedcontent.com/
+https://calculatingempires.net/
 https://calculus.eguidotti.com/
 https://calculusmadeeasy.org/
 https://calgo.acm.org/
@@ -3450,6 +3451,7 @@ https://devuan.c3l.lu/
 https://devurls.com/
 https://dgap.org/de
 https://dgap.org/de?_ga=2.188081067.286675225.1699282247-532341935.1699282247
+https://dialogue.earth/en/
 https://dials.tidymodels.org/
 https://dianne.skoll.ca/projects/rp-pppoe/
 https://diceware.dmuth.org/
@@ -3612,6 +3614,7 @@ https://dl.acm.org/doi/10.1145/2448963.2448967
 https://dl.acm.org/doi/10.1145/2534706.2534719
 https://dl.acm.org/doi/10.1145/2542661.2543971
 https://dl.acm.org/doi/10.1145/2567948.2578843
+https://dl.acm.org/doi/10.1145/258533.258660
 https://dl.acm.org/doi/10.1145/2592798.2592801
 https://dl.acm.org/doi/10.1145/2677030
 https://dl.acm.org/doi/10.1145/2685690.2687011
@@ -4753,6 +4756,7 @@ https://ed25519.cr.yp.to/
 https://edge.seas.harvard.edu/tinyml
 https://edgeimpulse.com/
 https://edition.cnn.com/
+https://edition.cnn.com/2013/09/09/tech/innovation/danny-lewin-9-11-akamai/index.html
 https://edition.cnn.com/2023/11/13/us/china-online-disinformation-invs/index.html
 https://edition.cnn.com/business
 https://edition.cnn.com/markets/fear-and-greed
@@ -5336,6 +5340,7 @@ https://en.wikipedia.org/wiki/Alfred_Dreyfus
 https://en.wikipedia.org/wiki/Alfred_Horn
 https://en.wikipedia.org/wiki/Alfred_Menezes
 https://en.wikipedia.org/wiki/Alfred_Nobel
+https://en.wikipedia.org/wiki/Alfred_P._Sloan_Foundation
 https://en.wikipedia.org/wiki/Alfred_Russel_Wallace
 https://en.wikipedia.org/wiki/Alfred_Tarski
 https://en.wikipedia.org/wiki/Algebra_of_random_variables
@@ -5605,6 +5610,7 @@ https://en.wikipedia.org/wiki/Anna%27s_Archive
 https://en.wikipedia.org/wiki/Annales_de_l%27Institut_Fourier
 https://en.wikipedia.org/wiki/Annales_Fennici_Mathematici
 https://en.wikipedia.org/wiki/Annihilator_method
+https://en.wikipedia.org/wiki/Annual_Reviews_(publisher)
 https://en.wikipedia.org/wiki/Anomaly_(natural_sciences)
 https://en.wikipedia.org/wiki/Anomaly_detection
 https://en.wikipedia.org/wiki/Anonymous;Code
@@ -9059,6 +9065,7 @@ https://en.wikipedia.org/wiki/David_Hilbert
 https://en.wikipedia.org/wiki/David_J._Farber
 https://en.wikipedia.org/wiki/David_J._Griffiths
 https://en.wikipedia.org/wiki/David_Kahn_(writer)
+https://en.wikipedia.org/wiki/David_Karger
 https://en.wikipedia.org/wiki/David_Lodge_(author)
 https://en.wikipedia.org/wiki/David_McCandless
 https://en.wikipedia.org/wiki/David_Mumford
@@ -11212,6 +11219,7 @@ https://en.wikipedia.org/wiki/Google_Search
 https://en.wikipedia.org/wiki/Google_Summer_of_Code
 https://en.wikipedia.org/wiki/Google_Test
 https://en.wikipedia.org/wiki/Gordan%27s_lemma
+https://en.wikipedia.org/wiki/Gordon_and_Betty_Moore_Foundation
 https://en.wikipedia.org/wiki/Gordon_F._Newell
 https://en.wikipedia.org/wiki/Gordon_Moore
 https://en.wikipedia.org/wiki/Gordon%E2%80%93Newell_theorem
@@ -11359,6 +11367,7 @@ https://en.wikipedia.org/wiki/Grigori_Rasputin
 https://en.wikipedia.org/wiki/Grigorii_Fikhtengol%27ts
 https://en.wikipedia.org/wiki/Grill_(cryptology)
 https://en.wikipedia.org/wiki/Grimoire
+https://en.wikipedia.org/wiki/Grist_(magazine)
 https://en.wikipedia.org/wiki/Grml
 https://en.wikipedia.org/wiki/GROMACS
 https://en.wikipedia.org/wiki/Groningen
@@ -11604,6 +11613,7 @@ https://en.wikipedia.org/wiki/Hellenistic_Greece
 https://en.wikipedia.org/wiki/Hellenistic_period
 https://en.wikipedia.org/wiki/Hellinger_distance
 https://en.wikipedia.org/wiki/Helloween
+https://en.wikipedia.org/wiki/Helmholtz_equation
 https://en.wikipedia.org/wiki/Helmholtz_free_energy
 https://en.wikipedia.org/wiki/Helmholtz_machine
 https://en.wikipedia.org/wiki/Helmut_Hasse
@@ -13108,6 +13118,7 @@ https://en.wikipedia.org/wiki/Knights_Hospitaller
 https://en.wikipedia.org/wiki/KNIME
 https://en.wikipedia.org/wiki/Knitr
 https://en.wikipedia.org/wiki/Knossos_board_game
+https://en.wikipedia.org/wiki/Knowable_Magazine
 https://en.wikipedia.org/wiki/Knowledge
 https://en.wikipedia.org/wiki/Knowledge_base
 https://en.wikipedia.org/wiki/Knowledge_extraction
@@ -13760,6 +13771,7 @@ https://en.wikipedia.org/wiki/List_of_English-language_book_publishing_companies
 https://en.wikipedia.org/wiki/List_of_environmental_economics_journals
 https://en.wikipedia.org/wiki/List_of_environmental_journals
 https://en.wikipedia.org/wiki/List_of_environmental_social_science_journals
+https://en.wikipedia.org/wiki/List_of_environmental_websites
 https://en.wikipedia.org/wiki/List_of_epic_poems
 https://en.wikipedia.org/wiki/List_of_eponyms_of_special_functions
 https://en.wikipedia.org/wiki/List_of_equations
@@ -16730,6 +16742,7 @@ https://en.wikipedia.org/wiki/Poisson_distribution
 https://en.wikipedia.org/wiki/Poisson_point_process
 https://en.wikipedia.org/wiki/Poisson_regression
 https://en.wikipedia.org/wiki/Poisson_summation_formula
+https://en.wikipedia.org/wiki/Poisson%27s_equation
 https://en.wikipedia.org/wiki/Poland
 https://en.wikipedia.org/wiki/Polar_coordinate_system
 https://en.wikipedia.org/wiki/Polar_decomposition
@@ -18303,6 +18316,7 @@ https://en.wikipedia.org/wiki/Self-certifying_File_System
 https://en.wikipedia.org/wiki/Self-disorder
 https://en.wikipedia.org/wiki/Self-driving_car
 https://en.wikipedia.org/wiki/Self-hosting_(compilers)
+https://en.wikipedia.org/wiki/Self-modifying_code
 https://en.wikipedia.org/wiki/Self-organization
 https://en.wikipedia.org/wiki/Self-organizing_map
 https://en.wikipedia.org/wiki/Self-reflection
@@ -18350,6 +18364,7 @@ https://en.wikipedia.org/wiki/Sensitivity_index
 https://en.wikipedia.org/wiki/Sentiment_analysis
 https://en.wikipedia.org/wiki/Senua_(Hellblade)
 https://en.wikipedia.org/wiki/Seohak
+https://en.wikipedia.org/wiki/Separable_partial_differential_equation
 https://en.wikipedia.org/wiki/Separation_of_concerns
 https://en.wikipedia.org/wiki/Separation_of_mechanism_and_policy
 https://en.wikipedia.org/wiki/Separation_of_protection_and_security
@@ -19652,6 +19667,7 @@ https://en.wikipedia.org/wiki/The_Cambridge_Modern_History
 https://en.wikipedia.org/wiki/The_Canterbury_Tales
 https://en.wikipedia.org/wiki/The_Caves_of_Steel
 https://en.wikipedia.org/wiki/The_central_science
+https://en.wikipedia.org/wiki/The_Charleston_Advisor
 https://en.wikipedia.org/wiki/The_Chemical_Basis_of_Morphogenesis
 https://en.wikipedia.org/wiki/The_Chicago_Manual_of_Style
 https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia
@@ -21885,6 +21901,7 @@ https://gchq.github.io/CyberChef/
 https://gcmd.github.io/
 https://gdal.org/
 https://gdcproject.org/
+https://gdz.sub.uni-goettingen.de/id/PPN38067226X?tify=%7B%22view%22:%22toc%22%7D
 https://gdz.sub.uni-goettingen.de/id/PPN534901565
 https://geant.org/
 https://gef.readthedocs.io/en/master/
@@ -24236,6 +24253,7 @@ https://gregorygundersen.com/blog/2018/12/20/svd-proof/
 https://gregorygundersen.com/blog/2020/02/23/gibbs-sampling/
 https://gretl.sourceforge.net/
 https://grigorisg9gr.github.io/machine%20learning/polynomial%20networks/polynomial-nets/
+https://grist.org/
 https://grml.org/
 https://grossack.site/2023/11/08/37-median.html
 https://group.springernature.com/
@@ -29431,6 +29449,7 @@ https://practice.rs/why-exercise.html
 https://prashant.at/files/mismorphism.pdf
 https://predictioncenter.org/
 https://predictprotein.org/
+https://prescheme.org/
 https://preshing.com/20120515/memory-reordering-caught-in-the-act/
 https://preshing.com/20120612/an-introduction-to-lock-free-programming/
 https://preshing.com/20120913/acquire-and-release-semantics/
@@ -32053,6 +32072,7 @@ https://www.airbus.com/en
 https://www.ajouronline.com/index.php/AJCIS/article/view/948
 https://www.akamai.com/
 https://www.akamai.com/blog/security-research/linux-lateral-movement-more-than-ssh
+https://www.akamai.com/company/leadership/akamai-remembers-danny-lewin
 https://www.akamai.com/our-thinking/technical-publications
 https://www.akkadia.org/drepper/
 https://www.akkadia.org/drepper/cpumemory.pdf
