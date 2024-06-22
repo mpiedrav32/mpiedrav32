@@ -5343,6 +5343,7 @@ https://en.wikipedia.org/wiki/Alfred_Nobel
 https://en.wikipedia.org/wiki/Alfred_P._Sloan_Foundation
 https://en.wikipedia.org/wiki/Alfred_Russel_Wallace
 https://en.wikipedia.org/wiki/Alfred_Tarski
+https://en.wikipedia.org/wiki/Alfred_the_Great
 https://en.wikipedia.org/wiki/Algebra_of_random_variables
 https://en.wikipedia.org/wiki/Algebraic_analysis
 https://en.wikipedia.org/wiki/Algebraic_combinatorics
@@ -5600,6 +5601,8 @@ https://en.wikipedia.org/wiki/Angela_Dean
 https://en.wikipedia.org/wiki/Angles_(tribe)
 https://en.wikipedia.org/wiki/Anglo-French_Wars
 https://en.wikipedia.org/wiki/Anglo-Norman_language
+https://en.wikipedia.org/wiki/Anglo-Saxon_royal_genealogies
+https://en.wikipedia.org/wiki/Anglo-Saxon_settlement_of_Britain
 https://en.wikipedia.org/wiki/Anglo-Saxons
 https://en.wikipedia.org/wiki/Angra_(band)
 https://en.wikipedia.org/wiki/Anil_Nerode
@@ -6936,6 +6939,8 @@ https://en.wikipedia.org/wiki/Category:Analog_computers
 https://en.wikipedia.org/wiki/Category:Analysis_of_variance
 https://en.wikipedia.org/wiki/Category:Analytic_geometry
 https://en.wikipedia.org/wiki/Category:Anarchist_newspapers
+https://en.wikipedia.org/wiki/Category:Anglo-Saxon_law
+https://en.wikipedia.org/wiki/Category:Anglo-Saxon_society
 https://en.wikipedia.org/wiki/Category:APL_programming_language_family
 https://en.wikipedia.org/wiki/Category:Application_layer_protocols
 https://en.wikipedia.org/wiki/Category:Application-specific_integrated_circuits
@@ -7148,6 +7153,7 @@ https://en.wikipedia.org/wiki/Category:Factor_analysis
 https://en.wikipedia.org/wiki/Category:Fantasy_video_game_consoles
 https://en.wikipedia.org/wiki/Category:Fault-tolerant_computer_systems
 https://en.wikipedia.org/wiki/Category:Feature_detection_(computer_vision)
+https://en.wikipedia.org/wiki/Category:Feudalism_in_England
 https://en.wikipedia.org/wiki/Category:FFT_algorithms
 https://en.wikipedia.org/wiki/Category:Fibonacci_numbers
 https://en.wikipedia.org/wiki/Category:Fiction_about_cryptography
@@ -7905,6 +7911,7 @@ https://en.wikipedia.org/wiki/Church_(programming_language)
 https://en.wikipedia.org/wiki/Church_of_Euthanasia
 https://en.wikipedia.org/wiki/Church_of_Satan
 https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis
+https://en.wikipedia.org/wiki/Churl
 https://en.wikipedia.org/wiki/CI/CD
 https://en.wikipedia.org/wiki/Ciao_(programming_language)
 https://en.wikipedia.org/wiki/Cicada_3301
@@ -8078,6 +8085,7 @@ https://en.wikipedia.org/wiki/CNES
 https://en.wikipedia.org/wiki/CNN
 https://en.wikipedia.org/wiki/CNN_International
 https://en.wikipedia.org/wiki/Cnoidal_wave
+https://en.wikipedia.org/wiki/Cnut
 https://en.wikipedia.org/wiki/Co-citation
 https://en.wikipedia.org/wiki/Co-citation_Proximity_Analysis
 https://en.wikipedia.org/wiki/Co-occurrence_matrix
@@ -8652,6 +8660,7 @@ https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage
 https://en.wikipedia.org/wiki/Cost_of_electricity_by_source
 https://en.wikipedia.org/wiki/Cost_sharing
 https://en.wikipedia.org/wiki/Costate_equation
+https://en.wikipedia.org/wiki/Cotter_(farmer)
 https://en.wikipedia.org/wiki/Couchbase_Server
 https://en.wikipedia.org/wiki/Couenne
 https://en.wikipedia.org/wiki/Coul%C3%A9e_verte_Ren%C3%A9-Dumont
@@ -8902,6 +8911,7 @@ https://en.wikipedia.org/wiki/Dan_Boneh
 https://en.wikipedia.org/wiki/Dana_Angluin
 https://en.wikipedia.org/wiki/Dana_Scully
 https://en.wikipedia.org/wiki/Dancing_Links
+https://en.wikipedia.org/wiki/Danelaw
 https://en.wikipedia.org/wiki/Dangling_pointer
 https://en.wikipedia.org/wiki/Daniel_Abadi
 https://en.wikipedia.org/wiki/Daniel_Bernoulli
@@ -9657,6 +9667,8 @@ https://en.wikipedia.org/wiki/E._H._Carr
 https://en.wikipedia.org/wiki/E._T._Whittaker
 https://en.wikipedia.org/wiki/E0_(cipher)
 https://en.wikipedia.org/wiki/EAGLE_(program)
+https://en.wikipedia.org/wiki/Ealdorman
+https://en.wikipedia.org/wiki/Earl
 https://en.wikipedia.org/wiki/Early_Buddhist_texts
 https://en.wikipedia.org/wiki/Early_Middle_Ages
 https://en.wikipedia.org/wiki/Early_Modern_English
@@ -9749,6 +9761,7 @@ https://en.wikipedia.org/wiki/Edward_Norton_Lorenz
 https://en.wikipedia.org/wiki/Edward_Ott
 https://en.wikipedia.org/wiki/Edward_Snowden
 https://en.wikipedia.org/wiki/Edward_Teller
+https://en.wikipedia.org/wiki/Edward_the_Elder
 https://en.wikipedia.org/wiki/Edward_Tufte
 https://en.wikipedia.org/wiki/Edward_Victor_Appleton
 https://en.wikipedia.org/wiki/Edward_Waring
@@ -10386,6 +10399,8 @@ https://en.wikipedia.org/wiki/Ferrer_movement
 https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off
 https://en.wikipedia.org/wiki/Fertile_Crescent
 https://en.wikipedia.org/wiki/Fetch-and-add
+https://en.wikipedia.org/wiki/Feudalism
+https://en.wikipedia.org/wiki/Feudalism_in_England
 https://en.wikipedia.org/wiki/Few-body_systems
 https://en.wikipedia.org/wiki/Feynman_Prize_in_Nanotechnology
 https://en.wikipedia.org/wiki/Feynman%E2%80%93Kac_formula
@@ -10637,6 +10652,7 @@ https://en.wikipedia.org/wiki/Frank_Yates
 https://en.wikipedia.org/wiki/Frank%E2%80%93Wolfe_algorithm
 https://en.wikipedia.org/wiki/Frankfurt
 https://en.wikipedia.org/wiki/Frankfurt_School
+https://en.wikipedia.org/wiki/Franklin_(class)
 https://en.wikipedia.org/wiki/Franks
 https://en.wikipedia.org/wiki/Franz_Lisp
 https://en.wikipedia.org/wiki/Franz_Schubert
@@ -11041,6 +11057,7 @@ https://en.wikipedia.org/wiki/German_Renaissance
 https://en.wikipedia.org/wiki/German_Research_Foundation
 https://en.wikipedia.org/wiki/German_town_law
 https://en.wikipedia.org/wiki/Germanic_heroic_legend
+https://en.wikipedia.org/wiki/Germanic_kingship
 https://en.wikipedia.org/wiki/Germanic_languages
 https://en.wikipedia.org/wiki/Germanic_paganism
 https://en.wikipedia.org/wiki/Germanic_peoples
@@ -11246,6 +11263,7 @@ https://en.wikipedia.org/wiki/GotoBLAS
 https://en.wikipedia.org/wiki/Gottfried_Achenwall
 https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
 https://en.wikipedia.org/wiki/Governing_equation
+https://en.wikipedia.org/wiki/Government_in_Anglo-Saxon_England
 https://en.wikipedia.org/wiki/Government_of_China
 https://en.wikipedia.org/wiki/GPL_font_exception
 https://en.wikipedia.org/wiki/GPL_linking_exception
@@ -11635,6 +11653,7 @@ https://en.wikipedia.org/wiki/Henry_Louis_Le_Chatelier
 https://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 https://en.wikipedia.org/wiki/Henryk_Zygalski
 https://en.wikipedia.org/wiki/Hensel%27s_lemma
+https://en.wikipedia.org/wiki/Heptarchy
 https://en.wikipedia.org/wiki/Heracles
 https://en.wikipedia.org/wiki/Heraclitus
 https://en.wikipedia.org/wiki/Herbert_A._Simon
@@ -11699,6 +11718,7 @@ https://en.wikipedia.org/wiki/High-level_language_computer_architecture
 https://en.wikipedia.org/wiki/High-Level_Shader_Language
 https://en.wikipedia.org/wiki/High-level_synthesis
 https://en.wikipedia.org/wiki/High-performance_computing
+https://en.wikipedia.org/wiki/High-reeve
 https://en.wikipedia.org/wiki/High-threshold_logic
 https://en.wikipedia.org/wiki/High-throughput_computing
 https://en.wikipedia.org/wiki/High-Z_Supernova_Search_Team
@@ -11812,12 +11832,14 @@ https://en.wikipedia.org/wiki/Hoare_logic
 https://en.wikipedia.org/wiki/Hoc_(programming_language)
 https://en.wikipedia.org/wiki/Hodges%E2%80%93Lehmann_estimator
 https://en.wikipedia.org/wiki/Hola_(VPN)
+https://en.wikipedia.org/wiki/Hold_(title)
 https://en.wikipedia.org/wiki/Holding_company
 https://en.wikipedia.org/wiki/Holm%E2%80%93Bonferroni_method
 https://en.wikipedia.org/wiki/Holomorphic_function
 https://en.wikipedia.org/wiki/Holonomic_constraints
 https://en.wikipedia.org/wiki/Holonomic_function
 https://en.wikipedia.org/wiki/Holtek
+https://en.wikipedia.org/wiki/Holy_Crown_of_Hungary
 https://en.wikipedia.org/wiki/Holy_Roman_Empire
 https://en.wikipedia.org/wiki/Home_computer
 https://en.wikipedia.org/wiki/Home_Secretary
@@ -11862,6 +11884,7 @@ https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)
 https://en.wikipedia.org/wiki/House_of_Cards_(British_TV_series)
 https://en.wikipedia.org/wiki/House_of_Cards_(novel)
 https://en.wikipedia.org/wiki/House_of_the_Seven_Gables
+https://en.wikipedia.org/wiki/Housecarl
 https://en.wikipedia.org/wiki/Household_chemicals
 https://en.wikipedia.org/wiki/How_Long_Is_the_Coast_of_Britain%3F_Statistical_Self-Similarity_and_Fractional_Dimension
 https://en.wikipedia.org/wiki/How_to_Design_Programs
@@ -13087,10 +13110,14 @@ https://en.wikipedia.org/wiki/King_effect
 https://en.wikipedia.org/wiki/King_James_Version
 https://en.wikipedia.org/wiki/King_of_Rome
 https://en.wikipedia.org/wiki/King%27s_Cross,_London
+https://en.wikipedia.org/wiki/Kingdom_of_East_Anglia
+https://en.wikipedia.org/wiki/Kingdom_of_Essex
 https://en.wikipedia.org/wiki/Kingdom_of_Galicia_and_Lodomeria
 https://en.wikipedia.org/wiki/Kingdom_of_Galicia%E2%80%93Volhynia
+https://en.wikipedia.org/wiki/Kingdom_of_Kent
 https://en.wikipedia.org/wiki/Kingdom_of_Poland
 https://en.wikipedia.org/wiki/Kingdom_of_Poland_(1917%E2%80%931918)
+https://en.wikipedia.org/wiki/Kingdom_of_Sussex
 https://en.wikipedia.org/wiki/Kings%27_sagas
 https://en.wikipedia.org/wiki/Kingston,_Ontario
 https://en.wikipedia.org/wiki/Kingu
@@ -13769,6 +13796,7 @@ https://en.wikipedia.org/wiki/List_of_emerging_technologies
 https://en.wikipedia.org/wiki/List_of_emulators
 https://en.wikipedia.org/wiki/List_of_engineering_journals_and_magazines
 https://en.wikipedia.org/wiki/List_of_English_Bible_translations
+https://en.wikipedia.org/wiki/List_of_English_monarchs
 https://en.wikipedia.org/wiki/List_of_English-language_book_publishing_companies
 https://en.wikipedia.org/wiki/List_of_environmental_economics_journals
 https://en.wikipedia.org/wiki/List_of_environmental_journals
@@ -14750,6 +14778,7 @@ https://en.wikipedia.org/wiki/Mercantilism
 https://en.wikipedia.org/wiki/Mercator_Institute_for_China_Studies
 https://en.wikipedia.org/wiki/Mercator_projection
 https://en.wikipedia.org/wiki/Mercer%27s_theorem
+https://en.wikipedia.org/wiki/Mercia
 https://en.wikipedia.org/wiki/Mercury_(programming_language)
 https://en.wikipedia.org/wiki/Meredith_L._Patterson
 https://en.wikipedia.org/wiki/Merge_algorithm
@@ -15623,6 +15652,7 @@ https://en.wikipedia.org/wiki/Non-monotonic_logic
 https://en.wikipedia.org/wiki/Non-negative_matrix_factorization
 https://en.wikipedia.org/wiki/Non-standard_model_of_arithmetic
 https://en.wikipedia.org/wiki/Non-standard_positional_numeral_systems
+https://en.wikipedia.org/wiki/Nonce_word
 https://en.wikipedia.org/wiki/Nondeterministic_Turing_machine
 https://en.wikipedia.org/wiki/Nonelementary_integral
 https://en.wikipedia.org/wiki/Nonlinear_conjugate_gradient_method
@@ -15675,6 +15705,7 @@ https://en.wikipedia.org/wiki/Northeastern_United_States
 https://en.wikipedia.org/wiki/Northern_American_English
 https://en.wikipedia.org/wiki/Northern_Europe
 https://en.wikipedia.org/wiki/Northern_Renaissance
+https://en.wikipedia.org/wiki/Northumbria
 https://en.wikipedia.org/wiki/Northwest_Territories
 https://en.wikipedia.org/wiki/Norton_Commander
 https://en.wikipedia.org/wiki/Norwegian_Computing_Center
@@ -16864,6 +16895,7 @@ https://en.wikipedia.org/wiki/Portal_(video_game)
 https://en.wikipedia.org/wiki/Portal_2
 https://en.wikipedia.org/wiki/Portal:Ancient_Rome
 https://en.wikipedia.org/wiki/Portal:Mathematics
+https://en.wikipedia.org/wiki/Portreeve
 https://en.wikipedia.org/wiki/Portuguese_Inquisition
 https://en.wikipedia.org/wiki/Position_(geometry)
 https://en.wikipedia.org/wiki/Positive_feedback
@@ -17370,6 +17402,7 @@ https://en.wikipedia.org/wiki/R-S-T_system
 https://en.wikipedia.org/wiki/R-tree
 https://en.wikipedia.org/wiki/R._Tyrrell_Rockafellar
 https://en.wikipedia.org/wiki/R*_rule_(ecology)
+https://en.wikipedia.org/wiki/R%C3%A6dwald_of_East_Anglia
 https://en.wikipedia.org/wiki/R%C3%A9nyi_entropy
 https://en.wikipedia.org/wiki/R%C3%B3is%C3%ADn_Murphy
 https://en.wikipedia.org/wiki/R%C3%B3zsa_P%C3%A9ter
@@ -17589,6 +17622,7 @@ https://en.wikipedia.org/wiki/Reduction_of_order
 https://en.wikipedia.org/wiki/Reductionism
 https://en.wikipedia.org/wiki/Reed%E2%80%93Muller_code
 https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction
+https://en.wikipedia.org/wiki/Reeve_(England)
 https://en.wikipedia.org/wiki/Reference_counting
 https://en.wikipedia.org/wiki/Refinement_type
 https://en.wikipedia.org/wiki/Reflective_programming
@@ -17720,6 +17754,7 @@ https://en.wikipedia.org/wiki/Retina_bipolar_cell
 https://en.wikipedia.org/wiki/Retina_horizontal_cell
 https://en.wikipedia.org/wiki/Retinal_ganglion_cell
 https://en.wikipedia.org/wiki/Retinotopy
+https://en.wikipedia.org/wiki/Retinue
 https://en.wikipedia.org/wiki/Retroactive_data_structure
 https://en.wikipedia.org/wiki/Retrogaming
 https://en.wikipedia.org/wiki/Retrograde_and_prograde_motion
@@ -18472,6 +18507,7 @@ https://en.wikipedia.org/wiki/Shell_script
 https://en.wikipedia.org/wiki/Shellcode
 https://en.wikipedia.org/wiki/Shenzhen
 https://en.wikipedia.org/wiki/Sheol
+https://en.wikipedia.org/wiki/Sheriff
 https://en.wikipedia.org/wiki/SHERPA_(organisation)
 https://en.wikipedia.org/wiki/Sheryl_Handler
 https://en.wikipedia.org/wiki/Shewhart_individuals_control_chart
@@ -19370,6 +19406,8 @@ https://en.wikipedia.org/wiki/Survivorship_bias
 https://en.wikipedia.org/wiki/Susan_Landau
 https://en.wikipedia.org/wiki/Susan_P._Holmes
 https://en.wikipedia.org/wiki/Sushruta
+https://en.wikipedia.org/wiki/Sutton_Hoo
+https://en.wikipedia.org/wiki/Sutton_Hoo_helmet
 https://en.wikipedia.org/wiki/Svante_Arrhenius
 https://en.wikipedia.org/wiki/Svelte
 https://en.wikipedia.org/wiki/Svetlana_Jitomirskaya
@@ -19782,6 +19820,7 @@ https://en.wikipedia.org/wiki/The_Public_and_Its_Problems
 https://en.wikipedia.org/wiki/The_Puzzle_Palace
 https://en.wikipedia.org/wiki/The_Quantum_Vacuum
 https://en.wikipedia.org/wiki/The_R_Journal
+https://en.wikipedia.org/wiki/The_Reeve%27s_Tale
 https://en.wikipedia.org/wiki/The_Road_to_Reality
 https://en.wikipedia.org/wiki/The_Robots_of_Dawn
 https://en.wikipedia.org/wiki/The_Root_of_All_Evil%3F
@@ -19846,6 +19885,7 @@ https://en.wikipedia.org/wiki/Theatre_of_Tragedy
 https://en.wikipedia.org/wiki/Theatre_of_Tragedy_(album)
 https://en.wikipedia.org/wiki/Theatres_des_Vampires
 https://en.wikipedia.org/wiki/Theatrum_Mundi
+https://en.wikipedia.org/wiki/Thegn
 https://en.wikipedia.org/wiki/Thelema
 https://en.wikipedia.org/wiki/Theli_(album)
 https://en.wikipedia.org/wiki/Theo_de_Raadt
@@ -19888,6 +19928,7 @@ https://en.wikipedia.org/wiki/Theta_function
 https://en.wikipedia.org/wiki/They%27re_Made_Out_of_Meat
 https://en.wikipedia.org/wiki/Thin_plate_spline
 https://en.wikipedia.org/wiki/Thin-film_transistor
+https://en.wikipedia.org/wiki/Thingmen
 https://en.wikipedia.org/wiki/Think_tank
 https://en.wikipedia.org/wiki/Thinking_Machines_Corporation
 https://en.wikipedia.org/wiki/Thinking_Rabbit
@@ -19918,6 +19959,7 @@ https://en.wikipedia.org/wiki/Thor_(video_codec)
 https://en.wikipedia.org/wiki/Thorn_(letter)
 https://en.wikipedia.org/wiki/Thoth
 https://en.wikipedia.org/wiki/Thousand_Character_Classic
+https://en.wikipedia.org/wiki/Thrall
 https://en.wikipedia.org/wiki/Thread_pool
 https://en.wikipedia.org/wiki/Threaded_code
 https://en.wikipedia.org/wiki/Threading_Building_Blocks
@@ -20617,6 +20659,7 @@ https://en.wikipedia.org/wiki/Vera_Pless
 https://en.wikipedia.org/wiki/VeraCrypt
 https://en.wikipedia.org/wiki/Verb%E2%80%93object%E2%80%93subject_word_order
 https://en.wikipedia.org/wiki/Verb%E2%80%93subject%E2%80%93object_word_order
+https://en.wikipedia.org/wiki/Verderer
 https://en.wikipedia.org/wiki/Verification_and_validation
 https://en.wikipedia.org/wiki/Verilator
 https://en.wikipedia.org/wiki/Verilog
@@ -20662,6 +20705,7 @@ https://en.wikipedia.org/wiki/Vijay_Vazirani
 https://en.wikipedia.org/wiki/Viking_Age
 https://en.wikipedia.org/wiki/Vikings
 https://en.wikipedia.org/wiki/Vilfredo_Pareto
+https://en.wikipedia.org/wiki/Villein
 https://en.wikipedia.org/wiki/Vilnius
 https://en.wikipedia.org/wiki/Vinagre
 https://en.wikipedia.org/wiki/Vincent_Poor
@@ -20882,6 +20926,7 @@ https://en.wikipedia.org/wiki/Werner_Fenchel
 https://en.wikipedia.org/wiki/Werner_Koch
 https://en.wikipedia.org/wiki/Wernher_von_Braun
 https://en.wikipedia.org/wiki/Wes_McKinney
+https://en.wikipedia.org/wiki/Wessex
 https://en.wikipedia.org/wiki/West_Virginia_University_Institute_of_Technology
 https://en.wikipedia.org/wiki/Western_canon
 https://en.wikipedia.org/wiki/Western_culture
@@ -25364,6 +25409,7 @@ https://kimh.github.io/clojure-by-example/
 https://kimialab.uwaterloo.ca/kimia/
 https://kimmo.suominen.com/
 https://kit.svelte.dev/
+https://kiwihellenist.blogspot.com/2019/06/bad-latin-constantine.html
 https://kiwix.org/en/
 https://kmicinski.com/modern-deduction/2024/05/11/post-1.html
 https://knopper.net/knoppix/index-en.html
@@ -38074,6 +38120,7 @@ https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-program
 https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/
 https://www.theatlantic.com/magazine/archive/1994/02/the-coming-anarchy/304670/
 https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/
+https://www.theatlantic.com/past/docs/issues/56feb/5602bush.htm
 https://www.theatlantic.com/science/
 https://www.theatlantic.com/technology/
 https://www.theatlantic.com/world/
