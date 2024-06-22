@@ -8982,6 +8982,7 @@ https://en.wikipedia.org/wiki/Data_integrity
 https://en.wikipedia.org/wiki/Data_lake
 https://en.wikipedia.org/wiki/Data_lineage
 https://en.wikipedia.org/wiki/Data_link_layer
+https://en.wikipedia.org/wiki/Data_loading
 https://en.wikipedia.org/wiki/Data_loss
 https://en.wikipedia.org/wiki/Data_management
 https://en.wikipedia.org/wiki/Data_manipulation_language
@@ -8995,6 +8996,7 @@ https://en.wikipedia.org/wiki/Data_modeling
 https://en.wikipedia.org/wiki/Data_philanthropy
 https://en.wikipedia.org/wiki/Data_Plane_Development_Kit
 https://en.wikipedia.org/wiki/Data_pre-processing
+https://en.wikipedia.org/wiki/Data_preprocessing
 https://en.wikipedia.org/wiki/Data_preservation
 https://en.wikipedia.org/wiki/Data_processing
 https://en.wikipedia.org/wiki/Data_processing_unit
@@ -22307,6 +22309,7 @@ https://github.com/davidagraf/doi2bib2
 https://github.com/davidchisnall
 https://github.com/davisking/dlib
 https://github.com/daya6489/SmartEDA/
+https://github.com/dbt-labs/dbt-core
 https://github.com/ddsjoberg/gtsummary
 https://github.com/decalage2/awesome-security-hardening
 https://github.com/deepchem/deepchem
@@ -26048,6 +26051,7 @@ https://library.lol/main/680A08FE3A43250BF4683E477AB1997A
 https://library.lol/main/68687FF5DD75A944277526D644040E88
 https://library.lol/main/6AEB8896359F4EF338DF6D1BE995132B
 https://library.lol/main/6B8F1E751C6D6B82A49CC155099F9949
+https://library.lol/main/6C6BB7B6E894DA02A0B1A4CF5852BDA9
 https://library.lol/main/6CBC5B5AF610CA7C18303B1C793D4533
 https://library.lol/main/6F39FE0CF5EF3CE09D3D5097FA219652
 https://library.lol/main/7025129FE0A6D18C89CF0C4740B32052
@@ -26253,6 +26257,7 @@ https://library.lol/main/FC39BE437230DC753ED2262A880B4F0C
 https://library.lol/main/FD761462D750BA64A0B7A06DCA4014B3
 https://library.lol/main/FE16E6D2073F0EB639B158441837FACE
 https://library.lol/main/FE72C0AFB3DEC45C1781D471D39BA3B4
+https://library.lol/main/FE9038B48C21C75985F10D8CE6AC44AC
 https://library.wmo.int/index.php?lvl=notice_display&id=5571
 https://library.wolfram.com/infocenter/Conferences/7518/Macalester_talk.txt
 https://librarycarpentry.org/
