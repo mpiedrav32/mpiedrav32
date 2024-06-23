@@ -1817,6 +1817,7 @@ https://catless.ncl.ac.uk/risks/
 https://catless.ncl.ac.uk/Risks/
 https://catonmat.net/projects
 https://cats.for.ai/
+https://causality.cs.ucla.edu/blog/index.php/2015/05/06/david-freedman-statistics-and-structural-equation-models/
 https://cayenne.apache.org/
 https://cayley.io/
 https://cb125.github.io/
@@ -2383,6 +2384,7 @@ https://cran.r-project.org/web/packages/kohonen/index.html
 https://cran.r-project.org/web/packages/kpodclustr/index.html
 https://cran.r-project.org/web/packages/LaplacesDemon/index.html
 https://cran.r-project.org/web/packages/lattice/index.html
+https://cran.r-project.org/web/packages/lavaan/
 https://cran.r-project.org/web/packages/leaps/index.html
 https://cran.r-project.org/web/packages/LearnBayes/index.html
 https://cran.r-project.org/web/packages/libbib/index.html
@@ -4900,6 +4902,9 @@ https://en.wikichip.org/wiki/risc-v/microarchitectures
 https://en.wikichip.org/wiki/risc-v/standard_extensions
 https://en.wikichip.org/wiki/technology_node
 https://en.wikichip.org/wiki/WikiChip
+https://en.wikipedia.org/w/index.php?title=Bayesian_network&diffonly=true
+https://en.wikipedia.org/w/index.php?title=Graphical_model&diffonly=true
+https://en.wikipedia.org/w/index.php?title=Latent_and_observable_variables&diffonly=true
 https://en.wikipedia.org/w/index.php?title=List_of_national_constitutions&wprov=rarw1
 https://en.wikipedia.org/wiki/;login:
 https://en.wikipedia.org/wiki/.ai
@@ -7622,6 +7627,7 @@ https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality
 https://en.wikipedia.org/wiki/Causal_analysis
 https://en.wikipedia.org/wiki/Causal_graph
 https://en.wikipedia.org/wiki/Causal_inference
+https://en.wikipedia.org/wiki/Causal_map
 https://en.wikipedia.org/wiki/Causal_model
 https://en.wikipedia.org/wiki/Causal_notation
 https://en.wikipedia.org/wiki/Causal_reasoning
@@ -16390,6 +16396,7 @@ https://en.wikipedia.org/wiki/Partial_correlation
 https://en.wikipedia.org/wiki/Partial_derivative
 https://en.wikipedia.org/wiki/Partial_differential_equation
 https://en.wikipedia.org/wiki/Partial_fraction_decomposition
+https://en.wikipedia.org/wiki/Partial_least_squares_path_modeling
 https://en.wikipedia.org/wiki/Partial_template_specialization
 https://en.wikipedia.org/wiki/Partial-order_planning
 https://en.wikipedia.org/wiki/Partially_observable_Markov_decision_process
@@ -25486,6 +25493,7 @@ https://latexbase.com/
 https://latexref.xyz/
 https://latextemplates.github.io/IEEE/
 https://latticehacks.cr.yp.to/
+https://lavaan.ugent.be/
 https://lcamtuf.coredump.cx/
 https://lcamtuf.coredump.cx/afl/
 https://lcamtuf.substack.com/p/signal-reflections-in-electronic
@@ -31100,6 +31108,7 @@ https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faq-what-is-the-coefficie
 https://stats.oarc.ucla.edu/r/dae/robust-regression/
 https://stats.oarc.ucla.edu/r/faq/
 https://stats.oarc.ucla.edu/r/faq/how-can-i-read-binary-data-into-r/
+https://stats.oarc.ucla.edu/r/seminars/rsem/
 https://stats.oecd.org/
 https://stats.stackexchange.com/
 https://stats.stackexchange.com/questions/445562/what-are-the-practical-uses-of-neural-odes
