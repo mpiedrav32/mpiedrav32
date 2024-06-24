@@ -462,3 +462,15 @@ It's just bidding its time, patiently waiting for the right moment to pounce ove
 
 Some abstract ideas are weapons as tangible as a kitchen knife. Pure intellect is often used to hurt and kill,
 albeit with many layers of abstraction and interfaces in between.
+
+# Friend
+
+Nobody in life is your friend.
+
+Your classmates are not your friends.
+
+Your coworkers are not your friends.
+
+Not even you are your friend.
+
+Your own self will betray you time and again.
