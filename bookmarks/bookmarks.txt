@@ -1405,6 +1405,7 @@ https://blinry.org/nerd-metal-shirt/
 https://blob.tidyverse.org/
 https://blocksandfiles.com/
 https://blog.acolyer.org/
+https://blog.acolyer.org/2015/01/16/epigrams-on-programming/
 https://blog.acolyer.org/2016/03/09/neural-turing-machines/
 https://blog.acolyer.org/2017/11/15/opening-the-black-box-of-deep-neural-networks-via-information-part-i/
 https://blog.acolyer.org/2017/11/16/opening-the-black-box-of-deep-neural-networks-via-information-part-ii/
@@ -3755,6 +3756,7 @@ https://dl.acm.org/doi/10.1145/87252.88095
 https://dl.acm.org/doi/10.1145/87252.88104
 https://dl.acm.org/doi/10.1145/87252.88105
 https://dl.acm.org/doi/10.1145/937503.937505
+https://dl.acm.org/doi/10.1145/947955.1083808
 https://dl.acm.org/doi/10.1145/948249.948255
 https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735
 https://dl.acm.org/doi/10.14778/2831360.2831362
@@ -33334,6 +33336,7 @@ https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 https://www.cs.waikato.ac.nz/ml/weka/
 https://www.cs.waikato.ac.nz/ml/weka/book.html
 https://www.cs.wm.edu/~dmitry/assets/files/asplos21main-p460-p-9bfcb1ed4a-49511M-final.pdf
+https://www.cs.yale.edu/homes/perlis-alan/quotes.html
 https://www.cs.yale.edu/homes/spielman/
 https://www.cs251.com/
 https://www.csail.mit.edu/
