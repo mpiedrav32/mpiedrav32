@@ -2289,6 +2289,7 @@ https://cran.r-project.org/web/packages/bibliometrix/index.html
 https://cran.r-project.org/web/packages/bnlearn/index.html
 https://cran.r-project.org/web/packages/boot/index.html
 https://cran.r-project.org/web/packages/BOSSreg/index.html
+https://cran.r-project.org/web/packages/brms/index.html
 https://cran.r-project.org/web/packages/brnn/index.html
 https://cran.r-project.org/web/packages/broom/index.html
 https://cran.r-project.org/web/packages/calculus/index.html
@@ -29127,6 +29128,7 @@ https://pastglobalchanges.org/science/wg/2k-network/intro
 https://patchwork.kernel.org/
 https://pathelland.substack.com/
 https://patternlanguage.cc/
+https://paul-buerkner.github.io/brms/
 https://paulbourke.net/fractals/lyapunov/
 https://paulgraham.com/acl.html
 https://paulgraham.com/onlisp.html
@@ -29517,6 +29519,8 @@ https://preshing.com/20120515/memory-reordering-caught-in-the-act/
 https://preshing.com/20120612/an-introduction-to-lock-free-programming/
 https://preshing.com/20120913/acquire-and-release-semantics/
 https://preshing.com/20120930/weak-vs-strong-memory-models/
+https://press.coop/about
+https://press.coop/directory
 https://press.princeton.edu/books/ebook/9780691184302/origins-of-the-kabbalah
 https://press.princeton.edu/books/ebook/9781400846221/invisible-in-the-storm
 https://press.princeton.edu/books/hardcover/9780691042893/time-series-analysis
@@ -30365,6 +30369,7 @@ https://scipy.org/
 https://sciurls.com/
 https://sciwheel.com/
 https://scottaaronson.blog/
+https://scottclaessens.github.io/blog/2022/crossnational/
 https://scverse.org/
 https://scythe.lsa.umich.edu/
 https://sdf.lonestar.org/
@@ -34683,6 +34688,7 @@ https://www.heidelberg-laureate-forum.org/
 https://www.heise.de/
 https://www.heise.de/news/Bundesregierung-foerdert-Open-Source-24110.html
 https://www.heise.de/security/
+https://www.hello.coop/
 https://www.helmholtz.de/
 https://www.helpnetsecurity.com/
 https://www.helpnetsecurity.com/2019/11/19/review-foundations-of-information-security/
@@ -35096,6 +35102,7 @@ https://www.jstatsoft.org/article/view/v042i12
 https://www.jstatsoft.org/article/view/v053i04
 https://www.jstatsoft.org/article/view/v065i06
 https://www.jstatsoft.org/article/view/v078i09
+https://www.jstatsoft.org/article/view/v080i01
 https://www.jstatsoft.org/article/view/v094i14
 https://www.jstatsoft.org/article/view/v094i15
 https://www.jstatsoft.org/article/view/v103i02
@@ -35961,6 +35968,7 @@ https://www.nature.com/articles/nnano.2009.356
 https://www.nature.com/articles/nphoton.2015.208
 https://www.nature.com/articles/s41467-021-23719-3
 https://www.nature.com/articles/s41467-023-40593-3
+https://www.nature.com/articles/s41467-023-41486-1
 https://www.nature.com/articles/s41563-023-01737-4
 https://www.nature.com/articles/s41567-023-01975-y
 https://www.nature.com/articles/s41567-023-02269-z
