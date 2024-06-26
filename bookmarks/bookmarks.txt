@@ -2879,6 +2879,7 @@ https://d-nb.info/1052292569/34
 https://d-nb.info/1074999576/34
 https://d2l.ai/
 https://d3js.org/
+https://daily-philosophy.com/interview-robert-rodriguez-hermits/
 https://daily.jstor.org/
 https://daily.jstor.org/how-19th-century-scientists-predicted-global-warming/
 https://daily.jstor.org/how-plate-tectonics-shook-life-into-existence/
@@ -6193,6 +6194,7 @@ https://en.wikipedia.org/wiki/Bayesian_inference_using_Gibbs_sampling
 https://en.wikipedia.org/wiki/Bayesian_information_criterion
 https://en.wikipedia.org/wiki/Bayesian_interpretation_of_kernel_regularization
 https://en.wikipedia.org/wiki/Bayesian_linear_regression
+https://en.wikipedia.org/wiki/Bayesian_multivariate_linear_regression
 https://en.wikipedia.org/wiki/Bayesian_network
 https://en.wikipedia.org/wiki/Bayesian_optimization
 https://en.wikipedia.org/wiki/Bayesian_probability
@@ -11450,6 +11452,7 @@ https://en.wikipedia.org/wiki/H%C3%A9ctor_Garc%C3%ADa-Molina
 https://en.wikipedia.org/wiki/H%C3%A9non_map
 https://en.wikipedia.org/wiki/H%C3%B6lder_condition
 https://en.wikipedia.org/wiki/H%C3%B6lder%27s_inequality
+https://en.wikipedia.org/wiki/H%C5%8Dj%C5%8Dki
 https://en.wikipedia.org/wiki/H%C5%8Dk%C5%ABle%CA%BBa
 https://en.wikipedia.org/wiki/H2_(DBMS)
 https://en.wikipedia.org/wiki/H8_Family
@@ -12686,6 +12689,7 @@ https://en.wikipedia.org/wiki/Japanese_Communist_Party
 https://en.wikipedia.org/wiki/Japanese_cyberpunk
 https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_(1592%E2%80%931598)
 https://en.wikipedia.org/wiki/Japanese_nuclear_weapons_program
+https://en.wikipedia.org/wiki/Japanese_units_of_measurement
 https://en.wikipedia.org/wiki/Jardin_Atlantique
 https://en.wikipedia.org/wiki/Jardin_des_Serres_d%27Auteuil
 https://en.wikipedia.org/wiki/Jardin_du_Luxembourg
@@ -12986,6 +12990,7 @@ https://en.wikipedia.org/wiki/Kallithea_(software)
 https://en.wikipedia.org/wiki/Kalman_filter
 https://en.wikipedia.org/wiki/Kalyna_(cipher)
 https://en.wikipedia.org/wiki/Kamelot
+https://en.wikipedia.org/wiki/Kamo_no_Ch%C5%8Dmei
 https://en.wikipedia.org/wiki/Kanagawa_Prefecture
 https://en.wikipedia.org/wiki/Kanamori%E2%80%93McAloon_theorem
 https://en.wikipedia.org/wiki/Kannada
@@ -17591,6 +17596,7 @@ https://en.wikipedia.org/wiki/Rebuild_of_Evangelion
 https://en.wikipedia.org/wiki/Receiver_operating_characteristic
 https://en.wikipedia.org/wiki/Receptive_field
 https://en.wikipedia.org/wiki/Reciprocal_gamma_function
+https://en.wikipedia.org/wiki/Recluse_literature
 https://en.wikipedia.org/wiki/Recommender_system
 https://en.wikipedia.org/wiki/Reconfigurable_computing
 https://en.wikipedia.org/wiki/Reconstruction_attack
@@ -24148,6 +24154,7 @@ https://gitlab.com/team-simpy/simpy
 https://gitlab.com/tildes/tildes
 https://gitlab.com/tmuetze81/cos
 https://gitlab.com/tnl-project/tnl
+https://gitlab.com/veilid/veilid
 https://gitlab.com/wireshark/wireshark
 https://gitlab.freedesktop.org/dbus/dbus
 https://gitlab.freedesktop.org/explore/groups
@@ -31297,6 +31304,7 @@ https://tech.marksblogg.com/maxar-open-data-free-satellite-imagery.html
 https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/architecting-petabyte-scale-analytics-by-scaling-out-postgres-on/ba-p/969685
 https://techcommunity.microsoft.com/t5/testingspot-blog/ui-automation-page-object-model-and-other-design-patterns/ba-p/992242
 https://techcrunch.com/2014/08/09/guide-to-common-sense-reasoning-whos-doing-it-and-why-it-matters/
+https://techcrunch.com/2024/06/24/experts-say-telegrams-30-engineers-team-is-a-security-red-flag/
 https://techmeme.com/
 https://technews.acm.org/
 https://technicshistory.com/
@@ -38772,6 +38780,7 @@ https://www.wired.com/story/nvidia-hardware-is-eating-the-world-jensen-huang/
 https://www.wired.com/story/rust-secure-programming-language-memory-safe/
 https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/
 https://www.wired.com/story/solar-storm-internet-apocalypse-undersea-cables/
+https://www.wired.com/story/telegram-hamas-channels-deplatform/
 https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/
 https://www.wired.com/story/these-hidden-women-helped-invent-chaos-theory/
 https://www.wired.com/story/unbelievable-zombie-comeback-analog-computing/
