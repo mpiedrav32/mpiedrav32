@@ -32023,6 +32023,7 @@ https://wikimediafoundation.org/
 https://wilkelab.org/ggridges/
 https://williamghunter.net/statisticsforexperimenters/
 https://williamgibsonbooks.com/
+https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html
 https://wilsonminesco.com/6502primer/65tutor_intro.html
 https://win-vector.com/
 https://win-vector.com/2014/06/02/how-does-practical-data-science-with-r-stand-out/
@@ -33600,6 +33601,8 @@ https://www.digitalocean.com/community/tools
 https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications
 https://www.digitalresearch.biz/CPM.HTM
 https://www.digitaltrends.com/
+https://www.dijkstrascry.com/diaries
+https://www.dijkstrascry.com/inventory
 https://www.dimensions.ai/
 https://www.diplomacy.edu/
 https://www.diplomatisches-magazin.de/
@@ -36111,6 +36114,7 @@ https://www.newline.co/fullstack-react-with-typescript
 https://www.newline.co/security-from-zero
 https://www.newscientist.com/
 https://www.newscientist.com/article/2412212-first-thermodynamic-computer-uses-random-noise-to-calculate/
+https://www.newscientist.com/author/tom-gauld/
 https://www.newstatesman.com/
 https://www.newsweek.com/
 https://www.newyorker.com/
@@ -36323,6 +36327,7 @@ https://www.ogc.org/
 https://www.ogc.org/standard/sfa/
 https://www.ohse.de/
 https://www.oilshell.org/
+https://www.oilshell.org/blog/2024/06/cgi.html
 https://www.okdo.com/
 https://www.okta.com/
 https://www.okta.com/identity-101/access-token/
@@ -38099,6 +38104,8 @@ https://www.taylorfrancis.com/books/mono/10.1201/b18401/statistical-learning-spa
 https://www.taylorfrancis.com/books/mono/10.1201/b18653/adversarial-risk-analysis-david-banks-david-rios-insua-jesus-rios-aliaga
 https://www.taylorfrancis.com/books/mono/10.1201/b19331/algebraic-number-theory-fermat-last-theorem-ian-stewart-david-tall
 https://www.taylorfrancis.com/books/mono/10.1201/b19731/graphs-digraphs-linda-lesniak-ping-zhang-gary-chartrand
+https://www.tcj.com/
+https://www.tcj.com/comics-open-up-the-idea-of-what-a-story-can-be-a-conversation-with-tom-gauld/
 https://www.tcl-lang.org/
 https://www.tcl.tk/
 https://www.tcpdump.org/
