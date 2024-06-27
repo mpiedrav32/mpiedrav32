@@ -2861,6 +2861,7 @@ https://cwe.mitre.org/data/definitions/362.html
 https://cwe.mitre.org/data/definitions/640.html
 https://cwe.mitre.org/data/definitions/840.html
 https://cyber.gc.ca/en/
+https://cyber.harvard.edu/
 https://cyber.umd.edu/
 https://cybercrime.de/
 https://cybernews.com/
@@ -3637,6 +3638,7 @@ https://dl.acm.org/doi/10.1145/2810103.2813707
 https://dl.acm.org/doi/10.1145/2829988.2787505
 https://dl.acm.org/doi/10.1145/28395.28420
 https://dl.acm.org/doi/10.1145/2854065.2854081
+https://dl.acm.org/doi/10.1145/2858036.2858356
 https://dl.acm.org/doi/10.1145/289.291
 https://dl.acm.org/doi/10.1145/2908080.2908081
 https://dl.acm.org/doi/10.1145/2966986.2967045
@@ -10107,6 +10109,7 @@ https://en.wikipedia.org/wiki/ESTREAM
 https://en.wikipedia.org/wiki/Estrin%27s_scheme
 https://en.wikipedia.org/wiki/ESV_Study_Bible
 https://en.wikipedia.org/wiki/Etaoin_shrdlu
+https://en.wikipedia.org/wiki/Eternal_September
 https://en.wikipedia.org/wiki/ETH_Zurich
 https://en.wikipedia.org/wiki/Ethereal_wave
 https://en.wikipedia.org/wiki/Ethereum
@@ -12947,6 +12950,7 @@ https://en.wikipedia.org/wiki/Julian_day
 https://en.wikipedia.org/wiki/Julius_von_Mayer
 https://en.wikipedia.org/wiki/Juliusz_S%C5%82owacki
 https://en.wikipedia.org/wiki/Juliusz_Schauder
+https://en.wikipedia.org/wiki/July_effect
 https://en.wikipedia.org/wiki/JuMP
 https://en.wikipedia.org/wiki/June_Barrow-Green
 https://en.wikipedia.org/wiki/June_solstice
@@ -24890,6 +24894,7 @@ https://ieeexplore.ieee.org/document/514853
 https://ieeexplore.ieee.org/document/515707
 https://ieeexplore.ieee.org/document/5197422
 https://ieeexplore.ieee.org/document/5206848
+https://ieeexplore.ieee.org/document/5272532/
 https://ieeexplore.ieee.org/document/5289519
 https://ieeexplore.ieee.org/document/5389567
 https://ieeexplore.ieee.org/document/5390405
@@ -24950,6 +24955,7 @@ https://ieeexplore.ieee.org/document/7575196
 https://ieeexplore.ieee.org/document/7780459
 https://ieeexplore.ieee.org/document/780892
 https://ieeexplore.ieee.org/document/788640
+https://ieeexplore.ieee.org/document/7898759
 https://ieeexplore.ieee.org/document/7945175
 https://ieeexplore.ieee.org/document/7948662
 https://ieeexplore.ieee.org/document/7958581
@@ -27434,6 +27440,7 @@ https://luca.ntop.org/Teaching/Appunti/asn1.html
 https://lucbeaulieu.com/2013/06/02/journal-impact-factor-why-you-should-not-care-too-much/
 https://lucbeaulieu.com/2015/11/19/how-many-citations-are-actually-a-lot-of-citations/
 https://lucene.apache.org/
+https://lumendatabase.org/pages/about
 https://lumina-desktop.org/
 https://lumol.org/
 https://lunar.computer/
@@ -27709,6 +27716,7 @@ https://makeradvisor.com/esp32-development-boards-review-comparison/
 https://makeradvisor.com/tools
 https://makeradvisor.com/tools/esp32-cam/
 https://makeradvisor.com/tools/esp32-dev-board-wi-fi-bluetooth/
+https://mako.cc/
 https://malwaretech.com/
 https://malwareunicorn.org/
 https://man-db.nongnu.org/
@@ -30430,6 +30438,9 @@ https://secret.club/2023/06/05/spoof-pe-sections.html
 https://sectools.org/
 https://sectrs.ethz.ch/
 https://secur3.us/
+https://securedrop.org/
+https://securedrop.org/directory/
+https://securedrop.org/directory/?page=2
 https://securelist.com/
 https://securelist.com/equation-the-death-star-of-malware-galaxy/68750/
 https://securelist.com/network-tunneling-with-qemu/111803/
@@ -31315,6 +31326,8 @@ https://techtonique.github.io/nnetsauce/
 https://techtracker.aspi.org.au/
 https://techurls.com/
 https://techxplore.com/news/2024-03-atlas-internet-surveillance-ownership-network.html
+https://tedium.co/
+https://tedium.co/2020/10/13/eternal-september-modern-impact/
 https://telegram-bot-sdk.com/community/resources/
 https://tellingstorieswithdata.com/
 https://tensorflow.rstudio.com/
@@ -34717,6 +34730,7 @@ https://www.historytoday.com/
 https://www.historytoday.com/archive/feature/we-speak-french-here
 https://www.historytoday.com/archive/head-head/how-french-was-medieval-england
 https://www.hitachi.com/
+https://www.hmdc.harvard.edu/
 https://www.holy-bhagavad-gita.org/chapter/11
 https://www.holy-bhagavad-gita.org/chapter/11/verse/32
 https://www.home-assistant.io/
@@ -34996,6 +35010,7 @@ https://www.ip2location.com/
 https://www.ipcc.ch/
 https://www.ips-planetarium.org/default.aspx
 https://www.ipvanish.com/
+https://www.iq.harvard.edu/
 https://www.iqair.com/
 https://www.irfanview.com/
 https://www.irif.fr/~krivine/
@@ -38237,6 +38252,7 @@ https://www.thisamericanlife.org/
 https://www.thofma.com/Hecke.jl/stable/
 https://www.thoughtworks.com/insights/books/fluent-python-2nd-edition
 https://www.thoughtworks.com/radar
+https://www.thousandeyes.com/outages/
 https://www.thunderbird.net/en-US/
 https://www.ti.com/
 https://www.ti.com/microcontrollers-mcus-processors/msp430-microcontrollers/overview.html
