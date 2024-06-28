@@ -585,6 +585,7 @@ https://analyticsindiamag.com/angels-demons-of-ai/
 https://analyticsindiamag.com/the-angels-demons-of-ai-part-ii/
 https://andrea.corbellini.name/
 https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/
+https://andrewfiala.com/
 https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/
 https://android.com/
 https://androidcalculator.com/
@@ -10617,6 +10618,7 @@ https://en.wikipedia.org/wiki/Foundation_series
 https://en.wikipedia.org/wiki/Foundation_universe
 https://en.wikipedia.org/wiki/Foundation%27s_Edge
 https://en.wikipedia.org/wiki/FoundationDB
+https://en.wikipedia.org/wiki/Foundations_of_Differential_Geometry
 https://en.wikipedia.org/wiki/Foundations_of_statistics
 https://en.wikipedia.org/wiki/Founders_of_statistics
 https://en.wikipedia.org/wiki/Four-phase_logic
@@ -27804,6 +27806,7 @@ https://marketplace.visualstudio.com/items?itemName=REditorSupport.r
 https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer
 https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml
 https://marketplace.visualstudio.com/items?itemName=zhwu95.riscv
+https://marktomforde.com/academic/mathmajors/textbook-suggestions.html
 https://markusthill.github.io/
 https://markusthill.github.io/ml/programming/zalandos-fashion-mnist-dataset/
 https://martin-gardner.org/MGSAindex.html
@@ -30188,6 +30191,7 @@ https://ropensci.r-universe.dev/packages
 https://ros.org/
 https://rosalind.info/
 https://rosettacode.org/wiki/Rosetta_Code
+https://rowman.com/ISBN/9781442223066/Against-Religion-Wars-and-States-The-Case-for-Enlightenment-Atheism-Just-War-Pacifism-and-Liberal-Democratic-Anarchism
 https://rowman.com/ISBN/9781636710860/ProQuest-Statistical-Abstract-of-the-United-States-2023-The-National-Data-Book
 https://roxygen2.r-lib.org/
 https://royalsociety.org/
@@ -32660,6 +32664,7 @@ https://www.cambridge.org/core/books/advanced-data-structures/D56E2269D7CEE969A3
 https://www.cambridge.org/core/books/algorithmic-algebraic-number-theory/1A1015DFC0CEB169709400B78417CD60
 https://www.cambridge.org/core/books/algorithmic-game-theory/0092C07CA8B724E1B1BE2238DDD66B38
 https://www.cambridge.org/core/books/algorithmic-highdimensional-robust-statistics/6AB511A1129F08F22D7D492B1A75ECAB
+https://www.cambridge.org/core/books/all-the-math-you-missed/02DEDEA470A50F689C9686D835108456
 https://www.cambridge.org/core/books/an-introduction-to-harmonic-analysis/67C4CE356E7420BA17F3F1337291EF82
 https://www.cambridge.org/core/books/an-introduction-to-statistical-signal-processing/E26F38B38E66B808AF0A7CD52BE66B35
 https://www.cambridge.org/core/books/an-introduction-to-symbolic-dynamics-and-coding/55BF49690F146403335C79ABD84C4C25
@@ -37311,6 +37316,7 @@ https://www.scielo.org/
 https://www.scielo.sa.cr/scielo.php
 https://www.science.gov/
 https://www.science.org/
+https://www.science.org/action/doSearch?AllField=%22things+I+won%27t+work+with%22
 https://www.science.org/authored-by/Sussman/Gerald+Jay
 https://www.science.org/authored-by/Wisdom/Jack
 https://www.science.org/content/article/ai-churns-out-lightning-fast-forecasts-good-weather-agencies
@@ -37322,6 +37328,7 @@ https://www.science.org/content/article/paper-mills-bribing-editors-scholarly-jo
 https://www.science.org/content/article/physicists-discover-whopping-13-new-solutions-three-body-problem
 https://www.science.org/content/article/scientific-retractions-may-become-easier-spot-retraction-watch-finds-new-partner
 https://www.science.org/content/blog-post/sand-won-t-save-you-time
+https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride
 https://www.science.org/doi/10.1126/sciadv.1602614
 https://www.science.org/doi/10.1126/sciadv.aay2631
 https://www.science.org/doi/10.1126/sciadv.abn9459
@@ -38687,6 +38694,8 @@ https://www.wiley.com/en-us/Differential+and+Integral+Calculus%2C+Volume+1%2C+2n
 https://www.wiley.com/en-us/Differential+and+Integral+Calculus%2C+Volume+2-p-9781118031483
 https://www.wiley.com/en-us/Evolutionary+Operation%3A+A+Statistical+Method+for+Process+Improvement-p-9780471255512
 https://www.wiley.com/en-us/Foundations+of+Coding%3A+Compression%2C+Encryption%2C+Error+Correction-p-9781118960868
+https://www.wiley.com/en-us/Foundations+of+Differential+Geometry%2C+Volume+1-p-9780471157335
+https://www.wiley.com/en-us/Foundations+of+Differential+Geometry%2C+Volume+2-p-9780471157328
 https://www.wiley.com/en-us/Functional+Analysis-p-9781118626740
 https://www.wiley.com/en-us/General+%26+Introductory+Computer+Science/Networking+%2F+Security-c-CS41
 https://www.wiley.com/en-us/General+%26+Introductory+Mathematics/Complex+%26+Functional+Analysis-c-MA12
