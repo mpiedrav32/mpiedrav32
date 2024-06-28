@@ -862,6 +862,7 @@ https://arxiv.org/abs/1307.4186
 https://arxiv.org/abs/1310.0425
 https://arxiv.org/abs/1310.4546
 https://arxiv.org/abs/1312.4455
+https://arxiv.org/abs/1312.5160
 https://arxiv.org/abs/1403.2805
 https://arxiv.org/abs/1406.1078
 https://arxiv.org/abs/1406.2661
@@ -3730,6 +3731,7 @@ https://dl.acm.org/doi/10.1145/363235.363259
 https://dl.acm.org/doi/10.1145/3632874
 https://dl.acm.org/doi/10.1145/363347.363387
 https://dl.acm.org/doi/10.1145/3639445
+https://dl.acm.org/doi/10.1145/3652588.3663324
 https://dl.acm.org/doi/10.1145/365758.365802
 https://dl.acm.org/doi/10.1145/367236.367286
 https://dl.acm.org/doi/10.1145/368637.368660
@@ -16196,6 +16198,7 @@ https://en.wikipedia.org/wiki/Orthogonality
 https://en.wikipedia.org/wiki/Orthographic_depth
 https://en.wikipedia.org/wiki/Orthonormal_basis
 https://en.wikipedia.org/wiki/Oscar_Zariski
+https://en.wikipedia.org/wiki/Oscillation_(mathematics)
 https://en.wikipedia.org/wiki/OSDN
 https://en.wikipedia.org/wiki/OSI_model
 https://en.wikipedia.org/wiki/OsiriX
