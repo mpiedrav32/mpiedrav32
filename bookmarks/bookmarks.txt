@@ -4644,6 +4644,7 @@ https://dspace.mit.edu/handle/1721.1/7582
 https://dspace.mit.edu/handle/1721.1/97690
 https://dtai.cs.kuleuven.be/problog/
 https://dtplyr.tidyverse.org/
+https://dubbo.apache.org/
 https://duckdb.org/
 https://duckdb.org/2021/06/25/querying-parquet
 https://duckdb.org/2024/05/31/analyzing-railway-traffic-in-the-netherlands.html
@@ -21692,6 +21693,7 @@ https://events.ccc.de/congress/2023/infos/startpage.html
 https://excess-xss.com/
 https://exercism.org/
 https://exercism.org/tracks
+https://exiftool.org/
 https://existentialcomics.com/
 https://exlibrisgroup.com/products/primo-discovery-service/
 https://explained-from-first-principles.com/
@@ -21825,6 +21827,7 @@ https://flatiron.com/
 https://flatpak.org/
 https://fleetdm.com/
 https://fletcher.tufts.edu/
+https://flink.apache.org/
 https://flintlib.org/
 https://flintlib.org/doc/references.html
 https://flipperzero.one/
@@ -22125,23 +22128,38 @@ https://github.com/antirez/linenoise
 https://github.com/antirez/load81
 https://github.com/apache/airflow
 https://github.com/apache/arrow
+https://github.com/apache/avro
+https://github.com/apache/camel
 https://github.com/apache/camel/
+https://github.com/apache/cassandra
+https://github.com/apache/couchdb
 https://github.com/apache/doris
 https://github.com/apache/drill
 https://github.com/apache/druid
+https://github.com/apache/dubbo
 https://github.com/apache/echarts
 https://github.com/apache/flink
+https://github.com/apache/guacamole-server
 https://github.com/apache/hadoop
+https://github.com/apache/hbase
+https://github.com/apache/httpd
 https://github.com/apache/jmeter
 https://github.com/apache/kafka
 https://github.com/apache/lucene
+https://github.com/apache/maven
+https://github.com/apache/netbeans
 https://github.com/apache/parquet-mr
+https://github.com/apache/pinot
+https://github.com/apache/rocketmq
 https://github.com/apache/singa
 https://github.com/apache/skywalking
 https://github.com/apache/spark
+https://github.com/apache/storm
 https://github.com/apache/superset
 https://github.com/apache/thrift
+https://github.com/apache/tomcat
 https://github.com/apache/trafficserver
+https://github.com/apache/zookeeper
 https://github.com/apavlo/h-store
 https://github.com/apolloconfig/apollo
 https://github.com/apple-oss-distributions/xnu
@@ -22519,6 +22537,7 @@ https://github.com/eventql/eventql
 https://github.com/everywall/ladder
 https://github.com/exaexa/EmbedSOM
 https://github.com/exercism/exercism
+https://github.com/exiftool/exiftool
 https://github.com/expipiplus1/vector-sized
 https://github.com/explosion/spaCy
 https://github.com/extremecoders-re/re-list
@@ -23578,6 +23597,7 @@ https://github.com/rpm-software-management/rpm
 https://github.com/rqlite/rqlite
 https://github.com/rr-debugger/rr
 https://github.com/rsc/unix
+https://github.com/rsnapshot/rsnapshot
 https://github.com/rstudio/blastula
 https://github.com/rstudio/blogdown
 https://github.com/rstudio/bookdown
@@ -24356,6 +24376,7 @@ https://gt.rstudio.com/
 https://gtfobins.github.io/
 https://gtk-rs.org/
 https://gtk.org/
+https://guacamole.apache.org/
 https://guides.lib.ku.edu/eurs/thinktanks
 https://guides.library.georgetown.edu/c.php?g=933266&p=6727039
 https://guides.library.harvard.edu/hks/think_tank_search/US
@@ -25409,6 +25430,7 @@ https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/
 https://k4all.org/
 https://k6.io/
 https://kabre.cenat.ac.cr/
+https://kafka.apache.org/
 https://kaikki.org/
 https://kakoune.org/
 https://kalker.xyz/
@@ -30183,6 +30205,7 @@ https://robotsguide.com/
 https://robotsguide.com/robots/universal
 https://rocker-project.org/
 https://rocket.rs/
+https://rocketmq.apache.org/
 https://rocksdb.org/
 https://rockylinux.org/
 https://roi.r-forge.r-project.org/
@@ -30228,6 +30251,7 @@ https://rqlite.io/
 https://rray.r-lib.org/
 https://rsample.tidymodels.org/
 https://rseek.org/
+https://rsnapshot.org/
 https://rspatial.org/
 https://rspatial.r-universe.dev/packages
 https://rsqlite.r-dbi.org/
@@ -31199,6 +31223,7 @@ https://store.steampowered.com/app/1500/Darwinia/
 https://store.steampowered.com/app/1510/Uplink/
 https://store.steampowered.com/app/1520/DEFCON/
 https://store.steampowered.com/developer/Introversion
+https://storm.apache.org/
 https://stp.github.io/
 https://stract.com/
 https://strapi.io/
@@ -33779,6 +33804,7 @@ https://www.eia.gov/energyexplained/us-energy-facts/
 https://www.eia.gov/todayinenergy/
 https://www.eiffel.org/
 https://www.eiir.eu/
+https://www.elastic.co/
 https://www.elastic.co/elastic-stack
 https://www.elastic.co/elastic-stack/
 https://www.elastic.co/elasticsearch
