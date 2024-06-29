@@ -23,6 +23,7 @@ http://carlmeyer.com/
 http://cat-v.org/
 http://cca-net.de/
 http://cca-net.de/handbook/
+http://cca-net.de/publications/books.html
 http://ceres-solver.org/
 http://cgm.cs.mcgill.ca/~godfried/teaching/pr-web.html
 http://classics.mit.edu/
@@ -12000,6 +12001,7 @@ https://en.wikipedia.org/wiki/Hydrosphere
 https://en.wikipedia.org/wiki/Hydrostatic_equilibrium
 https://en.wikipedia.org/wiki/Hygienic_macro
 https://en.wikipedia.org/wiki/Hygon_Information_Technology
+https://en.wikipedia.org/wiki/Hyperarithmetical_theory
 https://en.wikipedia.org/wiki/Hyperbola
 https://en.wikipedia.org/wiki/Hyperbola_GNU/Linux-libre
 https://en.wikipedia.org/wiki/Hyperbolic_functions
@@ -20435,6 +20437,7 @@ https://en.wikipedia.org/wiki/Umesh_Vazirani
 https://en.wikipedia.org/wiki/UMFPACK
 https://en.wikipedia.org/wiki/Unambiguous_Turing_machine
 https://en.wikipedia.org/wiki/Unary_coding
+https://en.wikipedia.org/wiki/Unbounded_nondeterminism
 https://en.wikipedia.org/wiki/Unbounded_operator
 https://en.wikipedia.org/wiki/Uncertain_inference
 https://en.wikipedia.org/wiki/Uncertainty_quantification
@@ -21141,6 +21144,7 @@ https://en.wikipedia.org/wiki/World_energy_supply_and_consumption
 https://en.wikipedia.org/wiki/World_Englishes
 https://en.wikipedia.org/wiki/World_government
 https://en.wikipedia.org/wiki/World_history_(field)
+https://en.wikipedia.org/wiki/World_line
 https://en.wikipedia.org/wiki/World_literature
 https://en.wikipedia.org/wiki/World_order
 https://en.wikipedia.org/wiki/World_population
@@ -24087,6 +24091,7 @@ https://github.com/webview/webview
 https://github.com/weechat/weechat
 https://github.com/weidai11/cryptopp
 https://github.com/wenhuchen/Table-Fact-Checking
+https://github.com/WerWolv/ImHex
 https://github.com/westes/flex
 https://github.com/wildfly/wildfly
 https://github.com/Windscribe
@@ -25103,6 +25108,7 @@ https://imagemagick.org/
 https://imagemagick.org/index.php
 https://imagen.research.google/
 https://imagetopdf.com/
+https://imhex.werwolv.net/
 https://immchallenge.org/
 https://immutable-js.com/
 https://implicit-layers-tutorial.org/
@@ -26633,6 +26639,7 @@ https://link.springer.com/book/10.1007/978-1-4419-8724-2
 https://link.springer.com/book/10.1007/978-1-4419-8744-0
 https://link.springer.com/book/10.1007/978-1-4419-9003-7
 https://link.springer.com/book/10.1007/978-1-4419-9542-1
+https://link.springer.com/book/10.1007/978-1-4471-1591-5
 https://link.springer.com/book/10.1007/978-1-4471-4008-5
 https://link.springer.com/book/10.1007/978-1-4471-4820-3
 https://link.springer.com/book/10.1007/978-1-4471-5487-7
@@ -27007,6 +27014,7 @@ https://link.springer.com/book/10.1007/978-3-319-33924-5
 https://link.springer.com/book/10.1007/978-3-319-38945-5
 https://link.springer.com/book/10.1007/978-3-319-43323-3
 https://link.springer.com/book/10.1007/978-3-319-43476-6
+https://link.springer.com/book/10.1007/978-3-319-43669-2
 https://link.springer.com/book/10.1007/978-3-319-44048-4
 https://link.springer.com/book/10.1007/978-3-319-45403-0
 https://link.springer.com/book/10.1007/978-3-319-48936-0
@@ -27101,6 +27109,7 @@ https://link.springer.com/book/10.1007/978-3-642-21551-3
 https://link.springer.com/book/10.1007/978-3-642-24073-7
 https://link.springer.com/book/10.1007/978-3-642-28070-2
 https://link.springer.com/book/10.1007/978-3-642-31084-3
+https://link.springer.com/book/10.1007/978-3-642-31933-4
 https://link.springer.com/book/10.1007/978-3-642-33206-7
 https://link.springer.com/book/10.1007/978-3-642-33278-4
 https://link.springer.com/book/10.1007/978-3-642-34871-6
@@ -37856,6 +37865,7 @@ https://www.springer.com/series/3191
 https://www.springer.com/series/3242
 https://www.springer.com/series/3339
 https://www.springer.com/series/34
+https://www.springer.com/series/3465
 https://www.springer.com/series/3816
 https://www.springer.com/series/4097
 https://www.springer.com/series/4109
