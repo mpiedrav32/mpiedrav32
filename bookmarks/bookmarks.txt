@@ -3503,6 +3503,7 @@ https://discover.lanl.gov/news/0714-oppenheimer-literature/
 https://discover.utas.edu.au/Michael.Negnevitsky
 https://discovery.nationalarchives.gov.uk/details/r/C11510465
 https://discrim.tidymodels.org/
+https://discu.eu/
 https://discussion.fedoraproject.org/
 https://disqus.com/
 https://disroot.org/en
@@ -14649,6 +14650,7 @@ https://en.wikipedia.org/wiki/MATH-MATIC
 https://en.wikipedia.org/wiki/Math.NET_Numerics
 https://en.wikipedia.org/wiki/Mathcad
 https://en.wikipedia.org/wiki/Mathematical_analysis
+https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology
 https://en.wikipedia.org/wiki/Mathematical_Association_of_America
 https://en.wikipedia.org/wiki/Mathematical_chess_problem
 https://en.wikipedia.org/wiki/Mathematical_economics
@@ -16398,6 +16400,7 @@ https://en.wikipedia.org/wiki/Parallel_state
 https://en.wikipedia.org/wiki/Parallel_Thread_Execution
 https://en.wikipedia.org/wiki/Parallel_Virtual_Machine
 https://en.wikipedia.org/wiki/Parameter_space
+https://en.wikipedia.org/wiki/Parameterized_complexity
 https://en.wikipedia.org/wiki/Parametric_equation
 https://en.wikipedia.org/wiki/Parametric_model
 https://en.wikipedia.org/wiki/Parametric_statistics
@@ -17993,6 +17996,7 @@ https://en.wikipedia.org/wiki/Rocky_Linux
 https://en.wikipedia.org/wiki/Rocky_Mountains
 https://en.wikipedia.org/wiki/ROCm
 https://en.wikipedia.org/wiki/Rod_cell
+https://en.wikipedia.org/wiki/Rod_Downey
 https://en.wikipedia.org/wiki/Rod_Serling
 https://en.wikipedia.org/wiki/Rodger%27s_method
 https://en.wikipedia.org/wiki/Roger_Bivand
@@ -26049,6 +26053,7 @@ https://library.lol/main/1A4D612C67866B4C666AA07D84EA6662
 https://library.lol/main/1C07635D617523DD283DBB3A23B48D9F
 https://library.lol/main/1C248CA46443DC2180FCAF84130C4847
 https://library.lol/main/1C5879B8666C96320003AE888FF74B1E
+https://library.lol/main/1CB91522BD9CDAC41BE2CB76140D3B64
 https://library.lol/main/1CDF5E2E2EB904135EECA42FECB9BC22
 https://library.lol/main/1D818C5DA3BD43BC06219E1F6ED344D8
 https://library.lol/main/1E1DD82B6B6D4337182F92216D466210
@@ -26111,6 +26116,7 @@ https://library.lol/main/3DD11D360C305D66DDBB90D2DEE623DD
 https://library.lol/main/3E7CE6B4EDD03A4B4A5A224DB0DCE512
 https://library.lol/main/3E8D4AD748173B9E2349A6E7728817C0
 https://library.lol/main/3ECBD435917E414CB6AA7FD13ADD9429
+https://library.lol/main/3F1D93670E61354D9E953E3B66722B93
 https://library.lol/main/40164ECD08699C4465128C0EF1D034E3
 https://library.lol/main/407A5ED0AF60041C99CE17767B3C0D97
 https://library.lol/main/42AEFAA7B61B6197D5269544A7E3F9BD
@@ -26549,6 +26555,7 @@ https://link.springer.com/book/10.1007/978-0-387-68577-9
 https://link.springer.com/book/10.1007/978-0-387-69033-9
 https://link.springer.com/book/10.1007/978-0-387-69216-6
 https://link.springer.com/book/10.1007/978-0-387-70914-7
+https://link.springer.com/book/10.1007/978-0-387-70984-0
 https://link.springer.com/book/10.1007/978-0-387-71597-1
 https://link.springer.com/book/10.1007/978-0-387-72831-5
 https://link.springer.com/book/10.1007/978-0-387-73512-2
@@ -26968,6 +26975,7 @@ https://link.springer.com/book/10.1007/978-3-031-35719-0
 https://link.springer.com/book/10.1007/978-3-031-38499-8
 https://link.springer.com/book/10.1007/978-3-031-38684-8
 https://link.springer.com/book/10.1007/978-3-031-38747-0
+https://link.springer.com/book/10.1007/978-3-031-40258-6
 https://link.springer.com/book/10.1007/978-3-031-41026-0
 https://link.springer.com/book/10.1007/978-3-031-41724-5
 https://link.springer.com/book/10.1007/978-3-031-42543-1
@@ -26976,6 +26984,8 @@ https://link.springer.com/book/10.1007/978-3-031-45468-4
 https://link.springer.com/book/10.1007/978-3-031-46460-7
 https://link.springer.com/book/10.1007/978-3-031-48906-8
 https://link.springer.com/book/10.1007/978-3-031-48910-5
+https://link.springer.com/book/10.1007/978-3-031-48956-3
+https://link.springer.com/book/10.1007/978-3-031-53744-8
 https://link.springer.com/book/10.1007/978-3-0348-0493-6
 https://link.springer.com/book/10.1007/978-3-0348-0499-8
 https://link.springer.com/book/10.1007/978-3-0348-0898-9
@@ -27003,6 +27013,7 @@ https://link.springer.com/book/10.1007/978-3-319-22321-6
 https://link.springer.com/book/10.1007/978-3-319-23395-6
 https://link.springer.com/book/10.1007/978-3-319-25823-2
 https://link.springer.com/book/10.1007/978-3-319-27889-6
+https://link.springer.com/book/10.1007/978-3-319-29638-8
 https://link.springer.com/book/10.1007/978-3-319-29659-3
 https://link.springer.com/book/10.1007/978-3-319-29788-0
 https://link.springer.com/book/10.1007/978-3-319-29854-2
@@ -27288,6 +27299,8 @@ https://link.springer.com/book/10.1007/b97670
 https://link.springer.com/book/10.1007/b97672
 https://link.springer.com/book/10.1007/b98851
 https://link.springer.com/book/10.1007/b98854
+https://link.springer.com/book/10.1007/b98868
+https://link.springer.com/book/10.1007/b98869
 https://link.springer.com/book/10.1007/b98886
 https://link.springer.com/book/10.1007/b98888
 https://link.springer.com/book/10.1007/BFb0014649
@@ -30272,9 +30285,14 @@ https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0169
 https://royalsocietypublishing.org/doi/10.1098/rspa.2016.0295
 https://royalsocietypublishing.org/doi/10.1098/rsta.2017.0237
 https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0417
+https://royalsocietypublishing.org/doi/10.1098/rstb.1952.0012
 https://royalsocietypublishing.org/doi/full/10.1098/rsta.2010.0017
 https://royalsocietypublishing.org/journal/rsos
+https://royalsocietypublishing.org/journal/rspa
+https://royalsocietypublishing.org/journal/rspb
 https://royalsocietypublishing.org/journal/rspl
+https://royalsocietypublishing.org/journal/rsta
+https://royalsocietypublishing.org/journal/rstb
 https://royksopp.bandcamp.com/album/profound-mysteries-2
 https://royksopp.bandcamp.com/music
 https://rpm-ostree.readthedocs.io/en/stable/
