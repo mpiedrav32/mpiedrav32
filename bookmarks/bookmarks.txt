@@ -5016,6 +5016,7 @@ https://en.wikipedia.org/wiki/3D_Slicer
 https://en.wikipedia.org/wiki/3DMark
 https://en.wikipedia.org/wiki/3SUM
 https://en.wikipedia.org/wiki/4-bit_computing
+https://en.wikipedia.org/wiki/4.2-kiloyear_event
 https://en.wikipedia.org/wiki/4AD
 https://en.wikipedia.org/wiki/4K_resolution
 https://en.wikipedia.org/wiki/501(c)_organization
@@ -5025,6 +5026,7 @@ https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule
 https://en.wikipedia.org/wiki/74181
 https://en.wikipedia.org/wiki/8-bit_computing
 https://en.wikipedia.org/wiki/8-N-1
+https://en.wikipedia.org/wiki/8.2-kiloyear_event
 https://en.wikipedia.org/wiki/80_Million_Tiny_Images
 https://en.wikipedia.org/wiki/8086
 https://en.wikipedia.org/wiki/8250_UART
@@ -5450,6 +5452,7 @@ https://en.wikipedia.org/wiki/Alternative_metal
 https://en.wikipedia.org/wiki/AltGr_key
 https://en.wikipedia.org/wiki/Altmetrics
 https://en.wikipedia.org/wiki/Aluminium-ion_battery
+https://en.wikipedia.org/wiki/Alvarez_hypothesis
 https://en.wikipedia.org/wiki/Alvey
 https://en.wikipedia.org/wiki/AM-GM_Inequality
 https://en.wikipedia.org/wiki/AM%E2%80%93GM_inequality
@@ -5608,6 +5611,7 @@ https://en.wikipedia.org/wiki/Andrey_Markov_Jr.
 https://en.wikipedia.org/wiki/Android_(operating_system)
 https://en.wikipedia.org/wiki/Andromeda_(mythology)
 https://en.wikipedia.org/wiki/Andromeda_Galaxy
+https://en.wikipedia.org/wiki/Andromeda%E2%80%93Milky_Way_collision
 https://en.wikipedia.org/wiki/Andy_Pavlo
 https://en.wikipedia.org/wiki/Anekdoten
 https://en.wikipedia.org/wiki/Anemic_domain_model
@@ -5955,6 +5959,7 @@ https://en.wikipedia.org/wiki/Atharvaveda
 https://en.wikipedia.org/wiki/Athena
 https://en.wikipedia.org/wiki/Atlantic_City_algorithm
 https://en.wikipedia.org/wiki/Atlantic_Council
+https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation
 https://en.wikipedia.org/wiki/Atlanticismnacio
 https://en.wikipedia.org/wiki/Atlantis_Lucid_Dreaming
 https://en.wikipedia.org/wiki/Atlas_VPN
@@ -6525,6 +6530,7 @@ https://en.wikipedia.org/wiki/Boltzmann_machine
 https://en.wikipedia.org/wiki/Boltzmann%27s_entropy_formula
 https://en.wikipedia.org/wiki/Bomba_(cryptography)
 https://en.wikipedia.org/wiki/Bombe
+https://en.wikipedia.org/wiki/Bond_event
 https://en.wikipedia.org/wiki/Bonferroni_correction
 https://en.wikipedia.org/wiki/Bonn
 https://en.wikipedia.org/wiki/Bonnie%2B%2B
@@ -6970,6 +6976,7 @@ https://en.wikipedia.org/wiki/Category:Artificial_intelligence_researchers
 https://en.wikipedia.org/wiki/Category:Artificial_neural_networks
 https://en.wikipedia.org/wiki/Category:Astrodynamics
 https://en.wikipedia.org/wiki/Category:Astrometry
+https://en.wikipedia.org/wiki/Category:Astronomical_hypotheses
 https://en.wikipedia.org/wiki/Category:Astronomical_imaging
 https://en.wikipedia.org/wiki/Category:Astronomical_sub-disciplines
 https://en.wikipedia.org/wiki/Category:Astronomy
@@ -6990,6 +6997,7 @@ https://en.wikipedia.org/wiki/Category:Benchmarks_(computing)
 https://en.wikipedia.org/wiki/Category:Biblical_phrases
 https://en.wikipedia.org/wiki/Category:Binary_arithmetic
 https://en.wikipedia.org/wiki/Category:Bioinformatics_algorithms
+https://en.wikipedia.org/wiki/Category:Biological_hypotheses
 https://en.wikipedia.org/wiki/Category:Bit_data_structures
 https://en.wikipedia.org/wiki/Category:Blaise_Pascal
 https://en.wikipedia.org/wiki/Category:Bodies_of_the_Common_Security_and_Defence_Policy
@@ -7164,6 +7172,7 @@ https://en.wikipedia.org/wiki/Category:Euclidean_symmetries
 https://en.wikipedia.org/wiki/Category:Euthenics
 https://en.wikipedia.org/wiki/Category:Evaluation_of_machine_translation
 https://en.wikipedia.org/wiki/Category:Events_(computing)
+https://en.wikipedia.org/wiki/Category:Events_that_forced_the_climate
 https://en.wikipedia.org/wiki/Category:Evolutionary_biology
 https://en.wikipedia.org/wiki/Category:Extinction
 https://en.wikipedia.org/wiki/Category:F-divergences
@@ -7227,6 +7236,7 @@ https://en.wikipedia.org/wiki/Category:History_of_science
 https://en.wikipedia.org/wiki/Category:History_of_technology
 https://en.wikipedia.org/wiki/Category:Household_chemicals
 https://en.wikipedia.org/wiki/Category:Hypergeometric_functions
+https://en.wikipedia.org/wiki/Category:Hypothetical_impact_events
 https://en.wikipedia.org/wiki/Category:IBM_cryptographic_coprocessors
 https://en.wikipedia.org/wiki/Category:IBM_transistorized_computers
 https://en.wikipedia.org/wiki/Category:IBM_vacuum_tube_computers
@@ -7414,6 +7424,8 @@ https://en.wikipedia.org/wiki/Category:Political_spectrum
 https://en.wikipedia.org/wiki/Category:Political_writers
 https://en.wikipedia.org/wiki/Category:Population_models
 https://en.wikipedia.org/wiki/Category:Potential_theory
+https://en.wikipedia.org/wiki/Category:Prehistoric_Africa
+https://en.wikipedia.org/wiki/Category:Prehistory_by_continent
 https://en.wikipedia.org/wiki/Category:Probabilistic_data_structures
 https://en.wikipedia.org/wiki/Category:Probabilistic_inequalities
 https://en.wikipedia.org/wiki/Category:Probabilistic_models
@@ -8050,6 +8062,7 @@ https://en.wikipedia.org/wiki/Climate_security
 https://en.wikipedia.org/wiki/Climate_system
 https://en.wikipedia.org/wiki/Climate_variability_and_change
 https://en.wikipedia.org/wiki/Climatological_normal
+https://en.wikipedia.org/wiki/Climatology
 https://en.wikipedia.org/wiki/Climm
 https://en.wikipedia.org/wiki/Clinical_decision_support_system
 https://en.wikipedia.org/wiki/Clinical_study_design
@@ -10277,6 +10290,7 @@ https://en.wikipedia.org/wiki/External_sorting
 https://en.wikipedia.org/wiki/External_validity
 https://en.wikipedia.org/wiki/Externality
 https://en.wikipedia.org/wiki/Extinct_language
+https://en.wikipedia.org/wiki/Extinction_event
 https://en.wikipedia.org/wiki/Extract,_load,_transform
 https://en.wikipedia.org/wiki/Extract,_transform,_load
 https://en.wikipedia.org/wiki/Extrapolation
@@ -11786,6 +11800,7 @@ https://en.wikipedia.org/wiki/Historic_recurrence
 https://en.wikipedia.org/wiki/Historical_negationism
 https://en.wikipedia.org/wiki/Historicity_of_the_Iliad
 https://en.wikipedia.org/wiki/Histories_(Herodotus)
+https://en.wikipedia.org/wiki/History_of_ancient_Egypt
 https://en.wikipedia.org/wiki/History_of_Anglo-Saxon_England
 https://en.wikipedia.org/wiki/History_of_artificial_intelligence
 https://en.wikipedia.org/wiki/History_of_artificial_neural_networks
@@ -12141,6 +12156,7 @@ https://en.wikipedia.org/wiki/Immortal_Game
 https://en.wikipedia.org/wiki/Immutable_object
 https://en.wikipedia.org/wiki/IMOD_(software)
 https://en.wikipedia.org/wiki/IMP_(programming_language)
+https://en.wikipedia.org/wiki/Impact_event
 https://en.wikipedia.org/wiki/Impact_factor
 https://en.wikipedia.org/wiki/IMPATT_diode
 https://en.wikipedia.org/wiki/Imperial_and_Royal
@@ -13532,6 +13548,7 @@ https://en.wikipedia.org/wiki/Lexis_diagram
 https://en.wikipedia.org/wiki/LFE_(programming_language)
 https://en.wikipedia.org/wiki/LG_Electronics
 https://en.wikipedia.org/wiki/LGP-30
+https://en.wikipedia.org/wiki/Liangzhu_culture
 https://en.wikipedia.org/wiki/Libarchive
 https://en.wikipedia.org/wiki/Libart
 https://en.wikipedia.org/wiki/Liberal_autocracy
@@ -13994,6 +14011,7 @@ https://en.wikipedia.org/wiki/List_of_multivariable_calculus_topics
 https://en.wikipedia.org/wiki/List_of_musical_symbols
 https://en.wikipedia.org/wiki/List_of_named_differential_equations
 https://en.wikipedia.org/wiki/List_of_national_and_international_statistical_services
+https://en.wikipedia.org/wiki/List_of_Neolithic_cultures_of_China
 https://en.wikipedia.org/wiki/List_of_neuroimaging_software
 https://en.wikipedia.org/wiki/List_of_news_channels_in_India
 https://en.wikipedia.org/wiki/List_of_news_television_channels
@@ -14940,6 +14958,7 @@ https://en.wikipedia.org/wiki/Microsoft_Windows
 https://en.wikipedia.org/wiki/Microstate_(statistical_mechanics)
 https://en.wikipedia.org/wiki/Microwave_cavity
 https://en.wikipedia.org/wiki/MicroWorlds
+https://en.wikipedia.org/wiki/Mid-24th_century_BCE_climate_anomaly
 https://en.wikipedia.org/wiki/Middle_English
 https://en.wikipedia.org/wiki/Middle_English_literature
 https://en.wikipedia.org/wiki/Middle_Way
@@ -15906,6 +15925,7 @@ https://en.wikipedia.org/wiki/Okinawa_Institute_of_Science_and_Technology
 https://en.wikipedia.org/wiki/OLAP_cube
 https://en.wikipedia.org/wiki/Old_English
 https://en.wikipedia.org/wiki/Old_Europe_(archaeology)
+https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt
 https://en.wikipedia.org/wiki/Old_Latin
 https://en.wikipedia.org/wiki/Old_Norse
 https://en.wikipedia.org/wiki/Old_Norse_religion
@@ -16211,6 +16231,8 @@ https://en.wikipedia.org/wiki/Oscar_Zariski
 https://en.wikipedia.org/wiki/Oscillation_(mathematics)
 https://en.wikipedia.org/wiki/OSDN
 https://en.wikipedia.org/wiki/OSI_model
+https://en.wikipedia.org/wiki/Osiris
+https://en.wikipedia.org/wiki/Osiris_myth
 https://en.wikipedia.org/wiki/OsiriX
 https://en.wikipedia.org/wiki/Oskar_Perron
 https://en.wikipedia.org/wiki/OsmAnd
@@ -17029,7 +17051,10 @@ https://en.wikipedia.org/wiki/Preference_utilitarianism
 https://en.wikipedia.org/wiki/Preferential_attachment
 https://en.wikipedia.org/wiki/Prefix_code
 https://en.wikipedia.org/wiki/Prefix_sum
+https://en.wikipedia.org/wiki/Prehistoric_Africa
+https://en.wikipedia.org/wiki/Prehistoric_Egypt
 https://en.wikipedia.org/wiki/Prehistoric_Europe
+https://en.wikipedia.org/wiki/Prehistoric_North_Africa
 https://en.wikipedia.org/wiki/Preimage_attack
 https://en.wikipedia.org/wiki/Prelude_to_Foundation
 https://en.wikipedia.org/wiki/Prenex_normal_form
@@ -20849,6 +20874,7 @@ https://en.wikipedia.org/wiki/Wallachia
 https://en.wikipedia.org/wiki/Walsh_function
 https://en.wikipedia.org/wiki/Walsh_matrix
 https://en.wikipedia.org/wiki/Walsh_School_of_Foreign_Service
+https://en.wikipedia.org/wiki/Walter_Alvarez
 https://en.wikipedia.org/wiki/Walter_Bright
 https://en.wikipedia.org/wiki/Walter_M._Miller_Jr.
 https://en.wikipedia.org/wiki/Walter_Pitts
