@@ -21703,6 +21703,7 @@ https://ethw.org/First-Hand:The_Hidden_Markov_Model
 https://ethw.org/Main_Page
 https://ethw.org/Oral-History:Claude_E._Shannon
 https://ethz.ch/
+https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html
 https://etna.ricam.oeaw.ac.at/
 https://etsh.nl/
 https://eu.swi-prolog.org/man/clpfd.html
@@ -22029,6 +22030,7 @@ https://gef.readthedocs.io/en/master/
 https://gegl.org/
 https://gem-library.github.io/gem/
 https://gemini.google.com/app
+https://genius.com/Minuit-machine-prey-hunter-lyrics
 https://geoawesomeness.com/
 https://geocompx.org/
 https://geoff.greer.fm/ag/
@@ -32157,6 +32159,7 @@ https://words.filippo.io/hi/
 https://workers.cloudflare.com/
 https://workflows.tidymodels.org/
 https://workflowsets.tidymodels.org/
+https://workingclasshistory.com/
 https://world-nuclear.org/
 https://world101.cfr.org/
 https://world101.cfr.org/global-era-issues/climate-change
@@ -36916,6 +36919,7 @@ https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-infor
 https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/
 https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/
 https://www.quantamagazine.org/physicists-use-quantum-mechanics-to-pull-energy-out-of-nothing-20230222/
+https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/
 https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/
 https://www.quantamagazine.org/symbolic-mathematics-finally-yields-to-neural-networks-20200520/
 https://www.quantamagazine.org/tag/chaos-theory/
@@ -39098,6 +39102,7 @@ https://www.youtube.com/watch?v=CwdUwevayRU
 https://www.youtube.com/watch?v=d149l7SLLXA
 https://www.youtube.com/watch?v=eRuca6eAdFM
 https://www.youtube.com/watch?v=EVy4KEj9kZg
+https://www.youtube.com/watch?v=fDYEN0UdyZU
 https://www.youtube.com/watch?v=FwDo7MdaxhA
 https://www.youtube.com/watch?v=g-dKXOlsf98
 https://www.youtube.com/watch?v=g3LT_b6K0Mc
