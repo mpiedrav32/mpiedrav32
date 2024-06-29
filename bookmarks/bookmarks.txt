@@ -6278,6 +6278,7 @@ https://en.wikipedia.org/wiki/Benzene
 https://en.wikipedia.org/wiki/BeOS
 https://en.wikipedia.org/wiki/Bergman_kernel
 https://en.wikipedia.org/wiki/Berkeley_DB
+https://en.wikipedia.org/wiki/Berkeley_IRAM_project
 https://en.wikipedia.org/wiki/Berkeley_Physics_Course
 https://en.wikipedia.org/wiki/Berkeley_RISC
 https://en.wikipedia.org/wiki/Berkeley_sockets
@@ -8417,6 +8418,7 @@ https://en.wikipedia.org/wiki/Computational_particle_physics
 https://en.wikipedia.org/wiki/Computational_phylogenetics
 https://en.wikipedia.org/wiki/Computational_physics
 https://en.wikipedia.org/wiki/Computational_problem
+https://en.wikipedia.org/wiki/Computational_RAM
 https://en.wikipedia.org/wiki/Computational_resource
 https://en.wikipedia.org/wiki/Computational_science
 https://en.wikipedia.org/wiki/Computational_sociology
@@ -8462,6 +8464,7 @@ https://en.wikipedia.org/wiki/Computers_in_Entertainment
 https://en.wikipedia.org/wiki/Computing_Community_Consortium
 https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence
 https://en.wikipedia.org/wiki/Computing_Research_Association
+https://en.wikipedia.org/wiki/Computing_with_Memory
 https://en.wikipedia.org/wiki/Computing_with_words_and_perceptions
 https://en.wikipedia.org/wiki/Conc-tree_list
 https://en.wikipedia.org/wiki/Concatenative_programming_language
@@ -19503,6 +19506,7 @@ https://en.wikipedia.org/wiki/Symphonic_metal
 https://en.wikipedia.org/wiki/Symphony_Masses:_Ho_Drakon_Ho_Megas
 https://en.wikipedia.org/wiki/SYMPL
 https://en.wikipedia.org/wiki/SymPy
+https://en.wikipedia.org/wiki/SyNAPSE
 https://en.wikipedia.org/wiki/Synchronization_of_chaos
 https://en.wikipedia.org/wiki/Synchronous_Ethernet
 https://en.wikipedia.org/wiki/Synchronous_optical_networking
@@ -24881,6 +24885,7 @@ https://ideas.repec.org/top/top.ttanks.html
 https://idsc.ethz.ch/education/lectures/optimal-control.html
 https://ieeeaccess.ieee.org/
 https://ieeetcca.org/
+https://ieeexplore.ieee.org/abstract/document/5008902
 https://ieeexplore.ieee.org/author/37085719525
 https://ieeexplore.ieee.org/author/37266257500
 https://ieeexplore.ieee.org/author/37282338400
