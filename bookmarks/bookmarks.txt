@@ -27993,6 +27993,7 @@ https://mc-stan.org/
 https://mc-stan.org/users/interfaces/math
 https://mccue.dev/pages/7-27-22-c-errors
 https://mceliece.org/
+https://mcfunley.com/choose-boring-technology
 https://mcj.sourceforge.net/
 https://mcjones.org/dustydecks/
 https://mcjones.org/dustydecks/archives/2021/08/25/1090/
@@ -28540,6 +28541,7 @@ https://notabug.org/
 https://notabug.org/koz.ross/awesome-c
 https://notepad-plus-plus.org/
 https://notes.atomutek.org/power-metal-and-dragons.html
+https://notes.billmill.org/blog/2024/06/Serving_a_billion_web_requests_with_boring_code.html
 https://npcap.com/
 https://nsa-codebreaker.org/resources
 https://nsarchive.gwu.edu/
@@ -36655,6 +36657,7 @@ https://www.plattform-lernende-systeme.de/startseite.html
 https://www.pld-linux.org/
 https://www.plflib.org/
 https://www.plough.com/en
+https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die
 https://www.plough.com/en/topics/life/technology/the-beauty-of-chalk
 https://www.plsqltutorial.com/
 https://www.pmassicotte.com/posts/2024-05-01-query-s3-duckplyr/
