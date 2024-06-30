@@ -512,6 +512,7 @@ https://alacritty.org/
 https://alecmuffett.com/muffett-passwords
 https://alephjs.org/
 https://alex.smola.org/
+https://alexandrasilva.org/
 https://alexandrasilva.org/files/thesis.pdf
 https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech
 https://alexgaynor.net/
@@ -1113,6 +1114,7 @@ https://arxiv.org/abs/2402.09842
 https://arxiv.org/abs/2402.15715
 https://arxiv.org/abs/2403.03998
 https://arxiv.org/abs/2405.00832
+https://arxiv.org/abs/2405.03725
 https://arxiv.org/abs/2405.08007
 https://arxiv.org/abs/2405.13817
 https://arxiv.org/abs/2405.17399
@@ -5840,6 +5842,7 @@ https://en.wikipedia.org/wiki/ARM9
 https://en.wikipedia.org/wiki/Armadillo_(C%2B%2B_library)
 https://en.wikipedia.org/wiki/Armbian
 https://en.wikipedia.org/wiki/Armstrong%27s_axioms
+https://en.wikipedia.org/wiki/Arnold_tongue
 https://en.wikipedia.org/wiki/Arnoldi_iteration
 https://en.wikipedia.org/wiki/Aromaticity
 https://en.wikipedia.org/wiki/ARPACK
@@ -7788,6 +7791,7 @@ https://en.wikipedia.org/wiki/Charalambos_Aliprantis
 https://en.wikipedia.org/wiki/Charge_density
 https://en.wikipedia.org/wiki/Charlemagne
 https://en.wikipedia.org/wiki/Charles_Babbage
+https://en.wikipedia.org/wiki/Charles_Czeisler
 https://en.wikipedia.org/wiki/Charles_Darwin
 https://en.wikipedia.org/wiki/Charles_de_Gaulle
 https://en.wikipedia.org/wiki/Charles_E._Leiserson
@@ -7962,6 +7966,7 @@ https://en.wikipedia.org/wiki/Cipher_runes
 https://en.wikipedia.org/wiki/Cipher_security_summary
 https://en.wikipedia.org/wiki/Ciphertext_indistinguishability
 https://en.wikipedia.org/wiki/Ciphertext-only_attack
+https://en.wikipedia.org/wiki/Circadian_rhythm
 https://en.wikipedia.org/wiki/Circe
 https://en.wikipedia.org/wiki/Circle
 https://en.wikipedia.org/wiki/Circle_of_latitude
@@ -8369,6 +8374,7 @@ https://en.wikipedia.org/wiki/Complex_event_processing
 https://en.wikipedia.org/wiki/Complex_geometry
 https://en.wikipedia.org/wiki/Complex_instruction_set_computer
 https://en.wikipedia.org/wiki/Complex_inverse_Wishart_distribution
+https://en.wikipedia.org/wiki/Complex_network
 https://en.wikipedia.org/wiki/Complex_normal_distribution
 https://en.wikipedia.org/wiki/Complex_number
 https://en.wikipedia.org/wiki/Complex_plane
@@ -8600,6 +8606,7 @@ https://en.wikipedia.org/wiki/Contingency_table
 https://en.wikipedia.org/wiki/Continual_improvement_process
 https://en.wikipedia.org/wiki/Continuant_(mathematics)
 https://en.wikipedia.org/wiki/Continued_fraction
+https://en.wikipedia.org/wiki/Continuity_equation
 https://en.wikipedia.org/wiki/Continuous_function
 https://en.wikipedia.org/wiki/Continuous_linear_operator
 https://en.wikipedia.org/wiki/Continuous_optimization
@@ -9640,6 +9647,7 @@ https://en.wikipedia.org/wiki/Duhamel%27s_principle
 https://en.wikipedia.org/wiki/Dulles_Technology_Corridor
 https://en.wikipedia.org/wiki/Dulong%E2%80%93Petit_law
 https://en.wikipedia.org/wiki/Dummy_variable_(statistics)
+https://en.wikipedia.org/wiki/Duncan_J._Watts
 https://en.wikipedia.org/wiki/Dune_(2021_film)
 https://en.wikipedia.org/wiki/Dune_(franchise)
 https://en.wikipedia.org/wiki/Dune_(novel)
@@ -10701,6 +10709,7 @@ https://en.wikipedia.org/wiki/Fraser_Institute
 https://en.wikipedia.org/wiki/Fraunhofer_Institute_for_High-Speed_Dynamics
 https://en.wikipedia.org/wiki/Fravia
 https://en.wikipedia.org/wiki/Freddy_II
+https://en.wikipedia.org/wiki/Frederick_J._Almgren_Jr.
 https://en.wikipedia.org/wiki/Frederick_Mosteller
 https://en.wikipedia.org/wiki/Frederick_the_Great
 https://en.wikipedia.org/wiki/Fredericton
@@ -11134,6 +11143,7 @@ https://en.wikipedia.org/wiki/Gilles_Deleuze
 https://en.wikipedia.org/wiki/Gilles_Van_Assche
 https://en.wikipedia.org/wiki/Gillian_Anderson
 https://en.wikipedia.org/wiki/GiNaC
+https://en.wikipedia.org/wiki/Ginzburg%E2%80%93Landau_equation
 https://en.wikipedia.org/wiki/Giordano_Bruno_Foundation
 https://en.wikipedia.org/wiki/Giordano_Riccati
 https://en.wikipedia.org/wiki/Giovanni_De_Micheli
@@ -13259,6 +13269,7 @@ https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 https://en.wikipedia.org/wiki/Kulm_law
 https://en.wikipedia.org/wiki/Kunle_Olukotun
 https://en.wikipedia.org/wiki/Kunsthistorisches_Museum
+https://en.wikipedia.org/wiki/Kuramoto_model
 https://en.wikipedia.org/wiki/Kurgan_hypothesis
 https://en.wikipedia.org/wiki/Kurt_G%C3%B6del
 https://en.wikipedia.org/wiki/Kurtosis
@@ -13424,6 +13435,7 @@ https://en.wikipedia.org/wiki/LatticeMico8
 https://en.wikipedia.org/wiki/Laue_equations
 https://en.wikipedia.org/wiki/Launchpad_(website)
 https://en.wikipedia.org/wiki/Laurance_Labadie
+https://en.wikipedia.org/wiki/Lauren_M._Childs
 https://en.wikipedia.org/wiki/Laurent_polynomial
 https://en.wikipedia.org/wiki/Laurent_Schwartz
 https://en.wikipedia.org/wiki/Laurent_series
@@ -14634,6 +14646,7 @@ https://en.wikipedia.org/wiki/Massachusetts_Turnpike
 https://en.wikipedia.org/wiki/Massively_parallel
 https://en.wikipedia.org/wiki/Master_boot_record
 https://en.wikipedia.org/wiki/Master_equation
+https://en.wikipedia.org/wiki/Master_stability_function
 https://en.wikipedia.org/wiki/Master_System
 https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms)
 https://en.wikipedia.org/wiki/Matched_filter
@@ -16236,7 +16249,9 @@ https://en.wikipedia.org/wiki/Orthogonality
 https://en.wikipedia.org/wiki/Orthographic_depth
 https://en.wikipedia.org/wiki/Orthonormal_basis
 https://en.wikipedia.org/wiki/Oscar_Zariski
+https://en.wikipedia.org/wiki/Oscillation
 https://en.wikipedia.org/wiki/Oscillation_(mathematics)
+https://en.wikipedia.org/wiki/Oscillatory_neural_network
 https://en.wikipedia.org/wiki/OSDN
 https://en.wikipedia.org/wiki/OSI_model
 https://en.wikipedia.org/wiki/Osiris
@@ -16654,6 +16669,7 @@ https://en.wikipedia.org/wiki/Phase_plane
 https://en.wikipedia.org/wiki/Phase_portrait
 https://en.wikipedia.org/wiki/Phase_space
 https://en.wikipedia.org/wiki/Phase_transition
+https://en.wikipedia.org/wiki/Phase-locked_loop
 https://en.wikipedia.org/wiki/Phase-type_distribution
 https://en.wikipedia.org/wiki/Phi_coefficient
 https://en.wikipedia.org/wiki/Phil_Karn
@@ -17878,6 +17894,7 @@ https://en.wikipedia.org/wiki/Richard_Courant
 https://en.wikipedia.org/wiki/Richard_Crandall
 https://en.wikipedia.org/wiki/Richard_Dawkins
 https://en.wikipedia.org/wiki/Richard_E._Bellman
+https://en.wikipedia.org/wiki/Richard_Ernest_Kronauer
 https://en.wikipedia.org/wiki/Richard_Fateman
 https://en.wikipedia.org/wiki/Richard_Feynman
 https://en.wikipedia.org/wiki/Richard_Gregory
@@ -18261,6 +18278,7 @@ https://en.wikipedia.org/wiki/Scalar_processor
 https://en.wikipedia.org/wiki/Scale_parameter
 https://en.wikipedia.org/wiki/Scale_space
 https://en.wikipedia.org/wiki/Scale_space_implementation
+https://en.wikipedia.org/wiki/Scale-free_network
 https://en.wikipedia.org/wiki/Scale-invariant_feature_transform
 https://en.wikipedia.org/wiki/Scale-space_axioms
 https://en.wikipedia.org/wiki/Scale-space_segmentation
@@ -18775,6 +18793,7 @@ https://en.wikipedia.org/wiki/Slowcore
 https://en.wikipedia.org/wiki/Sludge_metal
 https://en.wikipedia.org/wiki/Small_multiple
 https://en.wikipedia.org/wiki/Small_outline_integrated_circuit
+https://en.wikipedia.org/wiki/Small-world_network
 https://en.wikipedia.org/wiki/Smalltalk
 https://en.wikipedia.org/wiki/Smart_card
 https://en.wikipedia.org/wiki/Smart_contract
@@ -19269,9 +19288,11 @@ https://en.wikipedia.org/wiki/Stephen_Stigler
 https://en.wikipedia.org/wiki/Stereochemistry
 https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree
 https://en.wikipedia.org/wiki/Steve_Wozniak
+https://en.wikipedia.org/wiki/Steven_G._Krantz
 https://en.wikipedia.org/wiki/Steven_Levy
 https://en.wikipedia.org/wiki/Steven_M._Bellovin
 https://en.wikipedia.org/wiki/Steven_Rudich
+https://en.wikipedia.org/wiki/Steven_Strogatz
 https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology
 https://en.wikipedia.org/wiki/Stewart_Brand
 https://en.wikipedia.org/wiki/Stiff_equation
@@ -19482,6 +19503,7 @@ https://en.wikipedia.org/wiki/Svelte
 https://en.wikipedia.org/wiki/Svetlana_Jitomirskaya
 https://en.wikipedia.org/wiki/SVG
 https://en.wikipedia.org/wiki/Swarm_(simulation)
+https://en.wikipedia.org/wiki/Swarmalators
 https://en.wikipedia.org/wiki/Sweave
 https://en.wikipedia.org/wiki/Sweep_line_algorithm
 https://en.wikipedia.org/wiki/SWI-Prolog
@@ -19514,6 +19536,7 @@ https://en.wikipedia.org/wiki/Symphony_Masses:_Ho_Drakon_Ho_Megas
 https://en.wikipedia.org/wiki/SYMPL
 https://en.wikipedia.org/wiki/SymPy
 https://en.wikipedia.org/wiki/SyNAPSE
+https://en.wikipedia.org/wiki/Synchronization_network
 https://en.wikipedia.org/wiki/Synchronization_of_chaos
 https://en.wikipedia.org/wiki/Synchronous_Ethernet
 https://en.wikipedia.org/wiki/Synchronous_optical_networking
@@ -20933,6 +20956,7 @@ https://en.wikipedia.org/wiki/Waterloo_Maple
 https://en.wikipedia.org/wiki/Waterloo,_Ontario
 https://en.wikipedia.org/wiki/Watermark
 https://en.wikipedia.org/wiki/Watershed_(image_processing)
+https://en.wikipedia.org/wiki/Watts%E2%80%93Strogatz_model
 https://en.wikipedia.org/wiki/Wave_equation
 https://en.wikipedia.org/wiki/Wave_function
 https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality
@@ -24997,6 +25021,7 @@ https://ieeexplore.ieee.org/document/6169492
 https://ieeexplore.ieee.org/document/6184706
 https://ieeexplore.ieee.org/document/6296526
 https://ieeexplore.ieee.org/document/6313399
+https://ieeexplore.ieee.org/document/638181
 https://ieeexplore.ieee.org/document/6472238
 https://ieeexplore.ieee.org/document/6511892
 https://ieeexplore.ieee.org/document/6522302
@@ -25399,6 +25424,7 @@ https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033312
 https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031020
 https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.021026
 https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.51.447
+https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.77.137
 https://journals.bmj.com/home
 https://journals.openedition.org/rfcb/1662
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004020
@@ -26149,6 +26175,7 @@ https://library.lol/main/4DF02F6D9132FF7D2CE2F23326ADED4A
 https://library.lol/main/4E13375403978EACD9C8DCE892251CDB
 https://library.lol/main/4E273160396C8E82C11095462F1A0B7D
 https://library.lol/main/4E44F03826DE848833A9E97B1C2BEDFB
+https://library.lol/main/4E95D3D4D363C06EF80CDCB53C83317C
 https://library.lol/main/4ED724E9930877F3F2A877D84B865B1B
 https://library.lol/main/4FBDD2B89E2C89AA47F4362F99DB9664
 https://library.lol/main/4FC478E0FDD568D4D21A493712E6FEA7
@@ -27368,6 +27395,7 @@ https://link.springer.com/chapter/10.1007/978-3-540-88071-4_11
 https://link.springer.com/chapter/10.1007/978-3-642-02397-2_16
 https://link.springer.com/chapter/10.1007/978-3-642-25385-0_19
 https://link.springer.com/chapter/10.1007/978-3-642-35230-0_14
+https://link.springer.com/chapter/10.1007/978-3-642-39053-1_2
 https://link.springer.com/chapter/10.1007/978-3-642-54833-8_11
 https://link.springer.com/chapter/10.1007/978-3-642-59281-2_9
 https://link.springer.com/chapter/10.1007/978-3-662-63519-3_1
@@ -27918,7 +27946,10 @@ https://math.berkeley.edu/~berlek/stat.html
 https://math.berkeley.edu/~ribet/Math115/math115_98.html
 https://math.berkeley.edu/~ribet/Math115/other_books.html
 https://math.chapman.edu/~jipsen/structures/doku.php/online_books_and_lecture_notes
+https://math.cornell.edu/
+https://math.cornell.edu/anil-nerode
 https://math.cornell.edu/research/applied-mathematics
+https://math.cornell.edu/steven-strogatz
 https://math.dartmouth.edu/
 https://math.dartmouth.edu/~carlp/
 https://math.dartmouth.edu/~carlp/Errata03Dec08.pdf
@@ -28067,6 +28098,7 @@ https://maxima.sourceforge.io/compalg.html
 https://maxima.sourceforge.io/docs/tutorial/en/gaertner-tutorial-revision/Pages/SI001.htm
 https://maxrozen.com/fetching-data-react-with-useeffect
 https://maziarraissi.github.io/PINNs/
+https://mbraverm.princeton.edu/research/dynamics-and-computation/
 https://mc-stan.org/
 https://mc-stan.org/users/interfaces/math
 https://mccue.dev/pages/7-27-22-c-errors
@@ -29482,6 +29514,7 @@ https://pkp.sfu.ca/
 https://pkp.sfu.ca/software/ojs/
 https://pkp.sfu.ca/software/omp/
 https://pkp.sfu.ca/software/ops/
+https://pl.cs.cornell.edu/
 https://pl.wikipedia.org/wiki/Antoni_Mazurkiewicz_(informatyk)
 https://pl.wikipedia.org/wiki/Artrosis
 https://pl.wikipedia.org/wiki/Ukryty_wymiar_(album)
@@ -29833,6 +29866,7 @@ https://pubs.aip.org/
 https://pubs.aip.org/aip/cha/article/32/6/063109/2835788/Information-thermodynamics-of-encoding-and
 https://pubs.aip.org/aip/jcp/article-abstract/21/6/1087/202680/Equation-of-State-Calculations-by-Fast-Computing
 https://pubs.aip.org/physicstoday
+https://pubs.aip.org/physicstoday/article-abstract/42/2/78/405542/Richard-Feynman-and-the-Connection-MachineIn-his
 https://pubs.aip.org/physicstoday/article-abstract/52/5/39/410896/A-Continuous-Model-of-ComputationPhysicists-should
 https://pubs.aip.org/physicstoday/article-abstract/64/9/42/413713/Dynamic-similarity-the-dimensionless
 https://pubs.aip.org/physicstoday/article/72/5/36/926174/Tracking-the-journey-of-a-uranium-cubeA-mysterious
@@ -31000,6 +31034,8 @@ https://spritely.institute/goblins/
 https://spritely.institute/hoot/
 https://spritely.institute/static/papers/scheme-primer.html
 https://spylab.ai/
+https://sqig.math.ist.utl.pt/pub/GracaDS/13-BGPZ-CiE.pdf
+https://sqigmath.tecnico.ulisboa.pt/pub/GracaDS/10-BGZ-DynGame.pdf
 https://sql.js.org
 https://sql.js.org/
 https://sqlite.org/cli.html
@@ -31414,6 +31450,7 @@ https://teaandrosemary.com/the-qliphoth-tree/
 https://teachtogether.tech/en/index.html
 https://team.inria.fr/panama/fr/projects/please/graph-signal-processing/
 https://teamdev.com/molybden/
+https://tech.cornell.edu/
 https://tech.marksblogg.com/maxar-open-data-free-satellite-imagery.html
 https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/architecting-petabyte-scale-analytics-by-scaling-out-postgres-on/ba-p/969685
 https://techcommunity.microsoft.com/t5/testingspot-blog/ui-automation-page-object-model-and-other-design-patterns/ba-p/992242
@@ -32320,6 +32357,8 @@ https://www.alpinelinux.org/
 https://www.alpsp.org/
 https://www.alsa-project.org/wiki/Main_Page
 https://www.altmetric.com/
+https://www.amacad.org/daedalus
+https://www.amacad.org/publication/future-fundamental-physics
 https://www.amazingcto.com/postgres-for-everything/
 https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721
 https://www.amazon.com/Chip-War/dp/1398504106
@@ -33395,9 +33434,13 @@ https://www.cs.columbia.edu/~simha/hdcacase.pdf
 https://www.cs.columbia.edu/~simha/preprint_isca16.pdf
 https://www.cs.columbia.edu/~smb/
 https://www.cs.columbia.edu/~tal/4261/F12/readings.html
+https://www.cs.cornell.edu/
 https://www.cs.cornell.edu/~asampson/blog/flattening.html
 https://www.cs.cornell.edu/~asampson/blog/llvm.html
 https://www.cs.cornell.edu/~eva/
+https://www.cs.cornell.edu/~jgm/
+https://www.cs.cornell.edu/~jnfoster/
+https://www.cs.cornell.edu/~kozen/
 https://www.cs.cornell.edu/~kozen/Papers/lbs.pdf
 https://www.cs.cornell.edu/~rdk/
 https://www.cs.cornell.edu/andru/xsokoban.html
@@ -33405,8 +33448,14 @@ https://www.cs.cornell.edu/courses/cs6110/2017sp/lectures/lec30.pdf
 https://www.cs.cornell.edu/courses/cs6110/2023sp/
 https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/
 https://www.cs.cornell.edu/fbs/publications/LangBasedCase.pdf
+https://www.cs.cornell.edu/gries/
+https://www.cs.cornell.edu/home/kleinber/
 https://www.cs.cornell.edu/home/kleinber/networks-book/
+https://www.cs.cornell.edu/home/rc/
+https://www.cs.cornell.edu/jeh/
 https://www.cs.cornell.edu/projects/cyclone/online-manual/main-screen001.html
+https://www.cs.cornell.edu/research/lang
+https://www.cs.cornell.edu/research/theory
 https://www.cs.dartmouth.edu/~sergey/
 https://www.cs.dartmouth.edu/~sergey/langsec/
 https://www.cs.dartmouth.edu/~sws/pubs/skbk15.pdf
@@ -33455,6 +33504,7 @@ https://www.cs.umd.edu/~jkatz/imc.html
 https://www.cs.umd.edu/~srin/
 https://www.cs.umd.edu/users/oleary/SCCS/
 https://www.cs.unc.edu/techreports/86-020.pdf
+https://www.cs.unibo.it/~margara/page14/assets/06-LATA07.pdf
 https://www.cs.utah.edu/~regehr/
 https://www.cs.utexas.edu/~ear/ClassicCSBooks.html
 https://www.cs.utexas.edu/users/EWD/
@@ -34158,6 +34208,7 @@ https://www.frontiersin.org/articles/10.3389/fgene.2021.651812/full
 https://www.frontiersin.org/articles/10.3389/fgene.2021.690049/full
 https://www.frontiersin.org/articles/10.3389/fphar.2020.565644/full
 https://www.frontiersin.org/articles/10.3389/frobt.2014.00010/full
+https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1196796
 https://www.fsf.org/
 https://www.fstar-lang.org/
 https://www.ft.com/
@@ -34230,6 +34281,7 @@ https://www.ginac.de/CLN/
 https://www.gitlogs.com/
 https://www.gl-inet.com/
 https://www.gla.ac.uk/
+https://www.gla.ac.uk/news/headline_1086643_en.html
 https://www.glfw.org/
 https://www.globalchange.gov/
 https://www.globalencryption.org/
@@ -37307,6 +37359,7 @@ https://www.routledge.com/Mathematical-Statistics-Basic-Ideas-and-Selected-Topic
 https://www.routledge.com/Mathematical-Theory-of-Optimal-Processes/Pontryagin/p/book/9782881240775
 https://www.routledge.com/mathematics-statistics/advanced-mathematics/mathematical-logic/cryptology
 https://www.routledge.com/mathematics-statistics/statistics-probability
+https://www.routledge.com/Nonlinear-Dynamics-and-Chaos-With-Applications-to-Physics-Biology-Chemistry-and-Engineering/Strogatz/p/book/9780367026509
 https://www.routledge.com/Numerical-Methods-and-Optimization-An-Introduction/Butenko-Pardalos/p/book/9781466577770
 https://www.routledge.com/our-products/book-series?letter=C
 https://www.routledge.com/our-products/book-series?letter=R
@@ -37605,6 +37658,7 @@ https://www.sciencedirect.com/science/article/pii/S0019995867911655
 https://www.sciencedirect.com/science/article/pii/S0019995868902118
 https://www.sciencedirect.com/science/article/pii/S0019995872901994
 https://www.sciencedirect.com/science/article/pii/S0047272719301859
+https://www.sciencedirect.com/science/article/pii/S0167278900000944
 https://www.sciencedirect.com/science/article/pii/S0167642313001251
 https://www.sciencedirect.com/science/article/pii/S0167642313002980
 https://www.sciencedirect.com/science/article/pii/S0167739X16301856
@@ -37622,6 +37676,7 @@ https://www.sciencedirect.com/science/article/pii/S0747717185710061
 https://www.sciencedirect.com/science/article/pii/S0747717189800070
 https://www.sciencedirect.com/science/article/pii/S0885064X03000347
 https://www.sciencedirect.com/science/article/pii/S0885064X07000246
+https://www.sciencedirect.com/science/article/pii/S0890540108000527
 https://www.sciencedirect.com/science/article/pii/S0893608019300784
 https://www.sciencedirect.com/science/article/pii/S0893608021002173
 https://www.sciencedirect.com/science/article/pii/S0898122197001843
@@ -38035,6 +38090,13 @@ https://www.statssa.gov.za/
 https://www.stephendiehl.com/posts/exotic02.html
 https://www.stern.de/
 https://www.stevens.edu/profile/dduggan
+https://www.stevenstrogatz.com/
+https://www.stevenstrogatz.com/all-books/
+https://www.stevenstrogatz.com/books/infinite-powers
+https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering
+https://www.stevenstrogatz.com/books/sync-the-emerging-science-of-spontaneous-order
+https://www.stevenstrogatz.com/books/the-calculus-of-friendship-what-a-teacher-and-a-student-learned-about-life-while-corresponding-about-math
+https://www.stevenstrogatz.com/books/the-joy-of-x
 https://www.stewartcalculus.com/
 https://www.stochasticlifestyle.com/
 https://www.stockholmresilience.org/research/research-news/2018-10-30-connecting-the-dots-between-social-inequalities-and-environmental-change.html
@@ -38186,6 +38248,7 @@ https://www.taylorfrancis.com/books/mono/10.1201/9780203753781/generalized-addit
 https://www.taylorfrancis.com/books/mono/10.1201/9780429029608/statistical-rethinking-richard-mcelreath
 https://www.taylorfrancis.com/books/mono/10.1201/9780429246593/introduction-bootstrap-bradley-efron-tibshirani
 https://www.taylorfrancis.com/books/mono/10.1201/9780429295225/g%C3%B6del-theorem-torkel-franz%C3%A9n
+https://www.taylorfrancis.com/books/mono/10.1201/9780429398490/nonlinear-dynamics-chaos-steven-strogatz
 https://www.taylorfrancis.com/books/mono/10.1201/9780429466335/handbook-applied-cryptography-alfred-menezes-kenneth-rosen-scott-vanstone-paul-van-oorschot
 https://www.taylorfrancis.com/books/mono/10.1201/9780429492952/art-probability-richard-hamming
 https://www.taylorfrancis.com/books/mono/10.1201/9780429502859/feynman-lectures-gravitation-richard-feynman
