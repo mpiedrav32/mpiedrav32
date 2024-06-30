@@ -16159,6 +16159,7 @@ https://en.wikipedia.org/wiki/OptimJ
 https://en.wikipedia.org/wiki/Option_type
 https://en.wikipedia.org/wiki/Optoelectronics
 https://en.wikipedia.org/wiki/Opus_number
+https://en.wikipedia.org/wiki/OR_Books
 https://en.wikipedia.org/wiki/Oracle_Corporation
 https://en.wikipedia.org/wiki/Oracle_Linux
 https://en.wikipedia.org/wiki/Oracle_Net_Services
@@ -31660,6 +31661,7 @@ https://torchdyn.org/
 https://torchvision.mlverse.org/
 https://tornightfire.com/9-tales-of-tentacle-free-cosmic-and-existential-horror/
 https://torrentfreak.com/
+https://torrentfreak.com/annas-archive-opens-the-door-to-z-library-and-other-pirate-libraries-221118/
 https://toshiba.semicon-storage.com/ap-en/semiconductor/knowledge/e-learning/discrete.html
 https://tour.dlang.org/
 https://toutestquantique.fr/
@@ -34881,6 +34883,7 @@ https://www.hup.harvard.edu/series/loeb-classical-library
 https://www.hyperbola.info/
 https://www.hyperelliptic.org/HEHCC/
 https://www.hyperledger.org/
+https://www.hyphanet.org/index.html
 https://www.hypr.com/true-passwordless-mfa
 https://www.iacr.org/
 https://www.iacr.org/authors/tikz/
