@@ -3061,6 +3061,7 @@ https://de.wikipedia.org/wiki/%C3%96ffentlich-rechtlicher_Rundfunk
 https://de.wikipedia.org/wiki/%C3%96ffentlichkeit
 https://de.wikipedia.org/wiki/%C3%9Cber_die_spezielle_und_die_allgemeine_Relativit%C3%A4tstheorie
 https://de.wikipedia.org/wiki/Aachen
+https://de.wikipedia.org/wiki/Algebraische_Kurve
 https://de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie
 https://de.wikipedia.org/wiki/An-Institut
 https://de.wikipedia.org/wiki/Antike
@@ -7413,6 +7414,7 @@ https://en.wikipedia.org/wiki/Category:Physical_chemistry
 https://en.wikipedia.org/wiki/Category:Physical_layer_protocols
 https://en.wikipedia.org/wiki/Category:Physics_textbooks
 https://en.wikipedia.org/wiki/Category:Pi_algorithms
+https://en.wikipedia.org/wiki/Category:Piecewise-circular_curves
 https://en.wikipedia.org/wiki/Category:Pierre-Simon_Laplace
 https://en.wikipedia.org/wiki/Category:Pirate_parties
 https://en.wikipedia.org/wiki/Category:Plane_curves
@@ -26963,6 +26965,7 @@ https://link.springer.com/book/10.1007/978-3-031-10500-5
 https://link.springer.com/book/10.1007/978-3-031-10596-8
 https://link.springer.com/book/10.1007/978-3-031-10602-6
 https://link.springer.com/book/10.1007/978-3-031-10968-3
+https://link.springer.com/book/10.1007/978-3-031-11616-2
 https://link.springer.com/book/10.1007/978-3-031-11806-7
 https://link.springer.com/book/10.1007/978-3-031-12304-7
 https://link.springer.com/book/10.1007/978-3-031-12322-1
@@ -27070,6 +27073,7 @@ https://link.springer.com/book/10.1007/978-3-319-55336-8
 https://link.springer.com/book/10.1007/978-3-319-55444-0
 https://link.springer.com/book/10.1007/978-3-319-56478-4
 https://link.springer.com/book/10.1007/978-3-319-57048-8
+https://link.springer.com/book/10.1007/978-3-319-58184-2
 https://link.springer.com/book/10.1007/978-3-319-58821-6
 https://link.springer.com/book/10.1007/978-3-319-58988-6
 https://link.springer.com/book/10.1007/978-3-319-61143-3
@@ -27117,6 +27121,7 @@ https://link.springer.com/book/10.1007/978-3-540-71918-2
 https://link.springer.com/book/10.1007/978-3-540-72943-3
 https://link.springer.com/book/10.1007/978-3-540-72962-4
 https://link.springer.com/book/10.1007/978-3-540-73542-7
+https://link.springer.com/book/10.1007/978-3-540-73725-4
 https://link.springer.com/book/10.1007/978-3-540-77647-5
 https://link.springer.com/book/10.1007/978-3-540-77659-8
 https://link.springer.com/book/10.1007/978-3-540-77974-2
@@ -39315,6 +39320,7 @@ https://www3.risc.jku.at/education/courses/ss2023/ComputerAnalysis/
 https://www3.risc.jku.at/education/phd/phd.html
 https://www3.risc.jku.at/people/winkler/
 https://www3.risc.jku.at/publications/download/risc_3531/paper_36.pdf
+https://www3.risc.jku.at/software/casa/
 https://www8.cs.fau.de/teaching/rewr/
 https://wxwidgets.org/
 https://x-files.fandom.com/wiki/Main_Page
