@@ -38258,6 +38258,7 @@ https://www.taylorfrancis.com/books/mono/10.1201/9781003142331/contemporary-abst
 https://www.taylorfrancis.com/books/mono/10.1201/9781003146216/anova-mixed-models-lukas-meier
 https://www.taylorfrancis.com/books/mono/10.1201/9781003287292/computational-mathematics-dimitrios-mitsotakis
 https://www.taylorfrancis.com/books/mono/10.1201/9781003461289/graphs-digraphs-gary-chartrand-heather-jordon-vincent-vatter-ping-zhang
+https://www.taylorfrancis.com/books/mono/10.1201/9781003484561/advanced-linear-algebra-nicholas-loehr
 https://www.taylorfrancis.com/books/mono/10.1201/9781315144726/universal-computer-martin-davis
 https://www.taylorfrancis.com/books/mono/10.1201/9781315162539/secret-history-craig-bauer
 https://www.taylorfrancis.com/books/mono/10.1201/9781315170664/cryptology-richard-klima-neil-sigmon-richard-klima-neil-sigmon
@@ -38286,6 +38287,13 @@ https://www.taylorfrancis.com/books/mono/10.1201/b18401/statistical-learning-spa
 https://www.taylorfrancis.com/books/mono/10.1201/b18653/adversarial-risk-analysis-david-banks-david-rios-insua-jesus-rios-aliaga
 https://www.taylorfrancis.com/books/mono/10.1201/b19331/algebraic-number-theory-fermat-last-theorem-ian-stewart-david-tall
 https://www.taylorfrancis.com/books/mono/10.1201/b19731/graphs-digraphs-linda-lesniak-ping-zhang-gary-chartrand
+https://www.taylorfrancis.com/search?subject=SCCM
+https://www.taylorfrancis.com/search?subject=SCEC
+https://www.taylorfrancis.com/search?subject=SCMA
+https://www.taylorfrancis.com/search?subject=SCPC
+https://www.taylorfrancis.com/search?subject=SCPI
+https://www.taylorfrancis.com/search?subject=SCRM
+https://www.taylorfrancis.com/search?subject=SCSN
 https://www.tcj.com/
 https://www.tcj.com/comics-open-up-the-idea-of-what-a-story-can-be-a-conversation-with-tom-gauld/
 https://www.tcl-lang.org/
