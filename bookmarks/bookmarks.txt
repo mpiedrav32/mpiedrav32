@@ -1714,6 +1714,8 @@ https://browserleaks.com/webrtc
 https://brpc.apache.org/
 https://bruda.ca/emacs/prolog_mode_for_emacs
 https://bsd.lv/
+https://bsd.network/@openbsdnow
+https://bsd.network/about
 https://bsdly.net/~peter/
 https://bsky.app/
 https://bsonspec.org/
@@ -4917,10 +4919,6 @@ https://en.wikichip.org/wiki/risc-v/microarchitectures
 https://en.wikichip.org/wiki/risc-v/standard_extensions
 https://en.wikichip.org/wiki/technology_node
 https://en.wikichip.org/wiki/WikiChip
-https://en.wikipedia.org/w/index.php?title=Bayesian_network&diffonly=true
-https://en.wikipedia.org/w/index.php?title=Graphical_model&diffonly=true
-https://en.wikipedia.org/w/index.php?title=Latent_and_observable_variables&diffonly=true
-https://en.wikipedia.org/w/index.php?title=List_of_national_constitutions&wprov=rarw1
 https://en.wikipedia.org/wiki/;login:
 https://en.wikipedia.org/wiki/.ai
 https://en.wikipedia.org/wiki/.bss
@@ -13819,6 +13817,7 @@ https://en.wikipedia.org/wiki/List_of_counter-terrorism_agencies
 https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
 https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density
 https://en.wikipedia.org/wiki/List_of_countries_and_territories_where_Spanish_is_an_official_language
+https://en.wikipedia.org/wiki/List_of_countries_by_age_structure
 https://en.wikipedia.org/wiki/List_of_countries_by_electricity_consumption
 https://en.wikipedia.org/wiki/List_of_countries_by_external_debt
 https://en.wikipedia.org/wiki/List_of_countries_by_home_ownership_rate
@@ -14031,6 +14030,7 @@ https://en.wikipedia.org/wiki/List_of_multivariable_calculus_topics
 https://en.wikipedia.org/wiki/List_of_musical_symbols
 https://en.wikipedia.org/wiki/List_of_named_differential_equations
 https://en.wikipedia.org/wiki/List_of_national_and_international_statistical_services
+https://en.wikipedia.org/wiki/List_of_national_constitutions
 https://en.wikipedia.org/wiki/List_of_Neolithic_cultures_of_China
 https://en.wikipedia.org/wiki/List_of_neuroimaging_software
 https://en.wikipedia.org/wiki/List_of_news_channels_in_India
@@ -35055,6 +35055,7 @@ https://www.imf.org/en/Publications
 https://www.imf.org/en/Publications/fandd
 https://www.imf.org/en/Publications/fandd/issues/2019/09/dark-side-of-the-global-economy-lipton
 https://www.imf.org/en/Publications/fandd/issues/2023/12/History-inflation-lessons-Ari-Ratnovski
+https://www.imf.org/en/Publications/fandd/issues/Series/Analytical-Series/aging-is-the-real-population-bomb-bloom-zucker
 https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/Micro-and-Macro
 https://www.imf.org/en/Topics/fintech/central-bank-digital-currency/virtual-handbook
 https://www.imperial.ac.uk/physics/
@@ -36797,6 +36798,7 @@ https://www.pkgsrc.org/
 https://www.pkisolutions.com/recommended-reading/
 https://www.planetanalog.com/can-we-use-analog-circuits-for-cryptography/
 https://www.planetary.org/
+https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event
 https://www.planetary.org/sci-tech/seti
 https://www.planetary.org/space-policy/cost-of-apollo
 https://www.platformsecuritysummit.com/
@@ -38836,6 +38838,7 @@ https://www.who.int/
 https://www.who.int/data
 https://www.who.int/data/gho/publications/world-health-statistics
 https://www.who.int/news
+https://www.who.int/news-room/fact-sheets/detail/ageing-and-health
 https://www.wiki.kernel.org/
 https://www.wikilengua.org/index.php/Comillas
 https://www.wikilengua.org/index.php/Portada
