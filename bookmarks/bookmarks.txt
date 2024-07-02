@@ -31492,6 +31492,7 @@ https://testthat.r-lib.org/
 https://texample.net/tikz/examples/
 https://texdoc.org/index.html
 https://texfaq.org/
+https://text-plus.org/
 https://text.npr.org/
 https://text2vec.org/
 https://textanalysistool.github.io/
@@ -32462,6 +32463,7 @@ https://www.animenewsnetwork.com/feature/2017-08-02/why-legend-of-the-galactic-h
 https://www.anl.gov/
 https://www.anl.gov/ai-for-science-report
 https://www.anl.gov/mcs
+https://www.annefrank.org/en/anne-frank/go-in-depth/germany-1933-democracy-dictatorship/
 https://www.annualreviews.org/
 https://www.ans.org/
 https://www.ansa.it/
@@ -39267,6 +39269,8 @@ https://www.zaproxy.org/
 https://www.zdf.de/
 https://www.zdf.de/dokumentation/terra-x/die-deutschen-140.html
 https://www.zdf.de/nachrichten
+https://www.zdl.org/
+https://www.zdl.org/wb/wortgeschichten/
 https://www.zdnet.com/article/best-vpn/
 https://www.zdnet.com/article/chinese-government-to-replace-foreign-hardware-and-software-within-three-years/
 https://www.zdnet.com/article/dragonbridge-hackers-target-rare-earth-miners-encourages-protests-to-disrupt-production/
